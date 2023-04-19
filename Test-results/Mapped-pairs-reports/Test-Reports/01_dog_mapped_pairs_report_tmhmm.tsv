@@ -1,0 +1,801 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_006593.4_OR13C8_functional_fwd_58995426_58996385	Canis_lupus_familiaris_OR13C8_functional|NC_006593.4|58995426|58996385	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006593.4_OR2W6_functional_rev_1035683_1036615	Canis_lupus_familiaris_OR2AI2_functional|NC_006593.4|1035683|1036615	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006593.4_OR13C9_functional_rev_59039380_59040354	Canis_lupus_familiaris_OR13C2B_functional|NC_006593.4|59039380|59040354	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006593.4_OR13C9_functional_rev_59051611_59052567	Canis_lupus_familiaris_OR13C2_functional|NC_006593.4|59051611|59052567	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006593.4_OR13C7_functional_rev_59090365_59091327	Canis_lupus_familiaris_OR13C1_functional|NC_006593.4|59090365|59091327	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006593.4_OR13C7_functional_rev_51082399_51083355	Canis_lupus_familiaris_OR13C7G_functional|NC_006593.4|51082399|51083355	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006593.4_OR13F1_functional_fwd_58931436_58932419	Canis_lupus_familiaris_OR13F1_functional|NC_006593.4|58931436|58932419	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006593.4_OR13J1_functional_rev_50966700_50967638	Canis_lupus_familiaris_OR13J1_functional|NC_006593.4|50966700|50967659	7	7	yes	yes	yes	yes	functional	functional	939	960	no	no	no change
+>NC_006593.4_OR2K2_functional_rev_64443029_64443979	Canis_lupus_familiaris_OR2K2_functional|NC_006593.4|64443029|64443979	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006593.4_OR13C7_functional_rev_51075716_51076669	Canis_lupus_familiaris_OR13C7H_functional|NC_006593.4|51075716|51076669	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006593.4_OR56_functional_rev_399283_400230	Canis_lupus_familiaris_OR2V1_functional|NC_006593.4|399283|400230	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006593.4_OR13D1_functional_fwd_59107325_59108263	Canis_lupus_familiaris_OR13D1_functional|NC_006593.4|59107325|59108263	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006593.4_OR13C7_functional_fwd_51093973_51094917	Canis_lupus_familiaris_OR13C7I_functional|NC_006593.4|51093973|51094917	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006593.4_OR13C7_functional_rev_51052379_51053308	Canis_lupus_familiaris_OR13C7F_functional|NC_006593.4|51052379|51053338	7	7	yes	yes	yes	yes	functional	functional	930	960	no	no	no change
+>NC_006593.4_OR13C7_functional_rev_51061300_51062259	Canis_lupus_familiaris_OR13C7_functional|NC_006593.4|51061300|51062259	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006593.4_OR13C4_functional_rev_58973145_58974098	Canis_lupus_familiaris_OR13C3_functional|NC_006593.4|58973145|58974098	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006593.4_OR13D1_functional_fwd_59153497_59154441	Canis_lupus_familiaris_OR13D3_functional|NC_006593.4|59153497|59154441	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006593.4_OR13D1_functional_fwd_59140001_59140945	Canis_lupus_familiaris_OR13D1B_functional|NC_006593.4|59139992|59140945	7	7	yes	yes	yes	yes	functional	functional	945	954	no	no	no change
+>NC_006593.4_OR13C7_functional_fwd_59022657_59023595	Canis_lupus_familiaris_OR13D2_functional|NC_006593.4|59022657|59023595	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006593.4_OR1D2_functional_fwd_3008524_3009465	Canis_lupus_familiaris_OR1X2_functional|NC_006593.4|3008524|3009465	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006593.4_OR13F1_functional_rev_59029620_59030561	Canis_lupus_familiaris_OR13F1B_functional|NC_006593.4|59029620|59030561	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006593.4_OR56_functional_rev_366401_367351	Canis_lupus_familiaris_OR2T26_functional|NC_006593.4|366401|367351	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006593.4_OR13C7_functional_rev_50956887_50957960	Canis_lupus_familiaris_OR13E1_functional|NC_006593.4|50956887|50957867	7	7	yes	yes	yes	yes	functional	functional	1074	981	no	no	no change
+>NC_006593.4_OR1361_functional_rev_2853290_2854228	Canis_lupus_familiaris_OR1AD1_functional|NC_006593.4|2853290|2854228	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR1009_functional_fwd_45965190_45966125	Canis_lupus_familiaris_OR9R5_functional|NC_006609.4|45965190|45966125	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006609.4_OR8S1_pseudogene_nonsense_fwd_40315472_40316476	Canis_lupus_familiaris_OR8S23P_pseudogene|NC_006609.4|40315472|40316397	3	3	yes	yes	yes	yes	pseudogene	pseudogene	1005	926	no	no	no change
+>NC_006609.4_OR6C83_functional_fwd_46270392_46271369	Canis_lupus_familiaris_OR6C83_functional|NC_006609.4|46270392|46271369	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006609.4_OR6C74_functional_fwd_46210888_46211826	Canis_lupus_familiaris_OR6C69_functional|NC_006609.4|46210888|46211826	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR1009_functional_fwd_46085161_46086108	Canis_lupus_familiaris_OR12_ap_functional|NC_006609.4|46085161|46086108	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40269352_40270299	Canis_lupus_familiaris_OR8S15_functional|NC_006609.4|40269352|40270299	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40281887_40282822	Canis_lupus_familiaris_OR8S7_functional|NC_006609.4|40281887|40282822	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006609.4_OR10A7_functional_fwd_46137192_46138139	Canis_lupus_familiaris_OR10A7_aq_functional|NC_006609.4|46137192|46138139	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006609.4_OR6C74_functional_fwd_46180748_46181686	Canis_lupus_familiaris_OR6C74_functional|NC_006609.4|46180748|46181686	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR6C75_functional_fwd_45990519_45991457	Canis_lupus_familiaris_OR6C75D_functional|NC_006609.4|45990519|45991457	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR9K2_functional_fwd_45939385_45940326	Canis_lupus_familiaris_OR9K2_functional|NC_006609.4|45939385|45940326	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006609.4_TAS2R9_pseudogene_short_rev_11556859_11557653	Canis_lupus_familiaris_TAS2R9_functional|NC_006609.4|11556859|11557701	7	7	yes	yes	yes	yes	pseudogene	functional	795	843	no	yes	no change
+>NC_006609.4_OR8S1_functional_fwd_40230027_40230962	Canis_lupus_familiaris_OR8S13_functional|NC_006609.4|40230027|40230962	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006609.4_OR6C76_functional_rev_46166740_46167675	Canis_lupus_familiaris_OR6C69G_functional|NC_006609.4|46166740|46167675	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40182344_40183282	Canis_lupus_familiaris_OR8S1_am_functional|NC_006609.4|40182344|40183282	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR8S1_pseudogene_short_fwd_40177684_40178427	Canis_lupus_familiaris_OR8S5P_pseudogene|NC_006609.4|40177444|40178370	5	7	yes	yes	yes	no	pseudogene	pseudogene	744	927	no	no	no
+>NC_006609.4_TAS2R42_functional_rev_11698591_11699529	Canis_lupus_familiaris_TAS2R109_functional|NC_006609.4|11698591|11699529	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR6C83_functional_fwd_46238715_46239653	Canis_lupus_familiaris_OR6C27_functional|NC_006609.4|46238715|46239653	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006609.4_OR10AD1_pseudogene_short_rev_39772044_39772865	Canis_lupus_familiaris_OR10AD1P_pseudogene|NC_006609.4|39772044|39772979	7	7	yes	no	yes	yes	pseudogene	pseudogene	822	936	no	no	yes
+>NC_006609.4_OR2AP1_functional_fwd_46157297_46158244	Canis_lupus_familiaris_OR6C33_functional|NC_006609.4|46157297|46158244	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006609.4_OR10AD1_pseudogene_short_rev_39739964_39740800	Canis_lupus_familiaris_OR10AD1_functional|NC_006609.4|39739964|39740800	7	7	yes	yes	yes	yes	pseudogene	functional	837	837	yes	yes	no change
+>NC_006609.4_OR6C6_functional_rev_46219635_46220579	Canis_lupus_familiaris_OR6C6_functional|NC_006609.4|46219635|46220579	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006609.4_OR8S1_functional_rev_40088649_40089566	Canis_lupus_familiaris_OR8S2_functional|NC_006609.4|40088649|40089566	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006609.4_OR9K2_functional_rev_46072587_46073549	Canis_lupus_familiaris_OR9K2C_functional|NC_006609.4|46072587|46073549	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006609.4_OR9K2_functional_rev_45952221_45953183	Canis_lupus_familiaris_OR9K2D_functional|NC_006609.4|45952221|45953183	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006609.4_TAS2R7_functional_rev_11548545_11549456	Canis_lupus_familiaris_TAS2R7_functional|NC_006609.4|11548545|11549483	7	7	yes	yes	yes	yes	functional	functional	912	939	no	no	no change
+>NC_006609.4_TAS2R10_functional_rev_11571386_11572354	Canis_lupus_familiaris_TAS2R10_functional|NC_006609.4|11571386|11572354	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40257182_40258138	Canis_lupus_familiaris_OR8S9_functional|NC_006609.4|40257182|40258138	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40215499_40216434	Canis_lupus_familiaris_OR8S12_functional|NC_006609.4|40215499|40216434	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006609.4_TAS2R42_functional_rev_11707665_11708636	Canis_lupus_familiaris_TAS2R42_functional|NC_006609.4|11707665|11708636	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006609.4_TAS2R46_pseudogene_short_rev_11635090_11635809	Canis_lupus_familiaris_TAS2R46_pseudogene|NC_006609.4|11634883|11635809	6	7	yes	yes	yes	yes	pseudogene	pseudogene	720	927	no	no	no
+>NC_006609.4_OR8S1_functional_rev_40049870_40050799	Canis_lupus_familiaris_OR8S3_functional|NC_006609.4|40049870|40050805	7	7	yes	yes	yes	yes	functional	functional	930	936	no	no	no change
+>NC_006609.4_OR8S1_functional_fwd_40300030_40300953	Canis_lupus_familiaris_OR8S10_functional|NC_006609.4|40300030|40300953	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006609.4_TAS2R43_functional_rev_11654454_11655503	Canis_lupus_familiaris_TAS2R136_functional|NC_006609.4|11654454|11655503	7	7	yes	yes	yes	yes	functional	functional	1050	1050	yes	no	no change
+>NC_006609.4_OR8S1_pseudogene_nonsense_short_rev_40197425_40197802	Canis_lupus_familiaris_OR8AN1P_pseudogene|NC_006609.4|40197457|40198275	2	3	yes	no	yes	yes	pseudogene	pseudogene	378	819	no	no	no
+>NC_006609.4_OR8S1_functional_rev_39929985_39930914	Canis_lupus_familiaris_OR8BJ4_functional|NC_006609.4|39929985|39930914	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006609.4_OR6C74_pseudogene_short_fwd_46192943_46193536	Canis_lupus_familiaris_OR6C256P_pseudogene|NC_006609.4|46192449|46193536	4	2	yes	yes	yes	yes	pseudogene	pseudogene	594	1088	no	no	yes
+>NC_006609.4_OR9K2_functional_fwd_45912824_45913765	Canis_lupus_familiaris_OR9K7_functional|NC_006609.4|45912824|45913765	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006609.4_OR11A1_functional_fwd_40383096_40384100	Canis_lupus_familiaris_OR11M1P_pseudogene|NC_006609.4|40383096|40384061	7	7	yes	yes	yes	no	functional	pseudogene	1005	966	no	yes	yes
+>NC_006609.4_OR8S1_functional_rev_39963989_39964900	Canis_lupus_familiaris_OR8S1_functional|NC_006609.4|39963989|39964900	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_006609.4_OR9K2_functional_fwd_45978078_45979019	Canis_lupus_familiaris_OR9K1_functional|NC_006609.4|45978078|45979019	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006609.4_TAS2R8_functional_rev_11591621_11592553	Canis_lupus_familiaris_TAS2RCafa-12_functional|NC_006609.4|11591621|11592565	7	7	yes	yes	yes	yes	functional	functional	933	945	no	no	no change
+>NC_006609.4_OR6C3_functional_fwd_46254379_46255353	Canis_lupus_familiaris_OR6C42_functional|NC_006609.4|46254379|46255308	7	7	yes	yes	yes	no	functional	functional	975	930	no	no	yes
+>NC_006609.4_OR8S1_pseudogene_nonsense_rev_40043131_40044069	Canis_lupus_familiaris_OR8S4P_pseudogene|NC_006609.4|40043078|40043974	4	5	yes	yes	yes	no	pseudogene	pseudogene	939	897	no	no	no
+>NC_006609.4_OR8S1_pseudogene_short_fwd_40351591_40352376	Canis_lupus_familiaris_OR5BS3P_pseudogene|NC_006609.4|40351591|40354451	6	7	yes	yes	yes	yes	pseudogene	pseudogene	786	2861	no	no	no
+>NC_006609.4_OR13_pseudogene_short_fwd_30859442_30860125	Canis_lupus_familiaris_OR2A7CP_pseudogene|NC_006609.4|30859442|30860050	4	4	yes	yes	yes	no	pseudogene	pseudogene	684	609	no	no	yes
+>NC_006585.4_OR1009_pseudogene_short_rev_34144160_34144468	Canis_lupus_familiaris_OR9R2P_pseudogene|NC_006585.4|34144093|34144468	2	3	yes	yes	yes	no	pseudogene	pseudogene	309	376	no	no	no
+>NC_006585.4_OR6C3_functional_fwd_33095681_33096616	Canis_lupus_familiaris_OR6C3I_functional|NC_006585.4|33095681|33096616	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006585.4_OR6C75_functional_rev_33250465_33251400	Canis_lupus_familiaris_OR6C75_functional|NC_006585.4|33250465|33251400	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006585.4_OR6C7P_pseudogene_short_fwd_33292940_33293566	Canis_lupus_familiaris_OR6C7DP_pseudogene|NC_006585.4|33292629|33293566	5	2	yes	yes	yes	yes	pseudogene	pseudogene	627	938	no	no	yes
+>NC_006585.4_OR6C68_functional_rev_33426522_33427457	Canis_lupus_familiaris_OR6C89_functional|NC_006585.4|33426522|33427457	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006585.4_OR9K2_pseudogene_short_rev_34156000_34156302	Canis_lupus_familiaris_OR9K2EP_pseudogene|NC_006585.4|34155368|34156302	2	4	yes	yes	yes	yes	pseudogene	pseudogene	303	935	no	no	no
+>NC_006585.4_OR6C2_functional_rev_33196236_33197147	Canis_lupus_familiaris_OR6C87_functional|NC_006585.4|33196236|33197147	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_006585.4_OR6C2_functional_fwd_33379614_33380576	Canis_lupus_familiaris_OR6C53_functional|NC_006585.4|33379614|33380576	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006587.4_OR8C7_functional_rev_10020702_10021628	Canis_lupus_familiaris_OR8C7_functional|NC_006587.4|10020702|10021634	7	7	yes	yes	yes	yes	functional	functional	927	933	no	no	no change
+>NC_006587.4_OR6M1_functional_rev_10689059_10690006	Canis_lupus_familiaris_OR6M2_functional|NC_006587.4|10689059|10690006	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006587.4_OR6M1_functional_fwd_10671837_10672784	Canis_lupus_familiaris_OR6M2B_functional|NC_006587.4|10671837|10672784	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006587.4_OR8D4_functional_fwd_10643580_10644515	Canis_lupus_familiaris_OR8D4_functional|NC_006587.4|10643580|10644515	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR8B12_functional_fwd_9951142_9952077	Canis_lupus_familiaris_OR8B9_functional|NC_006587.4|9951142|9952077	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR6M1_functional_fwd_10705792_10706733	Canis_lupus_familiaris_OR6M1_functional|NC_006587.4|10705792|10706733	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006587.4_OR6X1_functional_fwd_10753935_10754873	Canis_lupus_familiaris_OR6X1_functional|NC_006587.4|10753935|10754873	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006587.4_OR8A1_functional_rev_9871707_9872636	Canis_lupus_familiaris_OR8A1_functional|NC_006587.4|9871707|9872636	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006587.4_OR8B8_functional_fwd_9979384_9980331	Canis_lupus_familiaris_OR8B8_functional|NC_006587.4|9979384|9980331	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006587.4_OR8D2_functional_fwd_10228629_10229555	Canis_lupus_familiaris_OR8D2_functional|NC_006587.4|10228629|10229555	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10180521_10181453	Canis_lupus_familiaris_OR8B1N_functional|NC_006587.4|10180521|10181453	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR148_functional_fwd_10423978_10424910	Canis_lupus_familiaris_OR10N1_functional|NC_006587.4|10423978|10424910	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR147_functional_rev_10582144_10583076	Canis_lupus_familiaris_OR8B58_functional|NC_006587.4|10582144|10583076	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR147_functional_fwd_10051784_10052716	Canis_lupus_familiaris_OR8B100_functional|NC_006587.4|10051784|10052716	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8D1_functional_fwd_10239637_10240563	Canis_lupus_familiaris_OR8AP1_functional|NC_006587.4|10239637|10240563	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006587.4_OR8G1_functional_rev_10309997_10310956	Canis_lupus_familiaris_OR8G6_functional|NC_006587.4|10309997|10310956	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006587.4_OR8G3P_functional_rev_10301696_10302631	Canis_lupus_familiaris_OR8G3_functional|NC_006587.4|10301696|10302631	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR10G9_functional_fwd_10525405_10526340	Canis_lupus_familiaris_OR10G9C_functional|NC_006587.4|10525405|10526340	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10195957_10196889	Canis_lupus_familiaris_OR8B1K_functional|NC_006587.4|10195957|10196889	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10118047_10118979	Canis_lupus_familiaris_OR8B1O_functional|NC_006587.4|10118047|10118979	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10137718_10138650	Canis_lupus_familiaris_OR8B1M_functional|NC_006587.4|10137718|10138650	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10103387_10104319	Canis_lupus_familiaris_OR8B1_functional|NC_006587.4|10103387|10104319	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10155933_10156865	Canis_lupus_familiaris_OR8B1J_functional|NC_006587.4|10155933|10156865	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR8D1_functional_rev_10251317_10252258	Canis_lupus_familiaris_OR8D6_functional|NC_006587.4|10251317|10252258	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006587.4_OR958_functional_rev_10471182_10472114	Canis_lupus_familiaris_OR10D5_functional|NC_006587.4|10471182|10472114	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR10D3_functional_rev_10347422_10348363	Canis_lupus_familiaris_OR10D3_functional|NC_006587.4|10347422|10348363	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006587.4_OR10G9_functional_rev_10507067_10508002	Canis_lupus_familiaris_OR10G9_functional|NC_006587.4|10507067|10508002	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR10G6_functional_fwd_10551318_10552253	Canis_lupus_familiaris_OR10G6_functional|NC_006587.4|10551318|10552253	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR10G9_pseudogene_short_fwd_10496554_10497330	Canis_lupus_familiaris_OR10G7BP_pseudogene|NC_006587.4|10496554|10497485	6	7	yes	yes	yes	yes	pseudogene	pseudogene	777	932	no	no	no
+>NC_006587.4_OR4D5_functional_rev_10602441_10603385	Canis_lupus_familiaris_OR4D5_functional|NC_006587.4|10602441|10603385	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006587.4_OR8B12_functional_fwd_9886899_9887828	Canis_lupus_familiaris_OR8B12_functional|NC_006587.4|9886899|9887828	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006587.4_OR8B4_functional_fwd_9995701_9996630	Canis_lupus_familiaris_OR8B4_functional|NC_006587.4|9995701|9996630	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006587.4_OR8G5_functional_rev_10288116_10289051	Canis_lupus_familiaris_OR8G1_functional|NC_006587.4|10288116|10289051	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10083294_10084226	Canis_lupus_familiaris_OR8B1L_functional|NC_006587.4|10083294|10084226	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR6M1_functional_fwd_10653321_10654268	Canis_lupus_familiaris_OR6M6_functional|NC_006587.4|10653321|10654268	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006587.4_OR8B3_functional_fwd_10041443_10042468	Canis_lupus_familiaris_OR8B3_functional|NC_006587.4|10041443|10042468	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_006587.4_OR958_functional_rev_10355788_10356723	Canis_lupus_familiaris_OR10AI1_functional|NC_006587.4|10355788|10356723	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR145_functional_fwd_10204441_10205376	Canis_lupus_familiaris_OR8B60_functional|NC_006587.4|10204441|10205376	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR1009_functional_fwd_62980_63915	Canis_lupus_familiaris_OR9R6_functional|NC_006587.4|62980|63915	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR10S1_functional_fwd_10565693_10566655	Canis_lupus_familiaris_OR10S1_functional|NC_006587.4|10565627|10566655	7	7	yes	yes	yes	yes	functional	functional	963	1029	no	no	no change
+>NC_006587.4_OR6T1_functional_fwd_10596564_10597490	Canis_lupus_familiaris_OR6T1P_pseudogene|NC_006587.4|10596564|10597490	7	7	yes	yes	yes	yes	functional	pseudogene	927	927	yes	yes	no change
+>NC_006587.4_OR10G9_functional_rev_10535914_10536840	Canis_lupus_familiaris_OR10G7_functional|NC_006587.4|10535914|10536849	7	7	yes	yes	yes	yes	functional	functional	927	936	no	no	no change
+>NC_006587.4_OR8B3_pseudogene_short_fwd_10067412_10068098	Canis_lupus_familiaris_OR8B3FP_pseudogene|NC_006587.4|10067376|10068279	6	6	yes	no	yes	yes	pseudogene	pseudogene	687	904	no	no	yes
+>NC_006587.4_OR149_functional_rev_10378123_10379058	Canis_lupus_familiaris_OR10D1K_functional|NC_006587.4|10378123|10379058	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_OR149_functional_rev_10279808_10280740	Canis_lupus_familiaris_OR149_functional|NC_006587.4|10279808|10280740	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR10D3_functional_rev_10481652_10482584	Canis_lupus_familiaris_OR10D5B_functional|NC_006587.4|10481652|10482584	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006587.4_OR10D4_functional_fwd_10434952_10435887	Canis_lupus_familiaris_OR10D4_functional|NC_006587.4|10434952|10435887	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006587.4_TAS1R1_functional_fwd_60406827_60415236	Canis_lupus_familiaris_TAS1R1_functional|NC_006587.4|60406656|60415236	7	7	yes	yes	yes	yes	functional	functional	2355	2526	no	no	no change
+>NC_006587.4_TAS1R3_functional_fwd_56580045_56583207	Canis_lupus_familiaris_TAS1R3_functional|NC_006587.4|56580045|56583207	7	7	yes	yes	yes	yes	functional	functional	2538	2538	yes	no	no change
+>NC_006587.4_OR9K2_pseudogene_nonsense_short_fwd_113367_114020	Canis_lupus_familiaris_OR9O1P_pseudogene|NC_006587.4|113499|114576	4	4	yes	no	yes	yes	pseudogene	pseudogene	654	1078	no	no	yes
+>NC_006611.4_OR6C2_pseudogene_nonsense_rev_40849953_40850840	Canis_lupus_familiaris_OR6C55P_pseudogene|NC_006611.4|40849953|40850889	5	4	yes	yes	yes	yes	pseudogene	pseudogene	888	937	no	no	yes
+>NC_006611.4_OR9K2_pseudogene_short_fwd_40841148_40841498	Canis_lupus_familiaris_OR9J1P_pseudogene|NC_006611.4|40841103|40841590	2	4	yes	no	yes	no	pseudogene	pseudogene	351	488	no	no	no
+>NC_006600.4_OR10W1_functional_fwd_37655401_37656345	Canis_lupus_familiaris_OR10W1_functional|NC_006600.4|37655401|37656345	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_40030848_40031762	Canis_lupus_familiaris_OR4C11_o_functional|NC_006600.4|40030848|40031762	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NC_006600.4_OR5B3_functional_fwd_37566301_37567239	Canis_lupus_familiaris_OR5B3_functional|NC_006600.4|37566301|37567239	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR5B3_functional_rev_37498867_37499805	Canis_lupus_familiaris_OR5B3B_functional|NC_006600.4|37498867|37499805	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR5J2_functional_fwd_39123122_39124060	Canis_lupus_familiaris_OR5J2_functional|NC_006600.4|39123122|39124060	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR4D9_functional_rev_36864228_36865163	Canis_lupus_familiaris_OR4D9D_functional|NC_006600.4|36864228|36865163	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR5AK3_functional_rev_38583083_38584012	Canis_lupus_familiaris_OR5AK7_functional|NC_006600.4|38583083|38584012	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR10BJ1P_pseudogene_nonsense_fwd_39427131_39428111	Canis_lupus_familiaris_OR10BJ1P_pseudogene|NC_006600.4|39427131|39428011	9	7	yes	yes	yes	no	pseudogene	pseudogene	981	881	no	no	yes
+>NC_006600.4_OR5BE4_functional_rev_39313249_39314319	Canis_lupus_familiaris_OR5BE4_functional|NC_006600.4|39313249|39314319	7	7	yes	yes	yes	yes	functional	functional	1071	1071	yes	no	no change
+>NC_006600.4_OR4D9_functional_rev_36874544_36875479	Canis_lupus_familiaris_OR4D9_functional|NC_006600.4|36874544|36875479	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR5B12_functional_fwd_37428484_37429428	Canis_lupus_familiaris_OR5B12_functional|NC_006600.4|37428484|37429428	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR5AR1_functional_rev_38882635_38883570	Canis_lupus_familiaris_OR5AR1_functional|NC_006600.4|38882635|38883570	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_39849203_39850135	Canis_lupus_familiaris_OR4C11I_functional|NC_006600.4|39849203|39850135	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_39862577_39863509	Canis_lupus_familiaris_OR4C11_m_functional|NC_006600.4|39862577|39863509	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR8J1_functional_rev_39089661_39090590	Canis_lupus_familiaris_OR8J3_functional|NC_006600.4|39089661|39090590	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR9G1_functional_rev_38852166_38853083	Canis_lupus_familiaris_OR9G1_j_functional|NC_006600.4|38852166|38853083	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006600.4_OR10AG1_functional_fwd_39384770_39385726	Canis_lupus_familiaris_OR10AG63_functional|NC_006600.4|39384770|39385726	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006600.4_OR4A47_functional_rev_40157600_40158517	Canis_lupus_familiaris_OR4A47B_functional|NC_006600.4|40157600|40158517	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006600.4_OR4A47_functional_rev_40167514_40168443	Canis_lupus_familiaris_OR4A47D_functional|NC_006600.4|40167514|40168443	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4A47_functional_rev_40119492_40120421	Canis_lupus_familiaris_OR4A47_functional|NC_006600.4|40119492|40120421	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4A47_functional_rev_40187000_40187929	Canis_lupus_familiaris_OR4A47C_functional|NC_006600.4|40187000|40187938	7	7	yes	yes	yes	yes	functional	functional	930	939	no	no	no change
+>NC_006600.4_OR5J1P_functional_rev_39322356_39323294	Canis_lupus_familiaris_OR5J1_functional|NC_006600.4|39322356|39323294	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR5AL1_functional_rev_39051048_39051989	Canis_lupus_familiaris_OR5AL1_functional|NC_006600.4|39051048|39051989	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR5L1_functional_rev_39586567_39587502	Canis_lupus_familiaris_OR5L1_functional|NC_006600.4|39586567|39587502	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR1440_functional_fwd_37009260_37010234	Canis_lupus_familiaris_OR5AN2_functional|NC_006600.4|37009260|37010234	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006600.4_OR9I1_functional_fwd_37784411_37785355	Canis_lupus_familiaris_OR9I1_functional|NC_006600.4|37784411|37785355	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR1030_functional_fwd_38982054_38982992	Canis_lupus_familiaris_OR5M5_functional|NC_006600.4|38982036|38982992	7	7	yes	yes	yes	yes	functional	functional	939	957	no	no	no change
+>NC_006600.4_OR1052_functional_fwd_37869816_37870763	Canis_lupus_familiaris_OR5AZ2_functional|NC_006600.4|37869816|37870699	7	7	yes	yes	yes	no	functional	functional	948	884	no	no	yes
+>NC_006600.4_OR10V1_functional_fwd_36719388_36720317	Canis_lupus_familiaris_OR10V1_functional|NC_006600.4|36719388|36720317	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4C6_pseudogene_nonsense_short_fwd_39986416_39987192	Canis_lupus_familiaris_OR4C142P_pseudogene|NC_006600.4|39986214|39987137	5	3	yes	yes	yes	yes	pseudogene	pseudogene	777	924	no	no	yes
+>NC_006600.4_OR4C6_functional_rev_40051136_40052080	Canis_lupus_familiaris_OR4C59_functional|NC_006600.4|40051136|40052080	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR4C15_functional_rev_40040143_40041117	Canis_lupus_familiaris_OR4C15_functional|NC_006600.4|40040143|40041186	7	7	yes	yes	yes	yes	functional	functional	975	1044	no	no	no change
+>NC_006600.4_OR4C46_functional_fwd_39769134_39770063	Canis_lupus_familiaris_OR4C10F_functional|NC_006600.4|39769134|39770063	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4C46_pseudogene_nonsense_rev_39831181_39832194	Canis_lupus_familiaris_OR4C62P_pseudogene|NC_006600.4|39831181|39832111	5	2	yes	yes	yes	yes	pseudogene	pseudogene	1014	931	no	no	yes
+>NC_006600.4_OR4D11_functional_rev_36899044_36899979	Canis_lupus_familiaris_OR4D9C_functional|NC_006600.4|36899044|36899979	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR4D11_functional_rev_36885001_36885936	Canis_lupus_familiaris_OR4D11_functional|NC_006600.4|36885001|36885936	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR4D11_functional_rev_36915979_36916914	Canis_lupus_familiaris_OR4D9B_functional|NC_006600.4|36915979|36916914	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR4S1_functional_rev_40224474_40225403	Canis_lupus_familiaris_OR4S1B_functional|NC_006600.4|40224474|40225403	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4S2_functional_fwd_39939506_39940441	Canis_lupus_familiaris_OR4S2_functional|NC_006600.4|39939506|39940441	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR5B2_functional_fwd_37537117_37538061	Canis_lupus_familiaris_OR5B2_functional|NC_006600.4|37537117|37538061	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR5W7_functional_fwd_39490619_39491554	Canis_lupus_familiaris_OR5I1B_functional|NC_006600.4|39490610|39491554	7	7	yes	yes	yes	yes	functional	functional	936	945	no	no	no change
+>NC_006600.4_OR5M10_functional_fwd_38917976_38918944	Canis_lupus_familiaris_OR5M10_functional|NC_006600.4|38917976|38918944	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006600.4_OR5M10_functional_fwd_38928263_38929210	Canis_lupus_familiaris_OR5M10_k_functional|NC_006600.4|38928263|38929210	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006600.4_OR5T2_functional_fwd_39276555_39277493	Canis_lupus_familiaris_OR5T2B_functional|NC_006600.4|39276555|39277493	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR6Q1_functional_rev_37828196_37829149	Canis_lupus_familiaris_OR6Q1_functional|NC_006600.4|37828196|37829149	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006600.4_OR8I2_pseudogene_short_rev_39300761_39301120	Canis_lupus_familiaris_OR8I2P_pseudogene|NC_006600.4|39300188|39301120	3	7	yes	yes	yes	yes	pseudogene	pseudogene	360	933	no	no	no
+>NC_006600.4_OR8J2_functional_rev_39227232_39228179	Canis_lupus_familiaris_OR8J2C_functional|NC_006600.4|39227232|39228179	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006600.4_OR8J2_functional_rev_39194098_39195045	Canis_lupus_familiaris_OR8J2B_functional|NC_006600.4|39194098|39195045	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006600.4_OR8U8_functional_rev_39080573_39081535	Canis_lupus_familiaris_OR8U8_functional|NC_006600.4|39080573|39081520	7	7	yes	yes	yes	yes	functional	functional	963	948	no	no	no change
+>NC_006600.4_OR9M1P_functional_rev_39556087_39557019	Canis_lupus_familiaris_OR9M1_functional|NC_006600.4|39556087|39557091	7	7	yes	yes	yes	yes	functional	functional	933	1005	no	no	no change
+>NC_006600.4_OR9I3P_pseudogene_nonsense_fwd_37797522_37798526	Canis_lupus_familiaris_OR9I4P_pseudogene|NC_006600.4|37797564|37798459	5	5	yes	yes	yes	yes	pseudogene	pseudogene	1005	896	no	no	no change
+>NC_006600.4_OR5AK3_functional_rev_38570747_38571676	Canis_lupus_familiaris_OR5AK8_functional|NC_006600.4|38570747|38571676	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR5AK3_functional_rev_38562212_38563141	Canis_lupus_familiaris_OR5AK6_functional|NC_006600.4|38562212|38563141	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR5D13_functional_rev_39613672_39614616	Canis_lupus_familiaris_OR5D15_functional|NC_006600.4|39613672|39614616	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR1002_functional_fwd_38714759_38715703	Canis_lupus_familiaris_OR5G5_functional|NC_006600.4|38714759|38715703	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR1052_functional_fwd_37920407_37921366	Canis_lupus_familiaris_OR5BA1_functional|NC_006600.4|37920407|37921366	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR5D13_pseudogene_short_rev_39622673_39623050	Canis_lupus_familiaris_OR5D13P_pseudogene|NC_006600.4|39622104|39623050	3	5	yes	yes	yes	no	pseudogene	pseudogene	378	947	no	no	no
+>NC_006600.4_OR4C12_functional_rev_40067993_40068925	Canis_lupus_familiaris_OR4C136_functional|NC_006600.4|40067993|40068925	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4A15_functional_rev_40144020_40144937	Canis_lupus_familiaris_OR4A15_p_functional|NC_006600.4|40144020|40144937	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006600.4_OR4A15_functional_rev_40106837_40107754	Canis_lupus_familiaris_OR4A2_functional|NC_006600.4|40106837|40107754	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006600.4_OR5B17_functional_fwd_37585909_37586856	Canis_lupus_familiaris_OR5B31_functional|NC_006600.4|37585909|37586856	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006600.4_OR5AS1_functional_rev_39352559_39353536	Canis_lupus_familiaris_OR5AS1_functional|NC_006600.4|39352559|39353497	7	7	yes	yes	yes	yes	functional	functional	978	939	no	no	no change
+>NC_006600.4_OR4B1_functional_rev_40266494_40267423	Canis_lupus_familiaris_OR4B1F_functional|NC_006600.4|40266494|40267423	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR1013_functional_rev_38790367_38791302	Canis_lupus_familiaris_OR9G3_functional|NC_006600.4|38790367|38791302	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_ORPROTEINOLF2_functional_fwd_39550204_39551142	Canis_lupus_familiaris_OR5W1_functional|NC_006600.4|39550204|39551142	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR140_functional_rev_40060939_40061862	Canis_lupus_familiaris_OR4C1_functional|NC_006600.4|40060939|40061862	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006600.4_OR5W2_functional_fwd_39498452_39499384	Canis_lupus_familiaris_OR5W2B_functional|NC_006600.4|39498452|39499384	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR5A2_functional_fwd_36961332_36962291	Canis_lupus_familiaris_OR5A2_functional|NC_006600.4|36961332|36962291	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR10AG1_functional_fwd_39419559_39420509	Canis_lupus_familiaris_OR10AG1_functional|NC_006600.4|39419559|39420509	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006600.4_OR5B2_functional_rev_37511175_37512119	Canis_lupus_familiaris_OR5B2B_functional|NC_006600.4|37511175|37512119	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR5B2_functional_fwd_37602668_37603612	Canis_lupus_familiaris_OR5B35_functional|NC_006600.4|37602668|37603612	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR1009_functional_fwd_38745161_38746102	Canis_lupus_familiaris_OR5G1_functional|NC_006600.4|38745161|38746102	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR4A15_functional_rev_40078161_40079114	Canis_lupus_familiaris_OR4A15_functional|NC_006600.4|40078161|40079114	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006600.4_OR5D14_functional_rev_39604917_39605855	Canis_lupus_familiaris_OR5D14_functional|NC_006600.4|39604917|39605966	7	7	yes	yes	yes	yes	functional	functional	939	1050	no	no	no change
+>NC_006600.4_OR5D18_functional_rev_39595534_39596475	Canis_lupus_familiaris_OR5D18_functional|NC_006600.4|39595534|39596475	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR10AG1_functional_fwd_39439516_39440481	Canis_lupus_familiaris_OR10AG65_functional|NC_006600.4|39439516|39440481	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006600.4_OR5M3_functional_fwd_39010988_39011920	Canis_lupus_familiaris_OR5M3_functional|NC_006600.4|39010988|39011920	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR5B2_functional_fwd_37618178_37619122	Canis_lupus_familiaris_OR5B33_functional|NC_006600.4|37618178|37619122	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR5B3_pseudogene_nonsense_short_fwd_37442072_37442878	Canis_lupus_familiaris_OR5B134P_pseudogene|NC_006600.4|37440796|37443882	6	6	yes	yes	yes	yes	pseudogene	pseudogene	807	3087	no	no	no change
+>NC_006600.4_OR4P4_pseudogene_short_fwd_39894346_39895122	Canis_lupus_familiaris_OR4P27P_pseudogene|NC_006600.4|39894346|39895261	6	6	yes	yes	yes	yes	pseudogene	pseudogene	777	916	no	no	no change
+>NC_006600.4_OR4P4_functional_rev_39688285_39689226	Canis_lupus_familiaris_OR4P11_functional|NC_006600.4|39688285|39689226	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR4D6_functional_rev_36924473_36925408	Canis_lupus_familiaris_OR4D6_functional|NC_006600.4|36924473|36925408	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR9G1_functional_rev_38803939_38804856	Canis_lupus_familiaris_OR9G1_functional|NC_006600.4|38803939|38804856	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_006600.4_OR4A5_functional_rev_40092685_40093629	Canis_lupus_familiaris_OR4A39_functional|NC_006600.4|40092685|40093629	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR1013_functional_fwd_38773092_38774027	Canis_lupus_familiaris_OR9G10_functional|NC_006600.4|38773092|38774027	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR10AG1_functional_fwd_39463465_39464514	Canis_lupus_familiaris_OR10AG66_functional|NC_006600.4|39463579|39464514	7	7	yes	yes	yes	yes	functional	functional	1050	936	no	no	no change
+>NC_006600.4_OR5L1_functional_rev_39576866_39577801	Canis_lupus_familiaris_OR5L1C_functional|NC_006600.4|39576866|39577801	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR4C16_functional_rev_39961020_39961952	Canis_lupus_familiaris_OR4C29_functional|NC_006600.4|39961020|39961952	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR1S1_functional_fwd_37685861_37686838	Canis_lupus_familiaris_OR1S1P_pseudogene|NC_006600.4|37685900|37686838	7	7	yes	yes	yes	yes	functional	pseudogene	978	939	no	yes	no change
+>NC_006600.4_OR4B1_functional_rev_40285332_40286261	Canis_lupus_familiaris_OR4B1E_functional|NC_006600.4|40285332|40286261	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_39813466_39814398	Canis_lupus_familiaris_OR4C11_functional|NC_006600.4|39813466|39814398	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4C11_functional_fwd_39920177_39921109	Canis_lupus_familiaris_OR4C11H_functional|NC_006600.4|39920177|39921109	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_39823461_39824393	Canis_lupus_familiaris_OR4C11D_functional|NC_006600.4|39823461|39824393	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4C11_functional_rev_40013133_40014041	Canis_lupus_familiaris_OR4C11_n_functional|NC_006600.4|40013133|40014047	7	7	yes	yes	yes	yes	functional	functional	909	915	no	no	no change
+>NC_006600.4_OR4C11_functional_rev_39994323_39995237	Canis_lupus_familiaris_OR4C139_functional|NC_006600.4|39994323|39995237	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NC_006600.4_OR4C16_pseudogene_short_fwd_39736973_39737443	Canis_lupus_familiaris_OR4C147P_pseudogene|NC_006600.4|39736550|39737454	4	7	yes	yes	yes	no	pseudogene	pseudogene	471	905	no	no	no
+>NC_006600.4_OR4X2_functional_rev_40257538_40258467	Canis_lupus_familiaris_OR4X2_functional|NC_006600.4|40257538|40258467	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR5B21_functional_fwd_37403454_37404404	Canis_lupus_familiaris_OR5B21_functional|NC_006600.4|37403454|37404404	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006600.4_OR5B2_pseudogene_short_fwd_37531567_37532385	Canis_lupus_familiaris_OR5B29P_pseudogene|NC_006600.4|37531442|37532385	6	1	yes	yes	yes	yes	pseudogene	pseudogene	819	944	no	no	yes
+>NC_006600.4_OR5B2_pseudogene_nonsense_fwd_37552181_37553065	Canis_lupus_familiaris_OR5B132P_pseudogene|NC_006600.4|37552132|37553057	4	1	yes	yes	yes	yes	pseudogene	pseudogene	885	926	no	no	yes
+>NC_006600.4_OR5B12_functional_fwd_37468088_37469026	Canis_lupus_familiaris_OR5B24_functional|NC_006600.4|37468088|37469026	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR1009_functional_fwd_38728332_38729276	Canis_lupus_familiaris_OR5G1B_functional|NC_006600.4|38728332|38729276	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR5L1_functional_rev_39569478_39570437	Canis_lupus_familiaris_OR5L1B_functional|NC_006600.4|39569478|39570437	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR5M8_functional_fwd_38995207_38996142	Canis_lupus_familiaris_OR5M8_functional|NC_006600.4|38995207|38996142	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR1102_functional_fwd_39257414_39258400	Canis_lupus_familiaris_OR5T1_functional|NC_006600.4|39257414|39258400	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_006600.4_OR1102_functional_rev_39265869_39266873	Canis_lupus_familiaris_OR5T1B_functional|NC_006600.4|39265869|39266873	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NC_006600.4_OR1086_functional_rev_39236418_39237338	Canis_lupus_familiaris_OR5T2_functional|NC_006600.4|39236418|39237338	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NC_006600.4_OR1102_functional_rev_39391324_39392298	Canis_lupus_familiaris_OR5T8_functional|NC_006600.4|39391324|39392298	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006600.4_ORPROTEINOLF2_functional_fwd_39528979_39529917	Canis_lupus_familiaris_OR5W6_functional|NC_006600.4|39528979|39529902	7	7	yes	yes	yes	no	functional	functional	939	924	no	no	yes
+>NC_006600.4_ORPROTEINOLF2_functional_fwd_39508106_39509041	Canis_lupus_familiaris_OR5W7_functional|NC_006600.4|39508106|39509041	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR8K1_functional_rev_39104958_39105917	Canis_lupus_familiaris_OR8K1_functional|NC_006600.4|39104958|39105917	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR8K3_functional_rev_39140421_39141362	Canis_lupus_familiaris_OR8K54_functional|NC_006600.4|39140421|39141362	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR10V1_functional_rev_36700284_36701285	Canis_lupus_familiaris_OR10V10_functional|NC_006600.4|36700284|36701312	7	7	yes	yes	yes	yes	functional	functional	1002	1029	no	no	no change
+>NC_006600.4_OR4P4_functional_rev_39742701_39743636	Canis_lupus_familiaris_OR4P32_functional|NC_006600.4|39742701|39743636	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR5M9_functional_fwd_39016832_39017761	Canis_lupus_familiaris_OR5M9_functional|NC_006600.4|39016832|39017761	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4P4_pseudogene_nonsense_rev_39946049_39947065	Canis_lupus_familiaris_OR4P12P_pseudogene|NC_006600.4|39946061|39946953	5	2	yes	no	yes	no	pseudogene	pseudogene	1017	893	no	no	yes
+>NC_006600.4_OR4P4_functional_rev_39712956_39713891	Canis_lupus_familiaris_OR4P26P_pseudogene|NC_006600.4|39712956|39713891	7	7	yes	yes	yes	yes	functional	pseudogene	936	936	yes	yes	no change
+>NC_006600.4_OR5B12_functional_fwd_37630141_37631094	Canis_lupus_familiaris_OR5B32_functional|NC_006600.4|37630141|37631094	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006600.4_OR5W2_functional_fwd_39519733_39520665	Canis_lupus_familiaris_OR5W2_functional|NC_006600.4|39519733|39520665	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR5B17_pseudogene_short_rev_37486101_37486448	Canis_lupus_familiaris_OR5B131P_pseudogene|NC_006600.4|37485595|37486448	3	4	yes	yes	yes	yes	pseudogene	pseudogene	348	854	no	no	no
+>NC_006600.4_OR5D18_functional_rev_39635049_39635999	Canis_lupus_familiaris_OR5D17_functional|NC_006600.4|39635049|39635999	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006600.4_OR5AP2_functional_fwd_38895242_38896195	Canis_lupus_familiaris_OR5AP2_functional|NC_006600.4|38895242|38896195	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006600.4_OR4P4_pseudogene_short_rev_39783507_39784187	Canis_lupus_familiaris_OR4P28P_pseudogene|NC_006600.4|39783264|39784187	5	7	yes	yes	yes	yes	pseudogene	pseudogene	681	924	no	no	no
+>NC_006600.4_OR8K3_functional_rev_39167050_39167991	Canis_lupus_familiaris_OR8K7_functional|NC_006600.4|39167050|39167991	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR1440_functional_fwd_37031821_37032777	Canis_lupus_familiaris_OR5AN6_functional|NC_006600.4|37031821|37032777	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006600.4_OR9Q3_functional_rev_37706706_37707641	Canis_lupus_familiaris_OR9Q4_functional|NC_006600.4|37706706|37707641	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR1030_functional_fwd_38958385_38959320	Canis_lupus_familiaris_OR5M13_functional|NC_006600.4|38958385|38959320	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR8K5_functional_rev_39111832_39112776	Canis_lupus_familiaris_OR8K5_functional|NC_006600.4|39111832|39112776	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006600.4_OR4X1_functional_rev_40244158_40245087	Canis_lupus_familiaris_OR4X1_functional|NC_006600.4|40244158|40245087	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR5A1_functional_rev_36939989_36940948	Canis_lupus_familiaris_OR5A1_functional|NC_006600.4|36939989|36940948	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR1052_functional_rev_39338178_39339110	Canis_lupus_familiaris_OR5AQ1_functional|NC_006600.4|39338178|39339110	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR9G4_functional_fwd_38787630_38788568	Canis_lupus_familiaris_OR9G4_functional|NC_006600.4|38787630|38788568	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR10AG1_functional_rev_39449486_39450436	Canis_lupus_familiaris_OR10AG68_functional|NC_006600.4|39449486|39450460	7	7	yes	yes	yes	yes	functional	functional	951	975	no	no	no change
+>NC_006600.4_OR10Q1_functional_fwd_37671637_37672596	Canis_lupus_familiaris_OR10Q1_functional|NC_006600.4|37671637|37672596	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR8U3_functional_fwd_39044006_39044965	Canis_lupus_familiaris_OR8U3_functional|NC_006600.4|39044006|39044965	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR10V1_functional_rev_36685007_36685873	Canis_lupus_familiaris_OR10V5_functional|NC_006600.4|36685007|36685945	7	7	yes	yes	yes	yes	functional	functional	867	939	no	no	no change
+>NC_006600.4_OR10Q1_functional_fwd_37643310_37644269	Canis_lupus_familiaris_OR10Q2_functional|NC_006600.4|37643310|37644269	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006600.4_OR5M9_functional_fwd_39004007_39004939	Canis_lupus_familiaris_OR5M3C_functional|NC_006600.4|39004007|39004939	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR8H1_functional_rev_39286115_39287050	Canis_lupus_familiaris_OR8H4_functional|NC_006600.4|39286115|39287050	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006600.4_OR8K3_functional_rev_39181910_39182860	Canis_lupus_familiaris_OR8K55P_pseudogene|NC_006600.4|39181910|39182860	7	7	yes	yes	yes	yes	functional	pseudogene	951	951	yes	yes	no change
+>NC_006600.4_OR5G3_functional_fwd_38685972_38686922	Canis_lupus_familiaris_OR5G3_functional|NC_006600.4|38685972|38686922	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006600.4_OR4P4_functional_fwd_39668406_39669338	Canis_lupus_familiaris_OR4P7_functional|NC_006600.4|39668406|39669338	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR4P4_functional_rev_39724369_39725298	Canis_lupus_familiaris_OR4P4_l_functional|NC_006600.4|39724369|39725298	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4P4_functional_rev_39701291_39702274	Canis_lupus_familiaris_OR4P4_functional|NC_006600.4|39701291|39702274	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006600.4_OR4P4_functional_fwd_39683797_39684789	Canis_lupus_familiaris_OR4P6_functional|NC_006600.4|39683851|39684789	7	7	yes	yes	yes	yes	functional	functional	993	939	no	no	no change
+>NC_006600.4_OR8K3_functional_rev_39205359_39206309	Canis_lupus_familiaris_OR8K71_functional|NC_006600.4|39205359|39206309	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006600.4_OR10AG1_functional_fwd_39410083_39411015	Canis_lupus_familiaris_OR10AG64_functional|NC_006600.4|39410083|39411015	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006600.4_OR5A1_functional_fwd_37048323_37049285	Canis_lupus_familiaris_OR5A3_functional|NC_006600.4|37048323|37049285	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006600.4_OR4P4_functional_rev_39754482_39755411	Canis_lupus_familiaris_OR4A27_functional|NC_006600.4|39754482|39755411	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR4S2_functional_fwd_40301936_40302859	Canis_lupus_familiaris_OR4S7_functional|NC_006600.4|40301843|40302859	7	7	yes	yes	yes	yes	functional	functional	924	1017	no	no	no change
+>NC_006600.4_OR1038_functional_rev_39022307_39023263	Canis_lupus_familiaris_OR8U10_functional|NC_006600.4|39022307|39023263	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006600.4_OR4P4_functional_fwd_39885237_39886166	Canis_lupus_familiaris_OR4A82_functional|NC_006600.4|39885237|39886166	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006600.4_OR5AL1_functional_rev_39061525_39062466	Canis_lupus_familiaris_OR5AL2_functional|NC_006600.4|39061525|39062466	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006600.4_OR5M11_functional_rev_38932539_38933522	Canis_lupus_familiaris_OR5M12_functional|NC_006600.4|38932539|38933522	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006600.4_OR5G3_pseudogene_short_fwd_38702576_38703175	Canis_lupus_familiaris_OR5G31P_pseudogene|NC_006600.4|38702489|38703398	5	6	yes	no	yes	yes	pseudogene	pseudogene	600	910	no	no	no
+>NC_006600.4_OR10V1_functional_fwd_36747332_36748270	Canis_lupus_familiaris_OR10V4_functional|NC_006600.4|36747332|36748270	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006600.4_OR8K3_pseudogene_nonsense_short_rev_39176607_39177053	Canis_lupus_familiaris_OR8AO1P_pseudogene|NC_006600.4|39176519|39177095	4	4	yes	yes	yes	yes	pseudogene	pseudogene	447	577	no	no	no change
+>NC_006590.4_OR5F1_functional_fwd_636917_637876	Canis_lupus_familiaris_OR6AA6_functional|NC_006590.4|636917|637876	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006590.4_OR4L1_functional_rev_821712_822650	Canis_lupus_familiaris_OR4L1_functional|NC_006590.4|821712|822650	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006590.4_OR6C4_functional_fwd_731717_732643	Canis_lupus_familiaris_OR6C4_functional|NC_006590.4|731717|732643	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006590.4_OR6F1_functional_fwd_763127_764068	Canis_lupus_familiaris_OR11L1_functional|NC_006590.4|763127|764068	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006590.4_OR6F1_functional_fwd_672880_673839	Canis_lupus_familiaris_OR6AA7_functional|NC_006590.4|672880|673839	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006590.4_OR2C3_functional_rev_494742_495707	Canis_lupus_familiaris_OR2C3_functional|NC_006590.4|494742|495704	7	7	yes	yes	yes	yes	functional	functional	966	963	no	no	no change
+>NC_006590.4_OR2B11_functional_rev_404339_405298	Canis_lupus_familiaris_OR2B11_functional|NC_006590.4|404339|405298	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006590.4_OR2G3_pseudogene_short_rev_590458_591063	Canis_lupus_familiaris_OR2G3P_pseudogene|NC_006590.4|590137|591063	4	4	yes	yes	yes	no	pseudogene	pseudogene	606	927	no	no	yes
+>NC_006590.4_OR2H2_functional_rev_358612_359484	Canis_lupus_familiaris_OR2H10_functional|NC_006590.4|358612|359484	7	7	yes	yes	yes	yes	functional	functional	873	873	yes	no	no change
+>NC_006590.4_OR4K13_pseudogene_short_fwd_856575_857123	Canis_lupus_familiaris_OR4K13CP_pseudogene|NC_006590.4|856575|857459	4	5	yes	yes	yes	yes	pseudogene	pseudogene	549	885	no	no	no
+>NC_006590.4_OR2T11_pseudogene_short_rev_152736_153098	Canis_lupus_familiaris_OR2BB11P_pseudogene|NC_006590.4|152168|153098	3	4	yes	yes	yes	yes	pseudogene	pseudogene	363	931	no	no	no
+>NC_006590.4_OR49_functional_fwd_3019257_3020186	Canis_lupus_familiaris_OR6E1_functional|NC_006590.4|3019257|3020186	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006590.4_OR2W6_functional_fwd_441076_442020	Canis_lupus_familiaris_OR2W11_functional|NC_006590.4|441076|442020	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006597.4_OR11H6_functional_fwd_18077102_18078094	Canis_lupus_familiaris_OR11H6_functional|NC_006597.4|18077102|18078094	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_006597.4_OR11G2_functional_fwd_18052447_18053382	Canis_lupus_familiaris_OR11G2_functional|NC_006597.4|18052447|18053382	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006597.4_OR11H4_functional_fwd_18108899_18109849	Canis_lupus_familiaris_OR11H4_functional|NC_006597.4|18108899|18109849	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006597.4_OR11G2_functional_fwd_18015546_18016481	Canis_lupus_familiaris_OR11G2B_functional|NC_006597.4|18015546|18016481	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006597.4_OR11H1_functional_fwd_17878329_17879321	Canis_lupus_familiaris_OR11H12_functional|NC_006597.4|17878242|17879321	7	7	yes	yes	yes	yes	functional	functional	993	1080	no	no	no change
+>NC_006597.4_OR11H6_functional_fwd_17957155_17958123	Canis_lupus_familiaris_OR11J6_functional|NC_006597.4|17957155|17958123	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006597.4_OR4S2_functional_rev_17854118_17855047	Canis_lupus_familiaris_OR4H12B_functional|NC_006597.4|17854118|17854987	7	7	yes	yes	yes	yes	functional	functional	930	870	no	no	no change
+>NC_006597.4_OR4N2_functional_rev_17689126_17690049	Canis_lupus_familiaris_OR4N2_functional|NC_006597.4|17689126|17690049	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006597.4_OR6C6_functional_rev_17404314_17405258	Canis_lupus_familiaris_OR6C6J_functional|NC_006597.4|17404314|17405258	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006597.4_OR1509_functional_fwd_19125284_19126210	Canis_lupus_familiaris_OR1509_functional|NC_006597.4|19125284|19126210	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006597.4_OR2D2_functional_rev_490897_491835	Canis_lupus_familiaris_OR2D2_functional|NC_006597.4|490897|491835	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006597.4_OR2B3_functional_fwd_554829_555776	Canis_lupus_familiaris_OR13P5_functional|NC_006597.4|554829|555776	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006597.4_OR11H6_functional_fwd_17897345_17898313	Canis_lupus_familiaris_OR11G11_pseudogene|NC_006597.4|17897531|17898313	7	6	yes	yes	yes	yes	functional	pseudogene	969	783	no	yes	yes
+>NC_006597.4_OR2A12_functional_rev_512717_513664	Canis_lupus_familiaris_OR13P4_functional|NC_006597.4|512717|513664	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006597.4_OR4E1_functional_rev_19130030_19130977	Canis_lupus_familiaris_OR4E1_functional|NC_006597.4|19130030|19130977	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006597.4_OR6S1_functional_rev_18418812_18419807	Canis_lupus_familiaris_OR6S1_functional|NC_006597.4|18418812|18419807	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_006597.4_OR11H2_functional_fwd_17912435_17913388	Canis_lupus_familiaris_OR11K2_functional|NC_006597.4|17912435|17913388	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006597.4_OR11G2_functional_fwd_18039955_18040890	Canis_lupus_familiaris_OR11G7_functional|NC_006597.4|18039928|18040890	7	7	yes	yes	yes	yes	functional	functional	936	963	no	no	no change
+>NC_006597.4_OR11H7_functional_fwd_18082707_18083705	Canis_lupus_familiaris_OR11H7_functional|NC_006597.4|18082761|18083705	7	7	yes	yes	yes	yes	functional	functional	999	945	no	no	no change
+>NC_006597.4_OR4N4C_functional_rev_17711912_17712838	Canis_lupus_familiaris_OR4N2B_functional|NC_006597.4|17711912|17712838	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006597.4_OR4Q3_functional_fwd_17752015_17752962	Canis_lupus_familiaris_OR4Q3_functional|NC_006597.4|17752015|17752962	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006597.4_OR11H6_functional_fwd_17999191_18000129	Canis_lupus_familiaris_OR11G5_functional|NC_006597.4|17999191|18000129	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006597.4_OR11H6_functional_rev_18094953_18095897	Canis_lupus_familiaris_OR11G9_functional|NC_006597.4|18094953|18095897	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006597.4_OR11H4_functional_fwd_17977318_17978259	Canis_lupus_familiaris_OR11J4_pseudogene|NC_006597.4|17977318|17978307	7	7	yes	yes	yes	yes	functional	pseudogene	942	990	no	yes	no change
+>NC_006597.4_OR2A12_functional_fwd_533012_533950	Canis_lupus_familiaris_OR13P3_functional|NC_006597.4|533009|533950	7	7	yes	yes	yes	yes	functional	functional	939	942	no	no	no change
+>NC_006597.4_OR6C76_pseudogene_short_rev_153987_154535	Canis_lupus_familiaris_OR6C31P_pseudogene|NC_006597.4|153820|154907	3	6	yes	yes	yes	no	pseudogene	pseudogene	549	1088	no	no	no
+>NC_006597.4_OR11G2_pseudogene_short_fwd_18067390_18068118	Canis_lupus_familiaris_OR11H5P_pseudogene|NC_006597.4|18067390|18068336	5	7	yes	yes	yes	yes	pseudogene	pseudogene	729	947	no	no	no
+>NC_006617.4_OR2B8_functional_rev_25072862_25073836	Canis_lupus_familiaris_OR2B8_functional|NC_006617.4|25072862|25073836	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006617.4_OR2W6_functional_fwd_25003312_25004241	Canis_lupus_familiaris_OR2W6_at_functional|NC_006617.4|25003312|25004241	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006617.4_OR14J1_functional_fwd_25954903_25955868	Canis_lupus_familiaris_OR14J1_functional|NC_006617.4|25954903|25955868	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006617.4_OR2B6_pseudogene_nonsense_short_fwd_24983444_24983896	Canis_lupus_familiaris_OR2B10P_pseudogene|NC_006617.4|24983044|24983896	3	4	yes	no	yes	yes	pseudogene	pseudogene	453	853	no	no	no
+>NC_006617.4_OR2W1_functional_rev_25927210_25928151	Canis_lupus_familiaris_OR2W1_functional|NC_006617.4|25927210|25928151	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006617.4_OR10C1_functional_fwd_25994833_25995771	Canis_lupus_familiaris_OR10C1_functional|NC_006617.4|25994833|25995771	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006617.4_OR2W1_functional_rev_25889993_25890937	Canis_lupus_familiaris_OR2AD2_functional|NC_006617.4|25889993|25890937	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006617.4_OR2G6_functional_fwd_25051832_25052809	Canis_lupus_familiaris_OR2B7_functional|NC_006617.4|25051832|25052809	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006617.4_OR2B11_pseudogene_short_rev_25430667_25431302	Canis_lupus_familiaris_OR2B28P_pseudogene|NC_006617.4|25430667|25431601	5	1	yes	yes	yes	yes	pseudogene	pseudogene	636	935	no	no	yes
+>NC_006617.4_OR1F12_pseudogene_short_fwd_25094825_25095358	Canis_lupus_familiaris_OR1F41P_pseudogene|NC_006617.4|25094526|25095404	4	2	yes	no	yes	yes	pseudogene	pseudogene	534	879	no	no	yes
+>NC_006617.4_OR2W6_functional_fwd_24963569_24964507	Canis_lupus_familiaris_OR2W6_functional|NC_006617.4|24963569|24964507	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006617.4_OR2W3_pseudogene_short_fwd_25039439_25039765	Canis_lupus_familiaris_OR2W2P_pseudogene|NC_006617.4|25039346|25039760	2	2	yes	no	yes	yes	pseudogene	pseudogene	327	415	no	no	yes
+>NC_006602.4_OR1361_functional_rev_46305947_46306888	Canis_lupus_familiaris_OR1AB2_functional|NC_006602.4|46305947|46306894	7	7	yes	yes	yes	yes	functional	functional	942	948	no	no	no change
+>NC_006602.4_OR7D4_functional_rev_51296294_51297232	Canis_lupus_familiaris_OR7H5P_pseudogene|NC_006602.4|51296294|51297232	7	7	yes	yes	yes	yes	functional	pseudogene	939	939	yes	yes	no change
+>NC_006602.4_OR7C1_functional_fwd_47216618_47217580	Canis_lupus_familiaris_OR7C1B_functional|NC_006602.4|47216618|47217580	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006602.4_OR10H1_functional_rev_46407852_46408799	Canis_lupus_familiaris_OR10H1_functional|NC_006602.4|46407852|46408799	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47184747_47185715	Canis_lupus_familiaris_OR7A53_functional|NC_006602.4|47184747|47185715	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47059493_47060461	Canis_lupus_familiaris_OR7A68_functional|NC_006602.4|47059493|47060461	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR24_functional_fwd_51583899_51584840	Canis_lupus_familiaris_OR1M1B_functional|NC_006602.4|51583899|51584840	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006602.4_OR24_functional_fwd_51556268_51557209	Canis_lupus_familiaris_OR1M1_functional|NC_006602.4|51556268|51557209	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006602.4_ORPROTEINOLF4_functional_fwd_47436605_47437534	Canis_lupus_familiaris_OR7A23_functional|NC_006602.4|47436605|47437534	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_ORPROTEINOLF4_functional_fwd_47148521_47149450	Canis_lupus_familiaris_OR7A52_functional|NC_006602.4|47148521|47149450	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47174312_47175280	Canis_lupus_familiaris_OR7A54_functional|NC_006602.4|47174312|47175280	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR7D2_functional_rev_51335942_51336880	Canis_lupus_familiaris_OR7D2_functional|NC_006602.4|51335942|51336997	7	7	yes	yes	yes	yes	functional	functional	939	1056	no	no	no change
+>NC_006602.4_OR7D4_functional_rev_51321622_51322560	Canis_lupus_familiaris_OR7D4_functional|NC_006602.4|51321622|51322560	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7G3_functional_rev_51393617_51394555	Canis_lupus_familiaris_OR7G10_functional|NC_006602.4|51393617|51394555	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7C1_functional_fwd_47293712_47294662	Canis_lupus_familiaris_OR7C1_functional|NC_006602.4|47293712|47294662	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006602.4_OR7G1_functional_fwd_51477267_51478220	Canis_lupus_familiaris_OR7G14_functional|NC_006602.4|51477267|51478220	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006602.4_OR7G1_functional_fwd_51489123_51490061	Canis_lupus_familiaris_OR7G8_functional|NC_006602.4|51489123|51490061	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7G2_functional_rev_51530391_51531329	Canis_lupus_familiaris_OR7G6_functional|NC_006602.4|51530391|51531329	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7G2_functional_rev_51497790_51498806	Canis_lupus_familiaris_OR7G13_functional|NC_006602.4|51497790|51498728	7	7	yes	yes	yes	yes	functional	functional	1017	939	no	no	no change
+>NC_006602.4_OR7G1_functional_fwd_51452825_51453853	Canis_lupus_familiaris_OR7G9_functional|NC_006602.4|51452915|51453853	7	7	yes	yes	yes	yes	functional	functional	1029	939	no	no	no change
+>NC_006602.4_OR2Z1_functional_fwd_52994381_52995322	Canis_lupus_familiaris_OR2Z1_functional|NC_006602.4|52994381|52995322	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006602.4_OR10H2_functional_fwd_46393012_46393971	Canis_lupus_familiaris_OR10H5B_functional|NC_006602.4|46393012|46393971	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47480691_47481623	Canis_lupus_familiaris_OR7A60_functional|NC_006602.4|47480691|47481623	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR18_functional_fwd_51258788_51259780	Canis_lupus_familiaris_OR7E24_functional|NC_006602.4|51258788|51259780	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_006602.4_ORPROTEINOLF4_functional_fwd_47034770_47035699	Canis_lupus_familiaris_OR7A26_functional|NC_006602.4|47034710|47035699	7	7	yes	yes	yes	yes	functional	functional	930	990	no	no	no change
+>NC_006602.4_OR7A17_functional_rev_47637329_47638261	Canis_lupus_familiaris_OR7A70_functional|NC_006602.4|47637329|47638261	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47604916_47605848	Canis_lupus_familiaris_OR7A57_functional|NC_006602.4|47604916|47605848	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47492983_47493951	Canis_lupus_familiaris_OR7A63_functional|NC_006602.4|47492983|47493951	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47101968_47102921	Canis_lupus_familiaris_OR7A71_functional|NC_006602.4|47101968|47102921	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47047388_47048356	Canis_lupus_familiaris_OR7A61_functional|NC_006602.4|47047388|47048356	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47128076_47129008	Canis_lupus_familiaris_OR7A17_functional|NC_006602.4|47128076|47129008	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47277612_47278544	Canis_lupus_familiaris_OR7A65_functional|NC_006602.4|47277612|47278544	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7G1_functional_fwd_51444407_51445441	Canis_lupus_familiaris_OR7G5_functional|NC_006602.4|51444503|51445441	7	7	yes	yes	yes	yes	functional	functional	1035	939	no	no	no change
+>NC_006602.4_OR7A17_functional_rev_47522522_47523523	Canis_lupus_familiaris_OR7A64_functional|NC_006602.4|47522522|47523454	7	7	yes	yes	yes	yes	functional	functional	1002	933	no	no	no change
+>NC_006602.4_OR10H2_functional_fwd_46361158_46362117	Canis_lupus_familiaris_OR10H2_functional|NC_006602.4|46361158|46362117	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006602.4_OR10H3_functional_rev_57973172_57974101	Canis_lupus_familiaris_OR10H3_functional|NC_006602.4|57973172|57974101	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_OR10H3_functional_fwd_57966043_57966972	Canis_lupus_familiaris_OR10H4D_functional|NC_006602.4|57966043|57966972	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_OR10H3_functional_fwd_46382280_46383302	Canis_lupus_familiaris_OR10H4_functional|NC_006602.4|46382373|46383302	7	7	yes	yes	yes	yes	functional	functional	1023	930	no	no	no change
+>NC_006602.4_OR10H3_pseudogene_short_fwd_46375047_46375889	Canis_lupus_familiaris_OR10H1E_functional|NC_006602.4|46374966|46375889	7	7	yes	no	yes	yes	pseudogene	functional	843	924	no	yes	yes
+>NC_006602.4_OR7A17_pseudogene_short_fwd_47245796_47246533	Canis_lupus_familiaris_OR7A59P_pseudogene|NC_006602.4|47245796|47246737	5	7	yes	yes	yes	no	pseudogene	pseudogene	738	942	no	no	no
+>NC_006602.4_OR7A17_functional_rev_47083326_47084258	Canis_lupus_familiaris_OR7A56_functional|NC_006602.4|47083326|47084258	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47411427_47412374	Canis_lupus_familiaris_OR7A58_functional|NC_006602.4|47411427|47412374	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006602.4_OR18_functional_fwd_51268420_51269409	Canis_lupus_familiaris_OR7E153_functional|NC_006602.4|51268420|51269409	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_006602.4_OR18_functional_fwd_51289740_51290669	Canis_lupus_familiaris_OR7E154_functional|NC_006602.4|51289740|51290669	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_OR7G3_functional_rev_51507263_51508219	Canis_lupus_familiaris_OR7G7_functional|NC_006602.4|51507263|51508219	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006602.4_OR7G3_functional_fwd_51441134_51442072	Canis_lupus_familiaris_OR7G3_functional|NC_006602.4|51441134|51442072	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47588599_47589531	Canis_lupus_familiaris_OR7A51_functional|NC_006602.4|47588599|47589531	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47325889_47326821	Canis_lupus_familiaris_OR7A67_functional|NC_006602.4|47325889|47326821	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7C1_functional_rev_47011555_47012493	Canis_lupus_familiaris_OR7C19_functional|NC_006602.4|47011555|47012493	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR7A17_functional_rev_47659717_47660637	Canis_lupus_familiaris_OR7A73_functional|NC_006602.4|47659717|47660637	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47392587_47393519	Canis_lupus_familiaris_OR7A66_functional|NC_006602.4|47392587|47393519	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_ORPROTEINOLF4_functional_rev_47370250_47371179	Canis_lupus_familiaris_OR7A74_functional|NC_006602.4|47370250|47371179	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47556992_47557924	Canis_lupus_familiaris_OR7A45_functional|NC_006602.4|47556992|47557924	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006602.4_OR7A17_pseudogene_short_rev_47193276_47193740	Canis_lupus_familiaris_OR7U1P_pseudogene|NC_006602.4|47193176|47194523	3	3	yes	no	yes	no	pseudogene	pseudogene	465	1348	no	no	yes
+>NC_006602.4_OR7D4_functional_fwd_51356728_51357666	Canis_lupus_familiaris_OR7H3_functional|NC_006602.4|51356728|51357666	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006602.4_OR1I1_functional_rev_46888653_46889609	Canis_lupus_familiaris_OR1I1_functional|NC_006602.4|46888653|46889609	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006602.4_OR7C2_functional_rev_46995100_46996089	Canis_lupus_familiaris_OR7C2_functional|NC_006602.4|46995100|46996089	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_006602.4_OR7A17_pseudogene_nonsense_short_rev_47090623_47091351	Canis_lupus_familiaris_OR7C42P_pseudogene|NC_006602.4|47090522|47091447	6	7	yes	no	yes	no	pseudogene	pseudogene	729	926	no	no	no
+>NC_006602.4_OR7A17_pseudogene_nonsense_short_rev_47677323_47677862	Canis_lupus_familiaris_OR7C29P_pseudogene|NC_006602.4|47676926|47677862	2	6	yes	yes	yes	yes	pseudogene	pseudogene	540	937	no	no	no
+>NC_006602.4_OR7A17_functional_fwd_47511450_47512418	Canis_lupus_familiaris_OR7A62_functional|NC_006602.4|47511450|47512418	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006602.4_OR7A17_functional_fwd_47456311_47457264	Canis_lupus_familiaris_OR7A55_functional|NC_006602.4|47456311|47457264	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006602.4_OR7A10_pseudogene_nonsense_fwd_47349017_47350084	Canis_lupus_familiaris_OR7A280P_pseudogene|NC_006602.4|47349132|47350084	5	2	yes	yes	yes	yes	pseudogene	pseudogene	1068	953	no	no	yes
+>NC_006602.4_OR7D4_functional_fwd_51137813_51138748	Canis_lupus_familiaris_OR7D7_functional|NC_006602.4|51137813|51138748	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006602.4_OR18_functional_fwd_51279410_51280447	Canis_lupus_familiaris_OR7E181_functional|NC_006602.4|51279410|51280447	7	7	yes	yes	yes	yes	functional	functional	1038	1038	yes	no	no change
+>NC_006602.4_OR7A17_pseudogene_short_fwd_47282752_47283072	Canis_lupus_familiaris_OR7A25P_pseudogene|NC_006602.4|47282695|47283565	3	4	yes	no	yes	yes	pseudogene	pseudogene	321	871	no	no	no
+>NC_006602.4_VN1R48_functional_rev_4207262_4208188	Canis_lupus_familiaris_VN1R90_functional|NC_006602.4|4207262|4208188	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006602.4_OR10T2_functional_fwd_46844065_46845060	Canis_lupus_familiaris_OR10T2_functional|NC_006602.4|46844065|46845060	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_006602.4_OR1361_functional_rev_46427723_46428658	Canis_lupus_familiaris_OR1AE1_functional|NC_006602.4|46427723|46428658	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006602.4_OR18_pseudogene_nonsense_fwd_51248248_51249237	Canis_lupus_familiaris_OR7E180P_pseudogene|NC_006602.4|51248396|51249248	4	4	yes	no	yes	yes	pseudogene	pseudogene	990	853	no	no	yes
+>NC_006602.4_RHO_functional_rev_5669643_5674903	Canis_lupus_familiaris_RHO_functional|NC_006602.4|5674903|5669643	7	7	yes	yes	yes	yes	functional	functional	1047	1077	no	no	no change
+>NC_006620.4_OR10Z1_functional_rev_23144871_23145812	Canis_lupus_familiaris_OR10Z1_functional|NC_006620.4|23144871|23145812	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006620.4_OR6P1_functional_fwd_23180677_23181633	Canis_lupus_familiaris_OR6P1_functional|NC_006620.4|23180677|23181633	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006620.4_OR10J6_functional_rev_22549117_22550040	Canis_lupus_familiaris_OR10J14_functional|NC_006620.4|22549117|22550040	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006620.4_OR6K3_functional_fwd_23032015_23032965	Canis_lupus_familiaris_OR6K5_functional|NC_006620.4|23032015|23032965	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006620.4_OR10K2_functional_fwd_23261366_23262310	Canis_lupus_familiaris_OR10K2_functional|NC_006620.4|23261366|23262310	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006620.4_OR10J5_functional_fwd_22608002_22608961	Canis_lupus_familiaris_OR10J5_functional|NC_006620.4|22608002|22608961	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006620.4_OR10T2_functional_fwd_23248726_23249670	Canis_lupus_familiaris_OR10T1_functional|NC_006620.4|23248726|23249670	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006620.4_OR10X1_functional_fwd_23168807_23169739	Canis_lupus_familiaris_OR10X1_functional|NC_006620.4|23168798|23169739	7	7	yes	yes	yes	yes	functional	functional	933	942	no	no	no change
+>NC_006620.4_OR6K2_functional_fwd_23065822_23066787	Canis_lupus_familiaris_OR6K2_functional|NC_006620.4|23065822|23066787	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006620.4_OR6K6_functional_rev_23019188_23020147	Canis_lupus_familiaris_OR6K6_functional|NC_006620.4|23019188|23020147	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006620.4_OR6Y1_pseudogene_short_fwd_23191087_23191581	Canis_lupus_familiaris_OR6Y1P_pseudogene|NC_006620.4|23190649|23191563	3	7	yes	no	yes	no	pseudogene	pseudogene	495	915	no	no	no
+>NC_006620.4_OR10R2_functional_rev_23227803_23228744	Canis_lupus_familiaris_OR10R3C_functional|NC_006620.4|23227803|23228744	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006620.4_OR10T2_functional_fwd_23279305_23280252	Canis_lupus_familiaris_OR10T2_au_functional|NC_006620.4|23279305|23280252	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006620.4_OR6N2_functional_fwd_22997346_22998299	Canis_lupus_familiaris_OR6N2_functional|NC_006620.4|22997346|22998299	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006620.4_OR6N1_functional_fwd_23008889_23009839	Canis_lupus_familiaris_OR6N1_functional|NC_006620.4|23008889|23009839	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006620.4_OR6K3_functional_fwd_23055735_23056682	Canis_lupus_familiaris_OR6K8_functional|NC_006620.4|23055735|23056682	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006620.4_OR10C1_functional_fwd_22983425_22984369	Canis_lupus_familiaris_OR10AA5_functional|NC_006620.4|22983425|22984369	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006620.4_OR10J1_functional_fwd_22723328_22724260	Canis_lupus_familiaris_OR10J2_functional|NC_006620.4|22723328|22724260	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006620.4_OR10C1_functional_fwd_22973779_22974723	Canis_lupus_familiaris_OR10AA2_functional|NC_006620.4|22973779|22974723	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006620.4_OR10J4_functional_rev_22667250_22668185	Canis_lupus_familiaris_OR10J4_functional|NC_006620.4|22667250|22668185	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006620.4_OR10J1_pseudogene_short_rev_22659639_22660010	Canis_lupus_familiaris_OR10J24P_pseudogene|NC_006620.4|22659260|22660150	3	5	yes	no	yes	yes	pseudogene	pseudogene	372	891	no	no	no
+>NC_006620.4_OR10J4_pseudogene_short_fwd_22687685_22688278	Canis_lupus_familiaris_OR10AJ1P_pseudogene|NC_006620.4|22687685|22688111	3	2	yes	yes	yes	no	pseudogene	pseudogene	594	427	no	no	yes
+>NC_006620.4_OR10R2_pseudogene_short_rev_23200975_23201295	Canis_lupus_familiaris_OR10R6P_pseudogene|NC_006620.4|23200538|23201451	3	4	yes	no	yes	no	pseudogene	pseudogene	321	914	no	no	no
+>NC_006607.4_OR6B2_functional_rev_50485611_50486549	Canis_lupus_familiaris_OR6B2_functional|NC_006607.4|50485611|50486549	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006607.4_OR9S25_pseudogene_short_fwd_50741036_50741848	Canis_lupus_familiaris_OR9S23P_pseudogene|NC_006607.4|50741066|50741987	6	6	yes	yes	yes	yes	pseudogene	pseudogene	813	922	no	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50544171_50545120	Canis_lupus_familiaris_OR9S22_functional|NC_006607.4|50544170|50545120	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50722494_50723443	Canis_lupus_familiaris_OR12_ak_functional|NC_006607.4|50722493|50723443	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR6B2_functional_rev_50478863_50479801	Canis_lupus_familiaris_OR6B2C_functional|NC_006607.4|50478863|50479801	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50610288_50611238	Canis_lupus_familiaris_OR9S19_functional|NC_006607.4|50610288|50611238	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50648577_50649527	Canis_lupus_familiaris_OR9S20_functional|NC_006607.4|50648577|50649527	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50593966_50594916	Canis_lupus_familiaris_OR12_functional|NC_006607.4|50593966|50594916	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50621813_50622763	Canis_lupus_familiaris_OR9S26_functional|NC_006607.4|50621813|50622763	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50553527_50554476	Canis_lupus_familiaris_OR9S6_functional|NC_006607.4|50553526|50554476	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50671920_50672870	Canis_lupus_familiaris_OR9S5_functional|NC_006607.4|50671920|50672870	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50694682_50695632	Canis_lupus_familiaris_OR9S16_functional|NC_006607.4|50694682|50695632	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006607.4_OR9S25_functional_fwd_50661675_50662643	Canis_lupus_familiaris_OR9S12_functional|NC_006607.4|50661675|50662643	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006603.4_OR51A4_functional_rev_27677591_27678544	Canis_lupus_familiaris_OR51AC4_functional|NC_006603.4|27677591|27678544	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR51H1_functional_rev_27061417_27062370	Canis_lupus_familiaris_OR51H1_functional|NC_006603.4|27061417|27062370	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR51L1_functional_fwd_27202065_27203012	Canis_lupus_familiaris_OR51L1_functional|NC_006603.4|27202050|27203012	7	7	yes	yes	yes	yes	functional	functional	948	963	no	no	no change
+>NC_006603.4_OR56A4_functional_rev_29010305_29011264	Canis_lupus_familiaris_OR56A4C_functional|NC_006603.4|29010305|29011264	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR56A4_functional_fwd_28874356_28875297	Canis_lupus_familiaris_OR56A4_functional|NC_006603.4|28874356|28875297	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR56A4_functional_rev_29017183_29018124	Canis_lupus_familiaris_OR56A4B_functional|NC_006603.4|29017183|29018190	7	7	yes	yes	yes	yes	functional	functional	942	1008	no	no	no change
+>NC_006603.4_OR52D1_functional_rev_27464475_27465419	Canis_lupus_familiaris_OR52D1_functional|NC_006603.4|27464475|27465419	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR51B11P_pseudogene_short_rev_27964375_27964677	Canis_lupus_familiaris_OR51B11P_pseudogene|NC_006603.4|27963879|27964890	2	6	yes	no	yes	no	pseudogene	pseudogene	303	1012	no	no	no
+>NC_006603.4_OR52B23P_pseudogene_nonsense_fwd_28347074_28347979	Canis_lupus_familiaris_OR52B23P_pseudogene|NC_006603.4|28347074|28347979	7	7	yes	yes	yes	yes	pseudogene	pseudogene	906	906	yes	no	no change
+>NC_006603.4_OR52K1_pseudogene_short_rev_26415623_26416171	Canis_lupus_familiaris_OR55B4P_pseudogene|NC_006603.4|26415211|26416171	4	3	yes	yes	yes	no	pseudogene	pseudogene	549	961	no	no	yes
+>NC_006603.4_OR51F1_functional_fwd_26889051_26890037	Canis_lupus_familiaris_OR51F2_functional|NC_006603.4|26889051|26890037	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_006603.4_OR51G1_functional_rev_27520148_27521137	Canis_lupus_familiaris_OR51L2_functional|NC_006603.4|27520148|27521116	7	7	yes	yes	yes	yes	functional	functional	990	969	no	no	no change
+>NC_006603.4_OR52N1_functional_rev_28711328_28712317	Canis_lupus_familiaris_OR52N1_functional|NC_006603.4|28711328|28712290	7	7	yes	yes	yes	yes	functional	functional	990	963	no	no	no change
+>NC_006603.4_OR51G2_functional_rev_27617462_27618409	Canis_lupus_familiaris_OR51AG3_functional|NC_006603.4|27617462|27618409	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR10A5_functional_fwd_30070980_30071933	Canis_lupus_familiaris_OR10A5F_functional|NC_006603.4|30070980|30071933	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR10A5_functional_fwd_30087232_30088389	Canis_lupus_familiaris_OR10A5_functional|NC_006603.4|30087436|30088389	7	7	yes	yes	yes	yes	functional	functional	1158	954	no	no	no change
+>NC_006603.4_OR10A6_functional_rev_31042301_31043245	Canis_lupus_familiaris_OR10A3E_functional|NC_006603.4|31042301|31043245	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR10A6_functional_rev_31061514_31062458	Canis_lupus_familiaris_OR10A3_functional|NC_006603.4|31061514|31062458	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR2AT4_functional_fwd_23195923_23196873	Canis_lupus_familiaris_OR2AT2B_functional|NC_006603.4|23195923|23196873	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR51G2_functional_rev_27119982_27120923	Canis_lupus_familiaris_OR51G2_functional|NC_006603.4|27119982|27120923	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR51I2_functional_rev_28304483_28305523	Canis_lupus_familiaris_OR51I2P_pseudogene|NC_006603.4|28304483|28305421	7	7	yes	yes	yes	yes	functional	pseudogene	1041	939	no	yes	no change
+>NC_006603.4_OR51S1_functional_rev_27022439_27023365	Canis_lupus_familiaris_OR51S1_functional|NC_006603.4|27022439|27023404	7	7	yes	yes	yes	yes	functional	functional	927	966	no	no	no change
+>NC_006603.4_OR52A1_functional_rev_27786684_27787622	Canis_lupus_familiaris_OR52A1_functional|NC_006603.4|27786684|27787622	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR52A1_pseudogene_nonsense_short_rev_27836738_27837538	Canis_lupus_familiaris_OR52A1BP_pseudogene|NC_006603.4|27836730|27837658	7	7	yes	yes	yes	no	pseudogene	pseudogene	801	929	no	no	yes
+>NC_006603.4_OR52E8_functional_rev_28813554_28814495	Canis_lupus_familiaris_OR52E8C_functional|NC_006603.4|28813554|28814507	7	7	yes	yes	yes	yes	functional	functional	942	954	no	no	no change
+>NC_006603.4_OR52H1_functional_fwd_28147399_28148355	Canis_lupus_familiaris_OR52H1_functional|NC_006603.4|28147399|28148355	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR52H1_functional_fwd_28180586_28181542	Canis_lupus_familiaris_OR52H1B_functional|NC_006603.4|28180586|28181542	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR52J3_functional_fwd_27260820_27261758	Canis_lupus_familiaris_OR52J3_functional|NC_006603.4|27260820|27261758	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR52J3_functional_fwd_27342066_27343001	Canis_lupus_familiaris_OR52J1_functional|NC_006603.4|27342066|27343001	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR52L1_functional_rev_29068196_29069095	Canis_lupus_familiaris_OR52L2_functional|NC_006603.4|29068196|29069149	7	7	yes	yes	yes	yes	functional	functional	900	954	no	no	no change
+>NC_006603.4_OR52L1_functional_rev_29124366_29125259	Canis_lupus_familiaris_OR52L1_functional|NC_006603.4|29124366|29125313	7	7	yes	yes	yes	yes	functional	functional	894	948	no	no	no change
+>NC_006603.4_OR52M1_functional_rev_26464357_26465310	Canis_lupus_familiaris_OR52M1_functional|NC_006603.4|26464357|26465310	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR52N4_functional_fwd_28626687_28627652	Canis_lupus_familiaris_OR52N4_functional|NC_006603.4|28626687|28627652	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006603.4_OR52N4_functional_fwd_28585073_28586065	Canis_lupus_familiaris_OR52N4F_functional|NC_006603.4|28585100|28586065	7	7	yes	yes	yes	yes	functional	functional	993	966	no	no	no change
+>NC_006603.4_OR56A1_functional_rev_29055554_29056498	Canis_lupus_familiaris_OR56A1B_functional|NC_006603.4|29055554|29056498	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR56A1_functional_rev_29039569_29040513	Canis_lupus_familiaris_OR56A1_functional|NC_006603.4|29039569|29040513	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR56A3_functional_fwd_28986693_28987634	Canis_lupus_familiaris_OR56A3_functional|NC_006603.4|28986693|28987634	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR56B3P_functional_fwd_29094383_29095348	Canis_lupus_familiaris_OR56B6_functional|NC_006603.4|29094383|29095348	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006603.4_OR481_functional_fwd_30929553_30930491	Canis_lupus_familiaris_OR5P5_functional|NC_006603.4|30929553|30930491	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR51A7_functional_rev_27162992_27163945	Canis_lupus_familiaris_OR51A23P_pseudogene|NC_006603.4|27162992|27163957	7	7	yes	no	yes	yes	functional	pseudogene	954	966	no	yes	yes
+>NC_006603.4_OR51G2_functional_rev_27608562_27609512	Canis_lupus_familiaris_OR51G4_functional|NC_006603.4|27608562|27609512	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR502_functional_rev_30974280_30975224	Canis_lupus_familiaris_OR5P6_functional|NC_006603.4|30974280|30975224	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52W1_functional_fwd_29238354_29239316	Canis_lupus_familiaris_OR52W1_functional|NC_006603.4|29238354|29239316	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006603.4_OR52K1_functional_rev_27454696_27455640	Canis_lupus_familiaris_OR52AD1_functional|NC_006603.4|27454696|27455640	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52A1_functional_fwd_27431813_27432841	Canis_lupus_familiaris_OR52AB2_functional|NC_006603.4|27431891|27432841	7	7	yes	yes	yes	yes	functional	functional	1029	951	no	no	no change
+>NC_006603.4_OR2D3_functional_rev_29854460_29855383	Canis_lupus_familiaris_OR2D4_functional|NC_006603.4|29854460|29855383	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006603.4_OR52D1_functional_fwd_28202746_28203765	Canis_lupus_familiaris_OR52V2_functional|NC_006603.4|28202746|28203765	7	7	yes	yes	yes	yes	functional	functional	1020	1020	yes	no	no change
+>NC_006603.4_OR52E4_pseudogene_short_fwd_28784657_28785328	Canis_lupus_familiaris_OR52E18P_pseudogene|NC_006603.4|28784657|28785612	5	7	yes	yes	yes	no	pseudogene	pseudogene	672	956	no	no	no
+>NC_006603.4_OR52E8_functional_fwd_28836484_28837428	Canis_lupus_familiaris_OR52E7_functional|NC_006603.4|28836484|28837428	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR56A3_functional_fwd_28919079_28920023	Canis_lupus_familiaris_OR56A3E_functional|NC_006603.4|28919079|28920023	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52B4_functional_fwd_26502196_26503140	Canis_lupus_familiaris_OR52B4_q_functional|NC_006603.4|26502196|26503140	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52E1_pseudogene_short_fwd_27355701_27356069	Canis_lupus_familiaris_OR52E11P_pseudogene|NC_006603.4|27355521|27356463	3	4	yes	yes	yes	yes	pseudogene	pseudogene	369	943	no	no	no
+>NC_006603.4_OR52D1_functional_rev_28250659_28251615	Canis_lupus_familiaris_OR52D1_aa_functional|NC_006603.4|28250659|28251615	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR56A3_pseudogene_short_fwd_28952495_28953097	Canis_lupus_familiaris_OR56A12_pseudogene|NC_006603.4|28952138|28953097	4	7	yes	yes	yes	yes	pseudogene	pseudogene	603	960	no	no	no
+>NC_006603.4_OR56A3_functional_fwd_28962415_28963362	Canis_lupus_familiaris_OR56A3D_functional|NC_006603.4|28962415|28963362	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR51B6_functional_fwd_27998519_27999457	Canis_lupus_familiaris_OR51B6_functional|NC_006603.4|27998519|27999457	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR481_functional_fwd_30938439_30939377	Canis_lupus_familiaris_OR5P4_functional|NC_006603.4|30938439|30939377	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR51G1_functional_rev_27129102_27130061	Canis_lupus_familiaris_OR51G1_functional|NC_006603.4|27129102|27130061	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR52N4_functional_fwd_28639329_28640294	Canis_lupus_familiaris_OR52N4G_functional|NC_006603.4|28639329|28640294	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006603.4_OR51H1_functional_fwd_27048965_27049921	Canis_lupus_familiaris_OR51H5_functional|NC_006603.4|27048965|27049921	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR51Q1_pseudogene_short_rev_28012425_28013153	Canis_lupus_familiaris_OR51Q2P_pseudogene|NC_006603.4|28012269|28013367	6	1	yes	no	yes	no	pseudogene	pseudogene	729	1099	no	no	yes
+>NC_006603.4_OR51V1_functional_rev_27601448_27602389	Canis_lupus_familiaris_OR51V22_functional|NC_006603.4|27601448|27602389	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR51F1_functional_rev_26938960_26939937	Canis_lupus_familiaris_OR51F1_functional|NC_006603.4|26938960|26939937	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006603.4_OR51E2_functional_rev_26863707_26864669	Canis_lupus_familiaris_OR51E2_functional|NC_006603.4|26863707|26864678	7	7	yes	yes	yes	yes	functional	functional	963	972	no	no	no change
+>NC_006603.4_OR56A3_pseudogene_short_rev_28882485_28882919	Canis_lupus_familiaris_OR56A6P_pseudogene|NC_006603.4|28881971|28882919	3	4	yes	yes	yes	no	pseudogene	pseudogene	435	949	no	no	no
+>NC_006603.4_OR56A3_functional_fwd_28900804_28901751	Canis_lupus_familiaris_OR56A9_functional|NC_006603.4|28900804|28901751	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR51H2_functional_fwd_27075308_27076195	Canis_lupus_familiaris_OR51H2_functional|NC_006603.4|27075245|27076195	7	7	yes	yes	yes	yes	functional	functional	888	951	no	no	no change
+>NC_006603.4_OR52E4_functional_rev_27379648_27380595	Canis_lupus_familiaris_OR52E22_functional|NC_006603.4|27379648|27380595	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR2AG1_functional_fwd_29793862_29794812	Canis_lupus_familiaris_OR2AG1_functional|NC_006603.4|29793862|29794812	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR2AG1_functional_fwd_29823544_29824476	Canis_lupus_familiaris_OR2AG1D_functional|NC_006603.4|29823544|29824476	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006603.4_OR2AG1_functional_fwd_29802668_29803618	Canis_lupus_familiaris_OR2AG1C_functional|NC_006603.4|29802668|29803618	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR51I2_functional_fwd_28292292_28293236	Canis_lupus_familiaris_OR51A10_functional|NC_006603.4|28292292|28293236	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR51A4_functional_rev_27141535_27142476	Canis_lupus_familiaris_OR51A4_functional|NC_006603.4|27141535|27142476	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR51B5_functional_rev_27979240_27980178	Canis_lupus_familiaris_OR51B5_functional|NC_006603.4|27979240|27980178	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR51E1_functional_fwd_26806997_26807950	Canis_lupus_familiaris_OR51E1_functional|NC_006603.4|26806997|26807950	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR51M1_functional_fwd_28033099_28034091	Canis_lupus_familiaris_OR51M1_functional|NC_006603.4|28033099|28034091	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_006603.4_OR51G2_functional_fwd_26567146_26568099	Canis_lupus_familiaris_OR51R1_functional|NC_006603.4|26567146|26568099	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR51T1_functional_fwd_27083057_27084040	Canis_lupus_familiaris_OR51T1_functional|NC_006603.4|27083057|27084040	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006603.4_OR52B2_functional_rev_29207019_29207987	Canis_lupus_familiaris_OR52B2_functional|NC_006603.4|29207019|29207987	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006603.4_OR52B4_functional_rev_26489318_26490280	Canis_lupus_familiaris_OR52B4_functional|NC_006603.4|26489318|26490280	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006603.4_OR52B4_pseudogene_short_fwd_28402167_28402745	Canis_lupus_familiaris_OR52B4BP_pseudogene|NC_006603.4|28401784|28402742	4	6	yes	yes	yes	no	pseudogene	pseudogene	579	959	no	no	no
+>NC_006603.4_OR52D1_functional_rev_28237134_28238090	Canis_lupus_familiaris_OR52D1_z_functional|NC_006603.4|28237134|28238090	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR52E1_functional_fwd_27318025_27318966	Canis_lupus_familiaris_OR52E1_functional|NC_006603.4|27318025|27318966	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR52E2_pseudogene_short_fwd_27336721_27337578	Canis_lupus_familiaris_OR52E2B_functional|NC_006603.4|27336646|27337578	7	7	yes	no	yes	yes	pseudogene	functional	858	933	no	yes	yes
+>NC_006603.4_OR52E4_functional_fwd_28844066_28845001	Canis_lupus_familiaris_OR52E4B_functional|NC_006603.4|28844066|28845001	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR52E4_functional_rev_28830755_28831690	Canis_lupus_familiaris_OR52E4_af_functional|NC_006603.4|28830755|28831690	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR52E5_functional_fwd_28856940_28857881	Canis_lupus_familiaris_OR52E5_functional|NC_006603.4|28856940|28857881	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR52E8_functional_rev_28824054_28824995	Canis_lupus_familiaris_OR52E8_ae_functional|NC_006603.4|28824054|28824995	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR52H1_functional_fwd_28174288_28175259	Canis_lupus_familiaris_OR52H1_y_functional|NC_006603.4|28174288|28175259	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006603.4_OR52H1_functional_rev_28333178_28334119	Canis_lupus_familiaris_OR52H1C_functional|NC_006603.4|28333178|28334119	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR52I2_functional_fwd_26760361_26761335	Canis_lupus_familiaris_OR52I1_functional|NC_006603.4|26760361|26761335	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006603.4_OR52K2_functional_fwd_26643175_26644119	Canis_lupus_familiaris_OR52K1_functional|NC_006603.4|26643175|26644119	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52K2_functional_fwd_26623505_26624407	Canis_lupus_familiaris_OR52K1B_functional|NC_006603.4|26623457|26624407	7	7	yes	yes	yes	yes	functional	functional	903	951	no	no	no change
+>NC_006603.4_OR52N2_functional_fwd_28754434_28755405	Canis_lupus_familiaris_OR52N2_ac_functional|NC_006603.4|28754434|28755405	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006603.4_OR52N2_functional_fwd_28742879_28743841	Canis_lupus_familiaris_OR52N2G_functional|NC_006603.4|28742879|28743841	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006603.4_OR52N4_pseudogene_nonsense_short_fwd_28776172_28776726	Canis_lupus_familiaris_OR52AA1P_pseudogene|NC_006603.4|28776189|28776812	3	2	yes	yes	yes	no	pseudogene	pseudogene	555	624	no	no	yes
+>NC_006603.4_OR52R1_functional_rev_26989021_26990006	Canis_lupus_familiaris_OR52R1_functional|NC_006603.4|26989021|26990007	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_006603.4_OR52Z1_functional_rev_27862159_27863118	Canis_lupus_familiaris_OR52Z1_w_functional|NC_006603.4|27862159|27863130	7	7	yes	yes	yes	yes	functional	functional	960	972	no	no	no change
+>NC_006603.4_OR6A2_functional_rev_29925295_29926278	Canis_lupus_familiaris_OR6A2_functional|NC_006603.4|29925295|29926278	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006603.4_OR51B2_functional_rev_27958753_27959688	Canis_lupus_familiaris_OR51B18_functional|NC_006603.4|27958753|27959688	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR52H1_functional_fwd_28160611_28161552	Canis_lupus_familiaris_OR52H1_x_functional|NC_006603.4|28160611|28161552	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR56B2_functional_fwd_28664013_28664972	Canis_lupus_familiaris_OR56B2_functional|NC_006603.4|28664013|28664972	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR56B2_functional_fwd_28674229_28675188	Canis_lupus_familiaris_OR56B2C_functional|NC_006603.4|28674229|28675188	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR51G2_functional_fwd_27215556_27216497	Canis_lupus_familiaris_OR51P1_functional|NC_006603.4|27215556|27216497	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR52E2_functional_rev_27305791_27306729	Canis_lupus_familiaris_OR52E2_v_functional|NC_006603.4|27305791|27306729	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR56B4_pseudogene_short_fwd_29147727_29148146	Canis_lupus_familiaris_OR56B39P_pseudogene|NC_006603.4|29147790|29148678	2	3	yes	no	yes	no	pseudogene	pseudogene	420	889	no	no	no
+>NC_006603.4_OR52E8_functional_rev_28790880_28791821	Canis_lupus_familiaris_OR52E8_functional|NC_006603.4|28790880|28791821	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR51B2_functional_rev_27971295_27972227	Canis_lupus_familiaris_OR51B10_functional|NC_006603.4|27971295|27972227	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006603.4_OR52N4_functional_fwd_28653243_28654112	Canis_lupus_familiaris_OR52N4K_functional|NC_006603.4|28653237|28654112	7	7	yes	yes	yes	yes	functional	functional	870	876	no	no	no change
+>NC_006603.4_OR6_functional_rev_29893360_29894316	Canis_lupus_familiaris_OR6B9_functional|NC_006603.4|29893360|29894316	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR51A4_pseudogene_nonsense_rev_27172296_27173306	Canis_lupus_familiaris_OR51A48P_pseudogene|NC_006603.4|27172296|27173176	5	1	yes	no	yes	yes	pseudogene	pseudogene	1011	881	no	no	yes
+>NC_006603.4_OR2D3_functional_rev_29833733_29834665	Canis_lupus_familiaris_OR2D3G_functional|NC_006603.4|29833733|29834665	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006603.4_OR51I2_pseudogene_short_fwd_28275157_28275513	Canis_lupus_familiaris_OR51A42P_pseudogene|NC_006603.4|28275073|28276013	3	4	yes	yes	yes	yes	pseudogene	pseudogene	357	941	no	no	no
+>NC_006603.4_OR51I2_functional_rev_28095806_28096750	Canis_lupus_familiaris_OR51K1_functional|NC_006603.4|28095806|28096750	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR2D3_functional_fwd_30006774_30007643	Canis_lupus_familiaris_OR2D3H_pseudogene|NC_006603.4|30006774|30007643	6	6	yes	yes	yes	yes	functional	pseudogene	870	870	yes	yes	no change
+>NC_006603.4_OR52H1_functional_fwd_28505261_28506208	Canis_lupus_familiaris_OR52H7_functional|NC_006603.4|28505261|28506208	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR51F2_functional_rev_26872353_26873297	Canis_lupus_familiaris_OR51F23_functional|NC_006603.4|26872353|26873297	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52E8_functional_rev_28803159_28804097	Canis_lupus_familiaris_OR52E8_ad_functional|NC_006603.4|28803159|28804097	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR56B1_functional_fwd_28605015_28605986	Canis_lupus_familiaris_OR56B1_functional|NC_006603.4|28605015|28605986	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006603.4_OR51I2_functional_fwd_28263789_28264736	Canis_lupus_familiaris_OR51A24_functional|NC_006603.4|28263789|28264736	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR2D3_functional_fwd_30144145_30145089	Canis_lupus_familiaris_OR2D3_functional|NC_006603.4|30144145|30145089	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52M1_functional_rev_26666040_26666993	Canis_lupus_familiaris_OR52M2_functional|NC_006603.4|26666040|26666993	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR10T2_functional_fwd_30965027_30965992	Canis_lupus_familiaris_OR10AB3_functional|NC_006603.4|30965027|30965992	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006603.4_OR10T2_functional_rev_30948427_30949395	Canis_lupus_familiaris_OR10AB2_functional|NC_006603.4|30948427|30949395	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006603.4_OR2D3_functional_fwd_29782884_29783807	Canis_lupus_familiaris_OR2D37_functional|NC_006603.4|29782884|29783807	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006603.4_OR52A5_functional_fwd_27749622_27750572	Canis_lupus_familiaris_OR52A5_functional|NC_006603.4|27749622|27750572	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR52A5_functional_fwd_27718423_27719373	Canis_lupus_familiaris_OR52A18_functional|NC_006603.4|27718423|27719373	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR52A5_functional_fwd_27731363_27732313	Canis_lupus_familiaris_OR52A5C_functional|NC_006603.4|27731363|27732313	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR2AT4_functional_fwd_23201140_23202078	Canis_lupus_familiaris_OR2AT2_functional|NC_006603.4|23201140|23202078	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR51A7_functional_fwd_27016197_27017156	Canis_lupus_familiaris_OR51A8_functional|NC_006603.4|27016215|27017156	7	7	yes	yes	yes	yes	functional	functional	960	942	no	no	no change
+>NC_006603.4_OR51A7_functional_fwd_27226206_27227105	Canis_lupus_familiaris_OR51A18_functional|NC_006603.4|27226206|27227105	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_006603.4_OR52H1_functional_fwd_28493382_28494371	Canis_lupus_familiaris_OR52H9_functional|NC_006603.4|28493202|28494371	7	7	yes	yes	yes	yes	functional	functional	990	1170	no	no	no change
+>NC_006603.4_OR56A4_pseudogene_short_rev_28995874_28996545	Canis_lupus_familiaris_OR56A43P_pseudogene|NC_006603.4|28995874|28996545	5	5	yes	yes	yes	yes	pseudogene	pseudogene	672	672	yes	no	no change
+>NC_006603.4_OR52B4_functional_fwd_26520448_26521407	Canis_lupus_familiaris_OR52B4_r_functional|NC_006603.4|26520448|26521407	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR51B4_functional_rev_27945208_27946143	Canis_lupus_familiaris_OR51B4_functional|NC_006603.4|27945208|27946143	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR52E4_functional_fwd_28533947_28534924	Canis_lupus_familiaris_OR52U1_functional|NC_006603.4|28533947|28534924	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006603.4_OR52E4_functional_fwd_28546013_28546990	Canis_lupus_familiaris_OR52U1C_functional|NC_006603.4|28546013|28546990	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006603.4_OR2D3_functional_fwd_30185802_30186746	Canis_lupus_familiaris_OR2D3E_functional|NC_006603.4|30185802|30186746	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52P1_functional_fwd_28577091_28578071	Canis_lupus_familiaris_OR52P1_functional|NC_006603.4|28577091|28578071	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_006603.4_OR51V1_functional_fwd_27799047_27799988	Canis_lupus_familiaris_OR51V21_functional|NC_006603.4|27799047|27799988	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006603.4_OR2AT4_pseudogene_nonsense_short_fwd_23180868_23181587	Canis_lupus_familiaris_OR2AT8P_pseudogene|NC_006603.4|23180872|23181563	5	1	yes	no	yes	no	pseudogene	pseudogene	720	692	no	no	yes
+>NC_006603.4_OR52H1_functional_rev_28353575_28354525	Canis_lupus_familiaris_OR52H4_functional|NC_006603.4|28353575|28354525	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR52A1_functional_fwd_27489101_27490051	Canis_lupus_familiaris_OR52AB3_functional|NC_006603.4|27489101|27490051	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR56B2_functional_fwd_28683577_28684536	Canis_lupus_familiaris_OR56B2D_ab_functional|NC_006603.4|28683577|28684536	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR52A1_functional_fwd_27441903_27442835	Canis_lupus_familiaris_OR52AB4_functional|NC_006603.4|27441888|27442835	7	7	yes	yes	yes	yes	functional	functional	933	948	no	no	no change
+>NC_006603.4_OR52P1_functional_rev_27773262_27774215	Canis_lupus_familiaris_OR52AE1_functional|NC_006603.4|27773262|27774215	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR52P1_functional_rev_28557194_28558129	Canis_lupus_familiaris_OR52AC1_functional|NC_006603.4|28557194|28558129	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR51Q1_functional_fwd_28079479_28080426	Canis_lupus_familiaris_OR51Q1F_functional|NC_006603.4|28079479|28080426	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006603.4_OR52D1_functional_rev_27475323_27476267	Canis_lupus_familiaris_OR52X3_functional|NC_006603.4|27475323|27476267	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR51L1_functional_fwd_27535089_27536048	Canis_lupus_familiaris_OR51L5_functional|NC_006603.4|27535089|27536048	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR52K2_functional_rev_27394372_27395328	Canis_lupus_familiaris_OR52S2_functional|NC_006603.4|27394372|27395328	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR52P1_functional_rev_27757167_27758120	Canis_lupus_familiaris_OR52AE11P_pseudogene|NC_006603.4|27757167|27758120	7	7	yes	yes	yes	yes	functional	pseudogene	954	954	yes	yes	no change
+>NC_006603.4_OR51L1_functional_rev_27509335_27510294	Canis_lupus_familiaris_OR51L4_functional|NC_006603.4|27509335|27510294	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006603.4_OR51Q1_functional_fwd_28086146_28087099	Canis_lupus_familiaris_OR51Q1_functional|NC_006603.4|28086146|28087099	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR52B2_pseudogene_short_rev_29200104_29200457	Canis_lupus_familiaris_OR52B22P_pseudogene|NC_006603.4|29199605|29200532	4	4	yes	no	yes	no	pseudogene	pseudogene	354	928	no	no	yes
+>NC_006603.4_OR51I2_functional_rev_26828611_26829573	Canis_lupus_familiaris_OR51A21_functional|NC_006603.4|26828611|26829573	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006603.4_OR51V1_functional_rev_27702210_27703154	Canis_lupus_familiaris_OR51V1B_functional|NC_006603.4|27702210|27703154	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR51I2_functional_rev_26841443_26842405	Canis_lupus_familiaris_OR51A25_functional|NC_006603.4|26841443|26842405	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006603.4_OR52L1_functional_rev_26404600_26405631	Canis_lupus_familiaris_OR55B1_functional|NC_006603.4|26404600|26405631	7	7	yes	yes	yes	yes	functional	functional	1032	1032	yes	no	no change
+>NC_006603.4_OR6_functional_rev_29914273_29915217	Canis_lupus_familiaris_OR6B6_functional|NC_006603.4|29914273|29915217	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR51L1_functional_fwd_28042482_28043435	Canis_lupus_familiaris_OR51AI5_functional|NC_006603.4|28042482|28043435	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR51A7_functional_rev_27088886_27089821	Canis_lupus_familiaris_OR51A6_functional|NC_006603.4|27088886|27089821	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR51I2_functional_fwd_28051710_28052645	Canis_lupus_familiaris_OR51K2_functional|NC_006603.4|28051710|28052645	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006603.4_OR51B6_functional_fwd_28005200_28006153	Canis_lupus_familiaris_OR51B9_functional|NC_006603.4|28005200|28006153	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006603.4_OR52J3_functional_fwd_27273411_27274349	Canis_lupus_familiaris_OR52J3_u_functional|NC_006603.4|27273411|27274349	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006603.4_OR52D1_pseudogene_short_rev_27401313_27402050	Canis_lupus_familiaris_OR52S21P_pseudogene|NC_006603.4|27401288|27402221	5	6	yes	yes	yes	yes	pseudogene	pseudogene	738	934	no	no	no
+>NC_006603.4_OR51I2_pseudogene_nonsense_rev_27659378_27660538	Canis_lupus_familiaris_OR51AC5P_pseudogene|NC_006603.4|27659378|27660294	7	2	yes	no	yes	yes	pseudogene	pseudogene	1161	917	no	no	yes
+>NC_006603.4_OR52M1_pseudogene_nonsense_fwd_26705447_26706607	Canis_lupus_familiaris_OR52M6P_pseudogene|NC_006603.4|26705728|26706607	3	3	yes	no	yes	yes	pseudogene	pseudogene	1161	880	no	no	yes
+>NC_006603.4_OR51I1_functional_fwd_27653994_27654950	Canis_lupus_familiaris_OR51AB4_functional|NC_006603.4|27653994|27654950	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006603.4_OR51F1_functional_rev_26921993_26922937	Canis_lupus_familiaris_OR51F2_t_functional|NC_006603.4|26921993|26922937	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006603.4_OR52E2_functional_fwd_27288743_27289729	Canis_lupus_familiaris_OR52E2_functional|NC_006603.4|27288794|27289729	7	7	yes	yes	yes	yes	functional	functional	987	936	no	no	no change
+>NC_006603.4_OR51G2_functional_rev_27640044_27641012	Canis_lupus_familiaris_OR51AA2_functional|NC_006603.4|27640044|27641012	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006603.4_OR1030_functional_fwd_30995645_30996580	Canis_lupus_familiaris_OR5E1_functional|NC_006603.4|30995630|30996580	7	7	yes	yes	yes	yes	functional	functional	936	951	no	no	no change
+>NC_006603.4_OR52D1_functional_fwd_28518770_28519720	Canis_lupus_familiaris_OR52D3_functional|NC_006603.4|28518770|28519720	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006603.4_OR688_pseudogene_nonsense_fwd_29180966_29181937	Canis_lupus_familiaris_OR56B40P_pseudogene|NC_006603.4|29181038|29181937	7	7	yes	yes	yes	yes	pseudogene	pseudogene	972	900	no	no	no change
+>NC_006603.4_OR52Z1_pseudogene_short_fwd_27695330_27695926	Canis_lupus_familiaris_OR52Z16P_pseudogene|NC_006603.4|27695019|27695926	4	3	yes	yes	yes	yes	pseudogene	pseudogene	597	908	no	no	yes
+>NC_006603.4_OR52K1_functional_rev_29132903_29133928	Canis_lupus_familiaris_OR52X1_functional|NC_006603.4|29132903|29133919	7	7	yes	yes	yes	yes	functional	functional	1026	1017	no	no	no change
+>NC_006603.4_OR51I1_functional_rev_27849654_27850637	Canis_lupus_familiaris_OR51A1_functional|NC_006603.4|27849654|27850637	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_006603.4_OR52J3_functional_fwd_27417136_27418050	Canis_lupus_familiaris_OR52J8_functional|NC_006603.4|27417115|27418050	7	7	yes	yes	yes	yes	functional	functional	915	936	no	no	no change
+>NC_006603.4_OR51I2_pseudogene_short_fwd_27505312_27505823	Canis_lupus_familiaris_OR51AJ5P_pseudogene|NC_006603.4|27505311|27505823	4	4	yes	yes	yes	yes	pseudogene	pseudogene	513	513	yes	no	no change
+>NC_006598.4_OR9A1_functional_rev_8138313_8139257	Canis_lupus_familiaris_OR9A7_functional|NC_006598.4|8138313|8139257	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006598.4_TAS2R38_functional_fwd_8083301_8084305	Canis_lupus_familiaris_TAS2R38_functional|NC_006598.4|8083355|8084305	7	7	yes	yes	yes	yes	functional	functional	1005	951	no	no	no change
+>NC_006598.4_TAS2R40_functional_rev_7427968_7428924	Canis_lupus_familiaris_TAS2R40_functional|NC_006598.4|7427968|7428888	7	7	yes	yes	yes	yes	functional	functional	957	921	no	no	no change
+>NC_006598.4_OR2A1_functional_rev_6804404_6805345	Canis_lupus_familiaris_OR2A9B_functional|NC_006598.4|6804404|6805345	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006598.4_OR2A1_functional_rev_6824239_6825180	Canis_lupus_familiaris_OR2A9_functional|NC_006598.4|6824239|6825180	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006598.4_OR2A5_functional_rev_6889741_6890673	Canis_lupus_familiaris_OR2A5_functional|NC_006598.4|6889741|6890673	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006598.4_OR13_functional_rev_6837769_6838701	Canis_lupus_familiaris_OR2A7_functional|NC_006598.4|6837769|6838701	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006598.4_OR2F1_functional_rev_6989603_6990556	Canis_lupus_familiaris_OR2F1D_functional|NC_006598.4|6989603|6990556	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006598.4_OR2F2_functional_rev_7005215_7006168	Canis_lupus_familiaris_OR2F2_functional|NC_006598.4|7005215|7006168	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006598.4_OR6B1_functional_rev_6931577_6932503	Canis_lupus_familiaris_OR6B1_functional|NC_006598.4|6931577|6932503	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006598.4_TAS2R4_functional_rev_8269058_8269957	Canis_lupus_familiaris_TAS2R4_functional|NC_006598.4|8269058|8269957	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_006598.4_TAS2R39_functional_rev_7453972_7454937	Canis_lupus_familiaris_TAS2R39_functional|NC_006598.4|7453972|7454934	7	7	yes	yes	yes	yes	functional	functional	966	963	no	no	no change
+>NC_006598.4_TAS2R5_functional_rev_8251510_8252397	Canis_lupus_familiaris_TAS2R5_functional|NC_006598.4|8251510|8252397	7	7	yes	yes	yes	yes	functional	functional	888	888	yes	no	no change
+>NC_006598.4_OR9A4_functional_rev_8124860_8125804	Canis_lupus_familiaris_OR9A4_functional|NC_006598.4|8124860|8125804	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006598.4_OR52R1_pseudogene_nonsense_short_rev_49587750_49588595	Canis_lupus_familiaris_OR52R8P_pseudogene|NC_006598.4|49587750|49588696	4	4	yes	yes	yes	yes	pseudogene	pseudogene	846	947	no	no	no change
+>NC_006598.4_TAS2R3_functional_rev_8279802_8280752	Canis_lupus_familiaris_TAS2R3_functional|NC_006598.4|8279802|8280752	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006598.4_ORPROTEINOLF3_functional_rev_6950635_6951576	Canis_lupus_familiaris_OR2Q1_functional|NC_006598.4|6950635|6951576	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006598.4_OR13D1_pseudogene_short_rev_14686229_14686600	Canis_lupus_familiaris_OR2AV3P_pseudogene|NC_006598.4|14685670|14686600	3	4	yes	yes	yes	no	pseudogene	pseudogene	372	931	no	no	no
+>NC_006598.4_OR10AC1_functional_fwd_7177091_7178056	Canis_lupus_familiaris_OR10AC1_functional|NC_006598.4|7177091|7178056	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_006598.4_ORPROTEINOLF3_functional_rev_6965644_6966579	Canis_lupus_familiaris_OR2Q2_functional|NC_006598.4|6965644|6966579	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006598.4_OR2F1_functional_fwd_7203118_7204059	Canis_lupus_familiaris_OR2R1_functional|NC_006598.4|7203118|7204059	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006598.4_OR2A2_pseudogene_nonsense_short_rev_6849962_6850804	Canis_lupus_familiaris_OR2A59P_pseudogene|NC_006598.4|6849974|6850696	6	5	yes	yes	yes	no	pseudogene	pseudogene	843	723	no	no	yes
+>NC_006598.4_OR9A4_pseudogene_nonsense_short_rev_8163170_8163928	Canis_lupus_familiaris_OR9A14P_pseudogene|NC_006598.4|8162926|8163806	2	5	yes	yes	yes	no	pseudogene	pseudogene	759	881	no	no	no
+>NC_006598.4_TAS2R41_functional_rev_7219842_7220768	Canis_lupus_familiaris_TAS2R41_functional|NC_006598.4|7219842|7220768	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006598.4_OR2Z1_functional_fwd_14566986_14567864	Canis_lupus_familiaris_OR2Z2_functional|NC_006598.4|14566986|14567864	7	7	yes	yes	yes	yes	functional	functional	879	879	yes	no	no change
+>NC_006598.4_OR2A2_functional_rev_6862598_6863530	Canis_lupus_familiaris_OR2A58_functional|NC_006598.4|6862598|6863530	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006588.4_OR11A1_functional_rev_43905156_43906109	Canis_lupus_familiaris_OR11I1_functional|NC_006588.4|43905156|43906109	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006588.4_OR1361_functional_fwd_11530075_11531019	Canis_lupus_familiaris_OR1F15_functional|NC_006588.4|11530075|11531019	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006588.4_OR2C1_functional_rev_41788092_41789030	Canis_lupus_familiaris_OR2C1_functional|NC_006588.4|41788092|41789030	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006588.4_OR1361_pseudogene_short_rev_39250583_39251266	Canis_lupus_familiaris_OR1F1P_pseudogene|NC_006588.4|39250099|39251251	2	5	yes	no	yes	no	pseudogene	pseudogene	684	1153	no	no	no
+>NC_006588.4_VN1R3_pseudogene_short_rev_18457751_18458086	Canis_lupus_familiaris_VN1R1_c_functional|NC_006588.4|18457751|18458674	3	7	yes	yes	yes	yes	pseudogene	functional	336	924	no	yes	no
+>NC_006588.4_OR2AE1_functional_fwd_11326875_11327834	Canis_lupus_familiaris_OR2AE1_functional|NC_006588.4|11326875|11327834	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006588.4_OR10AC1_functional_rev_18308440_18309417	Canis_lupus_familiaris_OR10AH1_functional|NC_006588.4|18308440|18309417	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_006588.4_VN2R116_pseudogene_short_rev_11333578_11344466	Canis_lupus_familiaris_VN2R301P_pseudogene|NC_006588.4|11334049|11333166	0	2	yes	no	yes	no	pseudogene	pseudogene	1185	884	no	no	no
+>NC_006596.4_TAS2R9_functional_fwd_26857575_26858606	Canis_lupus_familiaris_TAS2RCafa-2_functional|NC_006596.4|26857695|26858606	7	7	yes	yes	yes	yes	functional	functional	1032	912	no	no	no change
+>NC_006596.4_OR56_functional_fwd_1636003_1636941	Canis_lupus_familiaris_OR2AV1_functional|NC_006596.4|1636003|1636941	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR13G1_functional_fwd_871581_872567	Canis_lupus_familiaris_OR13G1_functional|NC_006596.4|871644|872567	7	7	yes	yes	yes	yes	functional	functional	987	924	no	no	no change
+>NC_006596.4_OR2L8_functional_fwd_1695390_1696337	Canis_lupus_familiaris_OR2L5_functional|NC_006596.4|1695390|1696337	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006596.4_OR2L5_functional_rev_1058990_1059928	Canis_lupus_familiaris_OR2L5C_functional|NC_006596.4|1058990|1059928	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2L8_functional_rev_980716_981654	Canis_lupus_familiaris_OR2L3B_functional|NC_006596.4|980716|981654	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2L5_functional_fwd_1716867_1717805	Canis_lupus_familiaris_OR2L3_functional|NC_006596.4|1716867|1717805	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2L5_functional_rev_1026999_1027934	Canis_lupus_familiaris_OR2L17_functional|NC_006596.4|1026999|1027934	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006596.4_OR2T1_functional_fwd_2264145_2265101	Canis_lupus_familiaris_OR2T1_functional|NC_006596.4|2264145|2265101	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_006596.4_OR2T27_functional_fwd_2300860_2301813	Canis_lupus_familiaris_OR2T27_functional|NC_006596.4|2300860|2301813	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006596.4_OR2T4_functional_fwd_2177512_2178474	Canis_lupus_familiaris_OR2T4_functional|NC_006596.4|2177512|2178474	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006596.4_OR2T4_functional_fwd_2117101_2118054	Canis_lupus_familiaris_OR2T4C_functional|NC_006596.4|2117092|2118054	7	7	yes	yes	yes	yes	functional	functional	954	963	no	no	no change
+>NC_006596.4_OR2T8_functional_fwd_1748397_1749335	Canis_lupus_familiaris_OR2T24_functional|NC_006596.4|1748397|1749335	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2T8_functional_fwd_1771680_1772675	Canis_lupus_familiaris_OR2T15_functional|NC_006596.4|1771737|1772675	7	7	yes	yes	yes	yes	functional	functional	996	939	no	no	no change
+>NC_006596.4_OR14I1_functional_rev_2440432_2441376	Canis_lupus_familiaris_OR14I2_functional|NC_006596.4|2440432|2441376	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006596.4_OR2M3_functional_fwd_2051680_2052627	Canis_lupus_familiaris_OR2M11P_pseudogene|NC_006596.4|2051680|2052627	7	7	yes	yes	yes	yes	functional	pseudogene	948	948	yes	yes	no change
+>NC_006596.4_OR2M3_functional_fwd_2073671_2074618	Canis_lupus_familiaris_OR2M10P_pseudogene|NC_006596.4|2073677|2074618	7	7	yes	no	yes	yes	functional	pseudogene	948	942	no	yes	yes
+>NC_006596.4_OR2M2_functional_rev_2000391_2001326	Canis_lupus_familiaris_OR2M9_functional|NC_006596.4|2000391|2001326	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006596.4_OR2M4_pseudogene_short_fwd_2021130_2021522	Canis_lupus_familiaris_OR2M8P_pseudogene|NC_006596.4|2021142|2022065	1	5	yes	no	yes	yes	pseudogene	pseudogene	393	924	no	no	no
+>NC_006596.4_OR2W3_functional_rev_1212123_1213067	Canis_lupus_familiaris_OR2W3_functional|NC_006596.4|1212123|1213067	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006596.4_OR2T8_functional_fwd_1921146_1922138	Canis_lupus_familiaris_OR2T20_functional|NC_006596.4|1921200|1922138	7	7	yes	yes	yes	yes	functional	functional	993	939	no	no	no change
+>NC_006596.4_OR2T8_functional_fwd_1872123_1873067	Canis_lupus_familiaris_OR2T22_functional|NC_006596.4|1872123|1873067	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006596.4_OR2T8_functional_rev_1140857_1141801	Canis_lupus_familiaris_OR2T33_functional|NC_006596.4|1140857|1141801	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006596.4_OR15_functional_fwd_2526465_2527421	Canis_lupus_familiaris_OR2AX2_functional|NC_006596.4|2526396|2527421	7	7	yes	yes	yes	yes	functional	functional	957	1026	no	no	no change
+>NC_006596.4_OR2T29_functional_fwd_2133457_2134416	Canis_lupus_familiaris_OR2T4G_functional|NC_006596.4|2133457|2134416	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006596.4_OR15_functional_fwd_2567130_2568074	Canis_lupus_familiaris_OR2H1_functional|NC_006596.4|2567148|2568074	7	7	yes	yes	yes	yes	functional	functional	945	927	no	no	no change
+>NC_006596.4_OR2AK2_pseudogene_short_fwd_936953_937807	Canis_lupus_familiaris_OR2AK3_pseudogene|NC_006596.4|936842|937807	7	7	yes	yes	yes	yes	pseudogene	pseudogene	855	966	no	no	no change
+>NC_006596.4_OR2T11_functional_fwd_2345513_2346472	Canis_lupus_familiaris_OR2T11_functional|NC_006596.4|2345513|2346472	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006596.4_OR2T29_functional_rev_2413689_2414651	Canis_lupus_familiaris_OR2T4D_functional|NC_006596.4|2413689|2414651	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_006596.4_OR11L1_functional_fwd_1265837_1266808	Canis_lupus_familiaris_OR11L1_e_functional|NC_006596.4|1265837|1266808	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006596.4_OR6F1_pseudogene_short_fwd_822588_823415	Canis_lupus_familiaris_OR6F1_functional|NC_006596.4|822489|823415	7	7	yes	yes	yes	yes	pseudogene	functional	828	927	no	yes	no change
+>NC_006596.4_OR2L2_functional_fwd_1599279_1600238	Canis_lupus_familiaris_OR2AV12_functional|NC_006596.4|1599279|1600238	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006596.4_OR2AJ1_functional_rev_1177870_1178808	Canis_lupus_familiaris_OR2AJ7_functional|NC_006596.4|1177870|1178808	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2G6_functional_fwd_2504776_2505723	Canis_lupus_familiaris_OR2G6_functional|NC_006596.4|2504776|2505723	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006596.4_OR2T6_functional_fwd_2245174_2246133	Canis_lupus_familiaris_OR2T6_functional|NC_006596.4|2245174|2246133	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006596.4_OR2T2_functional_fwd_2313685_2314659	Canis_lupus_familiaris_OR2T2_functional|NC_006596.4|2313685|2314659	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006596.4_OR2AJ1_functional_fwd_1538699_1539667	Canis_lupus_familiaris_OR2AV2_functional|NC_006596.4|1538699|1539667	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006596.4_OR2AJ1_pseudogene_nonsense_short_fwd_1135665_1136426	Canis_lupus_familiaris_OR2AJ8P_pseudogene|NC_006596.4|1135662|1136325	4	4	yes	yes	yes	yes	pseudogene	pseudogene	762	664	no	no	no change
+>NC_006596.4_OR2M5_functional_fwd_1487269_1488207	Canis_lupus_familiaris_OR2AV11_functional|NC_006596.4|1487269|1488207	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006596.4_OR2L3_functional_rev_1373790_1374725	Canis_lupus_familiaris_OR2AZ1_functional|NC_006596.4|1373790|1374725	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006596.4_OR6M1_pseudogene_short_fwd_1351971_1352384	Canis_lupus_familiaris_OR6AN2P_pseudogene|NC_006596.4|1351971|1352905	3	7	yes	yes	yes	yes	pseudogene	pseudogene	414	935	no	no	no
+>NC_006596.4_OR6M1_pseudogene_nonsense_short_rev_1318816_1319538	Canis_lupus_familiaris_OR6AN1P_pseudogene|NC_006596.4|1318688|1319644	6	1	yes	yes	yes	no	pseudogene	pseudogene	723	957	no	no	yes
+>NC_006596.4_OPN1SW_functional_fwd_7552364_7555272	Canis_lupus_familiaris_OPN1SW_functional|NC_006596.4|7552364|7555272	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_006592.4_OR6C1_pseudogene_short_rev_16005771_16006163	Canis_lupus_familiaris_OR6C1MP_pseudogene|NC_006592.4|16005226|16006163	4	2	yes	yes	yes	yes	pseudogene	pseudogene	393	938	no	no	yes
+>NC_006592.4_OR6C2_functional_rev_15991129_15992067	Canis_lupus_familiaris_OR6C38_functional|NC_006592.4|15991129|15992067	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006592.4_OR6C4_functional_rev_15961854_15962795	Canis_lupus_familiaris_OR6C63_functional|NC_006592.4|15961854|15962795	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006592.4_OR4K14_pseudogene_short_rev_16409275_16410123	Canis_lupus_familiaris_OR4K14_functional|NC_006592.4|16409275|16410123	7	7	yes	yes	yes	yes	pseudogene	functional	849	849	yes	yes	no change
+>NC_006592.4_OR6C2_pseudogene_short_rev_16031392_16031703	Canis_lupus_familiaris_OR6C253P_pseudogene|NC_006592.4|16030694|16031643	2	3	yes	no	yes	no	pseudogene	pseudogene	312	950	no	no	no
+>NC_006592.4_OR11H6_pseudogene_short_rev_16364561_16365079	Canis_lupus_familiaris_OR11G28P_pseudogene|NC_006592.4|16364364|16365256	4	7	yes	no	yes	no	pseudogene	pseudogene	519	893	no	no	no
+>NC_006592.4_OR6C76_pseudogene_short_fwd_99723_100259	Canis_lupus_familiaris_OR6U3P_pseudogene|NC_006592.4|99549|100259	4	5	yes	yes	yes	yes	pseudogene	pseudogene	537	711	no	no	no
+>NC_006592.4_OR4F6_pseudogene_nonsense_short_rev_16402973_16403626	Canis_lupus_familiaris_OR4F33P_pseudogene|NC_006592.4|16402784|16403626	4	6	yes	yes	yes	yes	pseudogene	pseudogene	654	843	no	no	no
+>NC_006591.4_OR1D2_pseudogene_nonsense_rev_46203001_46204005	Canis_lupus_familiaris_OR1D3BP_pseudogene|NC_006591.4|46203001|46203944	5	2	yes	yes	yes	yes	pseudogene	pseudogene	1005	944	no	no	yes
+>NC_006591.4_OR1L4_pseudogene_short_rev_59239809_59240114	Canis_lupus_familiaris_OR1L6BP_pseudogene|NC_006591.4|59239182|59240114	2	7	yes	yes	yes	yes	pseudogene	pseudogene	306	933	no	no	no
+>NC_006591.4_OR1L4_functional_rev_59256405_59257337	Canis_lupus_familiaris_OR1L6_functional|NC_006591.4|59256405|59257337	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_006591.4_OR1P1_functional_fwd_46310517_46311470	Canis_lupus_familiaris_OR1P1_functional|NC_006591.4|46310517|46311470	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006591.4_OR3A1_functional_rev_46355302_46356249	Canis_lupus_familiaris_OR3A1_functional|NC_006591.4|46355302|46356249	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006591.4_OR1D2_pseudogene_short_rev_46213588_46214289	Canis_lupus_familiaris_OR1D10P_pseudogene|NC_006591.4|46213588|46214594	5	2	yes	yes	yes	yes	pseudogene	pseudogene	702	1007	no	no	yes
+>NC_006591.4_OR4D2_functional_fwd_32077498_32078442	Canis_lupus_familiaris_OR4D2C_functional|NC_006591.4|32077498|32078442	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006591.4_OR4D2_functional_fwd_32066266_32067210	Canis_lupus_familiaris_OR4D2_functional|NC_006591.4|32066266|32067210	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006591.4_OR1A1_functional_rev_46272522_46273451	Canis_lupus_familiaris_OR1A1_functional|NC_006591.4|46272522|46273451	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006591.4_OR1K1_functional_rev_59165685_59166635	Canis_lupus_familiaris_OR1K1_functional|NC_006591.4|59165685|59166635	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006591.4_OR1L8_functional_fwd_59313429_59314373	Canis_lupus_familiaris_OR1L8_functional|NC_006591.4|59313429|59314373	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006591.4_OR3A1_functional_rev_46376958_46377905	Canis_lupus_familiaris_OR3A1H_functional|NC_006591.4|46376958|46377905	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006591.4_OR3A2_functional_rev_46344261_46345208	Canis_lupus_familiaris_OR3A2_functional|NC_006591.4|46344261|46345208	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006591.4_OR139_functional_fwd_46403028_46403975	Canis_lupus_familiaris_OR3A10_functional|NC_006591.4|46403028|46403975	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_006591.4_OR4D1_functional_fwd_32055883_32056824	Canis_lupus_familiaris_OR4D1_functional|NC_006591.4|32055883|32056824	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006591.4_ORproteinDTMT_functional_rev_46479807_46480748	Canis_lupus_familiaris_OR1E1_functional|NC_006591.4|46479807|46480748	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006591.4_OR1A1_pseudogene_nonsense_rev_46288682_46289596	Canis_lupus_familiaris_OR1A4P_pseudogene|NC_006591.4|46288682|46289596	7	7	yes	yes	yes	yes	pseudogene	pseudogene	915	915	yes	no	no change
+>NC_006591.4_OR1J4_pseudogene_short_rev_59283128_59283895	Canis_lupus_familiaris_OR1J6P_pseudogene|NC_006591.4|59282937|59283895	6	7	yes	yes	yes	no	pseudogene	pseudogene	768	959	no	no	no
+>NC_006591.4_OR1L4_functional_rev_59201719_59202648	Canis_lupus_familiaris_OR1AF1_functional|NC_006591.4|59201719|59202648	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006591.4_OR1L4_functional_fwd_46455855_46456799	Canis_lupus_familiaris_OR1R1_functional|NC_006591.4|46455855|46456799	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_006591.4_OR5C1_functional_rev_59180484_59181443	Canis_lupus_familiaris_OR5C1_functional|NC_006591.4|59180484|59181443	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006591.4_OR1L8_pseudogene_nonsense_short_fwd_59341453_59342193	Canis_lupus_familiaris_OR1L11P_pseudogene|NC_006591.4|59341212|59342193	4	1	yes	yes	yes	yes	pseudogene	pseudogene	741	982	no	no	yes
+>NC_006591.4_OR1P1_pseudogene_nonsense_short_truncated_rev_46442155_46442496	Canis_lupus_familiaris_OR10AO1P_pseudogene|NC_006591.4|46441962|46442493	2	2	no	yes	no	yes	pseudogene	pseudogene	342	532	no	no	no
+>NC_006615.4_OR5AC1_functional_fwd_5288704_5289627	Canis_lupus_familiaris_OR5AC1_functional|NC_006615.4|5288704|5289627	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006615.4_OR5H2_functional_fwd_5411053_5411982	Canis_lupus_familiaris_OR5H16_functional|NC_006615.4|5411053|5411982	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006615.4_OR5K1_functional_fwd_5498246_5499214	Canis_lupus_familiaris_OR5K1_functional|NC_006615.4|5498246|5499214	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_006615.4_OR5K4_functional_fwd_5450856_5451785	Canis_lupus_familiaris_OR5K4_functional|NC_006615.4|5450856|5451785	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006615.4_OR5H2_functional_fwd_5327674_5328603	Canis_lupus_familiaris_OR5H11_functional|NC_006615.4|5327674|5328603	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006615.4_OR5AC2_functional_fwd_5273234_5274154	Canis_lupus_familiaris_OR5AC27_functional|NC_006615.4|5273234|5274154	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NC_006615.4_OR5AC2_pseudogene_nonsense_fwd_5259265_5260248	Canis_lupus_familiaris_OR5AC28P_pseudogene|NC_006615.4|5259270|5260188	9	2	yes	yes	yes	yes	pseudogene	pseudogene	984	919	no	no	yes
+>NC_006615.4_OR5H2_functional_fwd_5382127_5383056	Canis_lupus_familiaris_OR5H12_functional|NC_006615.4|5382127|5383056	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006615.4_OR5H8_functional_fwd_5363982_5364911	Canis_lupus_familiaris_OR5H13_functional|NC_006615.4|5363982|5364911	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006615.4_OR5AC1_functional_fwd_5318153_5319133	Canis_lupus_familiaris_OR5AC26_as_functional|NC_006615.4|5318315|5319133	7	7	yes	yes	yes	yes	functional	functional	981	819	no	no	no change
+>NC_006615.4_OR5H2_functional_fwd_5392413_5393342	Canis_lupus_familiaris_OR5H9_functional|NC_006615.4|5392413|5393342	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_006612.4_OR4K5_functional_fwd_458558_459529	Canis_lupus_familiaris_OR4K5B_functional|NC_006612.4|458558|459529	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006612.4_OR4F6_functional_fwd_582308_583246	Canis_lupus_familiaris_OR4G10_functional|NC_006612.4|582308|583246	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006612.4_OR4F21_functional_rev_495909_496844	Canis_lupus_familiaris_OR4G8_functional|NC_006612.4|495909|496844	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006612.4_OR4K2_functional_fwd_421204_422163	Canis_lupus_familiaris_OR4K6_functional|NC_006612.4|421204|422163	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006612.4_OR4K15_functional_fwd_34466_35440	Canis_lupus_familiaris_OR4K15_functional|NC_006612.4|34466|35440	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_006612.4_OR4N5_functional_rev_636337_637263	Canis_lupus_familiaris_OR4N5_functional|NC_006612.4|636337|637263	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006612.4_OR4F3_functional_fwd_125972_126910	Canis_lupus_familiaris_OR4F25_functional|NC_006612.4|125972|126910	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006612.4_OR4F4_functional_rev_267279_268217	Canis_lupus_familiaris_OR4G11_functional|NC_006612.4|267279|268217	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006612.4_OR4F21_functional_fwd_174695_175633	Canis_lupus_familiaris_OR4F3/4F16/4F29_functional|NC_006612.4|174695|175633	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006612.4_OR4F29_pseudogene_short_fwd_139155_139553	Canis_lupus_familiaris_OR4F1BP_pseudogene|NC_006612.4|139155|140091	4	4	yes	yes	yes	yes	pseudogene	pseudogene	399	937	no	no	no change
+>NC_006612.4_OR4F15_pseudogene_short_fwd_73036_73599	Canis_lupus_familiaris_OR4F98P_pseudogene|NC_006612.4|73036|73599	4	4	yes	yes	yes	yes	pseudogene	pseudogene	564	564	yes	no	no change
+>NC_006612.4_OR4F4_pseudogene_short_rev_261315_261788	Canis_lupus_familiaris_OR4F26P_pseudogene|NC_006612.4|260870|261788	4	4	yes	yes	yes	yes	pseudogene	pseudogene	474	919	no	no	no change
+>NC_006612.4_OR4Q2_functional_rev_673995_674936	Canis_lupus_familiaris_OR4Q2_functional|NC_006612.4|673995|674936	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006612.4_OR4K2_functional_fwd_440241_441191	Canis_lupus_familiaris_OR4K2_functional|NC_006612.4|440241|441191	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006612.4_OR4F3_pseudogene_short_fwd_47907_48299	Canis_lupus_familiaris_OR4F23P_pseudogene|NC_006612.4|47907|48838	2	2	yes	yes	yes	yes	pseudogene	pseudogene	393	932	no	no	no change
+>NC_006612.4_OR4K3_pseudogene_short_rev_542482_543267	Canis_lupus_familiaris_OR4K53P_pseudogene|NC_006612.4|542343|543267	6	6	yes	yes	yes	yes	pseudogene	pseudogene	786	925	no	no	no change
+>NC_006612.4_OR4F15_pseudogene_short_fwd_90344_90853	Canis_lupus_familiaris_OR4F15P_pseudogene|NC_006612.4|90244|91308	4	3	yes	no	yes	no	pseudogene	pseudogene	510	1065	no	no	yes
+>NC_006612.4_OR4K1_functional_fwd_474844_475779	Canis_lupus_familiaris_OR4K1_functional|NC_006612.4|474844|475779	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006612.4_OR4F21_functional_rev_526687_527628	Canis_lupus_familiaris_OR4G18_functional|NC_006612.4|526687|527628	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006612.4_OR4L1_pseudogene_nonsense_short_rev_656038_656871	Canis_lupus_familiaris_OR4L3P_pseudogene|NC_006612.4|655937|656871	4	5	yes	yes	yes	yes	pseudogene	pseudogene	834	935	no	no	no
+>NC_006612.4_OR4F6_functional_rev_278403_279341	Canis_lupus_familiaris_OR4G9_functional|NC_006612.4|278403|279341	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006612.4_OR4F3_functional_rev_742294_743235	Canis_lupus_familiaris_OR4F34_functional|NC_006612.4|742294|743235	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_006612.4_OR4F21_pseudogene_short_rev_234412_234822	Canis_lupus_familiaris_OR4G20P_pseudogene|NC_006612.4|233971|234878	3	2	yes	no	yes	yes	pseudogene	pseudogene	411	908	no	no	yes
+>NC_006612.4_OR4F3_functional_rev_714964_715935	Canis_lupus_familiaris_OR4F63_functional|NC_006612.4|714964|715935	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_006612.4_OR4L1_pseudogene_nonsense_short_rev_619238_620035	Canis_lupus_familiaris_OR4T2P_pseudogene|NC_006612.4|619005|620106	4	4	yes	no	yes	no	pseudogene	pseudogene	798	1102	no	no	yes
+>NC_006613.4_OR6C4_functional_fwd_8591_9517	Canis_lupus_familiaris_OR6C4B_functional|NC_006613.4|8591|9517	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_006621.4_OR1019_functional_rev_88704788_88705711	Canis_lupus_familiaris_OR5BH3_functional|NC_006621.4|88704788|88705711	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_006621.4_OR13H1_pseudogene_short_fwd_88890281_88890802	Canis_lupus_familiaris_OR2AF4P_pseudogene|NC_006621.4|88889971|88890913	4	1	yes	no	yes	yes	pseudogene	pseudogene	522	943	no	no	yes
+>NC_006621.4_OR1009_pseudogene_short_rev_88623295_88623645	Canis_lupus_familiaris_OR5BP1P_pseudogene|NC_006621.4|88622660|88623576	2	5	yes	yes	yes	no	pseudogene	pseudogene	351	917	no	no	no
+>NC_006621.4_OR10V1_pseudogene_short_fwd_107663437_107664294	Canis_lupus_familiaris_OR7R1_functional|NC_006621.4|107663332|107664294	7	7	yes	yes	yes	yes	pseudogene	functional	858	963	no	yes	no change
+>NC_006621.4_OR13H1_pseudogene_nonsense_fwd_88826458_88827570	Canis_lupus_familiaris_OR13K7P_pseudogene|NC_006621.4|88826650|88827559	5	5	yes	no	yes	yes	pseudogene	pseudogene	1113	910	no	no	yes
+>NC_006621.4_OR1D2_functional_rev_107602708_107603646	Canis_lupus_familiaris_OR1D6_functional|NC_006621.4|107602708|107603646	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006621.4_OPN1LW_functional_fwd_107303292_107316155	Canis_lupus_familiaris_OPN1LW_functional|NC_006621.4|107303292|107316155	7	7	yes	yes	yes	yes	functional	functional	1095	1095	yes	no	no change
+>NC_006621.4_OR4L1_pseudogene_nonsense_short_rev_30060481_30060807	Canis_lupus_familiaris_OR4AI1P_pseudogene|NC_006621.4|30060438|30060807	2	2	yes	yes	yes	no	pseudogene	pseudogene	327	370	no	no	yes
+>NC_006616.4_TAS2R1_functional_fwd_9048387_9049280	Canis_lupus_familiaris_TAS2R1_functional|NC_006616.4|9048387|9049280	7	7	yes	yes	yes	yes	functional	functional	894	894	yes	no	no change
+>NC_006610.4_OR12J1_functional_rev_41127070_41128101	Canis_lupus_familiaris_OR12J1_functional|NC_006610.4|41127070|41128002	7	7	yes	yes	yes	yes	functional	functional	1032	933	no	no	no change
+>NC_006610.4_OR13A1_functional_rev_2496339_2497265	Canis_lupus_familiaris_OR13A1_functional|NC_006610.4|2496339|2497325	7	7	yes	yes	yes	yes	functional	functional	927	987	no	no	no change
+>NC_006610.4_OR6C75_functional_fwd_2516991_2517944	Canis_lupus_familiaris_OR6D6_functional|NC_006610.4|2516991|2517944	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006610.4_OR6_functional_rev_41047176_41048111	Canis_lupus_familiaris_OR6AE1_functional|NC_006610.4|41047176|41048111	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006610.4_OR6C75_functional_rev_2620272_2621228	Canis_lupus_familiaris_OR6D5_pseudogene|NC_006610.4|2620248|2621207	7	7	yes	yes	yes	yes	functional	pseudogene	957	960	no	yes	no change
+>NC_006610.4_OR6C75_functional_fwd_2531072_2532025	Canis_lupus_familiaris_OR6D7_functional|NC_006610.4|2531072|2532025	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_006610.4_OR287_functional_fwd_41064292_41065227	Canis_lupus_familiaris_OR287_functional|NC_006610.4|41064292|41065227	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_006583.4_OR13S1P_pseudogene_short_rev_101523344_101523808	Canis_lupus_familiaris_OR13S1P_pseudogene|NC_006583.4|101523217|101524171	3	7	yes	yes	yes	yes	pseudogene	pseudogene	465	955	no	no	no
+>NC_006583.4_OR5_functional_fwd_101470163_101471101	Canis_lupus_familiaris_OR6Z1_functional|NC_006583.4|101470163|101471101	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_006583.4_TAAR4_functional_rev_26633763_26634809	Canis_lupus_familiaris_TAAR4_functional|NC_006583.4|26633763|26634809	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_006583.4_OR5_functional_fwd_101486706_101487653	Canis_lupus_familiaris_OR6Z2_functional|NC_006583.4|101486679|101487653	7	7	yes	yes	yes	yes	functional	functional	948	975	no	no	no change
+>NC_006583.4_OR10C1_pseudogene_short_rev_101410312_101410911	Canis_lupus_familiaris_OR5BW1P_pseudogene|NC_006583.4|101409893|101411011	4	2	yes	no	yes	no	pseudogene	pseudogene	600	1119	no	no	yes
+>NC_006583.4_TAAR5_functional_rev_26626764_26627777	Canis_lupus_familiaris_TAAR5_functional|NC_006583.4|26626764|26627777	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_006583.4_VN1R4_functional_fwd_112896546_112897445	Canis_lupus_familiaris_VN1R1_functional|NC_006583.4|112896546|112897445	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_006583.4_OR10A7_functional_fwd_101459255_101460244	Canis_lupus_familiaris_OR10A7_functional|NC_006583.4|101459255|101460244	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_006583.4_VN1R4_functional_fwd_103619140_103620090	Canis_lupus_familiaris_VN1R4_functional|NC_006583.4|103619140|103620090	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_006599.4_OR13AM1P_pseudogene_nonsense_fwd_57401502_57402506	Canis_lupus_familiaris_OR13AM1P_pseudogene|NC_006599.4|57401594|57402470	6	4	yes	yes	yes	no	pseudogene	pseudogene	1005	877	no	no	yes
+>NC_006599.4_OR5V1_functional_fwd_57464971_57465930	Canis_lupus_familiaris_OR13L2_functional|NC_006599.4|57464971|57465930	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_006599.4_OR5V1_pseudogene_short_fwd_57438270_57438740	Canis_lupus_familiaris_OR13L1P_pseudogene|NC_006599.4|57437764|57438740	3	5	yes	yes	yes	yes	pseudogene	pseudogene	471	977	no	no	no
+>NC_006605.4_OR4C46_pseudogene_nonsense_short_fwd_50761628_50762269	Canis_lupus_familiaris_OR4C49P_pseudogene|NC_006605.4|50761709|50762269	3	3	yes	no	yes	yes	pseudogene	pseudogene	642	561	no	no	yes
+>NC_006584.4_TAS1R2_functional_fwd_76234023_76252894	Canis_lupus_familiaris_TAS1R2_functional|NC_006584.4|76234023|76252894	7	7	yes	yes	yes	yes	functional	functional	2511	2511	yes	no	no change

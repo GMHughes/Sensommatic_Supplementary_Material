@@ -1,0 +1,314 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_051772.1_OR1020_functional_rev_167746_168735	Anas_platyrhynchos_OR1020_functional|NC_051772.1|167746|168735	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_051772.1_OR10AC1_functional_rev_81857226_81858227	Anas_platyrhynchos_OR10AC1_functional|NC_051772.1|81857226|81858227	7	7	yes	yes	yes	yes	functional	functional	1002	1002	yes	no	no change
+>NC_051772.1_OR2A2_functional_rev_79359463_79360401	Anas_platyrhynchos_OR2A2_functional|NC_051772.1|79359463|79360401	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051772.1_OR51E2_functional_fwd_206797424_206798380	Anas_platyrhynchos_OR51E2_functional|NC_051772.1|206797424|206798380	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_051772.1_OR51G2_functional_rev_206811209_206812168	Anas_platyrhynchos_OR51G2_d_functional|NC_051772.1|206811209|206812183	7	7	yes	yes	yes	yes	functional	functional	960	975	no	no	no change
+>NC_051772.1_OR51G2_functional_fwd_206789827_206790801	Anas_platyrhynchos_OR51G2_functional|NC_051772.1|206789827|206790801	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_051772.1_OR51H1_functional_fwd_206775336_206776292	Anas_platyrhynchos_OR51H1_functional|NC_051772.1|206775336|206776292	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_051772.1_OR51L1_functional_fwd_206847393_206848385	Anas_platyrhynchos_OR51L1_functional|NC_051772.1|206847393|206848385	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_051772.1_OR52B2_functional_rev_206954845_206955825	Anas_platyrhynchos_OR52B2_h_functional|NC_051772.1|206954845|206955825	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_051772.1_OR52B2_functional_fwd_206854643_206855593	Anas_platyrhynchos_OR52B2_functional|NC_051772.1|206854643|206855593	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_051772.1_OR52I2_functional_rev_206747070_206748017	Anas_platyrhynchos_OR52I2_functional|NC_051772.1|206747070|206748017	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_051772.1_OR52K2_functional_rev_206754657_206755607	Anas_platyrhynchos_OR52K2_b_functional|NC_051772.1|206754657|206755607	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_051772.1_OR52K2_functional_rev_206737686_206738792	Anas_platyrhynchos_OR52K2_functional|NC_051772.1|206737686|206738792	7	7	yes	yes	yes	yes	functional	functional	1107	1107	yes	no	no change
+>NC_051772.1_OR52R1_functional_fwd_206804228_206805175	Anas_platyrhynchos_OR52R1_functional|NC_051772.1|206804228|206805175	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_051772.1_TAS2R40_functional_fwd_201997073_201998008	Anas_platyrhynchos_TAS2R40_a_functional|NC_051772.1|201997073|201998008	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051772.1_TAS2R40_functional_fwd_81564217_81565152	Anas_platyrhynchos_TAS2R40_functional|NC_051772.1|81564217|81565152	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR11A1_pseudogene_short_rev_59124316_59125044	Anas_platyrhynchos_OR11A1_pseudogene|NC_051773.1|59124124|59125044	6	7	yes	yes	yes	yes	pseudogene	pseudogene	729	921	no	no	no
+>NC_051773.1_OR150_functional_fwd_59012635_59013555	Anas_platyrhynchos_OR150_functional|NC_051773.1|59012599|59013555	7	7	yes	yes	yes	yes	functional	functional	921	957	no	no	no change
+>NC_051773.1_OR14A16_functional_fwd_6464548_6465477	Anas_platyrhynchos_OR14A16_ac_functional|NC_051773.1|6464548|6465477	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_5864303_5865232	Anas_platyrhynchos_OR14A16_j_functional|NC_051773.1|5864303|5865232	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_6970322_6971257	Anas_platyrhynchos_OR14A16_bd_functional|NC_051773.1|6970322|6971257	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_6623361_6624302	Anas_platyrhynchos_OR14A16_ak_functional|NC_051773.1|6623361|6624302	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_7653795_7654736	Anas_platyrhynchos_OR14A16_bm_functional|NC_051773.1|7653795|7654736	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_7675523_7676464	Anas_platyrhynchos_OR14A16_bo_functional|NC_051773.1|7675523|7676464	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_6786801_6787760	Anas_platyrhynchos_OR14A16_au_functional|NC_051773.1|6786801|6787760	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_7356729_7357688	Anas_platyrhynchos_OR14A16_bf_functional|NC_051773.1|7356729|7357688	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6335604_6336533	Anas_platyrhynchos_OR14C36_v_functional|NC_051773.1|6335604|6336533	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6834673_6835602	Anas_platyrhynchos_OR14C36_av_functional|NC_051773.1|6834673|6835602	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_7709885_7710814	Anas_platyrhynchos_OR14C36_br_functional|NC_051773.1|7709885|7710814	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6933886_6934845	Anas_platyrhynchos_OR14C36_bb_functional|NC_051773.1|6933886|6934845	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6711884_6712843	Anas_platyrhynchos_OR14J1_aq_pseudogene|NC_051773.1|6711884|6712468	7	4	yes	no	yes	yes	functional	pseudogene	960	585	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_7660722_7661657	Anas_platyrhynchos_OR14C36_bn_functional|NC_051773.1|7660722|7661657	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_5999202_6000161	Anas_platyrhynchos_OR14A16_m_functional|NC_051773.1|5999202|6000161	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14J1_functional_fwd_6963555_6964490	Anas_platyrhynchos_OR14J1_bc_functional|NC_051773.1|6963555|6964490	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6411834_6412769	Anas_platyrhynchos_OR14J1_aa_pseudogene|NC_051773.1|6412215|6412769	7	4	yes	no	yes	yes	functional	pseudogene	936	555	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_6878307_6879245	Anas_platyrhynchos_OR14C36_az_pseudogene|NC_051773.1|6878688|6879245	7	4	yes	no	yes	yes	functional	pseudogene	939	558	no	yes	yes
+>NC_051773.1_OR14J1_functional_rev_6635465_6636400	Anas_platyrhynchos_OR14J1_al_functional|NC_051773.1|6635465|6636400	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14J1_functional_rev_6138296_6139231	Anas_platyrhynchos_OR14J1_q_functional|NC_051773.1|6138296|6139231	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14J1_functional_rev_5814204_5815136	Anas_platyrhynchos_OR14C36_pseudogene|NC_051773.1|5814204|5814755	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_6907077_6908009	Anas_platyrhynchos_OR14C36_ba_pseudogene|NC_051773.1|6907464|6908009	7	4	yes	no	yes	yes	functional	pseudogene	933	546	no	yes	yes
+>NC_051773.1_OR14C36_functional_rev_6216754_6217683	Anas_platyrhynchos_OR14C36_r_functional|NC_051773.1|6216754|6217683	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6868891_6869826	Anas_platyrhynchos_OR14C36_ay_functional|NC_051773.1|6868891|6869826	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6275205_6276140	Anas_platyrhynchos_OR14C36_t_pseudogene|NC_051773.1|6275277|6275795	7	4	yes	yes	yes	no	functional	pseudogene	936	519	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_6696398_6697336	Anas_platyrhynchos_OR14J1_ap_pseudogene|NC_051773.1|6696743|6697261	7	4	yes	yes	yes	no	functional	pseudogene	939	519	no	yes	yes
+>NC_051773.1_OR14C36_functional_rev_6753170_6754105	Anas_platyrhynchos_OR14C36_as_functional|NC_051773.1|6753170|6754105	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_7448611_7449543	Anas_platyrhynchos_OR14A16_bh_pseudogene|NC_051773.1|7448611|7449162	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NC_051773.1_OR14A16_functional_fwd_5794798_5795730	Anas_platyrhynchos_OR14A16_functional|NC_051773.1|5794798|5795730	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_7456534_7457475	Anas_platyrhynchos_OR14A16_bi_functional|NC_051773.1|7456534|7457475	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6298344_6299285	Anas_platyrhynchos_OR14C36_u_functional|NC_051773.1|6298344|6299285	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_7621913_7622854	Anas_platyrhynchos_OR14C36_bl_functional|NC_051773.1|7621913|7622854	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6644863_6645798	Anas_platyrhynchos_OR14C36_am_functional|NC_051773.1|6644863|6645798	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14J1_functional_rev_6857852_6858766	Anas_platyrhynchos_OR14J1_ax_functional|NC_051773.1|6857852|6858766	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NC_051773.1_OR14J1_functional_fwd_7765041_7765976	Anas_platyrhynchos_OR14J1_bs_pseudogene|NC_051773.1|7765422|7765976	7	4	yes	no	yes	yes	functional	pseudogene	936	555	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_6487267_6488202	Anas_platyrhynchos_OR14J1_ae_pseudogene|NC_051773.1|6487612|6488202	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_7690987_7691922	Anas_platyrhynchos_OR14J1_bp_functional|NC_051773.1|7690987|7691922	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_59002452_59003417	Anas_platyrhynchos_OR14A16_bx_functional|NC_051773.1|59002452|59003417	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_051773.1_OR14A16_functional_fwd_59133221_59134186	Anas_platyrhynchos_OR14A16_cd_functional|NC_051773.1|59133221|59134186	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_59143194_59144150	Anas_platyrhynchos_OR14A16_ce_functional|NC_051773.1|59143194|59144150	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_58979928_58980887	Anas_platyrhynchos_OR14C36_bv_functional|NC_051773.1|58979928|58980956	7	7	yes	yes	yes	yes	functional	functional	960	1029	no	no	no change
+>NC_051773.1_OR14C36_functional_fwd_58992473_58993435	Anas_platyrhynchos_OR14C36_bw_functional|NC_051773.1|58992473|58993435	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_59319585_59320520	Anas_platyrhynchos_OR14C36_ci_functional|NC_051773.1|59319585|59320520	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_59150222_59151205	Anas_platyrhynchos_OR14C36_cf_functional|NC_051773.1|59150222|59151205	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_59420897_59421874	Anas_platyrhynchos_OR14J1_ck_pseudogene|NC_051773.1|59420897|59421673	7	5	yes	no	yes	yes	functional	pseudogene	978	777	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_6721963_6722901	Anas_platyrhynchos_OR14C36_ar_pseudogene|NC_051773.1|6722314|6722901	7	4	yes	yes	yes	yes	functional	pseudogene	939	588	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_59238663_59239619	Anas_platyrhynchos_OR14C36_cg_functional|NC_051773.1|59238663|59239619	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_051773.1_OR14A16_functional_rev_59430829_59431788	Anas_platyrhynchos_OR14A16_cl_functional|NC_051773.1|59430829|59431788	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6355862_6356794	Anas_platyrhynchos_OR14J1_x_pseudogene|NC_051773.1|6356243|6356794	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NC_051773.1_OR14A16_functional_rev_59466997_59467956	Anas_platyrhynchos_OR14A16_cm_functional|NC_051773.1|59466997|59467956	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_59024385_59025320	Anas_platyrhynchos_OR14C36_by_functional|NC_051773.1|59024385|59025320	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_7349367_7350299	Anas_platyrhynchos_OR14C36_be_pseudogene|NC_051773.1|7349748|7350299	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NC_051773.1_OR14C36_functional_rev_59113899_59114834	Anas_platyrhynchos_OR14C36_cc_functional|NC_051773.1|59113899|59114834	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6456550_6457485	Anas_platyrhynchos_OR14C36_ab_pseudogene|NC_051773.1|6456550|6457248	7	5	yes	yes	yes	yes	functional	pseudogene	936	699	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_6075246_6076181	Anas_platyrhynchos_OR14C36_p_pseudogene|NC_051773.1|6075447|6076181	7	5	yes	no	yes	yes	functional	pseudogene	936	735	no	yes	yes
+>NC_051773.1_OR14C36_functional_rev_6238722_6239657	Anas_platyrhynchos_OR14C36_s_functional|NC_051773.1|6238722|6239657	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6120000_6120914	Anas_platyrhynchos_OR14J1_pseudogene|NC_051773.1|6120000|6120533	7	4	yes	no	yes	yes	functional	pseudogene	915	534	no	yes	yes
+>NC_051773.1_OR14C36_pseudogene_nonsense_fwd_6779426_6780430	Anas_platyrhynchos_OR14J1_at_pseudogene|NC_051773.1|6779897|6780430	5	4	yes	no	yes	yes	pseudogene	pseudogene	1005	534	no	no	yes
+>NC_051773.1_OR14C36_pseudogene_short_truncated_rev_58959172_58959894	Anas_platyrhynchos_OR14C36_bu_functional|NC_051773.1|58958935|58959894	5	7	yes	yes	no	yes	pseudogene	functional	723	960	no	yes	no
+>NC_051773.1_OR14C36_functional_rev_6498946_6499881	Anas_platyrhynchos_OR14C36_af_functional|NC_051773.1|6498946|6499881	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_5842558_5843490	Anas_platyrhynchos_OR14C36_i_pseudogene|NC_051773.1|5842903|5843490	7	4	yes	yes	yes	yes	functional	pseudogene	933	588	no	yes	yes
+>NC_051773.1_OR14C36_functional_fwd_59102006_59102938	Anas_platyrhynchos_OR14C36_cb_functional|NC_051773.1|59102006|59102938	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6548502_6549437	Anas_platyrhynchos_OR14C36_ai_pseudogene|NC_051773.1|6548883|6549437	7	4	yes	no	yes	yes	functional	pseudogene	936	555	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_59392499_59393434	Anas_platyrhynchos_OR14J1_cj_pseudogene|NC_051773.1|59392847|59393434	7	4	yes	yes	yes	yes	functional	pseudogene	936	588	no	yes	yes
+>NC_051773.1_OR14J1_functional_fwd_7701866_7702804	Anas_platyrhynchos_OR14J1_bq_functional|NC_051773.1|7701866|7702804	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_6010174_6011106	Anas_platyrhynchos_OR14C36_n_functional|NC_051773.1|6010174|6011106	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_051773.1_OR14C36_functional_fwd_6540482_6541405	Anas_platyrhynchos_OR14C36_ah_functional|NC_051773.1|6540482|6541405	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_051773.1_OR14C36_functional_rev_59035785_59036717	Anas_platyrhynchos_OR14C36_bz_pseudogene|NC_051773.1|59035785|59036372	7	4	yes	yes	yes	yes	functional	pseudogene	933	588	no	yes	yes
+>NC_051773.1_OR14C36_functional_rev_7767805_7768803	Anas_platyrhynchos_OR14C36_bt_functional|NC_051773.1|7767805|7768731	7	7	yes	yes	yes	yes	functional	functional	999	927	no	no	no change
+>NW_024010219.1_OR14C36_functional_rev_785960_786916	Anas_platyrhynchos_OR14C36_ml_functional|NW_024010219.1|785960|786916	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_024010219.1_OR14C36_functional_rev_298658_299650	Anas_platyrhynchos_OR14C36_ly_functional|NW_024010219.1|298658|299650	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_226080_227039	Anas_platyrhynchos_OR14C36_lu_functional|NW_024010219.1|226080|227039	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024010219.1_OR14A16_functional_rev_343674_344609	Anas_platyrhynchos_OR14A16_ma_functional|NW_024010219.1|343674|344609	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024010219.1_OR14A16_functional_fwd_865544_866476	Anas_platyrhynchos_OR14A16_mn_pseudogene|NW_024010219.1|865925|866476	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NW_024010219.1_OR14C36_functional_fwd_850316_851308	Anas_platyrhynchos_OR14C36_mm_functional|NW_024010219.1|850316|851308	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NW_024010219.1_OR14A16_functional_rev_369246_370205	Anas_platyrhynchos_OR14A16_mc_functional|NW_024010219.1|369246|370205	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_126909_127835	Anas_platyrhynchos_OR14C36_lr_pseudogene|NW_024010219.1|127290|127835	7	4	yes	no	yes	yes	functional	pseudogene	927	546	no	yes	yes
+>NW_024010219.1_OR14C36_functional_rev_10813_11802	Anas_platyrhynchos_OR14C36_ln_functional|NW_024010219.1|10813|11802	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_024010219.1_OR14C36_functional_rev_264423_265415	Anas_platyrhynchos_OR14C36_lw_pseudogene|NW_024010219.1|264423|265034	7	4	yes	no	yes	yes	functional	pseudogene	993	612	no	yes	yes
+>NW_024010219.1_OR14A16_functional_fwd_550351_551283	Anas_platyrhynchos_OR14A16_mi_functional|NW_024010219.1|550351|551283	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_247607_248542	Anas_platyrhynchos_OR14C36_lv_functional|NW_024010219.1|247607|248542	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_506638_507573	Anas_platyrhynchos_OR14J1_mh_pseudogene|NW_024010219.1|507019|507573	7	4	yes	no	yes	yes	functional	pseudogene	936	555	no	yes	yes
+>NW_024010219.1_OR14C36_functional_fwd_274015_274929	Anas_platyrhynchos_OR14J1_lx_pseudogene|NW_024010219.1|274360|274929	7	4	yes	yes	yes	yes	functional	pseudogene	915	570	no	yes	yes
+>NW_024010219.1_OR14C36_functional_fwd_172965_173891	Anas_platyrhynchos_OR14C36_lt_functional|NW_024010219.1|172965|173891	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_024010219.1_OR14C36_functional_rev_486957_487892	Anas_platyrhynchos_OR14C36_mg_functional|NW_024010219.1|486957|487892	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024010219.1_OR14C36_functional_rev_928224_929159	Anas_platyrhynchos_OR14C36_mq_pseudogene|NW_024010219.1|928224|928814	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024010219.1_OR14C36_functional_rev_338526_339461	Anas_platyrhynchos_OR14C36_lz_functional|NW_024010219.1|338526|339461	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024010219.1_OR14C36_functional_rev_395177_396142	Anas_platyrhynchos_OR14C36_md_functional|NW_024010219.1|395177|396142	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_45857_46798	Anas_platyrhynchos_OR14C36_lp_functional|NW_024010219.1|45857|46798	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_963368_964366	Anas_platyrhynchos_OR14C36_mr_functional|NW_024010219.1|963440|964366	7	7	yes	yes	yes	yes	functional	functional	999	927	no	no	no change
+>NW_024010219.1_OR14C36_functional_fwd_154242_155240	Anas_platyrhynchos_OR14C36_ls_functional|NW_024010219.1|154314|155240	7	7	yes	yes	yes	yes	functional	functional	999	927	no	no	no change
+>NW_024009705.1_OR14C36_functional_rev_277471_278430	Anas_platyrhynchos_OR14C36_iw_functional|NW_024009705.1|277471|278430	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009705.1_OR14C36_functional_rev_178753_179712	Anas_platyrhynchos_OR14C36_it_functional|NW_024009705.1|178753|179712	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009705.1_OR14A16_functional_fwd_295543_296478	Anas_platyrhynchos_OR14A16_iy_functional|NW_024009705.1|295543|296478	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009705.1_OR14C36_functional_fwd_284481_285416	Anas_platyrhynchos_OR14C36_gl_functional|NW_024009705.1|284481|285416	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009705.1_OR14C36_functional_fwd_119674_120612	Anas_platyrhynchos_OR14C36_is_functional|NW_024009705.1|119674|120612	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_024009698.1_OR14C36_functional_rev_114946_115887	Anas_platyrhynchos_OR14C36_gt_functional|NW_024009698.1|114946|115887	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009698.1_OR14C36_functional_rev_245820_246755	Anas_platyrhynchos_OR14C36_gz_functional|NW_024009698.1|245820|246755	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009698.1_OR14C36_functional_fwd_219449_220384	Anas_platyrhynchos_OR14C36_gx_pseudogene|NW_024009698.1|219794|220384	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024009698.1_OR14C36_functional_fwd_62610_63545	Anas_platyrhynchos_OR14C36_gr_functional|NW_024009698.1|62610|63545	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009698.1_OR14C36_functional_fwd_131822_132757	Anas_platyrhynchos_OR14C36_gu_functional|NW_024009698.1|131822|132757	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009698.1_OR14J1_functional_fwd_105809_106744	Anas_platyrhynchos_OR14J1_gs_functional|NW_024009698.1|105809|106744	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009698.1_OR14J1_functional_rev_197904_198818	Anas_platyrhynchos_OR14J1_gw_functional|NW_024009698.1|197904|198818	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NW_024009698.1_OR14C36_functional_fwd_272582_273517	Anas_platyrhynchos_OR14C36_ha_functional|NW_024009698.1|272582|273517	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009698.1_OR14C36_functional_rev_136324_137262	Anas_platyrhynchos_OR14J1_gv_pseudogene|NW_024009698.1|136399|136917	7	4	yes	yes	yes	no	functional	pseudogene	939	519	no	yes	yes
+>NW_024009697.1_OR14C36_functional_rev_55719_56660	Anas_platyrhynchos_OR14C36_gi_functional|NW_024009697.1|55719|56660	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009697.1_OR14A16_functional_fwd_28783_29742	Anas_platyrhynchos_OR14A16_gg_functional|NW_024009697.1|28783|29742	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009697.1_OR14C36_functional_fwd_331936_332871	Anas_platyrhynchos_OR14C36_gq_pseudogene|NW_024009697.1|332281|332871	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024009697.1_OR14A16_functional_fwd_108625_109557	Anas_platyrhynchos_OR14A16_gk_functional|NW_024009697.1|108625|109557	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_024009697.1_OR14C36_functional_rev_297720_298655	Anas_platyrhynchos_OR14C36_gp_pseudogene|NW_024009697.1|297720|298310	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024009697.1_OR14C36_functional_rev_124587_125522	Anas_platyrhynchos_OR14C36_ix_functional|NW_024009697.1|124587|125522	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009697.1_OR14J1_functional_rev_20920_21855	Anas_platyrhynchos_OR14J1_gf_functional|NW_024009697.1|20920|21855	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009697.1_OR14C36_functional_rev_173483_174418	Anas_platyrhynchos_OR14C36_gn_pseudogene|NW_024009697.1|173483|174076	7	4	yes	yes	yes	yes	functional	pseudogene	936	594	no	yes	yes
+>NW_024009701.1_OR14J1_functional_fwd_288431_289372	Anas_platyrhynchos_OR14J1_il_pseudogene|NW_024009701.1|288806|289291	7	4	yes	no	yes	no	functional	pseudogene	942	486	no	yes	yes
+>NW_024009701.1_OR14C36_functional_fwd_190454_191446	Anas_platyrhynchos_OR14C36_ie_functional|NW_024009701.1|190454|191446	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NW_024009701.1_OR14C36_functional_fwd_295990_296925	Anas_platyrhynchos_OR14C36_im_pseudogene|NW_024009701.1|296371|296832	7	4	yes	no	yes	no	functional	pseudogene	936	462	no	yes	yes
+>NW_024009701.1_OR14A16_functional_fwd_126841_127776	Anas_platyrhynchos_OR14A16_ia_functional|NW_024009701.1|126841|127776	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009701.1_OR14A16_functional_fwd_137960_138919	Anas_platyrhynchos_OR14A16_ib_functional|NW_024009701.1|137960|138919	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009701.1_OR14C36_functional_fwd_277490_278410	Anas_platyrhynchos_OR14C36_ik_functional|NW_024009701.1|277580|278350	7	7	yes	no	yes	no	functional	functional	921	771	no	no	yes
+>NW_024009701.1_OR14C36_functional_rev_201896_202831	Anas_platyrhynchos_OR14C36_if_pseudogene|NW_024009701.1|201896|202486	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024009701.1_OR14C36_functional_rev_218187_219122	Anas_platyrhynchos_OR14C36_ih_functional|NW_024009701.1|218187|219122	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009701.1_OR14C36_functional_rev_207036_207971	Anas_platyrhynchos_OR14C36_ig_functional|NW_024009701.1|207036|207971	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009701.1_OR14A16_functional_fwd_253463_254398	Anas_platyrhynchos_OR14C36_ij_pseudogene|NW_024009701.1|253808|254398	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024009701.1_OR14J1_functional_rev_244026_244946	Anas_platyrhynchos_OR14C36_ii_pseudogene|NW_024009701.1|244083|244601	7	4	yes	yes	yes	no	functional	pseudogene	921	519	no	yes	yes
+>NW_024009701.1_OR14C36_functional_fwd_166788_167723	Anas_platyrhynchos_OR14C36_id_functional|NW_024009701.1|166788|167723	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009701.1_OR14C36_functional_fwd_67798_68727	Anas_platyrhynchos_OR14C36_hw_functional|NW_024009701.1|67798|68727	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_024009745.1_OR14C36_functional_fwd_82447_83382	Anas_platyrhynchos_OR14C36_jz_functional|NW_024009745.1|82447|83382	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009745.1_OR14A16_functional_fwd_11666_12625	Anas_platyrhynchos_OR14C36_ju_pseudogene|NW_024009745.1|12047|12625	7	4	yes	no	yes	yes	functional	pseudogene	960	579	no	yes	yes
+>NW_024009745.1_OR14C36_functional_rev_19964_20899	Anas_platyrhynchos_OR14C36_jv_functional|NW_024009745.1|19964|20899	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009745.1_OR14J1_functional_fwd_123862_124908	Anas_platyrhynchos_OR14J1_kb_pseudogene|NW_024009745.1|124354|124866	7	4	yes	no	yes	no	functional	pseudogene	1047	513	no	yes	yes
+>NW_024009745.1_OR14J1_functional_rev_28114_29052	Anas_platyrhynchos_OR14J1_jw_functional|NW_024009745.1|28114|29052	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_024009745.1_OR14C36_functional_fwd_75228_76217	Anas_platyrhynchos_OR14C36_jy_functional|NW_024009745.1|75228|76217	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_024009731.1_OR14C36_functional_rev_121103_122038	Anas_platyrhynchos_OR14C36_jm_functional|NW_024009731.1|121103|122038	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009731.1_OR14A16_functional_fwd_81054_81989	Anas_platyrhynchos_OR14A16_jj_functional|NW_024009731.1|81054|81989	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009731.1_OR14C36_functional_fwd_68361_69296	Anas_platyrhynchos_OR14C36_ji_functional|NW_024009731.1|68361|69296	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009731.1_OR14C36_functional_rev_99667_100647	Anas_platyrhynchos_OR14C36_jl_functional|NW_024009731.1|99667|100647	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_051782.1_OR10A7_functional_rev_11647763_11648725	Anas_platyrhynchos_OR10A7_functional|NC_051782.1|11647763|11648725	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_051782.1_OR11L1_functional_rev_11751340_11752278	Anas_platyrhynchos_OR11L1_functional|NC_051782.1|11751340|11752278	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051782.1_OR12D2_functional_fwd_11665808_11666776	Anas_platyrhynchos_OR12D2_du_functional|NC_051782.1|11665808|11666776	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_051782.1_OR14C36_functional_rev_729732_730673	Anas_platyrhynchos_OR14J1_df_pseudogene|NC_051782.1|729732|730292	7	4	yes	no	yes	yes	functional	pseudogene	942	561	no	yes	yes
+>NC_051782.1_OR14C36_functional_rev_960438_961364	Anas_platyrhynchos_OR14C36_ds_functional|NC_051782.1|960438|961364	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_051782.1_OR14A16_functional_fwd_716636_717571	Anas_platyrhynchos_OR14A16_dd_functional|NC_051782.1|716636|717571	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051782.1_OR14C36_functional_fwd_769096_770088	Anas_platyrhynchos_OR14C36_di_pseudogene|NC_051782.1|769297|770088	7	5	yes	no	yes	yes	functional	pseudogene	993	792	no	yes	yes
+>NC_051782.1_OR14C36_functional_rev_724004_724939	Anas_platyrhynchos_OR14C36_de_functional|NC_051782.1|724004|724939	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051782.1_OR14C36_functional_fwd_969042_969983	Anas_platyrhynchos_OR14C36_dt_functional|NC_051782.1|969042|969983	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051782.1_OR14J1_functional_fwd_926596_927531	Anas_platyrhynchos_OR14J1_dp_functional|NC_051782.1|926596|927531	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051782.1_OR14C36_functional_fwd_864535_865470	Anas_platyrhynchos_OR14J1_dm_pseudogene|NC_051782.1|864916|865470	7	4	yes	no	yes	yes	functional	pseudogene	936	555	no	yes	yes
+>NC_051782.1_OR14C36_functional_fwd_790004_790930	Anas_platyrhynchos_OR14C36_dj_pseudogene|NC_051782.1|790385|790930	7	4	yes	no	yes	yes	functional	pseudogene	927	546	no	yes	yes
+>NC_051782.1_OR14C36_functional_rev_853738_854673	Anas_platyrhynchos_OR14C36_dl_functional|NC_051782.1|853738|854673	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051782.1_OR14C36_functional_rev_943487_944419	Anas_platyrhynchos_OR14C36_dq_functional|NC_051782.1|943487|944419	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_051782.1_OR14J1_functional_fwd_888178_889104	Anas_platyrhynchos_OR14C36_dn_pseudogene|NC_051782.1|888559|889104	7	4	yes	no	yes	yes	functional	pseudogene	927	546	no	yes	yes
+>NC_051782.1_OR14C36_functional_fwd_953366_954298	Anas_platyrhynchos_OR14J1_dr_pseudogene|NC_051782.1|953747|954298	7	4	yes	no	yes	yes	functional	pseudogene	933	552	no	yes	yes
+>NC_051782.1_OR14J1_functional_fwd_907366_908304	Anas_platyrhynchos_OR14J1_do_functional|NC_051782.1|907366|908304	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051782.1_OR14J1_functional_fwd_755852_756841	Anas_platyrhynchos_OR14J1_dg_functional|NC_051782.1|755852|756841	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_051782.1_OR5V1_functional_rev_11738492_11739430	Anas_platyrhynchos_OR5V1_functional|NC_051782.1|11738492|11739430	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051782.1_OR5V1_functional_rev_11840435_11841373	Anas_platyrhynchos_OR5V1_dy_functional|NC_051782.1|11840435|11841373	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_024009818.1_OR14C36_functional_fwd_82457_83383	Anas_platyrhynchos_OR14C36_kk_functional|NW_024009818.1|82457|83383	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_051792.1_OR14C36_functional_fwd_2666786_2667721	Anas_platyrhynchos_OR14C36_dz_functional|NC_051792.1|2666786|2667721	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009737.1_OR14C36_functional_rev_58735_59733	Anas_platyrhynchos_OR14C36_jn_functional|NW_024009737.1|58735|59661	7	7	yes	yes	yes	yes	functional	functional	999	927	no	no	no change
+>NC_051803.1_OR14C36_functional_rev_16307032_16307979	Anas_platyrhynchos_OR14C36_en_functional|NC_051803.1|16307032|16307973	7	7	yes	yes	yes	yes	functional	functional	948	942	no	no	no change
+>NC_051803.1_OR14C36_functional_fwd_12985878_12986843	Anas_platyrhynchos_OR14C36_em_pseudogene|NC_051803.1|12986223|12986843	7	4	yes	yes	yes	yes	functional	pseudogene	966	621	no	yes	yes
+>NW_024010378.1_OR14J1_functional_fwd_430154_431089	Anas_platyrhynchos_OR14C36_ne_pseudogene|NW_024010378.1|430499|431089	7	4	yes	yes	yes	yes	functional	pseudogene	936	591	no	yes	yes
+>NW_024010378.1_OR14J1_functional_fwd_366024_366950	Anas_platyrhynchos_OR14J1_nd_pseudogene|NW_024010378.1|366369|366950	7	4	yes	yes	yes	yes	functional	pseudogene	927	582	no	yes	yes
+>NW_024010378.1_OR14A16_functional_fwd_237472_238410	Anas_platyrhynchos_OR14A16_nc_functional|NW_024010378.1|237472|238410	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_024010388.1_OR14J1_functional_rev_7836_8777	Anas_platyrhynchos_OR14J1_nf_functional|NW_024010388.1|7836|8777	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024010388.1_OR14J1_functional_fwd_442428_443369	Anas_platyrhynchos_OR14J1_nh_functional|NW_024010388.1|442428|443369	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024010388.1_OR14C36_functional_rev_419599_420531	Anas_platyrhynchos_OR14C36_ng_pseudogene|NW_024010388.1|419599|420186	7	4	yes	yes	yes	yes	functional	pseudogene	933	588	no	yes	yes
+>NW_024009976.1_OR14C36_functional_fwd_11168_12100	Anas_platyrhynchos_OR14C36_lb_functional|NW_024009976.1|11168|12100	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_024009696.1_OR14C36_functional_fwd_196390_197349	Anas_platyrhynchos_OR14C36_gb_functional|NW_024009696.1|196390|197349	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009696.1_OR14C36_functional_rev_288143_289084	Anas_platyrhynchos_OR14C36_ge_functional|NW_024009696.1|288143|289084	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009696.1_OR14C36_functional_fwd_277506_278447	Anas_platyrhynchos_OR14C36_gd_functional|NW_024009696.1|277506|278447	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009696.1_OR14C36_functional_rev_240961_241905	Anas_platyrhynchos_OR14C36_gc_functional|NW_024009696.1|240961|241905	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024010309.1_OR14I1_functional_fwd_64605_65528	Anas_platyrhynchos_OR14I1_ms_functional|NW_024010309.1|64605|65528	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_024010309.1_OR14A16_functional_rev_402864_403826	Anas_platyrhynchos_OR14A16_mx_functional|NW_024010309.1|402864|403796	7	7	yes	yes	yes	yes	functional	functional	963	933	no	no	no change
+>NW_024010309.1_OR14A16_functional_fwd_70160_71086	Anas_platyrhynchos_OR14A16_mt_functional|NW_024010309.1|70160|71086	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_024010309.1_OR49_functional_fwd_468115_469248	Anas_platyrhynchos_OR49_mz_functional|NW_024010309.1|468115|469248	7	7	yes	yes	yes	yes	functional	functional	1134	1134	yes	no	no change
+>NW_024010309.1_OR49_functional_rev_186603_187586	Anas_platyrhynchos_OR49_mu_functional|NW_024010309.1|186603|187586	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NW_024010309.1_OR49_functional_rev_355165_356148	Anas_platyrhynchos_OR49_mw_functional|NW_024010309.1|355165|356112	7	7	yes	yes	yes	yes	functional	functional	984	948	no	no	no change
+>NW_024010309.1_OR49_functional_fwd_523627_524610	Anas_platyrhynchos_OR49_na_functional|NW_024010309.1|523663|524610	7	7	yes	yes	yes	yes	functional	functional	984	948	no	no	no change
+>NC_051774.1_TAAR1_functional_fwd_60790461_60791459	Anas_platyrhynchos_TAAR1_functional|NC_051774.1|60790461|60791459	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NC_051774.1_TAAR2_functional_fwd_60801049_60802209	Anas_platyrhynchos_TAAR2_functional|NC_051774.1|60801049|60802209	7	7	yes	yes	yes	yes	functional	functional	1161	1161	yes	no	no change
+>NC_051774.1_TAAR5_functional_fwd_60814310_60815338	Anas_platyrhynchos_TAAR5_functional|NC_051774.1|60814310|60815338	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NC_051774.1_TAS2R116_functional_rev_114480032_114480985	Anas_platyrhynchos_TAS2R116_functional|NC_051774.1|114480032|114480985	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_051774.1_TAS2R9_functional_rev_114495263_114496294	Anas_platyrhynchos_TAS2R9_cp_functional|NC_051774.1|114495263|114496216	7	7	yes	yes	yes	yes	functional	functional	1032	954	no	no	no change
+>NC_051774.1_TAS2R9_functional_rev_114485144_114486295	Anas_platyrhynchos_TAS2R9_functional|NC_051774.1|114485144|114486295	7	7	yes	yes	yes	yes	functional	functional	1152	1152	yes	no	no change
+>NC_051774.1_TAS2R9_functional_rev_114490196_114491227	Anas_platyrhynchos_TAS2R9_co_functional|NC_051774.1|114490196|114491227	7	7	yes	yes	yes	yes	functional	functional	1032	1032	yes	no	no change
+>NW_024010209.1_OR14C36_functional_rev_11044_11979	Anas_platyrhynchos_OR14C36_lm_functional|NW_024010209.1|11044|11979	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009686.1_OR14A16_functional_rev_332641_333600	Anas_platyrhynchos_OR14A16_ez_functional|NW_024009686.1|332641|333600	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009686.1_OR14C36_functional_fwd_222998_223912	Anas_platyrhynchos_OR14J1_ex_pseudogene|NW_024009686.1|223373|223912	7	4	yes	no	yes	yes	functional	pseudogene	915	540	no	yes	yes
+>NW_024009686.1_OR14C36_functional_rev_233771_234709	Anas_platyrhynchos_OR14C36_ey_functional|NW_024009686.1|233771|234709	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_024009686.1_OR49_functional_rev_213558_214541	Anas_platyrhynchos_OR49_ew_functional|NW_024009686.1|213558|214505	7	7	yes	yes	yes	yes	functional	functional	984	948	no	no	no change
+>NW_024009765.1_OR14C36_functional_rev_117739_118701	Anas_platyrhynchos_OR14J1_kf_pseudogene|NW_024009765.1|117739|118350	7	4	yes	no	yes	yes	functional	pseudogene	963	612	no	yes	yes
+>NC_051799.1_OR1020_functional_fwd_3998105_3999040	Anas_platyrhynchos_OR1020_ec_functional|NC_051799.1|3998105|3999040	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_051799.1_OR10A7_functional_fwd_4242017_4243078	Anas_platyrhynchos_OR10A7_eh_functional|NC_051799.1|4242128|4243078	7	7	yes	yes	yes	yes	functional	functional	1062	951	no	no	no change
+>NC_051799.1_OR14C36_functional_rev_3971715_3972680	Anas_platyrhynchos_OR14C36_ea_functional|NC_051799.1|3971715|3972680	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_051799.1_OR49_functional_fwd_4217987_4218928	Anas_platyrhynchos_OR49_ef_functional|NC_051799.1|4217987|4218928	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051799.1_OR49_functional_rev_4084696_4085637	Anas_platyrhynchos_OR49_functional|NC_051799.1|4084696|4085637	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051799.1_OR49_functional_fwd_4278098_4279051	Anas_platyrhynchos_OR49_ei_functional|NC_051799.1|4278098|4279051	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_051799.1_OR49_functional_fwd_4669288_4670229	Anas_platyrhynchos_OR49_ek_functional|NC_051799.1|4669288|4670229	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_051799.1_OR49_functional_fwd_4718545_4719516	Anas_platyrhynchos_OR49_el_functional|NC_051799.1|4718545|4719516	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_051799.1_OR4D1_functional_rev_4063999_4064958	Anas_platyrhynchos_OR4D1_ee_functional|NC_051799.1|4063999|4064958	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051799.1_OR4D1_functional_fwd_4039516_4040475	Anas_platyrhynchos_OR4D1_functional|NC_051799.1|4039516|4040475	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_051799.1_OR4N5_functional_rev_4225182_4226153	Anas_platyrhynchos_OR4N5_eg_functional|NC_051799.1|4225224|4226153	7	7	yes	yes	yes	no	functional	functional	972	930	no	no	yes
+>NC_051799.1_OR4N2_functional_rev_4028482_4029420	Anas_platyrhynchos_OR4N2_functional|NC_051799.1|4028482|4029420	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051799.1_OR4N5_functional_fwd_4075179_4076117	Anas_platyrhynchos_OR4N5_functional|NC_051799.1|4075179|4076117	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_051799.1_OR4S2_pseudogene_short_fwd_3989212_3989979	Anas_platyrhynchos_OR4S2_eb_functional|NC_051799.1|3989044|3989979	6	7	yes	yes	yes	yes	pseudogene	functional	768	936	no	yes	no
+>NC_051799.1_OR6A2_functional_fwd_4013564_4014529	Anas_platyrhynchos_OR6A2_functional|NC_051799.1|4013564|4014529	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_051799.1_OR6B1_functional_fwd_4004820_4005764	Anas_platyrhynchos_OR6B1_ed_functional|NC_051799.1|4004820|4005764	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009760.1_OR10H1_functional_fwd_26211_27200	Anas_platyrhynchos_OR10H1_ke_functional|NW_024009760.1|26211|27200	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_024009689.1_OR14C36_pseudogene_nonsense_short_fwd_245900_246592	Anas_platyrhynchos_OR14C36_fh_pseudogene|NW_024009689.1|245900|246514	4	4	yes	yes	yes	yes	pseudogene	pseudogene	693	615	no	no	no change
+>NW_024009689.1_OR14A16_functional_rev_259235_260194	Anas_platyrhynchos_OR14A16_fi_functional|NW_024009689.1|259235|260194	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009689.1_OR14A16_functional_rev_112093_113052	Anas_platyrhynchos_OR14A16_fc_functional|NW_024009689.1|112093|113052	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009689.1_OR14C36_functional_fwd_196750_197712	Anas_platyrhynchos_OR14C36_ff_functional|NW_024009689.1|196750|197712	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009689.1_OR14C36_functional_fwd_270514_271458	Anas_platyrhynchos_OR14C36_fj_functional|NW_024009689.1|270514|271458	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009689.1_OR14A16_functional_fwd_188344_189303	Anas_platyrhynchos_OR14A16_fe_functional|NW_024009689.1|188344|189303	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009689.1_OR14C36_functional_rev_337310_338269	Anas_platyrhynchos_OR14C36_fk_functional|NW_024009689.1|337310|338269	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009689.1_OR14C36_functional_rev_174743_175699	Anas_platyrhynchos_OR14C36_fd_pseudogene|NW_024009689.1|174743|175357	7	4	yes	yes	yes	yes	functional	pseudogene	957	615	no	yes	yes
+>NW_024009689.1_OR14C36_functional_fwd_215609_216547	Anas_platyrhynchos_OR14C36_fg_pseudogene|NW_024009689.1|215846|216547	7	5	yes	yes	yes	yes	functional	pseudogene	939	702	no	yes	yes
+>NW_024009689.1_OR14A16_functional_rev_61780_62739	Anas_platyrhynchos_OR14A16_fb_functional|NW_024009689.1|61780|62739	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009689.1_OR14C36_pseudogene_short_rev_361472_362239	Anas_platyrhynchos_OR14J1_fl_pseudogene|NW_024009689.1|361472|362062	6	4	yes	yes	yes	yes	pseudogene	pseudogene	768	591	no	no	yes
+>NW_024009862.1_OR14C36_functional_fwd_14562_15521	Anas_platyrhynchos_OR14C36_kt_functional|NW_024009862.1|14562|15521	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009862.1_OR14A16_functional_fwd_2713_3672	Anas_platyrhynchos_OR14A16_kr_functional|NW_024009862.1|2713|3672	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009862.1_OR14A16_functional_fwd_61165_62124	Anas_platyrhynchos_OR14A16_ku_functional|NW_024009862.1|61165|62124	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009700.1_OR14C36_pseudogene_short_rev_174859_175467	Anas_platyrhynchos_OR14C36_hp_pseudogene|NW_024009700.1|174859|175467	5	5	yes	yes	yes	yes	pseudogene	pseudogene	609	609	yes	no	no change
+>NW_024009700.1_OR14C36_functional_fwd_6940_7899	Anas_platyrhynchos_OR14C36_hd_functional|NW_024009700.1|6940|7899	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009700.1_OR14C36_functional_fwd_65419_66378	Anas_platyrhynchos_OR14C36_hi_functional|NW_024009700.1|65419|66378	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009700.1_OR14C36_functional_fwd_132001_132960	Anas_platyrhynchos_OR14C36_hk_functional|NW_024009700.1|132001|132960	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009700.1_OR14C36_functional_fwd_31956_32900	Anas_platyrhynchos_OR14C36_hn_pseudogene|NW_024009700.1|32301|32900	7	4	yes	yes	yes	yes	functional	pseudogene	945	600	no	yes	yes
+>NW_024009700.1_OR14C36_functional_fwd_157058_158002	Anas_platyrhynchos_OR14C36_jf_pseudogene|NW_024009700.1|157403|158002	7	4	yes	yes	yes	yes	functional	pseudogene	945	600	no	yes	yes
+>NW_024009700.1_OR14C36_functional_rev_137693_138652	Anas_platyrhynchos_OR14C36_hl_functional|NW_024009700.1|137693|138652	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009700.1_OR14C36_functional_rev_36299_37348	Anas_platyrhynchos_OR14C36_hg_functional|NW_024009700.1|36299|37357	7	7	yes	yes	yes	yes	functional	functional	1050	1059	no	no	no change
+>NW_024009700.1_OR14C36_functional_rev_300773_301774	Anas_platyrhynchos_OR14C36_hr_pseudogene|NW_024009700.1|300773|301573	7	5	yes	no	yes	yes	functional	pseudogene	1002	801	no	yes	yes
+>NW_024009700.1_OR14C36_functional_fwd_22358_23416	Anas_platyrhynchos_OR14C36_he_functional|NW_024009700.1|22367|23416	7	7	yes	yes	yes	yes	functional	functional	1059	1050	no	no	no change
+>NW_024009700.1_OR14C36_functional_fwd_147462_148520	Anas_platyrhynchos_OR14C36_hm_functional|NW_024009700.1|147471|148520	7	7	yes	yes	yes	yes	functional	functional	1059	1050	no	no	no change
+>NW_024009700.1_OR14A16_functional_fwd_231174_232118	Anas_platyrhynchos_OR14A16_hq_functional|NW_024009700.1|231174|232118	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_265007_265921	Anas_platyrhynchos_OR14C36_fv_functional|NW_024009690.1|265007|265921	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_143883_144845	Anas_platyrhynchos_OR14C36_fp_functional|NW_024009690.1|143883|144845	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_284717_285661	Anas_platyrhynchos_OR14C36_fw_functional|NW_024009690.1|284717|285661	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009690.1_OR14C36_functional_rev_378503_379468	Anas_platyrhynchos_OR14C36_ll_functional|NW_024009690.1|378503|379468	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_185809_186753	Anas_platyrhynchos_OR14C36_fr_functional|NW_024009690.1|185809|186753	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_96446_97408	Anas_platyrhynchos_OR14C36_fn_functional|NW_024009690.1|96446|97408	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009690.1_OR14C36_functional_fwd_247536_248495	Anas_platyrhynchos_OR14C36_fu_functional|NW_024009690.1|247536|248495	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009837.1_OR14C36_functional_rev_36345_37346	Anas_platyrhynchos_OR14C36_kl_functional|NW_024009837.1|36345|37298	7	7	yes	yes	yes	yes	functional	functional	1002	954	no	no	no change
+>NW_024009714.1_OR14A16_functional_rev_117243_118205	Anas_platyrhynchos_OR14A16_jc_functional|NW_024009714.1|117243|118205	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009714.1_OR14C36_functional_fwd_29081_30016	Anas_platyrhynchos_OR14C36_ja_functional|NW_024009714.1|29081|30016	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009714.1_OR14C36_functional_rev_69393_70355	Anas_platyrhynchos_OR14C36_jb_functional|NW_024009714.1|69393|70355	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009714.1_OR14A16_functional_rev_17127_18071	Anas_platyrhynchos_OR14A16_iz_functional|NW_024009714.1|17127|18071	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_024009692.1_OR14A16_functional_rev_352716_353651	Anas_platyrhynchos_OR14A16_ga_functional|NW_024009692.1|352716|353651	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009692.1_OR14A16_functional_fwd_163724_164674	Anas_platyrhynchos_OR14A16_fy_functional|NW_024009692.1|163742|164674	7	7	yes	no	yes	yes	functional	functional	951	933	no	no	yes
+>NW_024009692.1_OR49_functional_rev_308868_309815	Anas_platyrhynchos_OR49_fz_functional|NW_024009692.1|308868|309815	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_024009725.1_OR14C36_functional_fwd_183648_184610	Anas_platyrhynchos_OR14C36_jh_functional|NW_024009725.1|183648|184610	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_024009702.1_OR10AG1_functional_rev_158150_159118	Anas_platyrhynchos_OR10AG1_functional|NW_024009702.1|158150|159118	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_024009702.1_OR14C36_functional_fwd_172412_173407	Anas_platyrhynchos_OR14C36_lk_functional|NW_024009702.1|172412|173407	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NW_024009683.1_OR14C36_functional_rev_124855_125790	Anas_platyrhynchos_OR14C36_eo_functional|NW_024009683.1|124855|125883	7	7	yes	yes	yes	yes	functional	functional	936	1029	no	no	no change
+>NW_024010394.1_OR14A16_functional_fwd_10033_10992	Anas_platyrhynchos_OR14A16_ni_functional|NW_024010394.1|10033|10992	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009841.1_OR14C36_functional_fwd_10660_11595	Anas_platyrhynchos_OR14C36_km_functional|NW_024009841.1|10660|11595	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_024009742.1_OR14A16_functional_fwd_73323_74282	Anas_platyrhynchos_OR14A16_jo_functional|NW_024009742.1|73323|74282	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009716.1_OR14A16_functional_rev_32719_33678	Anas_platyrhynchos_OR14A16_je_functional|NW_024009716.1|32719|33678	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009716.1_OR14A16_functional_rev_48317_49366	Anas_platyrhynchos_OR14A16_jg_functional|NW_024009716.1|48317|49366	7	7	yes	yes	yes	yes	functional	functional	1050	1050	yes	no	no change
+>NW_024009716.1_OR14C36_functional_fwd_43979_44923	Anas_platyrhynchos_OR14C36_hf_pseudogene|NW_024009716.1|44324|44923	7	4	yes	yes	yes	yes	functional	pseudogene	945	600	no	yes	yes
+>NW_024010051.1_OR14A16_functional_fwd_24603_25562	Anas_platyrhynchos_OR14A16_ld_functional|NW_024010051.1|24603|25562	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024010051.1_OR14A16_functional_fwd_41207_42166	Anas_platyrhynchos_OR14A16_le_functional|NW_024010051.1|41207|42166	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024010359.1_OR14J1_pseudogene_short_fwd_33_677	Anas_platyrhynchos_OR14J1_nb_pseudogene|NW_024010359.1|63|677	5	4	yes	yes	yes	yes	pseudogene	pseudogene	645	615	no	no	yes
+>NW_024009755.1_OR14C36_functional_rev_8552_9511	Anas_platyrhynchos_OR14C36_kd_functional|NW_024009755.1|8552|9511	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024010151.1_OR14C36_functional_fwd_8874_9839	Anas_platyrhynchos_OR14C36_fx_functional|NW_024010151.1|8874|9839	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NW_024010090.1_OR14C36_functional_rev_26124_27119	Anas_platyrhynchos_OR14C36_io_functional|NW_024010090.1|26124|27119	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_051776.1_OR1019_functional_rev_31017803_31018777	Anas_platyrhynchos_OR1019_functional|NC_051776.1|31017803|31018906	7	7	yes	yes	yes	yes	functional	functional	975	1104	no	no	no change
+>NC_051776.1_OR1020_functional_rev_30941575_30942573	Anas_platyrhynchos_OR1020_ct_functional|NC_051776.1|30941575|30942573	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NC_051776.1_OR1020_functional_fwd_30957706_30958635	Anas_platyrhynchos_OR1020_cu_functional|NC_051776.1|30957706|30958635	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051776.1_OR1020_functional_rev_31013797_31014744	Anas_platyrhynchos_OR1020_cv_functional|NC_051776.1|31013797|31014744	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_051776.1_OR1052_functional_fwd_30933599_30934567	Anas_platyrhynchos_OR1052_cq_functional|NC_051776.1|30933599|30934567	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_051776.1_OR1052_pseudogene_short_rev_31025120_31025875	Anas_platyrhynchos_OR1052_cw_functional|NC_051776.1|31025120|31026115	6	7	yes	yes	yes	yes	pseudogene	functional	756	996	no	yes	no
+>NC_051776.1_OR1052_functional_rev_32095369_32096298	Anas_platyrhynchos_OR1052_cy_functional|NC_051776.1|32095369|32096298	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051776.1_OR1052_functional_rev_32101699_32102652	Anas_platyrhynchos_OR1052_cz_functional|NC_051776.1|32101699|32102652	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_051776.1_OR1102_functional_rev_30992023_30992952	Anas_platyrhynchos_OR1102_functional|NC_051776.1|30992023|30992952	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051776.1_OR1509_functional_rev_30449667_30450626	Anas_platyrhynchos_OR1509_functional|NC_051776.1|30449667|30450593	7	7	yes	yes	yes	yes	functional	functional	960	927	no	no	no change
+>NC_051776.1_OR4S2_functional_rev_30455270_30456199	Anas_platyrhynchos_OR4S2_functional|NC_051776.1|30455270|30456199	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_051776.1_OR5AS1_functional_rev_32138293_32139240	Anas_platyrhynchos_OR5AS1_functional|NC_051776.1|32138293|32139240	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_051776.1_OR5F1_functional_rev_30937208_30938152	Anas_platyrhynchos_OR5F1_cs_functional|NC_051776.1|30937208|30938152	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_051776.1_OR5F1_functional_rev_30437308_30438264	Anas_platyrhynchos_OR5F1_functional|NC_051776.1|30437308|30438252	7	7	yes	yes	yes	yes	functional	functional	957	945	no	no	no change
+>NC_051776.1_OR8U9_functional_rev_31005340_31006284	Anas_platyrhynchos_OR8U9_functional|NC_051776.1|31005340|31006269	7	7	yes	yes	yes	yes	functional	functional	945	930	no	no	no change
+>NC_051776.1_ORPROTEINCOR4_functional_rev_31029516_31030457	Anas_platyrhynchos_ORPROTEINCOR4_functional|NC_051776.1|31029516|31030457	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009808.1_OR49_functional_fwd_12770_13903	Anas_platyrhynchos_OR49_ki_functional|NW_024009808.1|12770|13903	7	7	yes	yes	yes	yes	functional	functional	1134	1134	yes	no	no change
+>NC_051784.1_OR10K2_functional_fwd_8794711_8795676	Anas_platyrhynchos_OR10K2_functional|NC_051784.1|8794711|8795676	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_051784.1_RHO_functional_rev_579578_582378	Anas_platyrhynchos_RHO_functional|NC_051784.1|582378|579578	7	7	yes	yes	yes	yes	functional	functional	1056	1056	yes	no	no change
+>NC_051781.1_OR10H1_functional_rev_3133239_3134228	Anas_platyrhynchos_OR10H1_da_functional|NC_051781.1|3133239|3134228	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_051781.1_OR10H1_functional_rev_3161442_3162431	Anas_platyrhynchos_OR10H1_db_functional|NC_051781.1|3161442|3162431	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_051781.1_OR10H1_functional_rev_3077481_3078470	Anas_platyrhynchos_OR10H1_functional|NC_051781.1|3077481|3078470	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_024010063.1_OR10H1_pseudogene_short_rev_38875_39693	Anas_platyrhynchos_OR10H1_lf_pseudogene|NW_024010063.1|38875|39693	6	6	yes	yes	yes	yes	pseudogene	pseudogene	819	819	yes	no	no change
+>NW_024009852.1_OR49_functional_rev_56361_57302	Anas_platyrhynchos_OR49_kq_functional|NW_024009852.1|56361|57302	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_024009852.1_OR4D1_functional_fwd_13568_14527	Anas_platyrhynchos_OR4D1_ko_functional|NW_024009852.1|13568|14527	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_024009852.1_OR4N2_functional_fwd_46029_47000	Anas_platyrhynchos_OR4N2_kp_functional|NW_024009852.1|46029|46958	7	7	yes	yes	yes	no	functional	functional	972	930	no	no	yes
+>NW_024009763.1_OR6M1_functional_fwd_38533_39483	Anas_platyrhynchos_OR6M1_functional|NW_024009763.1|38533|39483	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_051793.1_TAS1R1_functional_fwd_1866892_1871789	Anas_platyrhynchos_TAS1R1_functional|NC_051793.1|1867737|1871789	7	7	yes	yes	yes	yes	functional	functional	2463	2139	no	no	no change
+>NC_051793.1_TAS1R3_functional_fwd_3537624_3542262	Anas_platyrhynchos_TAS1R3_functional|NC_051793.1|3537525|3542262	7	7	yes	yes	yes	yes	functional	functional	2511	2610	no	no	no change

@@ -1,0 +1,842 @@
+Gene	Length	Type	Isoform keep	Number of  domains	Tool	Original Status	New status	Status change	Reason
+Canis_lupus_familiaris_TAAR5_functional|NC_006583.4|26626764|26627777	1014	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAAR4_functional|NC_006583.4|26633763|26634809	1047	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10A7_functional|NC_006583.4|101459255|101460244	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6Z1_functional|NC_006583.4|101470163|101471101	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6Z2_functional|NC_006583.4|101486679|101487653	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_VN1R4_functional|NC_006583.4|103619140|103620090	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_VN1R1_functional|NC_006583.4|112896546|112897445	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR6C3I_functional|NC_006585.4|33095681|33096616	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C87_functional|NC_006585.4|33196236|33197147	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C75_functional|NC_006585.4|33250465|33251400	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C53_functional|NC_006585.4|33379614|33380576	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C89_functional|NC_006585.4|33426522|33427457	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9R6_functional|NC_006587.4|62980|63915	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8A1_functional|NC_006587.4|9871707|9872636	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B12_functional|NC_006587.4|9886899|9887828	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B9_functional|NC_006587.4|9951142|9952077	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B8_functional|NC_006587.4|9979384|9980331	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B4_functional|NC_006587.4|9995701|9996630	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8C7_functional|NC_006587.4|10020702|10021634	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B3_functional|NC_006587.4|10041443|10042468	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B100_functional|NC_006587.4|10051784|10052716	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1L_functional|NC_006587.4|10083294|10084226	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1_functional|NC_006587.4|10103387|10104319	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1O_functional|NC_006587.4|10118047|10118979	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1M_functional|NC_006587.4|10137718|10138650	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1J_functional|NC_006587.4|10155933|10156865	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1N_functional|NC_006587.4|10180521|10181453	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B1K_functional|NC_006587.4|10195957|10196889	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B60_functional|NC_006587.4|10204441|10205376	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8D2_functional|NC_006587.4|10228629|10229555	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8AP1_functional|NC_006587.4|10239637|10240563	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8D6_functional|NC_006587.4|10251317|10252258	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR149_functional|NC_006587.4|10279808|10280740	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8G1_functional|NC_006587.4|10288116|10289051	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8G3_functional|NC_006587.4|10301696|10302631	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8G6_functional|NC_006587.4|10309997|10310956	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10D3_functional|NC_006587.4|10347422|10348363	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AI1_functional|NC_006587.4|10355788|10356723	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10D1K_functional|NC_006587.4|10378123|10379058	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10N1_functional|NC_006587.4|10423978|10424910	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10D4_functional|NC_006587.4|10434952|10435887	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10D5_functional|NC_006587.4|10471182|10472114	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10D5B_functional|NC_006587.4|10481652|10482584	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10G9_functional|NC_006587.4|10507067|10508002	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10G9C_functional|NC_006587.4|10525405|10526340	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10G7_functional|NC_006587.4|10535914|10536849	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10G6_functional|NC_006587.4|10551318|10552253	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10S1_functional|NC_006587.4|10565627|10566655	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8B58_functional|NC_006587.4|10582144|10583076	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D5_functional|NC_006587.4|10602441|10603385	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8D4_functional|NC_006587.4|10643580|10644515	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6M6_functional|NC_006587.4|10653321|10654268	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6M2B_functional|NC_006587.4|10671837|10672784	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6M2_functional|NC_006587.4|10689059|10690006	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6M1_functional|NC_006587.4|10705792|10706733	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6X1_functional|NC_006587.4|10753935|10754873	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AE1_functional|NC_006588.4|11326875|11327834	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1F15_functional|NC_006588.4|11530075|11531019	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AH1_functional|NC_006588.4|18308440|18309417	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_VN1R1_c_functional|NC_006588.4|18457751|18458674	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2C1_functional|NC_006588.4|41788092|41789030	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11I1_functional|NC_006588.4|43905156|43906109	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2H10_functional|NC_006590.4|358612|359484	873	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR2B11_functional|NC_006590.4|404339|405298	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2W11_functional|NC_006590.4|441076|442020	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2C3_functional|NC_006590.4|494742|495704	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6AA6_functional|NC_006590.4|636917|637876	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6AA7_functional|NC_006590.4|672880|673839	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C4_functional|NC_006590.4|731717|732643	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11L1_functional|NC_006590.4|763127|764068	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4L1_functional|NC_006590.4|821712|822650	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6E1_functional|NC_006590.4|3019257|3020186	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D1_functional|NC_006591.4|32055883|32056824	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D2_functional|NC_006591.4|32066266|32067210	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D2C_functional|NC_006591.4|32077498|32078442	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1A1_functional|NC_006591.4|46272522|46273451	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1P1_functional|NC_006591.4|46310517|46311470	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR3A2_functional|NC_006591.4|46344261|46345208	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR3A1_functional|NC_006591.4|46355302|46356249	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR3A1H_functional|NC_006591.4|46376958|46377905	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR3A10_functional|NC_006591.4|46403028|46403975	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1R1_functional|NC_006591.4|46455855|46456799	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1E1_functional|NC_006591.4|46479807|46480748	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1K1_functional|NC_006591.4|59165685|59166635	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5C1_functional|NC_006591.4|59180484|59181443	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1AF1_functional|NC_006591.4|59201719|59202648	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1L6_functional|NC_006591.4|59256405|59257337	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1L8_functional|NC_006591.4|59313429|59314373	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C63_functional|NC_006592.4|15961854|15962795	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C38_functional|NC_006592.4|15991129|15992067	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K14_functional|NC_006592.4|16409275|16410123	849	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR2T26_functional|NC_006593.4|366401|367351	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2V1_functional|NC_006593.4|399283|400230	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AI2_functional|NC_006593.4|1035683|1036615	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1AD1_functional|NC_006593.4|2853290|2854228	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1X2_functional|NC_006593.4|3008524|3009465	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13E1_functional|NC_006593.4|50956887|50957867	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13J1_functional|NC_006593.4|50966700|50967659	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C7F_functional|NC_006593.4|51052379|51053338	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C7_functional|NC_006593.4|51061300|51062259	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C7H_functional|NC_006593.4|51075716|51076669	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C7G_functional|NC_006593.4|51082399|51083355	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C7I_functional|NC_006593.4|51093973|51094917	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13F1_functional|NC_006593.4|58931436|58932419	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C3_functional|NC_006593.4|58973145|58974098	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C8_functional|NC_006593.4|58995426|58996385	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13D2_functional|NC_006593.4|59022657|59023595	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13F1B_functional|NC_006593.4|59029620|59030561	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C2B_functional|NC_006593.4|59039380|59040354	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C2_functional|NC_006593.4|59051611|59052567	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13C1_functional|NC_006593.4|59090365|59091327	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13D1_functional|NC_006593.4|59107325|59108263	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13D1B_functional|NC_006593.4|59139992|59140945	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13D3_functional|NC_006593.4|59153497|59154441	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2K2_functional|NC_006593.4|64443029|64443979	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6F1_functional|NC_006596.4|822489|823415	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13G1_functional|NC_006596.4|871644|872567	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AK3_pseudogene|NC_006596.4|936842|937807	966	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR2L3B_functional|NC_006596.4|980716|981654	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2L17_functional|NC_006596.4|1026999|1027934	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2L5C_functional|NC_006596.4|1058990|1059928	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T33_functional|NC_006596.4|1140857|1141801	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AJ7_functional|NC_006596.4|1177870|1178808	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2W3_functional|NC_006596.4|1212123|1213067	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11L1_e_functional|NC_006596.4|1265837|1266808	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AZ1_functional|NC_006596.4|1373790|1374725	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AV11_functional|NC_006596.4|1487269|1488207	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AV2_functional|NC_006596.4|1538699|1539667	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AV12_functional|NC_006596.4|1599279|1600238	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AV1_functional|NC_006596.4|1636003|1636941	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2L5_functional|NC_006596.4|1695390|1696337	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2L3_functional|NC_006596.4|1716867|1717805	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T24_functional|NC_006596.4|1748397|1749335	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T15_functional|NC_006596.4|1771737|1772675	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T22_functional|NC_006596.4|1872123|1873067	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T20_functional|NC_006596.4|1921200|1922138	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2M9_functional|NC_006596.4|2000391|2001326	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T4C_functional|NC_006596.4|2117092|2118054	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T4G_functional|NC_006596.4|2133457|2134416	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T4_functional|NC_006596.4|2177512|2178474	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T6_functional|NC_006596.4|2245174|2246133	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T1_functional|NC_006596.4|2264145|2265101	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T27_functional|NC_006596.4|2300860|2301813	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T2_functional|NC_006596.4|2313685|2314659	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T11_functional|NC_006596.4|2345513|2346472	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2T4D_functional|NC_006596.4|2413689|2414651	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR14I2_functional|NC_006596.4|2440432|2441376	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2G6_functional|NC_006596.4|2504776|2505723	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AX2_functional|NC_006596.4|2526396|2527421	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2H1_functional|NC_006596.4|2567148|2568074	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2RCafa-2_functional|NC_006596.4|26857695|26858606	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D2_functional|NC_006597.4|490897|491835	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13P4_functional|NC_006597.4|512717|513664	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13P3_functional|NC_006597.4|533009|533950	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13P5_functional|NC_006597.4|554829|555776	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C6J_functional|NC_006597.4|17404314|17405258	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4N2_functional|NC_006597.4|17689126|17690049	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4N2B_functional|NC_006597.4|17711912|17712838	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4Q3_functional|NC_006597.4|17752015|17752962	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4H12B_functional|NC_006597.4|17854118|17854987	870	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR11H12_functional|NC_006597.4|17878242|17879321	1080	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11G11_pseudogene|NC_006597.4|17897531|17898313	783	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Canis_lupus_familiaris_OR11K2_functional|NC_006597.4|17912435|17913388	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11J6_functional|NC_006597.4|17957155|17958123	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11J4_pseudogene|NC_006597.4|17977318|17978307	990	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR11G5_functional|NC_006597.4|17999191|18000129	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11G2B_functional|NC_006597.4|18015546|18016481	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11G7_functional|NC_006597.4|18039928|18040890	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11G2_functional|NC_006597.4|18052447|18053382	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11H6_functional|NC_006597.4|18077102|18078094	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11H7_functional|NC_006597.4|18082761|18083705	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11G9_functional|NC_006597.4|18094953|18095897	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR11H4_functional|NC_006597.4|18108899|18109849	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6S1_functional|NC_006597.4|18418812|18419807	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1509_functional|NC_006597.4|19125284|19126210	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4E1_functional|NC_006597.4|19130030|19130977	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2A9B_functional|NC_006598.4|6804404|6805345	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2A9_functional|NC_006598.4|6824239|6825180	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2A7_functional|NC_006598.4|6837769|6838701	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2A58_functional|NC_006598.4|6862598|6863530	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2A5_functional|NC_006598.4|6889741|6890673	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6B1_functional|NC_006598.4|6931577|6932503	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2Q1_functional|NC_006598.4|6950635|6951576	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2Q2_functional|NC_006598.4|6965644|6966579	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2F1D_functional|NC_006598.4|6989603|6990556	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2F2_functional|NC_006598.4|7005215|7006168	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AC1_functional|NC_006598.4|7177091|7178056	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2R1_functional|NC_006598.4|7203118|7204059	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R41_functional|NC_006598.4|7219842|7220768	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R40_functional|NC_006598.4|7427968|7428888	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R39_functional|NC_006598.4|7453972|7454934	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R38_functional|NC_006598.4|8083355|8084305	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9A4_functional|NC_006598.4|8124860|8125804	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9A7_functional|NC_006598.4|8138313|8139257	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R5_functional|NC_006598.4|8251510|8252397	888	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_TAS2R4_functional|NC_006598.4|8269058|8269957	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_TAS2R3_functional|NC_006598.4|8279802|8280752	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2Z2_functional|NC_006598.4|14566986|14567864	879	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR13L2_functional|NC_006599.4|57464971|57465930	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10V5_functional|NC_006600.4|36685007|36685945	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10V10_functional|NC_006600.4|36700284|36701312	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10V1_functional|NC_006600.4|36719388|36720317	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10V4_functional|NC_006600.4|36747332|36748270	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D9D_functional|NC_006600.4|36864228|36865163	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D9_functional|NC_006600.4|36874544|36875479	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D11_functional|NC_006600.4|36885001|36885936	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D9C_functional|NC_006600.4|36899044|36899979	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D9B_functional|NC_006600.4|36915979|36916914	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4D6_functional|NC_006600.4|36924473|36925408	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5A1_functional|NC_006600.4|36939989|36940948	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5A2_functional|NC_006600.4|36961332|36962291	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AN2_functional|NC_006600.4|37009260|37010234	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AN6_functional|NC_006600.4|37031821|37032777	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5A3_functional|NC_006600.4|37048323|37049285	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B21_functional|NC_006600.4|37403454|37404404	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B12_functional|NC_006600.4|37428484|37429428	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B24_functional|NC_006600.4|37468088|37469026	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B3B_functional|NC_006600.4|37498867|37499805	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B2B_functional|NC_006600.4|37511175|37512119	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B2_functional|NC_006600.4|37537117|37538061	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B3_functional|NC_006600.4|37566301|37567239	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B31_functional|NC_006600.4|37585909|37586856	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B35_functional|NC_006600.4|37602668|37603612	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B33_functional|NC_006600.4|37618178|37619122	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5B32_functional|NC_006600.4|37630141|37631094	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10Q2_functional|NC_006600.4|37643310|37644269	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10W1_functional|NC_006600.4|37655401|37656345	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10Q1_functional|NC_006600.4|37671637|37672596	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9Q4_functional|NC_006600.4|37706706|37707641	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9I1_functional|NC_006600.4|37784411|37785355	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6Q1_functional|NC_006600.4|37828196|37829149	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AZ2_functional|NC_006600.4|37869816|37870699	884	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR5BA1_functional|NC_006600.4|37920407|37921366	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AK6_functional|NC_006600.4|38562212|38563141	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AK8_functional|NC_006600.4|38570747|38571676	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AK7_functional|NC_006600.4|38583083|38584012	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5G3_functional|NC_006600.4|38685972|38686922	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5G5_functional|NC_006600.4|38714759|38715703	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5G1B_functional|NC_006600.4|38728332|38729276	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5G1_functional|NC_006600.4|38745161|38746102	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9G10_functional|NC_006600.4|38773092|38774027	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9G4_functional|NC_006600.4|38787630|38788568	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9G3_functional|NC_006600.4|38790367|38791302	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9G1_functional|NC_006600.4|38803939|38804856	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9G1_j_functional|NC_006600.4|38852166|38853083	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AR1_functional|NC_006600.4|38882635|38883570	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AP2_functional|NC_006600.4|38895242|38896195	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M10_functional|NC_006600.4|38917976|38918944	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M10_k_functional|NC_006600.4|38928263|38929210	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M12_functional|NC_006600.4|38932539|38933522	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M13_functional|NC_006600.4|38958385|38959320	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M5_functional|NC_006600.4|38982036|38982992	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M8_functional|NC_006600.4|38995207|38996142	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M3C_functional|NC_006600.4|39004007|39004939	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M3_functional|NC_006600.4|39010988|39011920	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5M9_functional|NC_006600.4|39016832|39017761	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8U10_functional|NC_006600.4|39022307|39023263	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8U3_functional|NC_006600.4|39044006|39044965	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AL1_functional|NC_006600.4|39051048|39051989	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AL2_functional|NC_006600.4|39061525|39062466	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8U8_functional|NC_006600.4|39080573|39081520	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8J3_functional|NC_006600.4|39089661|39090590	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8K1_functional|NC_006600.4|39104958|39105917	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8K5_functional|NC_006600.4|39111832|39112776	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5J2_functional|NC_006600.4|39123122|39124060	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8K54_functional|NC_006600.4|39140421|39141362	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8K7_functional|NC_006600.4|39167050|39167991	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8J2B_functional|NC_006600.4|39194098|39195045	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8K71_functional|NC_006600.4|39205359|39206309	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8J2C_functional|NC_006600.4|39227232|39228179	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5T2_functional|NC_006600.4|39236418|39237338	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5T1_functional|NC_006600.4|39257414|39258400	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5T1B_functional|NC_006600.4|39265869|39266873	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5T2B_functional|NC_006600.4|39276555|39277493	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8H4_functional|NC_006600.4|39286115|39287050	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5BE4_functional|NC_006600.4|39313249|39314319	1071	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5J1_functional|NC_006600.4|39322356|39323294	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AQ1_functional|NC_006600.4|39338178|39339110	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AS1_functional|NC_006600.4|39352559|39353497	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG63_functional|NC_006600.4|39384770|39385726	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5T8_functional|NC_006600.4|39391324|39392298	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG64_functional|NC_006600.4|39410083|39411015	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG1_functional|NC_006600.4|39419559|39420509	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG65_functional|NC_006600.4|39439516|39440481	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG68_functional|NC_006600.4|39449486|39450460	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AG66_functional|NC_006600.4|39463579|39464514	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5I1B_functional|NC_006600.4|39490610|39491554	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5W2B_functional|NC_006600.4|39498452|39499384	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5W7_functional|NC_006600.4|39508106|39509041	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5W2_functional|NC_006600.4|39519733|39520665	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5W6_functional|NC_006600.4|39528979|39529902	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5W1_functional|NC_006600.4|39550204|39551142	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9M1_functional|NC_006600.4|39556087|39557091	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5L1B_functional|NC_006600.4|39569478|39570437	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5L1C_functional|NC_006600.4|39576866|39577801	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5L1_functional|NC_006600.4|39586567|39587502	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5D18_functional|NC_006600.4|39595534|39596475	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5D14_functional|NC_006600.4|39604917|39605966	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5D15_functional|NC_006600.4|39613672|39614616	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5D17_functional|NC_006600.4|39635049|39635999	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P7_functional|NC_006600.4|39668406|39669338	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P6_functional|NC_006600.4|39683851|39684789	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P11_functional|NC_006600.4|39688285|39689226	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P4_functional|NC_006600.4|39701291|39702274	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P4_l_functional|NC_006600.4|39724369|39725298	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4P32_functional|NC_006600.4|39742701|39743636	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A27_functional|NC_006600.4|39754482|39755411	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C10F_functional|NC_006600.4|39769134|39770063	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11_functional|NC_006600.4|39813466|39814398	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11D_functional|NC_006600.4|39823461|39824393	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11I_functional|NC_006600.4|39849203|39850135	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11_m_functional|NC_006600.4|39862577|39863509	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A82_functional|NC_006600.4|39885237|39886166	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11H_functional|NC_006600.4|39920177|39921109	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4S2_functional|NC_006600.4|39939506|39940441	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C29_functional|NC_006600.4|39961020|39961952	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C139_functional|NC_006600.4|39994323|39995237	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11_n_functional|NC_006600.4|40013133|40014047	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C11_o_functional|NC_006600.4|40030848|40031762	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C15_functional|NC_006600.4|40040143|40041186	1044	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C59_functional|NC_006600.4|40051136|40052080	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C1_functional|NC_006600.4|40060939|40061862	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4C136_functional|NC_006600.4|40067993|40068925	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A15_functional|NC_006600.4|40078161|40079114	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A39_functional|NC_006600.4|40092685|40093629	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A2_functional|NC_006600.4|40106837|40107754	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A47_functional|NC_006600.4|40119492|40120421	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A15_p_functional|NC_006600.4|40144020|40144937	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A47B_functional|NC_006600.4|40157600|40158517	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A47D_functional|NC_006600.4|40167514|40168443	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4A47C_functional|NC_006600.4|40187000|40187938	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4S1B_functional|NC_006600.4|40224474|40225403	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4X1_functional|NC_006600.4|40244158|40245087	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4X2_functional|NC_006600.4|40257538|40258467	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4B1F_functional|NC_006600.4|40266494|40267423	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4B1E_functional|NC_006600.4|40285332|40286261	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4S7_functional|NC_006600.4|40301843|40302859	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_VN1R90_functional|NC_006602.4|4207262|4208188	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1AB2_functional|NC_006602.4|46305947|46306894	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H2_functional|NC_006602.4|46361158|46362117	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H1E_functional|NC_006602.4|46374966|46375889	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H4_functional|NC_006602.4|46382373|46383302	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H5B_functional|NC_006602.4|46393012|46393971	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H1_functional|NC_006602.4|46407852|46408799	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1AE1_functional|NC_006602.4|46427723|46428658	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10T2_functional|NC_006602.4|46844065|46845060	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1I1_functional|NC_006602.4|46888653|46889609	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7C2_functional|NC_006602.4|46995100|46996089	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7C19_functional|NC_006602.4|47011555|47012493	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A26_functional|NC_006602.4|47034710|47035699	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A61_functional|NC_006602.4|47047388|47048356	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A68_functional|NC_006602.4|47059493|47060461	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A56_functional|NC_006602.4|47083326|47084258	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A71_functional|NC_006602.4|47101968|47102921	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A17_functional|NC_006602.4|47128076|47129008	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A52_functional|NC_006602.4|47148521|47149450	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A54_functional|NC_006602.4|47174312|47175280	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A53_functional|NC_006602.4|47184747|47185715	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7C1B_functional|NC_006602.4|47216618|47217580	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A65_functional|NC_006602.4|47277612|47278544	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7C1_functional|NC_006602.4|47293712|47294662	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A67_functional|NC_006602.4|47325889|47326821	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A74_functional|NC_006602.4|47370250|47371179	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A66_functional|NC_006602.4|47392587|47393519	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A58_functional|NC_006602.4|47411427|47412374	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A23_functional|NC_006602.4|47436605|47437534	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A55_functional|NC_006602.4|47456311|47457264	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A60_functional|NC_006602.4|47480691|47481623	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A63_functional|NC_006602.4|47492983|47493951	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A62_functional|NC_006602.4|47511450|47512418	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A64_functional|NC_006602.4|47522522|47523454	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A45_functional|NC_006602.4|47556992|47557924	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A51_functional|NC_006602.4|47588599|47589531	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A57_functional|NC_006602.4|47604916|47605848	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A70_functional|NC_006602.4|47637329|47638261	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7A73_functional|NC_006602.4|47659717|47660637	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7D7_functional|NC_006602.4|51137813|51138748	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7E24_functional|NC_006602.4|51258788|51259780	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7E153_functional|NC_006602.4|51268420|51269409	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7E181_functional|NC_006602.4|51279410|51280447	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7E154_functional|NC_006602.4|51289740|51290669	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7D4_functional|NC_006602.4|51321622|51322560	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7D2_functional|NC_006602.4|51335942|51336997	1056	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7H3_functional|NC_006602.4|51356728|51357666	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G10_functional|NC_006602.4|51393617|51394555	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G3_functional|NC_006602.4|51441134|51442072	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G5_functional|NC_006602.4|51444503|51445441	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G9_functional|NC_006602.4|51452915|51453853	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G14_functional|NC_006602.4|51477267|51478220	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G8_functional|NC_006602.4|51489123|51490061	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G13_functional|NC_006602.4|51497790|51498728	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G7_functional|NC_006602.4|51507263|51508219	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7G6_functional|NC_006602.4|51530391|51531329	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1M1_functional|NC_006602.4|51556268|51557209	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1M1B_functional|NC_006602.4|51583899|51584840	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2Z1_functional|NC_006602.4|52994381|52995322	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H4D_functional|NC_006602.4|57966043|57966972	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10H3_functional|NC_006602.4|57973172|57974101	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AT2B_functional|NC_006603.4|23195923|23196873	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AT2_functional|NC_006603.4|23201140|23202078	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR55B1_functional|NC_006603.4|26404600|26405631	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52M1_functional|NC_006603.4|26464357|26465310	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52B4_functional|NC_006603.4|26489318|26490280	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52B4_q_functional|NC_006603.4|26502196|26503140	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52B4_r_functional|NC_006603.4|26520448|26521407	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51R1_functional|NC_006603.4|26567146|26568099	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52K1B_functional|NC_006603.4|26623457|26624407	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52K1_functional|NC_006603.4|26643175|26644119	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52M2_functional|NC_006603.4|26666040|26666993	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52I1_functional|NC_006603.4|26760361|26761335	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51E1_functional|NC_006603.4|26806997|26807950	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A21_functional|NC_006603.4|26828611|26829573	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A25_functional|NC_006603.4|26841443|26842405	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51E2_functional|NC_006603.4|26863707|26864678	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51F23_functional|NC_006603.4|26872353|26873297	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51F2_functional|NC_006603.4|26889051|26890037	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51F2_t_functional|NC_006603.4|26921993|26922937	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51F1_functional|NC_006603.4|26938960|26939937	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52R1_functional|NC_006603.4|26989021|26990007	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A8_functional|NC_006603.4|27016215|27017156	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51S1_functional|NC_006603.4|27022439|27023404	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51H5_functional|NC_006603.4|27048965|27049921	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51H1_functional|NC_006603.4|27061417|27062370	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51H2_functional|NC_006603.4|27075245|27076195	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51T1_functional|NC_006603.4|27083057|27084040	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A6_functional|NC_006603.4|27088886|27089821	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51G2_functional|NC_006603.4|27119982|27120923	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51G1_functional|NC_006603.4|27129102|27130061	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A4_functional|NC_006603.4|27141535|27142476	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51L1_functional|NC_006603.4|27202050|27203012	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51P1_functional|NC_006603.4|27215556|27216497	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A18_functional|NC_006603.4|27226206|27227105	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR52J3_functional|NC_006603.4|27260820|27261758	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52J3_u_functional|NC_006603.4|27273411|27274349	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E2_functional|NC_006603.4|27288794|27289729	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E2_v_functional|NC_006603.4|27305791|27306729	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E1_functional|NC_006603.4|27318025|27318966	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E2B_functional|NC_006603.4|27336646|27337578	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52J1_functional|NC_006603.4|27342066|27343001	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E22_functional|NC_006603.4|27379648|27380595	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52S2_functional|NC_006603.4|27394372|27395328	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52J8_functional|NC_006603.4|27417115|27418050	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AB2_functional|NC_006603.4|27431891|27432841	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AB4_functional|NC_006603.4|27441888|27442835	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AD1_functional|NC_006603.4|27454696|27455640	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52D1_functional|NC_006603.4|27464475|27465419	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52X3_functional|NC_006603.4|27475323|27476267	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AB3_functional|NC_006603.4|27489101|27490051	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51L4_functional|NC_006603.4|27509335|27510294	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51L2_functional|NC_006603.4|27520148|27521116	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51L5_functional|NC_006603.4|27535089|27536048	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51V22_functional|NC_006603.4|27601448|27602389	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51G4_functional|NC_006603.4|27608562|27609512	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51AG3_functional|NC_006603.4|27617462|27618409	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51AA2_functional|NC_006603.4|27640044|27641012	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51AB4_functional|NC_006603.4|27653994|27654950	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51AC4_functional|NC_006603.4|27677591|27678544	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51V1B_functional|NC_006603.4|27702210|27703154	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52A18_functional|NC_006603.4|27718423|27719373	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52A5C_functional|NC_006603.4|27731363|27732313	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52A5_functional|NC_006603.4|27749622|27750572	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AE1_functional|NC_006603.4|27773262|27774215	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52A1_functional|NC_006603.4|27786684|27787622	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51V21_functional|NC_006603.4|27799047|27799988	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A1_functional|NC_006603.4|27849654|27850637	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52Z1_w_functional|NC_006603.4|27862159|27863130	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B4_functional|NC_006603.4|27945208|27946143	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B18_functional|NC_006603.4|27958753|27959688	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B10_functional|NC_006603.4|27971295|27972227	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B5_functional|NC_006603.4|27979240|27980178	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B6_functional|NC_006603.4|27998519|27999457	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51B9_functional|NC_006603.4|28005200|28006153	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51M1_functional|NC_006603.4|28033099|28034091	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51AI5_functional|NC_006603.4|28042482|28043435	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51K2_functional|NC_006603.4|28051710|28052645	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51Q1F_functional|NC_006603.4|28079479|28080426	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51Q1_functional|NC_006603.4|28086146|28087099	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51K1_functional|NC_006603.4|28095806|28096750	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H1_functional|NC_006603.4|28147399|28148355	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H1_x_functional|NC_006603.4|28160611|28161552	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H1_y_functional|NC_006603.4|28174288|28175259	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H1B_functional|NC_006603.4|28180586|28181542	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52V2_functional|NC_006603.4|28202746|28203765	1020	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52D1_z_functional|NC_006603.4|28237134|28238090	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52D1_aa_functional|NC_006603.4|28250659|28251615	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A24_functional|NC_006603.4|28263789|28264736	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR51A10_functional|NC_006603.4|28292292|28293236	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H1C_functional|NC_006603.4|28333178|28334119	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H4_functional|NC_006603.4|28353575|28354525	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H9_functional|NC_006603.4|28493202|28494371	1170	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52H7_functional|NC_006603.4|28505261|28506208	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52D3_functional|NC_006603.4|28518770|28519720	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52U1_functional|NC_006603.4|28533947|28534924	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52U1C_functional|NC_006603.4|28546013|28546990	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52AC1_functional|NC_006603.4|28557194|28558129	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52P1_functional|NC_006603.4|28577091|28578071	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N4F_functional|NC_006603.4|28585100|28586065	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56B1_functional|NC_006603.4|28605015|28605986	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N4_functional|NC_006603.4|28626687|28627652	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N4G_functional|NC_006603.4|28639329|28640294	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N4K_functional|NC_006603.4|28653237|28654112	876	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR56B2_functional|NC_006603.4|28664013|28664972	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56B2C_functional|NC_006603.4|28674229|28675188	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56B2D_ab_functional|NC_006603.4|28683577|28684536	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N1_functional|NC_006603.4|28711328|28712290	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N2G_functional|NC_006603.4|28742879|28743841	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52N2_ac_functional|NC_006603.4|28754434|28755405	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E8_functional|NC_006603.4|28790880|28791821	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E8_ad_functional|NC_006603.4|28803159|28804097	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E8C_functional|NC_006603.4|28813554|28814507	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E8_ae_functional|NC_006603.4|28824054|28824995	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E4_af_functional|NC_006603.4|28830755|28831690	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E7_functional|NC_006603.4|28836484|28837428	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E4B_functional|NC_006603.4|28844066|28845001	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52E5_functional|NC_006603.4|28856940|28857881	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A4_functional|NC_006603.4|28874356|28875297	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A9_functional|NC_006603.4|28900804|28901751	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A3E_functional|NC_006603.4|28919079|28920023	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A12_pseudogene|NC_006603.4|28952138|28953097	960	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR56A3D_functional|NC_006603.4|28962415|28963362	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A3_functional|NC_006603.4|28986693|28987634	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A4C_functional|NC_006603.4|29010305|29011264	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A4B_functional|NC_006603.4|29017183|29018190	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A1_functional|NC_006603.4|29039569|29040513	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56A1B_functional|NC_006603.4|29055554|29056498	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52L2_functional|NC_006603.4|29068196|29069149	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR56B6_functional|NC_006603.4|29094383|29095348	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52L1_functional|NC_006603.4|29124366|29125313	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52X1_functional|NC_006603.4|29132903|29133919	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52B2_functional|NC_006603.4|29207019|29207987	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR52W1_functional|NC_006603.4|29238354|29239316	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D37_functional|NC_006603.4|29782884|29783807	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AG1_functional|NC_006603.4|29793862|29794812	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AG1C_functional|NC_006603.4|29802668|29803618	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AG1D_functional|NC_006603.4|29823544|29824476	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D3G_functional|NC_006603.4|29833733|29834665	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D4_functional|NC_006603.4|29854460|29855383	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6B9_functional|NC_006603.4|29893360|29894316	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6B6_functional|NC_006603.4|29914273|29915217	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6A2_functional|NC_006603.4|29925295|29926278	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D3H_pseudogene|NC_006603.4|30006774|30007643	870	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Canis_lupus_familiaris_OR10A5F_functional|NC_006603.4|30070980|30071933	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10A5_functional|NC_006603.4|30087436|30088389	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D3_functional|NC_006603.4|30144145|30145089	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2D3E_functional|NC_006603.4|30185802|30186746	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5P5_functional|NC_006603.4|30929553|30930491	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5P4_functional|NC_006603.4|30938439|30939377	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AB2_functional|NC_006603.4|30948427|30949395	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AB3_functional|NC_006603.4|30965027|30965992	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5P6_functional|NC_006603.4|30974280|30975224	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5E1_functional|NC_006603.4|30995630|30996580	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10A3E_functional|NC_006603.4|31042301|31043245	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10A3_functional|NC_006603.4|31061514|31062458	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6B2C_functional|NC_006607.4|50478863|50479801	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6B2_functional|NC_006607.4|50485611|50486549	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S22_functional|NC_006607.4|50544170|50545120	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S6_functional|NC_006607.4|50553526|50554476	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR12_functional|NC_006607.4|50593966|50594916	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S19_functional|NC_006607.4|50610288|50611238	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S26_functional|NC_006607.4|50621813|50622763	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S20_functional|NC_006607.4|50648577|50649527	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S12_functional|NC_006607.4|50661675|50662643	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S5_functional|NC_006607.4|50671920|50672870	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9S16_functional|NC_006607.4|50694682|50695632	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR12_ak_functional|NC_006607.4|50722493|50723443	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R7_functional|NC_006609.4|11548545|11549483	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R9_functional|NC_006609.4|11556859|11557701	843	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_TAS2R10_functional|NC_006609.4|11571386|11572354	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2RCafa-12_functional|NC_006609.4|11591621|11592565	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R46_pseudogene|NC_006609.4|11634883|11635809	927	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_TAS2R136_functional|NC_006609.4|11654454|11655503	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R109_functional|NC_006609.4|11698591|11699529	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R42_functional|NC_006609.4|11707665|11708636	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AD1_functional|NC_006609.4|39739964|39740800	837	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR8BJ4_functional|NC_006609.4|39929985|39930914	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S1_functional|NC_006609.4|39963989|39964900	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S3_functional|NC_006609.4|40049870|40050805	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S2_functional|NC_006609.4|40088649|40089566	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S1_am_functional|NC_006609.4|40182344|40183282	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S12_functional|NC_006609.4|40215499|40216434	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S13_functional|NC_006609.4|40230027|40230962	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S9_functional|NC_006609.4|40257182|40258138	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S15_functional|NC_006609.4|40269352|40270299	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S7_functional|NC_006609.4|40281887|40282822	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR8S10_functional|NC_006609.4|40300030|40300953	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9K7_functional|NC_006609.4|45912824|45913765	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9K2_functional|NC_006609.4|45939385|45940326	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9K2D_functional|NC_006609.4|45952221|45953183	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9R5_functional|NC_006609.4|45965190|45966125	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9K1_functional|NC_006609.4|45978078|45979019	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C75D_functional|NC_006609.4|45990519|45991457	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR9K2C_functional|NC_006609.4|46072587|46073549	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR12_ap_functional|NC_006609.4|46085161|46086108	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10A7_aq_functional|NC_006609.4|46137192|46138139	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C33_functional|NC_006609.4|46157297|46158244	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C69G_functional|NC_006609.4|46166740|46167675	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C74_functional|NC_006609.4|46180748|46181686	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C69_functional|NC_006609.4|46210888|46211826	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C6_functional|NC_006609.4|46219635|46220579	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C27_functional|NC_006609.4|46238715|46239653	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C42_functional|NC_006609.4|46254379|46255308	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C83_functional|NC_006609.4|46270392|46271369	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR13A1_functional|NC_006610.4|2496339|2497325	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6D6_functional|NC_006610.4|2516991|2517944	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6D7_functional|NC_006610.4|2531072|2532025	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6D5_pseudogene|NC_006610.4|2620248|2621207	960	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR6AE1_functional|NC_006610.4|41047176|41048111	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR287_functional|NC_006610.4|41064292|41065227	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR12J1_functional|NC_006610.4|41127070|41128002	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K15_functional|NC_006612.4|34466|35440	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4F25_functional|NC_006612.4|125972|126910	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4F3/4F16/4F29_functional|NC_006612.4|174695|175633	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4G11_functional|NC_006612.4|267279|268217	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4G9_functional|NC_006612.4|278403|279341	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K6_functional|NC_006612.4|421204|422163	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K2_functional|NC_006612.4|440241|441191	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K5B_functional|NC_006612.4|458558|459529	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4K1_functional|NC_006612.4|474844|475779	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4G8_functional|NC_006612.4|495909|496844	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4G18_functional|NC_006612.4|526687|527628	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4G10_functional|NC_006612.4|582308|583246	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4N5_functional|NC_006612.4|636337|637263	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4Q2_functional|NC_006612.4|673995|674936	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4F63_functional|NC_006612.4|714964|715935	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR4F34_functional|NC_006612.4|742294|743235	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6C4B_functional|NC_006613.4|8591|9517	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AC27_functional|NC_006615.4|5273234|5274154	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AC1_functional|NC_006615.4|5288704|5289627	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5AC26_as_functional|NC_006615.4|5318315|5319133	819	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR5H11_functional|NC_006615.4|5327674|5328603	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5H13_functional|NC_006615.4|5363982|5364911	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5H12_functional|NC_006615.4|5382127|5383056	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5H9_functional|NC_006615.4|5392413|5393342	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5H16_functional|NC_006615.4|5411053|5411982	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5K4_functional|NC_006615.4|5450856|5451785	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5K1_functional|NC_006615.4|5498246|5499214	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS2R1_functional|NC_006616.4|9048387|9049280	894	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Canis_lupus_familiaris_OR2W6_functional|NC_006617.4|24963569|24964507	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2W6_at_functional|NC_006617.4|25003312|25004241	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2B7_functional|NC_006617.4|25051832|25052809	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2B8_functional|NC_006617.4|25072862|25073836	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2AD2_functional|NC_006617.4|25889993|25890937	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR2W1_functional|NC_006617.4|25927210|25928151	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR14J1_functional|NC_006617.4|25954903|25955868	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10C1_functional|NC_006617.4|25994833|25995771	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10J14_functional|NC_006620.4|22549117|22550040	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10J5_functional|NC_006620.4|22608002|22608961	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10J4_functional|NC_006620.4|22667250|22668185	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10J2_functional|NC_006620.4|22723328|22724260	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AA2_functional|NC_006620.4|22973779|22974723	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10AA5_functional|NC_006620.4|22983425|22984369	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6N2_functional|NC_006620.4|22997346|22998299	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6N1_functional|NC_006620.4|23008889|23009839	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6K6_functional|NC_006620.4|23019188|23020147	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6K5_functional|NC_006620.4|23032015|23032965	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6K8_functional|NC_006620.4|23055735|23056682	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6K2_functional|NC_006620.4|23065822|23066787	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10Z1_functional|NC_006620.4|23144871|23145812	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10X1_functional|NC_006620.4|23168798|23169739	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR6P1_functional|NC_006620.4|23180677|23181633	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10R3C_functional|NC_006620.4|23227803|23228744	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10T1_functional|NC_006620.4|23248726|23249670	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10K2_functional|NC_006620.4|23261366|23262310	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR10T2_au_functional|NC_006620.4|23279305|23280252	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5BH3_functional|NC_006621.4|88704788|88705711	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR1D6_functional|NC_006621.4|107602708|107603646	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR7R1_functional|NC_006621.4|107663332|107664294	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OR5BW1P_pseudogene|NC_006583.4|101409893|101411011	1119	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR13S1P_pseudogene|NC_006583.4|101523217|101524171	955	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR6C7DP_pseudogene|NC_006585.4|33292629|33293566	938	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR9R2P_pseudogene|NC_006585.4|34144093|34144468	376	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR9K2EP_pseudogene|NC_006585.4|34155368|34156302	935	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR9O1P_pseudogene|NC_006587.4|113499|114576	1078	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6C262P_pseudogene|NC_006587.4|155404|156146	743	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR8B3FP_pseudogene|NC_006587.4|10067376|10068279	904	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR10G7BP_pseudogene|NC_006587.4|10496554|10497485	932	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR6T1P_pseudogene|NC_006587.4|10596564|10597490	927	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR1F1P_pseudogene|NC_006588.4|39250099|39251251	1153	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2BB11P_pseudogene|NC_006590.4|152168|153098	931	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2W13P_pseudogene|NC_006590.4|470000|470939	940	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR2G3P_pseudogene|NC_006590.4|590137|591063	927	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4K13CP_pseudogene|NC_006590.4|856575|857459	885	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4AH1P_pseudogene|NC_006590.4|885575|886352	778	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR1D3BP_pseudogene|NC_006591.4|46203001|46203944	944	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1D10P_pseudogene|NC_006591.4|46213588|46214594	1007	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1D12P_pseudogene|NC_006591.4|46245552|46246494	943	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR1A4P_pseudogene|NC_006591.4|46288682|46289596	915	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR1D3P_pseudogene|NC_006591.4|46332634|46333775	1142	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR10AO1P_pseudogene|NC_006591.4|46441962|46442493	532	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1L6BP_pseudogene|NC_006591.4|59239182|59240114	933	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR1J6P_pseudogene|NC_006591.4|59282937|59283895	959	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR1L11P_pseudogene|NC_006591.4|59341212|59342193	982	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6U3P_pseudogene|NC_006592.4|99549|100259	711	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR10P24P_pseudogene|NC_006592.4|113016|113946	931	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR6C1MP_pseudogene|NC_006592.4|16005226|16006163	938	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6C253P_pseudogene|NC_006592.4|16030694|16031643	950	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6C49P_pseudogene|NC_006592.4|16245108|16245784	677	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR11G28P_pseudogene|NC_006592.4|16364364|16365256	893	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR4F33P_pseudogene|NC_006592.4|16402784|16403626	843	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2AJ8P_pseudogene|NC_006596.4|1135662|1136325	664	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6AB1P_pseudogene|NC_006596.4|1301749|1302756	1008	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6AN1P_pseudogene|NC_006596.4|1318688|1319644	957	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6AN2P_pseudogene|NC_006596.4|1351971|1352905	935	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR2AK4P_pseudogene|NC_006596.4|1732599|1733505	907	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR2M8P_pseudogene|NC_006596.4|2021142|2022065	924	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2M11P_pseudogene|NC_006596.4|2051680|2052627	948	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR2M10P_pseudogene|NC_006596.4|2073677|2074618	942	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR6C31P_pseudogene|NC_006597.4|153820|154907	1088	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR11H24P_pseudogene|NC_006597.4|17844691|17845584	894	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR11K3P_pseudogene|NC_006597.4|17942475|17943629	1155	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR11H5P_pseudogene|NC_006597.4|18067390|18068336	947	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR2A59P_pseudogene|NC_006598.4|6849974|6850696	723	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2R10P_pseudogene|NC_006598.4|7210979|7211577	599	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR9A14P_pseudogene|NC_006598.4|8162926|8163806	881	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2AV3P_pseudogene|NC_006598.4|14685670|14686600	931	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52R8P_pseudogene|NC_006598.4|49587750|49588696	947	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR13AM1P_pseudogene|NC_006599.4|57401594|57402470	877	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR13L1P_pseudogene|NC_006599.4|57437764|57438740	977	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5B134P_pseudogene|NC_006600.4|37440796|37443882	3087	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5B131P_pseudogene|NC_006600.4|37485595|37486448	854	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5B133P_pseudogene|NC_006600.4|37504970|37505696	727	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR5B29P_pseudogene|NC_006600.4|37531442|37532385	944	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5B132P_pseudogene|NC_006600.4|37552132|37553057	926	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1S1P_pseudogene|NC_006600.4|37685900|37686838	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR9I4P_pseudogene|NC_006600.4|37797564|37798459	896	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5G31P_pseudogene|NC_006600.4|38702489|38703398	910	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR8AO1P_pseudogene|NC_006600.4|39176519|39177095	577	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR8K55P_pseudogene|NC_006600.4|39181910|39182860	951	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR8I2P_pseudogene|NC_006600.4|39300188|39301120	933	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR10BJ1P_pseudogene|NC_006600.4|39427131|39428011	881	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR5BU1P_pseudogene|NC_006600.4|39539775|39540777	1003	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR5D13P_pseudogene|NC_006600.4|39622104|39623050	947	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4P26P_pseudogene|NC_006600.4|39712956|39713891	936	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR4C147P_pseudogene|NC_006600.4|39736550|39737454	905	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR4P28P_pseudogene|NC_006600.4|39783264|39784187	924	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR4C62P_pseudogene|NC_006600.4|39831181|39832111	931	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4P27P_pseudogene|NC_006600.4|39894346|39895261	916	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4P12P_pseudogene|NC_006600.4|39946061|39946953	893	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4C142P_pseudogene|NC_006600.4|39986214|39987137	924	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7C42P_pseudogene|NC_006602.4|47090522|47091447	926	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR7U1P_pseudogene|NC_006602.4|47193176|47194523	1348	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7A59P_pseudogene|NC_006602.4|47245796|47246737	942	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR7A25P_pseudogene|NC_006602.4|47282695|47283565	871	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7A280P_pseudogene|NC_006602.4|47349132|47350084	953	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7T1P_pseudogene|NC_006602.4|47402352|47402931	580	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR7A72P_pseudogene|NC_006602.4|47625534|47626470	937	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR7A24P_pseudogene|NC_006602.4|47650244|47651181	938	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR7C29P_pseudogene|NC_006602.4|47676926|47677862	937	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7E180P_pseudogene|NC_006602.4|51248396|51249248	853	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7H5P_pseudogene|NC_006602.4|51296294|51297232	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR2AT5P_pseudogene|NC_006603.4|23173355|23174232	878	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR2AT8P_pseudogene|NC_006603.4|23180872|23181563	692	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR55B4P_pseudogene|NC_006603.4|26415211|26416171	961	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52M6P_pseudogene|NC_006603.4|26705728|26706607	880	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51A7P_pseudogene|NC_006603.4|27104266|27105405	1140	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR51A23P_pseudogene|NC_006603.4|27162992|27163957	966	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR51A48P_pseudogene|NC_006603.4|27172296|27173176	881	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51W1P_pseudogene|NC_006603.4|27253775|27254322	548	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52E11P_pseudogene|NC_006603.4|27355521|27356463	943	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52S21P_pseudogene|NC_006603.4|27401288|27402221	934	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51AJ5P_pseudogene|NC_006603.4|27505311|27505823	513	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52AA1BP_pseudogene|NC_006603.4|27577980|27579083	1104	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR52AB1P_pseudogene|NC_006603.4|27584377|27584981	605	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR51AC5P_pseudogene|NC_006603.4|27659378|27660294	917	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52Z16P_pseudogene|NC_006603.4|27695019|27695926	908	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52AE11P_pseudogene|NC_006603.4|27757167|27758120	954	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR52A5GP_pseudogene|NC_006603.4|27794443|27794922	480	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52A5HP_pseudogene|NC_006603.4|27815598|27816051	454	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR52A1BP_pseudogene|NC_006603.4|27836730|27837658	929	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR51B11P_pseudogene|NC_006603.4|27963879|27964890	1012	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51Q2P_pseudogene|NC_006603.4|28012269|28013367	1099	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51A42P_pseudogene|NC_006603.4|28275073|28276013	941	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR51I2P_pseudogene|NC_006603.4|28304483|28305421	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR52B23P_pseudogene|NC_006603.4|28347074|28347979	906	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR52B4BP_pseudogene|NC_006603.4|28401784|28402742	959	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52AA1P_pseudogene|NC_006603.4|28776189|28776812	624	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR52E18P_pseudogene|NC_006603.4|28784657|28785612	956	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR56A6P_pseudogene|NC_006603.4|28881971|28882919	949	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR56A43P_pseudogene|NC_006603.4|28995874|28996545	672	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR56B39P_pseudogene|NC_006603.4|29147790|29148678	889	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR56B40P_pseudogene|NC_006603.4|29181038|29181937	900	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR52B22P_pseudogene|NC_006603.4|29199605|29200532	928	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2D2DP_pseudogene|NC_006603.4|30122374|30123380	1007	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR4C49P_pseudogene|NC_006605.4|50761709|50762269	561	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR9S23P_pseudogene|NC_006607.4|50741066|50741987	922	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR7A22P_pseudogene|NC_006608.4|24855042|24855784	743	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR2A7CP_pseudogene|NC_006609.4|30859442|30860050	609	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR10AD1P_pseudogene|NC_006609.4|39772044|39772979	936	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR10AD4P_pseudogene|NC_006609.4|39798624|39799175	552	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR8BJ3P_pseudogene|NC_006609.4|39995144|39996056	913	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR8S4P_pseudogene|NC_006609.4|40043078|40043974	897	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR8S5P_pseudogene|NC_006609.4|40177444|40178370	927	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR8AN1P_pseudogene|NC_006609.4|40197457|40198275	819	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR8S23P_pseudogene|NC_006609.4|40315472|40316397	926	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5BS3P_pseudogene|NC_006609.4|40351591|40354451	2861	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR11M1P_pseudogene|NC_006609.4|40383096|40384061	966	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR6C256P_pseudogene|NC_006609.4|46192449|46193536	1088	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6D4P_pseudogene|NC_006610.4|2566929|2567860	932	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR9J1P_pseudogene|NC_006611.4|40841103|40841590	488	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6C55P_pseudogene|NC_006611.4|40849953|40850889	937	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4F23P_pseudogene|NC_006612.4|47907|48838	932	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4F98P_pseudogene|NC_006612.4|73036|73599	564	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4F15P_pseudogene|NC_006612.4|90244|91308	1065	single-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4F1BP_pseudogene|NC_006612.4|139155|140091	937	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4G20P_pseudogene|NC_006612.4|233971|234878	908	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4F26P_pseudogene|NC_006612.4|260870|261788	919	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4G19P_pseudogene|NC_006612.4|512028|512955	928	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR4K53P_pseudogene|NC_006612.4|542343|543267	925	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4T2P_pseudogene|NC_006612.4|619005|620106	1102	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4L3P_pseudogene|NC_006612.4|655937|656871	935	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR5AC28P_pseudogene|NC_006615.4|5259270|5260188	919	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2B10P_pseudogene|NC_006617.4|24983044|24983896	853	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2W2P_pseudogene|NC_006617.4|25039346|25039760	415	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1F41P_pseudogene|NC_006617.4|25094526|25095404	879	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2B28P_pseudogene|NC_006617.4|25430667|25431601	935	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2H17P_pseudogene|NC_006617.4|26018390|26019330	941	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR10J24P_pseudogene|NC_006620.4|22659260|22660150	891	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR10AJ1P_pseudogene|NC_006620.4|22687685|22688111	427	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6Y1P_pseudogene|NC_006620.4|23190649|23191563	915	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Canis_lupus_familiaris_OR10R6P_pseudogene|NC_006620.4|23200538|23201451	914	single-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR4AI1P_pseudogene|NC_006621.4|30060438|30060807	370	single-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR6C86P_pseudogene|NC_006621.4|40094074|40094883	810	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR5BP1P_pseudogene|NC_006621.4|88622660|88623576	917	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR1AG1P_pseudogene|NC_006621.4|88736354|88737489	1136	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR13H2P_pseudogene|NC_006621.4|88813569|88814496	928	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_OR13K7P_pseudogene|NC_006621.4|88826650|88827559	910	single-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_OR2AF4P_pseudogene|NC_006621.4|88889971|88890913	943	single-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_TAS1R2_functional|NC_006584.4|76234023|76252894	2511	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS1R3_functional|NC_006587.4|56580045|56583207	2538	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_TAS1R1_functional|NC_006587.4|60406656|60415236	2526	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OPN1SW_functional|NC_006596.4|7552364|7555272	1047	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_RHO_functional|NC_006602.4|5674903|5669643	1077	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_OPN1LW_functional|NC_006621.4|107303292|107316155	1095	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Canis_lupus_familiaris_VN2R301P_pseudogene|NC_006588.4|11334049|11333166	884	multi-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_VN2R302P_pseudogene|NC_006593.4|2994876|2993891	986	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_VN2R303P_pseudogene|NC_006595.4|38188407|38187919	489	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_VN2R304P_pseudogene|NC_006602.4|14326895|14327322	428	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Canis_lupus_familiaris_VN2R305P_pseudogene|NC_006602.4|42009702|42008921	782	multi-exon	keep	2	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_VN2R306P_pseudogene|NC_006602.4|51814834|51815028	195	multi-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_VN2R308P_pseudogene|NC_006605.4|49585476|49599481	14006	multi-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Canis_lupus_familiaris_VN2R309P_pseudogene|NC_006609.4|9035697|9034738	960	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.

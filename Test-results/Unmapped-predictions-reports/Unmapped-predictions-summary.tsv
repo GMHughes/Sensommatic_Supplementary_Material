@@ -1,0 +1,43 @@
+Species	Test	# Unmapped	# Predictions > 0 TM domains	# Predictions 0 TM domains	Predictions > 0 TM domains (%)	Predictions 0 TM domains (%)
+Pan troglodytes	01_chimp	365	365	0	100	0
+Pan troglodytes	02_chimp	364	364	0	100	0
+Pan troglodytes	03_chimp	199	199	0	100	0
+Bos taurus	01_cow	1037	1037	0	100	0
+Bos taurus	02_cow	1034	1034	0	100	0
+Bos taurus	03_cow	784	784	0	100	0
+Canis lupus familiaris	01_dog	165	165	0	100	0
+Canis lupus familiaris	02_dog	164	164	0	100	0
+Canis lupus familiaris	03_dog	119	119	0	100	0
+Anas platyrhynchos	01_duck	842	842	0	100	0
+Anas platyrhynchos	02_duck	836	836	0	100	0
+Anas platyrhynchos	03_duck	832	832	0	100	0
+Xenopus laevis	01_frog	857	857	0	100	0
+Xenopus laevis	02_frog	750	750	0	100	0
+Xenopus laevis	03_frog	611	611	0	100	0
+Equus caballus	01_horse	1406	1406	0	100	0
+Equus caballus	02_horse	1401	1401	0	100	0
+Equus caballus	03_horse	1149	1149	0	100	0
+Homo sapiens	01_human	230	230	0	100	0
+Homo sapiens	02_human	233	233	0	100	0
+Homo sapiens	03_human	213	213	0	100	0
+Anolis carolinensis	01_lizard	98	98	0	100	0
+Anolis carolinensis	02_lizard	80	80	0	100	0
+Anolis carolinensis	03_lizard	53	53	0	100	0
+Mus musculus	01_mouse	313	313	0	100	0
+Mus musculus	02_mouse	260	260	0	100	0
+Mus musculus	03_mouse	301	301	0	100	0
+Monodelphis domestica	01_opossum	434	434	0	100	0
+Monodelphis domestica	02_opossum	382	382	0	100	0
+Monodelphis domestica	03_opossum	390	390	0	100	0
+Pongo abelii	01_orangutan	363	363	0	100	0
+Pongo abelii	02_orangutan	362	362	0	100	0
+Pongo abelii	03_orangutan	165	165	0	100	0
+Ornithorhynchus anatinus	01_platypus	646	646	0	100	0
+Ornithorhynchus anatinus	02_platypus	522	522	0	100	0
+Ornithorhynchus anatinus	03_platypus	563	563	0	100	0
+Rattus norvegicus	01_rat	266	266	0	100	0
+Rattus norvegicus	02_rat	265	265	0	100	0
+Rattus norvegicus	03_rat	343	343	0	100	0
+Danio rerio	01_zebrafish	298	298	0	100	0
+Danio rerio	02_zebrafish	296	296	0	100	0
+Danio rerio	03_zebrafish	141	141	0	100	0

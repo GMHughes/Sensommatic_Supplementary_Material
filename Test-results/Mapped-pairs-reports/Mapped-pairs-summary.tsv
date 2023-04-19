@@ -1,0 +1,43 @@
+Species	Test	Identical (%)	Non-identical (%)	Non identical functional (%)	Non-identical pseudogene (%)	Improved (%)	Disimproved (%)	No improvement change (%)	Functional status change (%)	No functional status change (%)	Improved status change (%)	Disimproved status change (%)	No change in improvement in predictions with functional status change (%)
+Pan troglodytes	01_chimp	77.85	22.15	65.05	34.95	5.83	26.21	67.96	3.66	96.34	0	23.53	76.47
+Pan troglodytes	02_chimp	77.8	22.2	65.05	34.95	5.83	26.21	67.96	3.88	96.12	0	27.78	72.22
+Pan troglodytes	03_chimp	79.04	20.96	48.96	51.04	3.12	38.54	58.33	7.64	92.36	2.86	42.86	54.29
+Bos taurus	01_cow	87.56	12.44	87.5	12.5	5.47	3.91	90.62	2.04	97.96	14.29	4.76	80.95
+Bos taurus	02_cow	87.56	12.44	87.5	12.5	5.47	3.91	90.62	2.04	97.96	14.29	4.76	80.95
+Bos taurus	03_cow	87.82	12.18	76	24	5.6	12.8	81.6	3.51	96.49	8.33	30.56	61.11
+Canis lupus familiaris	01_dog	73.75	26.25	42.86	57.14	26.67	25.71	47.62	2.88	97.12	26.09	4.35	69.57
+Canis lupus familiaris	02_dog	73.72	26.28	42.86	57.14	26.19	25.71	48.1	2.88	97.12	26.09	4.35	69.57
+Canis lupus familiaris	03_dog	78.55	21.45	41.72	58.28	17.18	37.42	45.4	6.18	93.82	12.77	40.43	46.81
+Anas platyrhynchos	01_duck	67.62	32.38	93.14	6.86	70.59	2.94	26.47	20.95	79.05	96.97	3.03	0
+Anas platyrhynchos	02_duck	66.03	33.97	93.46	6.54	67.29	2.8	29.91	20.95	79.05	96.97	3.03	0
+Anas platyrhynchos	03_duck	69.97	30.03	91.49	8.51	68.09	4.26	27.66	19.17	80.83	95	5	0
+Xenopus laevis	01_frog	70.88	29.12	65.61	34.39	22.22	14.81	62.96	12.33	87.67	32.5	30	37.5
+Xenopus laevis	02_frog	61.14	38.86	57.82	42.18	16.59	22.27	61.14	17.5	82.5	21.05	41.05	37.89
+Xenopus laevis	03_frog	71.68	28.32	63.84	36.16	19.77	12.43	67.8	11.84	88.16	24.32	22.97	52.7
+Equus caballus	01_horse	82.91	17.09	78.06	21.94	9.18	14.8	76.02	1.83	98.17	19.05	9.52	71.43
+Equus caballus	02_horse	82.81	17.19	77.66	22.34	9.14	15.23	75.63	1.92	98.08	18.18	13.64	68.18
+Equus caballus	03_horse	83.09	16.91	67.01	32.99	7.22	27.32	65.46	4.18	95.82	10.42	50	39.58
+Homo sapiens	01_human	53.35	46.65	15.75	84.25	40.35	43.9	15.75	2.2	97.8	54.17	20.83	25
+Homo sapiens	02_human	52.96	47.04	15.94	84.06	39.57	44.09	16.34	2.96	97.04	40.62	34.38	25
+Homo sapiens	03_human	60.19	39.81	16.36	83.64	29.55	52.51	17.94	4.31	95.69	26.83	46.34	26.83
+Anolis carolinensis	01_lizard	67.7	32.3	80.77	19.23	21.15	11.54	67.31	8.07	91.93	53.85	15.38	30.77
+Anolis carolinensis	02_lizard	58.33	41.67	85	15	15	8.33	76.67	9.03	90.97	46.15	7.69	46.15
+Anolis carolinensis	03_lizard	71.43	28.57	75	25	18.18	13.64	68.18	13.64	86.36	28.57	19.05	52.38
+Mus musculus	01_mouse	77.12	22.88	43.9	56.1	27.91	29	43.09	3.41	96.59	30.91	32.73	36.36
+Mus musculus	02_mouse	76.85	23.15	42.35	57.65	25.96	31.15	42.9	3.92	96.08	24.19	43.55	32.26
+Mus musculus	03_mouse	81.12	18.88	40.54	59.46	19.59	39.86	40.54	4.4	95.6	20.29	53.62	26.09
+Monodelphis domestica	01_opossum	80.95	19.05	73.31	26.69	7.2	51.69	41.1	3.47	96.53	4.65	51.16	44.19
+Monodelphis domestica	02_opossum	81.18	18.82	68.06	31.94	15.74	15.28	68.98	4.88	95.12	8.93	42.86	48.21
+Monodelphis domestica	03_opossum	84.47	15.53	73.82	26.18	9.95	17.8	72.25	3.9	96.1	4.17	54.17	41.67
+Pongo abelii	01_orangutan	74.07	25.93	53.06	46.94	2.04	40.82	57.14	2.65	97.35	10	0	90
+Pongo abelii	02_orangutan	74.01	25.99	53.06	46.94	2.04	40.82	57.14	2.39	97.61	11.11	0	88.89
+Pongo abelii	03_orangutan	71.28	28.72	39.81	60.19	1.85	50	48.15	7.45	92.55	3.57	50	46.43
+Ornithorhynchus anatinus	01_platypus	81.55	18.45	88.17	11.83	3.23	8.6	88.17	1.98	98.02	30	0	70
+Ornithorhynchus anatinus	02_platypus	78.62	21.38	83.87	16.13	1.08	10.75	88.17	2.53	97.47	0	27.27	72.73
+Ornithorhynchus anatinus	03_platypus	83.2	16.8	83.53	16.47	3.53	14.12	82.35	2.96	97.04	20	26.67	53.33
+Rattus norvegicus	01_rat	71.57	28.43	41	59	25.2	26.6	48.2	3.3	96.7	31.03	15.52	53.45
+Rattus norvegicus	02_rat	71.59	28.41	39.72	60.28	24.6	26.41	48.99	3.38	96.62	25.42	15.25	59.32
+Rattus norvegicus	03_rat	73.71	26.29	40.4	59.6	15.18	35.04	49.78	5.22	94.78	14.61	39.33	46.07
+Danio rerio	01_zebrafish	73.08	26.92	80.95	19.05	12.7	15.87	71.43	2.56	97.44	16.67	50	33.33
+Danio rerio	02_zebrafish	69.51	30.49	80.88	19.12	14.71	17.65	67.65	3.14	96.86	0	42.86	57.14
+Danio rerio	03_zebrafish	72.49	27.51	80.95	19.05	14.29	15.87	69.84	3.06	96.94	28.57	42.86	28.57

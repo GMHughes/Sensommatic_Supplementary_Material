@@ -1,0 +1,43 @@
+Species	Test	# Predictions	# Functional	# Pseudogene	# Hits > 0 TM domains	# Hits 0 TM domains	Functional (%)	Pseudogene (%)	Hits > 0 TM domains (%)	Hits 0 TM domains (%)
+Pan troglodytes	01_chimp	33	0	33	18	15	0	100	54.55	45.45
+Pan troglodytes	02_chimp	32	0	32	17	15	0	100	53.12	46.88
+Pan troglodytes	03_chimp	3	0	3	1	2	0	100	33.33	66.67
+Bos taurus	01_cow	24	0	24	11	13	0	100	45.83	54.17
+Bos taurus	02_cow	25	0	25	12	13	0	100	48	52
+Bos taurus	03_cow	13	0	13	7	6	0	100	53.85	46.15
+Canis lupus familiaris	01_dog	15	0	15	7	8	0	100	46.67	53.33
+Canis lupus familiaris	02_dog	15	0	15	7	8	0	100	46.67	53.33
+Canis lupus familiaris	03_dog	6	0	6	3	3	0	100	50	50
+Anas platyrhynchos	01_duck	61	3	58	4	57	4.92	95.08	6.56	93.44
+Anas platyrhynchos	02_duck	59	3	56	4	55	5.08	94.92	6.78	93.22
+Anas platyrhynchos	03_duck	40	3	37	4	36	7.5	92.5	10	90
+Xenopus laevis	01_frog	173	20	153	25	148	11.56	88.44	14.45	85.55
+Xenopus laevis	02_frog	84	6	78	20	64	7.14	92.86	23.81	76.19
+Xenopus laevis	03_frog	79	18	61	15	64	22.78	77.22	18.99	81.01
+Equus caballus	01_horse	50	1	49	19	31	2	98	38	62
+Equus caballus	02_horse	49	1	48	18	31	2.04	97.96	36.73	63.27
+Equus caballus	03_horse	24	0	24	7	17	0	100	29.17	70.83
+Homo sapiens	01_human	39	1	38	27	12	2.56	97.44	69.23	30.77
+Homo sapiens	02_human	31	1	30	22	9	3.23	96.77	70.97	29.03
+Homo sapiens	03_human	100	1	99	36	64	1	99	36	64
+Anolis carolinensis	01_lizard	15	3	12	4	11	20	80	26.67	73.33
+Anolis carolinensis	02_lizard	8	0	8	0	8	0	100	0	100
+Anolis carolinensis	03_lizard	10	4	6	2	8	40	60	20	80
+Mus musculus	01_mouse	148	1	147	32	116	0.68	99.32	21.62	78.38
+Mus musculus	02_mouse	112	7	105	26	86	6.25	93.75	23.21	76.79
+Mus musculus	03_mouse	1208	6	1202	64	1144	0.5	99.5	5.3	94.7
+Monodelphis domestica	01_opossum	87	3	84	8	79	3.45	96.55	9.2	90.8
+Monodelphis domestica	02_opossum	34	1	33	5	29	2.94	97.06	14.71	85.29
+Monodelphis domestica	03_opossum	45	1	44	10	35	2.22	97.78	22.22	77.78
+Pongo abelii	01_orangutan	49	0	49	29	20	0	100	59.18	40.82
+Pongo abelii	02_orangutan	50	0	50	29	21	0	100	58	42
+Pongo abelii	03_orangutan	15	0	15	7	8	0	100	46.67	53.33
+Ornithorhynchus anatinus	01_platypus	110	0	110	47	63	0	100	42.73	57.27
+Ornithorhynchus anatinus	02_platypus	70	0	70	25	45	0	100	35.71	64.29
+Ornithorhynchus anatinus	03_platypus	82	0	82	51	31	0	100	62.2	37.8
+Rattus norvegicus	01_rat	154	4	150	38	116	2.6	97.4	24.68	75.32
+Rattus norvegicus	02_rat	118	3	115	31	87	2.54	97.46	26.27	73.73
+Rattus norvegicus	03_rat	132	3	129	70	62	2.27	97.73	53.03	46.97
+Danio rerio	01_zebrafish	11	0	11	6	5	0	100	54.55	45.45
+Danio rerio	02_zebrafish	6	1	5	5	1	16.67	83.33	83.33	16.67
+Danio rerio	03_zebrafish	12	4	8	5	7	33.33	66.67	41.67	58.33

@@ -1,0 +1,43 @@
+Assembly	Species	Class	# Contigs	Assembly level	Date	Time 	Time (hr)	# Receptors	# Threads	Node info	Reference
+GCA_000181195.1	Mus musculus	Mammalia	224,713	Contig	Jun, 2002	02:53:57	2.899	1738	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Mouse Genome Sequencing Consortium et al., 2002
+GCA_000181315.1	Ictidomys tridecemlineatus	Mammalia	797,481	Contig	Jul, 2006	03:36:59	3.616	2087	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_000181375.1	Tupaia belangeri	Mammalia	194,504	Contig	Jul, 2006	04:19:37	4.327	1948	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_000181395.1	Erinaceus europaeus	Mammalia	847,680	Contig	Mar, 2006	02:03:42	2.062	1214	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_000181415.1	Canis lupus familiaris	Mammalia	1,089,636	Contig	Oct, 2003	01:21:19	1.355	757	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Kirkness et al., 2003
+GCF_000001405.40	Homo sapiens	Mammal	996	Chromosome	Feb, 2022	02:19:37	2.327	1320	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Nurk et al., 2022
+GCA_000181335.5	Felis catus	Mammalia	4,894	Chromosome	Nov, 2021	01:59:49	1.997	1151	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Brashear, Bredemeyer and Murphy, 2021
+GCF_000002295.2	Monodelphis domestica	Mammal	72,674	Chromosome	Jan, 2007	05:10:14	5.171	1675	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Mikkelsen et al., 2007
+GCA_008795835.1	Panthera leo	Mammalia	23,775	Chromosome	Oct, 2019	01:22:54	1.382	1078	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_903992545.1	Pipistrellus pipistrellus	Mammalia	1,867	Chromosome	Aug, 2020	02:13:07	2.219	628	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Vine et al., 2021
+GCF_002880755.1	Pan troglodytes	Mammal	5,061	Chromosome	Jan, 2018	01:55:25	1.924	830	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	The Chimpanzee Sequencing and Analysis Consortium, 2005
+GCF_002263795.2	Bos taurus	Mammal	2,343	Chromosome	Apr, 2018	02:21:48	2.363	2066	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCF_000002285.5	Canis lupus familiaris 	Mammal	1,162	Chromosome	Oct, 2020	01:06:28	1.108	965	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Lindblad-Toh et al., 2005
+GCF_002863925.1	Equus caballus	Mammal	10,987	Chromosome	Jan, 2018	02:14:23	2.24	2553	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Kalbfleisch et al., 2018
+GCF_000001635.27	Mus musculus	Mammal	306	Chromosome	Jun, 2020	03:10:55	3.182	1927	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Church et al., 2009
+GCF_002880775.1	Pongo abelii	Mammal	5,814	Chromosome	Jan, 2018	01:33:44	1.562	741	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Xu and Arnason, 1996
+GCF_004115215.2	Ornithorhynchus anatinus	Mammal	834	Chromosome	Nov, 2020	01:09:59	1.166	1150	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Zhou et al., 2021
+GCF_015227675.2	Rattus norvegicus	Mammal	757	Chromosome	Nov, 2020	03:24:14	3.404	2025	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Howe et al., 2021
+GCA_000180675.1	Gasterosteus aculeatus	Fish	16,957	Contig	Feb, 2006	02:20:56	2.349	248	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Jones et al., 2012
+GCA_000418415.1	Thunnus orientalis	Fish	133,062	Contig	Jun, 2013	00:31:34	0.526	155	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Nakamura et al., 2013
+GCA_024762115.1	Acipenser gueldenstaedtii	Fish	3,393,603	Contig	Aug, 2022	01:00:04	1.001	134	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Degani et al., 2022
+GCA_904848185.1	Acanthopagrus latus	Fish	214	Chromosome	Oct, 2020	01:03:23	1.056	404	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_021347895.1	Acanthochromis polyacanthus	Fish	951	Chromosome	Jan, 2022	03:21:02	3.351	198	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCF_000002035.6	Danio rerio	Fish	19,725	Chromosome	May, 2017	02:04:52	2.081	532	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Howe et al., 2013
+GCA_021901965.1	Pipa carvalhoi	Amphibian	830,118	Contig	Feb, 2022	00:25:33	0.426	136	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Moura Gama et al., 2022
+GCA_025379985.1	Phyllomedusa bahiana	Amphibian	109,372	Contig	Sep, 2022	02:45:42	2.762	779	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Andrade et al., 2022
+GCA_022657655.1	Phrynoglossus myanhessei	Amphibian	1,446,664	Contig	Mar, 2021	00:52:10	0.869	542	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Köhler et al., 2021
+GCA_905171715.1	Bufo bufo	Amphibian	5,501	Chromosome	Jul, 2021	04:12:33	4.209	774	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Streicher et al., 2021
+GCA_018994145.1	Leptobrachium ailaonicum	Amphibian	15,899	Chromosome	Jun, 2021	02:46:49	2.78	208	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Li et al., 2019
+GCF_017654675.1	Xenopus laevis	Amphibian	716	Chromosome	Apr, 2021	07:48:01	7.8	1506	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Session et al., 2016
+GCA_000385615.1	Apalone spinifera	Reptile	827,040	Contig	May, 2013	03:38:54	3.648	1458	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_026122565.1	Emydura macquarii macquarii	Reptile	3,748	Contig	Nov, 2022	03:08:16	3.138	2060	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na
+GCA_023970755.1	Azemiops feae	Reptile	4,303	Contig	Jul, 2022	1-01:13:52	25.231	2591	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Myers et al., 2022
+GCA_026122505.1	Aldabrachelys gigantea	Reptile	1,040	Chromosome	Nov, 2022	13:54:58	13.916	3514	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Çilingir et al., 2022
+GCA_019425775.1	Rafetus swinhoei	Reptile	1,125	Chromosome	Jul, 2021	16:20:07	16.335	2039	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Ren et al., 2022
+GCF_000090745.1	Anolis carolinensis	Reptile	41,987	Chromosome	Jan, 2011	00:39:24	0.657	261	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Alföldi et al., 2011
+GCA_000586395.1	Lyrurus tetrix tetrix	Bird	971,998	Contig	Mar, 2014	00:02:32	0.042	24	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Wang et al., 2014
+GCA_011125475.1	Melanerpes aurifrons	Bird	441	Contig	Mar, 2020	00:10:23	0.173	92	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Wiley and Miller, 2020
+GCA_000400545.1	Ara macao	Bird	282,947	Contig	May, 2013	00:04:29	0.075	58	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Seabury et al., 2013
+GCA_001700915.1	Passer domesticus	Bird	50,328	Chromosome	Aug, 2016	00:07:01	0.117	51	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Magallanes-Alba et al., 2023
+GCA_000738735.6	Corvus cornix cornix	Bird	471	Chromosome	Apr, 2021	00:03:05	0.051	49	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	Weissensteiner et al., 2017
+GCF_015476345.1	Anas platyrhynchos	Bird	1,661	Chromosome	Nov, 2020	02:55:06	2.918	1157	20	2 X Intel Xeon Gold 6152 (2.1GHz, 22 cores), 384 GB memory	na

@@ -1,0 +1,953 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_000005.10_OR1X1P_pseudogene_nonsense_fwd_176006244_176007395	Homo_sapiens_OR1X1P_pseudogene|NC_000005.10|176006145|176007389	7	7	yes	no	yes	no	pseudogene	pseudogene	1152	1245	no	no	yes
+>NC_000005.10_OR1X5P_pseudogene_nonsense_rev_177836569_177837645	Homo_sapiens_OR1X5P_pseudogene|NC_000005.10|177836412|177837663	3	4	yes	no	yes	no	pseudogene	pseudogene	1077	1252	no	no	no
+>NC_000005.10_OR2AI1P_pseudogene_short_rev_180693173_180693760	Homo_sapiens_OR2AI1P_pseudogene|NC_000005.10|180692835|180693763	4	4	yes	yes	yes	no	pseudogene	pseudogene	588	929	no	no	yes
+>NC_000005.10_OR2V1_functional_rev_181124357_181125304	Homo_sapiens_OR2V1_functional|NC_000005.10|181124357|181125304	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000005.10_OR2V2_functional_fwd_181154943_181155890	Homo_sapiens_OR2V2_functional|NC_000005.10|181154943|181155890	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000005.10_OR2Y1_functional_rev_180739123_180740058	Homo_sapiens_OR2Y1_functional|NC_000005.10|180739123|180740058	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000005.10_OR4F16_functional_fwd_181367287_181368225	Homo_sapiens_OR4F3_functional|NC_000005.10|181367287|181368225	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000005.10_TAS2R1_functional_rev_9629133_9630032	Homo_sapiens_TAS2R1_functional|NC_000005.10|9629133|9630032	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_000001.11_OR10J1_functional_fwd_159439792_159440721	Homo_sapiens_OR10J1_k_functional|NC_000001.11|159439792|159440721	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000001.11_OR10J2P_pseudogene_nonsense_rev_159279041_159280165	Homo_sapiens_OR10J2P_mc_pseudogene|NC_000001.11|159279043|159280000	5	5	yes	no	yes	no	pseudogene	pseudogene	1125	958	no	no	yes
+>NC_000001.11_OR10J5_functional_rev_159535078_159536007	Homo_sapiens_OR10J5_functional|NC_000001.11|159535078|159536007	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000001.11_OR10J4_pseudogene_short_fwd_159432204_159432845	Homo_sapiens_OR10J4_pseudogene|NC_000001.11|159432204|159433138	5	4	yes	yes	yes	yes	pseudogene	pseudogene	642	935	no	no	yes
+>NC_000001.11_OR10J8P_pseudogene_short_fwd_159366161_159366598	Homo_sapiens_OR10J8P_me_pseudogene|NC_000001.11|159366161|159367086	3	6	yes	yes	yes	no	pseudogene	pseudogene	438	926	no	no	no
+>NC_000001.11_OR10J9P_pseudogene_short_rev_159405504_159405887	Homo_sapiens_OR10J9P_mf_pseudogene|NC_000001.11|159405422|159406408	3	4	yes	no	yes	no	pseudogene	pseudogene	384	987	no	no	no
+>NC_000001.11_OR10K1_functional_fwd_158465562_158466503	Homo_sapiens_OR10K1_functional|NC_000001.11|158465562|158466503	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000001.11_OR10K2_functional_rev_158419928_158420866	Homo_sapiens_OR10K2_functional|NC_000001.11|158419928|158420866	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR10R1P_pseudogene_nonsense_fwd_158514746_158516017	Homo_sapiens_OR10R1P_pseudogene|NC_000001.11|158514785|158515925	3	4	yes	no	yes	no	pseudogene	pseudogene	1272	1141	no	no	no
+>NC_000001.11_OR10R2_functional_fwd_158479959_158480885	Homo_sapiens_OR10R2_e_functional|NC_000001.11|158479878|158480885	7	7	yes	yes	yes	yes	functional	functional	927	1008	no	no	no change
+>NC_000001.11_OR10T1P_pseudogene_short_rev_158445070_158445591	Homo_sapiens_OR10T1P_pseudogene|NC_000001.11|158445068|158446014	4	7	yes	yes	yes	no	pseudogene	pseudogene	522	947	no	no	no
+>NC_000001.11_OR10T2_functional_rev_158398522_158399466	Homo_sapiens_OR10T2_functional|NC_000001.11|158398522|158399466	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000001.11_OR10X1_functional_rev_158578919_158579848	Homo_sapiens_OR10X1_functional|NC_000001.11|158578919|158579899	7	7	yes	yes	yes	yes	functional	functional	930	981	no	no	no change
+>NC_000001.11_OR10Z1_functional_fwd_158606439_158607380	Homo_sapiens_OR10Z1_functional|NC_000001.11|158606439|158607380	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000001.11_OR11L1_functional_rev_247840928_247841896	Homo_sapiens_OR11L1_functional|NC_000001.11|247840928|247841896	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_000001.11_OR13G1_functional_rev_247672118_247673041	Homo_sapiens_OR13G1_functional|NC_000001.11|247672118|247673041	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000001.11_OR14A16_functional_rev_247814800_247815729	Homo_sapiens_OR14A16_functional|NC_000001.11|247814800|247815729	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000001.11_OR14A2_functional_rev_247723099_247724043	Homo_sapiens_OR14A2_functional|NC_000001.11|247723099|247724043	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000001.11_OR14C36_functional_fwd_248348775_248349713	Homo_sapiens_OR14C36_functional|NC_000001.11|248348775|248349713	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR14I1_functional_rev_248681369_248682304	Homo_sapiens_OR14I1_functional|NC_000001.11|248681369|248682304	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000001.11_OR14K1_functional_fwd_247738615_247739559	Homo_sapiens_OR14K1_functional|NC_000001.11|247738615|247739559	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000001.11_OR1C1_functional_rev_247757462_247758406	Homo_sapiens_OR1C1_functional|NC_000001.11|247757462|247758406	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000001.11_OR2AJ1_functional_fwd_247933877_247934755	Homo_sapiens_OR2AJ1_functional|NC_000001.11|247933769|247934755	7	7	yes	yes	yes	yes	functional	functional	879	987	no	no	no change
+>NC_000001.11_OR2AK2_functional_fwd_247965377_247966339	Homo_sapiens_OR2AK2_functional|NC_000001.11|247965377|247966339	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000001.11_OR2B11_functional_rev_247451029_247451982	Homo_sapiens_OR2B11_functional|NC_000001.11|247451029|247451982	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000001.11_OR2C3_functional_rev_247531549_247532511	Homo_sapiens_OR2C3_functional|NC_000001.11|247531549|247532511	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000001.11_OR2G2_functional_fwd_247588360_247589313	Homo_sapiens_OR2G2_functional|NC_000001.11|247588360|247589313	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000001.11_OR2G3_functional_fwd_247605586_247606515	Homo_sapiens_OR2G3_functional|NC_000001.11|247605586|247606515	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000001.11_OR2G6_functional_fwd_248521647_248522597	Homo_sapiens_OR2G6_functional|NC_000001.11|248521647|248522597	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000001.11_OR2L13_functional_fwd_248099376_248100314	Homo_sapiens_OR2L13_functional|NC_000001.11|248099376|248100314	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2L2_functional_fwd_248038268_248039206	Homo_sapiens_OR2L2_functional|NC_000001.11|248038268|248039206	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2L5_functional_fwd_248021948_248022886	Homo_sapiens_OR2L5_functional|NC_000001.11|248021948|248022886	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2L8_functional_fwd_247948858_247949796	Homo_sapiens_OR2L8_functional|NC_000001.11|247948858|247949796	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2L3_functional_fwd_248060682_248061620	Homo_sapiens_OR2L3_functional|NC_000001.11|248060682|248061620	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2L6P_pseudogene_short_fwd_248003131_248003925	Homo_sapiens_OR2L6P_pseudogene|NC_000001.11|248003131|248004069	6	7	yes	yes	yes	yes	pseudogene	pseudogene	795	939	no	no	no
+>NC_000001.11_OR2L9P_pseudogene_short_fwd_247975268_247975678	Homo_sapiens_OR2L9P_pseudogene|NC_000001.11|247974743|247975676	3	4	yes	no	yes	no	pseudogene	pseudogene	411	934	no	no	no
+>NC_000001.11_OR2M1P_pseudogene_short_fwd_248122049_248122882	Homo_sapiens_OR2M1P_pseudogene|NC_000001.11|248121932|248122870	7	7	yes	yes	yes	no	pseudogene	pseudogene	834	939	no	no	yes
+>NC_000001.11_OR2M2_functional_fwd_248179986_248181029	Homo_sapiens_OR2M2_functional|NC_000001.11|248179986|248181029	7	7	yes	yes	yes	yes	functional	functional	1044	1044	yes	no	no change
+>NC_000001.11_OR2M3_functional_fwd_248203068_248204006	Homo_sapiens_OR2M3_functional|NC_000001.11|248203068|248204006	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2M5_functional_fwd_248145148_248146086	Homo_sapiens_OR2M5_functional|NC_000001.11|248145148|248146086	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2M7_functional_rev_248323630_248324568	Homo_sapiens_OR2M7_functional|NC_000001.11|248323630|248324568	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2M4_functional_fwd_248238929_248239864	Homo_sapiens_OR2M4_functional|NC_000001.11|248238929|248239864	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000001.11_OR2T10_functional_rev_248592830_248593768	Homo_sapiens_OR2T10_cy_functional|NC_000001.11|248592830|248593768	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2T5_functional_fwd_248488589_248489536	Homo_sapiens_OR2T5_hp_functional|NC_000001.11|248488589|248489536	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000001.11_OR2T11_functional_rev_248626178_248627128	Homo_sapiens_OR2T11_functional|NC_000001.11|248626178|248627128	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000001.11_OR2T12_functional_rev_248294616_248295578	Homo_sapiens_OR2T12_functional|NC_000001.11|248294616|248295578	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000001.11_OR2T33_functional_rev_248272852_248273814	Homo_sapiens_OR2T33_functional|NC_000001.11|248272852|248273814	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000001.11_OR2T1_functional_fwd_248406148_248407104	Homo_sapiens_OR2T1_hl_functional|NC_000001.11|248406148|248407104	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000001.11_OR2T27_functional_rev_248649931_248650884	Homo_sapiens_OR2T27_functional|NC_000001.11|248649931|248650884	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000001.11_OR2T7_functional_fwd_248441207_248442133	Homo_sapiens_OR2T7_hm_functional|NC_000001.11|248441207|248442133	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000001.11_OR2T29_functional_rev_248558544_248559491	Homo_sapiens_OR2T29_functional|NC_000001.11|248558544|248559491	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000001.11_OR2T4_functional_fwd_248361581_248362627	Homo_sapiens_OR2T4_hj_functional|NC_000001.11|248361665|248362627	7	7	yes	yes	yes	yes	functional	functional	1047	963	no	no	no change
+>NC_000001.11_OR2T2_functional_fwd_248452798_248453772	Homo_sapiens_OR2T2_hn_functional|NC_000001.11|248452798|248453772	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000001.11_OR2T35_functional_rev_248638287_248639258	Homo_sapiens_OR2T35_functional|NC_000001.11|248638287|248639258	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000001.11_OR2T8_functional_fwd_247921018_247921956	Homo_sapiens_OR2T8_functional|NC_000001.11|247921018|247921956	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR2T34_functional_rev_248573801_248574757	Homo_sapiens_OR2T34_functional|NC_000001.11|248573801|248574757	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000001.11_OR2T3_functional_fwd_248473351_248474307	Homo_sapiens_OR2T3_ho_functional|NC_000001.11|248473351|248474307	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000001.11_OR2T6_functional_fwd_248387609_248388535	Homo_sapiens_OR2T6_hk_functional|NC_000001.11|248387609|248388535	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000001.11_OR2W3_functional_fwd_247895587_247896531	Homo_sapiens_OR2W3_functional|NC_000001.11|247895587|247896531	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000001.11_OR4F16_functional_rev_450740_451678	Homo_sapiens_OR4F29_functional|NC_000001.11|450740|451678	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR4F16_functional_rev_685716_686654	Homo_sapiens_OR4F16_functional|NC_000001.11|685716|686654	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR4F5_functional_fwd_69091_70008	Homo_sapiens_OR4F5_pseudogene|NC_000001.11|69034|71585	7	7	yes	no	yes	no	functional	pseudogene	918	2618	no	yes	yes
+>NC_000001.11_OR6F1_functional_rev_247711829_247712755	Homo_sapiens_OR6F1_functional|NC_000001.11|247711829|247712755	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000001.11_OR6K1P_pseudogene_nonsense_rev_158694628_158695533	Homo_sapiens_OR6K1P_pseudogene|NC_000001.11|158694539|158695509	7	7	yes	no	yes	no	pseudogene	pseudogene	906	971	no	no	yes
+>NC_000001.11_OR6K2_functional_rev_158699678_158700652	Homo_sapiens_OR6K2_functional|NC_000001.11|158699678|158700652	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000001.11_OR6K3_functional_rev_158717168_158718115	Homo_sapiens_OR6K3_functional|NC_000001.11|158717168|158718115	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000001.11_OR6K5P_pseudogene_nonsense_rev_158742348_158743325	Homo_sapiens_OR6K5P_pseudogene|NC_000001.11|158742568|158743415	7	7	yes	yes	yes	no	pseudogene	pseudogene	978	848	no	no	yes
+>NC_000001.11_OR6K6_functional_fwd_158754888_158755847	Homo_sapiens_OR6K6_functional|NC_000001.11|158754888|158755847	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000001.11_OR6N1_functional_rev_158765744_158766682	Homo_sapiens_OR6N1_functional|NC_000001.11|158765744|158766682	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000001.11_OR6N2_functional_rev_158776682_158777635	Homo_sapiens_OR6N2_functional|NC_000001.11|158776682|158777635	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000001.11_OR6P1_functional_rev_158562651_158563604	Homo_sapiens_OR6P1_functional|NC_000001.11|158562651|158563604	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000001.11_OR6Y1_functional_rev_158547128_158548105	Homo_sapiens_OR6Y1_functional|NC_000001.11|158547128|158548105	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_000001.11_OR2W5P_functional_fwd_247491128_247492090	Homo_sapiens_OR2W5P_pseudogene|NC_000001.11|247491117|247492409	4	4	yes	no	yes	yes	functional	pseudogene	963	1591	no	yes	yes
+>NC_000001.11_TAS1R3_functional_fwd_1331346_1334464	Homo_sapiens_TAS1R3_isoform1_functional|NC_000001.11|1331346|1334464	7	7	yes	yes	yes	yes	functional	functional	2685	2685	yes	no	no change
+>NC_000001.11_TAS1R1_functional_fwd_6555374_6579584	Homo_sapiens_TAS1R1_isoform1_functional|NC_000001.11|6555374|6579584	7	7	yes	yes	yes	yes	functional	functional	2526	2526	yes	no	no change
+>NC_000001.11_TAS1R2_functional_rev_18839599_18859660	Homo_sapiens_TAS1R2_functional|NC_000001.11|18859660|18839599	7	7	yes	yes	yes	yes	functional	functional	2520	2520	yes	no	no change
+>NC_000008.11_OR4F21_functional_rev_166086_167024	Homo_sapiens_OR4F21_functional|NC_000008.11|166086|167024	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000008.11_OR7E8P_pseudogene_short_rev_12684269_12684766	Homo_sapiens_OR7E8P_mz_pseudogene|NC_000008.11|12684140|12685165	4	7	yes	no	yes	no	pseudogene	pseudogene	498	1026	no	no	no
+>NC_000008.11_OR7E10P_pseudogene_short_rev_12703265_12703687	Homo_sapiens_OR7E10P_nb_pseudogene|NC_000008.11|12703052|12704038	2	5	yes	no	yes	no	pseudogene	pseudogene	423	987	no	no	no
+>NC_000008.11_OR7E157P_pseudogene_short_fwd_7592294_7592848	Homo_sapiens_OR7E157P_pe_pseudogene|NC_000008.11|7591988|7592956	5	7	yes	no	yes	no	pseudogene	pseudogene	555	969	no	no	no
+>NC_000008.11_OR7E15P_pseudogene_short_rev_12696471_12696899	Homo_sapiens_OR7E15P_pseudogene|NC_000008.11|12696370|12697025	2	5	yes	no	yes	no	pseudogene	pseudogene	429	656	no	no	no
+>NC_000008.11_OR7E161P_pseudogene_nonsense_rev_11928544_11929431	Homo_sapiens_OR7E161P_pseudogene|NC_000008.11|11928568|11929563	7	7	yes	no	yes	no	pseudogene	pseudogene	888	996	no	no	yes
+>NC_000015.10_OR11J2P_pseudogene_nonsense_fwd_20960701_20961609	Homo_sapiens_OR11J2P_pseudogene|NC_000015.10|20960662|20961607	4	4	yes	no	yes	no	pseudogene	pseudogene	909	946	no	no	yes
+>NC_000015.10_OR11J2P_pseudogene_nonsense_fwd_21971345_21972643	Homo_sapiens_OR11J7P_pseudogene|NC_000015.10|21971719|21972625	6	4	yes	no	yes	no	pseudogene	pseudogene	1299	907	no	no	yes
+>NC_000015.10_OR11J5P_pseudogene_nonsense_rev_20969241_20970209	Homo_sapiens_OR11J5P_pseudogene|NC_000015.10|20969250|20970209	7	7	yes	yes	yes	no	pseudogene	pseudogene	969	960	no	no	yes
+>NC_000015.10_OR11J5P_pseudogene_short_rev_21980277_21980990	Homo_sapiens_OR11J6P_pseudogene|NC_000015.10|21981209|21980313	5	5	yes	no	yes	no	pseudogene	pseudogene	714	897	no	no	yes
+>NC_000015.10_OR4F14P_functional_fwd_101828741_101829616	Homo_sapiens_OR4F14P_pseudogene|NC_000015.10|101828741|101829676	7	7	yes	yes	yes	no	functional	pseudogene	876	936	no	yes	yes
+>NC_000015.10_OR4F15_functional_fwd_101818187_101819125	Homo_sapiens_OR4F15_functional|NC_000015.10|101818187|101819125	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000015.10_OR4F28P_pseudogene_short_fwd_101876380_101876901	Homo_sapiens_OR4F28P_pseudogene|NC_000015.10|101875964|101876901	4	7	yes	yes	yes	yes	pseudogene	pseudogene	522	938	no	no	no
+>NC_000015.10_OR4F4_functional_rev_101922142_101923059	Homo_sapiens_OR4F4_on_functional|NC_000015.10|101922142|101923059	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000015.10_OR4F6_functional_fwd_101805720_101806658	Homo_sapiens_OR4F6_functional|NC_000015.10|101805720|101806658	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000015.10_OR4H6BP_pseudogene_short_fwd_21614043_21614810	Homo_sapiens_OR4H6BP_pseudogene|NC_000015.10|21614052|21614989	5	6	yes	yes	yes	yes	pseudogene	pseudogene	768	938	no	no	no
+>NC_000015.10_OR4M2_functional_fwd_22080625_22081566	Homo_sapiens_OR4M2_functional|NC_000015.10|22080625|22081566	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000015.10_OR4M2B_functional_fwd_21638007_21638948	Homo_sapiens_OR4M2B_ff_functional|NC_000015.10|21638007|21638948	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000015.10_OR4N4_functional_fwd_22094522_22095472	Homo_sapiens_OR4N4_functional|NC_000015.10|22094522|22095472	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000015.10_OR4N4C_functional_fwd_21651935_21652885	Homo_sapiens_OR4N4C_functional|NC_000015.10|21651935|21652885	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000015.10_OR4N3P_pseudogene_short_fwd_22125751_22126434	Homo_sapiens_OR4N3P_pseudogene|NC_000015.10|22125511|22126447	5	7	yes	yes	yes	no	pseudogene	pseudogene	684	937	no	no	no
+>NC_000015.10_OR4Q1P_pseudogene_short_fwd_22044933_22045400	Homo_sapiens_OR4Q1P_pseudogene|NC_000015.10|22044417|22045397	3	6	yes	no	yes	no	pseudogene	pseudogene	468	981	no	no	no
+>NC_000006.12_OR10C1_functional_fwd_29440016_29440954	Homo_sapiens_OR10C1_kr_functional|NC_000006.12|29440016|29440954	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000006.12_OR11A1_functional_rev_29426694_29427641	Homo_sapiens_OR11A1_hz_functional|NC_000006.12|29426694|29427641	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000006.12_OR12D2_functional_fwd_29396700_29397623	Homo_sapiens_OR12D2_functional|NC_000006.12|29396700|29397623	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000006.12_OR12D3_functional_rev_29374337_29375287	Homo_sapiens_OR12D3_functional|NC_000006.12|29374337|29375287	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000006.12_OR14J1_functional_fwd_29306690_29307655	Homo_sapiens_OR14J1_kk_functional|NC_000006.12|29306690|29307655	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000006.12_OR1F12P_functional_fwd_28073316_28074329	Homo_sapiens_OR1F12P_pseudogene|NC_000006.12|28073316|28074236	7	7	yes	yes	yes	no	functional	pseudogene	1014	921	no	yes	yes
+>NC_000006.12_OR2A4_functional_rev_131700469_131701401	Homo_sapiens_OR2A4_functional|NC_000006.12|131700469|131701401	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000006.12_OR2AD1P_pseudogene_short_rev_29026768_29027607	Homo_sapiens_OR2AD1P_sd_pseudogene|NC_000006.12|29026680|29027607	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NC_000006.12_OR2B2_functional_rev_27911246_27912319	Homo_sapiens_OR2B2_functional|NC_000006.12|27911246|27912319	7	7	yes	yes	yes	yes	functional	functional	1074	1074	yes	no	no change
+>NC_000006.12_OR2B6_pseudogene_nonsense_fwd_27957241_27958398	Homo_sapiens_OR2B6_functional|NC_000006.12|27957241|27958182	7	7	yes	yes	yes	yes	pseudogene	functional	1158	942	no	yes	no change
+>NC_000006.12_OR2B3_functional_rev_29086307_29087248	Homo_sapiens_OR2B3_lm_functional|NC_000006.12|29086307|29087248	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000006.12_OR2B7P_pseudogene_short_fwd_28046435_28046796	Homo_sapiens_OR2B7P_pseudogene|NC_000006.12|28046435|28047369	3	5	yes	no	yes	no	pseudogene	pseudogene	363	935	no	no	no
+>NC_000006.12_OR2B8P_pseudogene_short_rev_28053228_28053992	Homo_sapiens_OR2B8P_pseudogene|NC_000006.12|28053228|28054202	6	7	yes	yes	yes	yes	pseudogene	pseudogene	765	975	no	no	no
+>NC_000006.12_OR2H1_functional_fwd_29461770_29462720	Homo_sapiens_OR2H1_ad_functional|NC_000006.12|29461770|29462720	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000006.12_OR2H2_functional_fwd_29587945_29588883	Homo_sapiens_OR2H2_lk_functional|NC_000006.12|29587945|29588883	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000006.12_OR2H5P_pseudogene_short_fwd_29574070_29574579	Homo_sapiens_OR2H5P_sc_pseudogene|NC_000006.12|29574073|29574651	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NC_000006.12_OR2J1_functional_fwd_29100943_29101881	Homo_sapiens_OR2J1_functional|NC_000006.12|29100943|29101881	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000006.12_OR2J2_functional_fwd_29173636_29174574	Homo_sapiens_OR2J2_functional|NC_000006.12|29173636|29174574	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000006.12_OR2J3_functional_fwd_29111891_29112826	Homo_sapiens_OR2J3_functional|NC_000006.12|29111891|29112826	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000006.12_OR2J4P_pseudogene_short_fwd_29181510_29182076	Homo_sapiens_OR2J4P_pseudogene|NC_000006.12|29181510|29182442	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NC_000006.12_OR2P1P_pseudogene_nonsense_short_rev_29071757_29072512	Homo_sapiens_OR2P1P_se_pseudogene|NC_000006.12|29071832|29072566	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NC_000006.12_OR2U1P_pseudogene_nonsense_rev_29262703_29263959	Homo_sapiens_OR2U1P_pseudogene|NC_000006.12|29262659|29264079	6	7	yes	yes	yes	no	pseudogene	pseudogene	1257	1421	no	no	no
+>NC_000006.12_OR2U2P_pseudogene_short_rev_29268462_29268833	Homo_sapiens_OR2U2P_ql_pseudogene|NC_000006.12|29268465|29269421	3	7	yes	yes	yes	no	pseudogene	pseudogene	372	957	no	no	no
+>NC_000006.12_OR2W1_functional_rev_29044213_29045175	Homo_sapiens_OR2W1_ll_functional|NC_000006.12|29044213|29045175	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000006.12_OR4F7P_pseudogene_short_fwd_170639606_170640004	Homo_sapiens_OR4F7P_pseudogene|NC_000006.12|170639606|170640543	3	5	yes	yes	yes	yes	pseudogene	pseudogene	399	938	no	no	no
+>NC_000006.12_OR4F1P_pseudogene_short_rev_106458_106856	Homo_sapiens_OR4F1P_pseudogene|NC_000006.12|105919|106856	3	7	yes	yes	yes	yes	pseudogene	pseudogene	399	938	no	no	no
+>NC_000006.12_OR5V1_functional_rev_29355230_29356195	Homo_sapiens_OR5V1_functional|NC_000006.12|29355230|29356195	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000006.12_TAAR1_functional_rev_132644984_132645916	Homo_sapiens_TAAR1_functional|NC_000006.12|132644984|132646003	7	7	yes	yes	yes	yes	functional	functional	933	1020	no	no	no change
+>NC_000006.12_TAAR2_functional_rev_132617150_132618016	Homo_sapiens_TAAR2_ai_functional|NC_000006.12|132617150|132618070	6	7	yes	yes	yes	yes	functional	functional	867	921	no	no	no
+>NC_000006.12_TAAR3P_pseudogene_nonsense_rev_132608247_132609191	Homo_sapiens_TAAR3P_pseudogene|NC_000006.12|132608225|132609302	7	7	yes	no	yes	yes	pseudogene	pseudogene	945	1078	no	no	yes
+>NC_000006.12_TAAR4P_pseudogene_short_rev_132595029_132595331	Homo_sapiens_TAAR4P_pseudogene|NC_000006.12|132594389|132595439	3	4	yes	yes	yes	no	pseudogene	pseudogene	303	1051	no	no	no
+>NC_000006.12_TAAR5_functional_rev_132588673_132589686	Homo_sapiens_TAAR5_functional|NC_000006.12|132588673|132589686	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_000006.12_TAAR6_functional_fwd_132570322_132571359	Homo_sapiens_TAAR6_functional|NC_000006.12|132570322|132571359	7	7	yes	yes	yes	yes	functional	functional	1038	1038	yes	no	no change
+>NC_000006.12_TAAR8_functional_fwd_132552693_132553721	Homo_sapiens_TAAR8_functional|NC_000006.12|132552693|132553721	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NC_000006.12_TAAR9_functional_fwd_132538290_132539336	Homo_sapiens_TAAR9_functional|NC_000006.12|132538290|132539336	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_000006.12_VN1R11P_pseudogene_nonsense_fwd_27083292_27084296	Homo_sapiens_VN1R11P_pseudogene|NC_000006.12|27083292|27084216	4	4	yes	yes	yes	yes	pseudogene	pseudogene	1005	925	no	no	no change
+>NC_000006.12_VN1R12P_pseudogene_nonsense_short_rev_27033441_27034238	Homo_sapiens_VN1R12P_pseudogene|NC_000006.12|27033346|27034343	6	7	yes	yes	yes	yes	pseudogene	pseudogene	798	998	no	no	no
+>NC_000006.12_VN1R13P_pseudogene_nonsense_short_rev_27060473_27061162	Homo_sapiens_VN1R13P_pseudogene|NC_000006.12|27060370|27061267	5	6	yes	yes	yes	yes	pseudogene	pseudogene	690	898	no	no	no
+>NC_000019.10_OR10H1_functional_rev_15807081_15808037	Homo_sapiens_OR10H1_functional|NC_000019.10|15807081|15808037	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000019.10_OR10H2_functional_fwd_15728044_15728991	Homo_sapiens_OR10H2_functional|NC_000019.10|15728044|15728991	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000019.10_OR10H3_functional_fwd_15741393_15742343	Homo_sapiens_OR10H3_functional|NC_000019.10|15741393|15742343	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000019.10_OR10H4_functional_fwd_15949008_15949958	Homo_sapiens_OR10H4_functional|NC_000019.10|15949008|15949958	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000019.10_OR10H5_functional_fwd_15794049_15794996	Homo_sapiens_OR10H5_functional|NC_000019.10|15794049|15794996	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000019.10_OR1I1_functional_fwd_15086997_15088133	Homo_sapiens_OR1I1_functional|NC_000019.10|15087066|15088133	7	7	yes	yes	yes	yes	functional	functional	1137	1068	no	no	no change
+>NC_000019.10_OR1M1_functional_fwd_9093245_9094186	Homo_sapiens_OR1M1_functional|NC_000019.10|9093245|9094186	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000019.10_OR2Z1_functional_fwd_8731029_8731973	Homo_sapiens_OR2Z1_functional|NC_000019.10|8731029|8731973	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000019.10_OR4F17_functional_fwd_110679_111596	Homo_sapiens_OR4F17_functional|NC_000019.10|110679|111596	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000019.10_OR4G3P_pseudogene_nonsense_fwd_94062_94976	Homo_sapiens_OR4G3P_pseudogene|NC_000019.10|94077|94940	7	7	yes	no	yes	no	pseudogene	pseudogene	915	864	no	no	yes
+>NC_000019.10_OR7A10_functional_rev_14840948_14841877	Homo_sapiens_OR7A10_functional|NC_000019.10|14840948|14841877	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000019.10_OR7A17_functional_rev_14880426_14881355	Homo_sapiens_OR7A17_functional|NC_000019.10|14880426|14881355	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000019.10_OR7A5_functional_rev_14827282_14828241	Homo_sapiens_OR7A5_functional|NC_000019.10|14827282|14828241	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000019.10_OR7A1P_pseudogene_short_rev_14892148_14892804	Homo_sapiens_OR7A1P_pseudogene|NC_000019.10|14891859|14892804	5	6	yes	yes	yes	no	pseudogene	pseudogene	657	946	no	no	no
+>NC_000019.10_OR7C1_functional_rev_14799174_14800136	Homo_sapiens_OR7C1_functional|NC_000019.10|14799174|14800136	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000019.10_OR7C2_functional_fwd_14941489_14942448	Homo_sapiens_OR7C2_functional|NC_000019.10|14941489|14942448	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000019.10_OR7D2_functional_fwd_9185782_9186720	Homo_sapiens_OR7D2_functional|NC_000019.10|9185782|9186720	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000019.10_OR7D4_functional_rev_9213899_9214837	Homo_sapiens_OR7D4_functional|NC_000019.10|9213899|9214837	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000019.10_OR7E19P_pseudogene_short_rev_9265390_9265992	Homo_sapiens_OR7E19P_pseudogene|NC_000019.10|9265393|9266369	5	4	yes	no	yes	no	pseudogene	pseudogene	603	977	no	no	yes
+>NC_000019.10_OR7E18P_pseudogene_short_rev_9261327_9261659	Homo_sapiens_OR7E18P_pseudogene|NC_000019.10|9260977|9261797	2	6	yes	no	yes	no	pseudogene	pseudogene	333	821	no	no	no
+>NC_000019.10_OR7E24_functional_fwd_9251044_9252063	Homo_sapiens_OR7E24_cc_functional|NC_000019.10|9251044|9252063	7	7	yes	yes	yes	yes	functional	functional	1020	1020	yes	no	no change
+>NC_000019.10_OR7E25P_pseudogene_nonsense_fwd_9204179_9205264	Homo_sapiens_OR7E25P_pseudogene|NC_000019.10|9204252|9205232	4	4	yes	no	yes	no	pseudogene	pseudogene	1086	981	no	no	yes
+>NC_000019.10_OR7G1_functional_rev_9114828_9115763	Homo_sapiens_OR7G1_functional|NC_000019.10|9114828|9115763	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000019.10_OR7G2_functional_rev_9102269_9103300	Homo_sapiens_OR7G2_functional|NC_000019.10|9102269|9103243	7	7	yes	yes	yes	yes	functional	functional	1032	975	no	no	no change
+>NC_000019.10_OR7G3_functional_rev_9126012_9126950	Homo_sapiens_OR7G3_functional|NC_000019.10|9126012|9126950	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000019.10_VN1R104P_pseudogene_short_rev_54320789_54321157	Homo_sapiens_VN1R104P_sn_pseudogene|NC_000019.10|54320234|54321151	3	7	yes	yes	yes	yes	pseudogene	pseudogene	369	918	no	no	no
+>NC_000019.10_VN1R1_functional_rev_57455425_57456486	Homo_sapiens_VN1R1_functional|NC_000019.10|57455425|57456486	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_000019.10_VN1R2_pseudogene_short_fwd_53258976_53259563	Homo_sapiens_VN1R2_functional|NC_000019.10|53258376|53259563	4	7	yes	yes	yes	yes	pseudogene	functional	588	1188	no	yes	no
+>NC_000019.10_VN1R4_functional_rev_53266760_53267665	Homo_sapiens_VN1R4_functional|NC_000019.10|53266760|53267665	7	7	yes	yes	yes	yes	functional	functional	906	906	yes	no	no change
+>NC_000019.10_VN1R6P_pseudogene_nonsense_fwd_53315082_53316056	Homo_sapiens_VN1R6P_pseudogene|NC_000019.10|53315137|53316043	5	4	yes	yes	yes	yes	pseudogene	pseudogene	975	907	no	no	yes
+>NC_000019.10_VN1R95P_pseudogene_nonsense_fwd_27803304_27804392	Homo_sapiens_VN1R95P_pseudogene|NC_000019.10|27803541|27804392	6	6	yes	no	yes	yes	pseudogene	pseudogene	1089	852	no	no	yes
+>NC_000011.10_OR10A2_functional_fwd_6869755_6870666	Homo_sapiens_OR10A2_functional|NC_000011.10|6869755|6870666	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_000011.10_OR10A5_functional_fwd_6845671_6846636	Homo_sapiens_OR10A5_functional|NC_000011.10|6845683|6846636	7	7	yes	yes	yes	yes	functional	functional	966	954	no	no	no change
+>NC_000011.10_OR10A3_functional_rev_7938576_7939520	Homo_sapiens_OR10A3_gk_functional|NC_000011.10|7938576|7939520	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR10A6_functional_rev_7927718_7928662	Homo_sapiens_OR10A6_dy_functional|NC_000011.10|7927718|7928662	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR10A4_functional_fwd_6876648_6877595	Homo_sapiens_OR10A4_functional|NC_000011.10|6876648|6877595	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR10D3_functional_fwd_124185270_124186208	Homo_sapiens_OR10D3_functional|NC_000011.10|124185270|124186208	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR10D5P_pseudogene_short_fwd_124054793_124055332	Homo_sapiens_OR10D5P_pseudogene|NC_000011.10|124054793|124055726	4	4	yes	yes	yes	no	pseudogene	pseudogene	540	934	no	no	yes
+>NC_000011.10_OR10G4_functional_fwd_124015575_124016510	Homo_sapiens_OR10G4_functional|NC_000011.10|124015575|124016510	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR10G9_functional_fwd_124023013_124023948	Homo_sapiens_OR10G9_functional|NC_000011.10|124023013|124023948	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR10G6_functional_rev_123994163_123995161	Homo_sapiens_OR10G6_functional|NC_000011.10|123994163|123995161	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NC_000011.10_OR10G7_functional_rev_124038066_124039001	Homo_sapiens_OR10G7_functional|NC_000011.10|124038066|124039001	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR10G8_functional_fwd_124029623_124030558	Homo_sapiens_OR10G8_functional|NC_000011.10|124029623|124030558	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR10N1P_pseudogene_nonsense_short_rev_124105162_124105968	Homo_sapiens_OR10N1P_pseudogene|NC_000011.10|124105052|124105974	6	5	yes	yes	yes	no	pseudogene	pseudogene	807	923	no	no	yes
+>NC_000011.10_OR10Q1_functional_rev_58227916_58228875	Homo_sapiens_OR10Q1_functional|NC_000011.10|58227916|58228875	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000011.10_OR10S1_functional_rev_123976696_123977664	Homo_sapiens_OR10S1_functional|NC_000011.10|123976696|123977664	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_000011.10_OR10V1_functional_rev_59712916_59713845	Homo_sapiens_OR10V1_functional|NC_000011.10|59712916|59713845	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR10W1_functional_rev_58266941_58267858	Homo_sapiens_OR10W1_functional|NC_000011.10|58266941|58267858	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000011.10_OR10Y1P_pseudogene_nonsense_fwd_59728403_59729494	Homo_sapiens_OR10Y1P_pseudogene|NC_000011.10|59728520|59729493	4	4	yes	no	yes	no	pseudogene	pseudogene	1092	974	no	no	yes
+>NC_000011.10_OR1S1_functional_fwd_58214784_58215722	Homo_sapiens_OR1S1_functional|NC_000011.10|58214745|58215722	7	7	yes	yes	yes	yes	functional	functional	939	978	no	no	no change
+>NC_000011.10_OR1S2_functional_rev_58203204_58204142	Homo_sapiens_OR1S2_functional|NC_000011.10|58203204|58204142	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR2AG1_functional_fwd_6785038_6785988	Homo_sapiens_OR2AG1_functional|NC_000011.10|6785038|6785988	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000011.10_OR2AG2_functional_rev_6768007_6769056	Homo_sapiens_OR2AG2_functional|NC_000011.10|6768007|6768957	7	7	yes	yes	yes	yes	functional	functional	1050	951	no	no	no change
+>NC_000011.10_OR2AT2P_pseudogene_short_rev_75071127_75071486	Homo_sapiens_OR2AT2P_pseudogene|NC_000011.10|75071120|75072091	3	4	yes	yes	yes	no	pseudogene	pseudogene	360	972	no	no	no
+>NC_000011.10_OR2AT4_functional_rev_75088751_75089713	Homo_sapiens_OR2AT4_functional|NC_000011.10|75088751|75089713	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000011.10_OR2BH1P_pseudogene_nonsense_fwd_28986635_28987588	Homo_sapiens_OR2BH1P_pseudogene|NC_000011.10|28986635|28987498	7	7	yes	yes	yes	no	pseudogene	pseudogene	954	864	no	no	yes
+>NC_000011.10_OR2D2_functional_rev_6891574_6892500	Homo_sapiens_OR2D2_functional|NC_000011.10|6891574|6892500	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000011.10_OR2D3_functional_fwd_6921050_6921994	Homo_sapiens_OR2D3_functional|NC_000011.10|6921002|6921994	7	7	yes	yes	yes	yes	functional	functional	945	993	no	no	no change
+>NC_000011.10_OR4A11P_pseudogene_nonsense_fwd_55318474_55319505	Homo_sapiens_OR4A11P_pseudogene|NC_000011.10|55318561|55319478	4	4	yes	no	yes	no	pseudogene	pseudogene	1032	918	no	no	yes
+>NC_000011.10_OR4A12P_pseudogene_nonsense_fwd_55325670_55326719	Homo_sapiens_OR4A12P_pseudogene|NC_000011.10|55325757|55326701	3	4	yes	no	yes	no	pseudogene	pseudogene	1050	945	no	no	no
+>NC_000011.10_OR4A1P_pseudogene_short_rev_49898770_49899186	Homo_sapiens_OR4A1P_pseudogene|NC_000011.10|49898281|49899186	3	6	yes	yes	yes	no	pseudogene	pseudogene	417	906	no	no	no
+>NC_000011.10_OR4A15_functional_fwd_55367974_55368918	Homo_sapiens_OR4A15_functional|NC_000011.10|55367974|55368918	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR4A16_functional_fwd_55343201_55344187	Homo_sapiens_OR4A16_functional|NC_000011.10|55343201|55344187	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_000011.10_OR4A5_functional_fwd_54706885_54707832	Homo_sapiens_OR4A5_functional|NC_000011.10|54706885|54707832	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR4A42P_pseudogene_short_fwd_48610063_48610752	Homo_sapiens_OR4A42P_pseudogene|NC_000011.10|48610064|48610997	5	4	yes	no	yes	no	pseudogene	pseudogene	690	934	no	no	yes
+>NC_000011.10_OR4A45P_pseudogene_short_fwd_48579436_48579810	Homo_sapiens_OR4A45P_pseudogene|NC_000011.10|48579383|48580448	4	5	yes	no	yes	no	pseudogene	pseudogene	375	1066	no	no	no
+>NC_000011.10_OR4A47_functional_fwd_48488793_48489722	Homo_sapiens_OR4A47_functional|NC_000011.10|48488793|48489722	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4A4P_functional_fwd_54659667_54660566	Homo_sapiens_OR4A4P_pseudogene|NC_000011.10|54659667|54660596	7	7	yes	yes	yes	yes	functional	pseudogene	900	930	no	yes	no change
+>NC_000011.10_OR4B1_functional_fwd_48216810_48217739	Homo_sapiens_OR4B1_functional|NC_000011.10|48216810|48217739	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4C11_pseudogene_short_rev_55603441_55604205	Homo_sapiens_OR4C11_functional|NC_000011.10|55603441|55604373	6	7	yes	yes	yes	yes	pseudogene	functional	765	933	no	yes	no
+>NC_000011.10_OR4C12_functional_rev_49981572_49982501	Homo_sapiens_OR4C12_eb_functional|NC_000011.10|49981572|49982501	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4C2P_pseudogene_short_fwd_48420244_48420879	Homo_sapiens_OR4C2P_pseudogene|NC_000011.10|48420043|48421079	5	6	yes	no	yes	no	pseudogene	pseudogene	636	1037	no	no	no
+>NC_000011.10_OR4C50P_pseudogene_short_fwd_54591480_54592115	Homo_sapiens_OR4C50P_pseudogene|NC_000011.10|54591480|54592406	5	7	yes	yes	yes	no	pseudogene	pseudogene	636	927	no	no	no
+>NC_000011.10_OR4C5_functional_rev_48365485_48366465	Homo_sapiens_OR4C5_functional|NC_000011.10|48365485|48366465	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_000011.10_OR4C13_functional_fwd_49952423_49953352	Homo_sapiens_OR4C13_functional|NC_000011.10|49952423|49953352	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4C46_functional_rev_54603069_54603998	Homo_sapiens_OR4C46_functional|NC_000011.10|54603069|54603998	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4C15_functional_fwd_55554469_55555419	Homo_sapiens_OR4C15_functional|NC_000011.10|55554469|55555419	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000011.10_OR4C16_pseudogene_short_fwd_55572362_55573060	Homo_sapiens_OR4C16_functional|NC_000011.10|55572128|55573060	5	7	yes	yes	yes	yes	pseudogene	functional	699	933	no	yes	no
+>NC_000011.10_OR4C3_functional_fwd_48325022_48325930	Homo_sapiens_OR4C3_functional|NC_000011.10|48325022|48325930	7	7	yes	yes	yes	yes	functional	functional	909	909	yes	no	no change
+>NC_000011.10_OR4C45_pseudogene_short_fwd_50033099_50033794	Homo_sapiens_OR4C45_pseudogene|NC_000011.10|50032874|50033794	5	7	yes	yes	yes	yes	pseudogene	pseudogene	696	921	no	no	no
+>NC_000011.10_OR4C6_functional_fwd_55665167_55666096	Homo_sapiens_OR4C6_functional|NC_000011.10|55665167|55666096	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4D10_functional_fwd_59477430_59478365	Homo_sapiens_OR4D10_functional|NC_000011.10|59477430|59478365	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR4D11_pseudogene_short_fwd_59503681_59504511	Homo_sapiens_OR4D11_functional|NC_000011.10|59503576|59504511	7	7	yes	yes	yes	yes	pseudogene	functional	831	936	no	yes	no change
+>NC_000011.10_OR4D9_functional_fwd_59514913_59515857	Homo_sapiens_OR4D9_functional|NC_000011.10|59514913|59515857	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR4D5_functional_fwd_123939617_123940573	Homo_sapiens_OR4D5_functional|NC_000011.10|123939617|123940573	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000011.10_OR4D6_functional_fwd_59456961_59457905	Homo_sapiens_OR4D6_functional|NC_000011.10|59456961|59457905	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR4D7P_pseudogene_nonsense_fwd_59531689_59532765	Homo_sapiens_OR4D7P_pseudogene|NC_000011.10|59531698|59532711	6	6	yes	no	yes	no	pseudogene	pseudogene	1077	1014	no	no	yes
+>NC_000011.10_OR4F2P_pseudogene_short_rev_87188_87586	Homo_sapiens_OR4F2P_pseudogene|NC_000011.10|86649|87586	3	5	yes	yes	yes	yes	pseudogene	pseudogene	399	938	no	no	no
+>NC_000011.10_OR4P4_pseudogene_short_fwd_55638526_55639296	Homo_sapiens_OR4P4_functional|NC_000011.10|55638358|55639296	6	7	yes	yes	yes	yes	pseudogene	functional	771	939	no	yes	no
+>NC_000011.10_OR4S1_functional_fwd_48306223_48307152	Homo_sapiens_OR4S1_functional|NC_000011.10|48306223|48307152	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR4S2_functional_fwd_55650904_55651839	Homo_sapiens_OR4S2_functional|NC_000011.10|55650904|55651839	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR4X1_functional_fwd_48263861_48264778	Homo_sapiens_OR4X1_functional|NC_000011.10|48263861|48264778	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000011.10_OR4X2_functional_fwd_48245104_48246015	Homo_sapiens_OR4X2_functional|NC_000011.10|48245104|48246015	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_000011.10_OR51A10P_functional_rev_5468535_5469422	Homo_sapiens_OR51A10P_pseudogene|NC_000011.10|5468504|5469359	7	6	yes	yes	yes	no	functional	pseudogene	888	856	no	yes	yes
+>NC_000011.10_OR51A2_functional_rev_4954772_4955713	Homo_sapiens_OR51A2_functional|NC_000011.10|4954772|4955713	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR51A4_functional_rev_4946159_4947100	Homo_sapiens_OR51A4_functional|NC_000011.10|4946159|4947100	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR51A3P_pseudogene_nonsense_rev_4937353_4938270	Homo_sapiens_OR51A3P_pseudogene|NC_000011.10|4937338|4938294	7	7	yes	yes	yes	no	pseudogene	pseudogene	918	957	no	no	yes
+>NC_000011.10_OR51A5P_pseudogene_short_rev_4973189_4973860	Homo_sapiens_OR51A5P_pseudogene|NC_000011.10|4972931|4973896	5	7	yes	no	yes	no	pseudogene	pseudogene	672	966	no	no	no
+>NC_000011.10_OR51A7_functional_fwd_4907370_4908308	Homo_sapiens_OR51A7_functional|NC_000011.10|4907370|4908308	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR51A8P_pseudogene_short_fwd_4832133_4832624	Homo_sapiens_OR51A8P_pseudogene|NC_000011.10|4832133|4833069	4	5	yes	yes	yes	no	pseudogene	pseudogene	492	937	no	no	no
+>NC_000011.10_OR51B2_functional_rev_5323359_5324297	Homo_sapiens_OR51B2_functional|NC_000011.10|5323359|5324297	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR51B4_functional_rev_5301014_5301946	Homo_sapiens_OR51B4_functional|NC_000011.10|5301014|5301946	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR51B5_functional_rev_5342586_5343524	Homo_sapiens_OR51B5_functional|NC_000011.10|5342586|5343524	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR51B6_functional_fwd_5351508_5352446	Homo_sapiens_OR51B6_functional|NC_000011.10|5351508|5352446	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR51B8P_pseudogene_short_rev_5330812_5331360	Homo_sapiens_OR51B8P_pseudogene|NC_000011.10|5330588|5331345	4	6	yes	no	yes	no	pseudogene	pseudogene	549	758	no	no	no
+>NC_000011.10_OR51C4P_pseudogene_short_fwd_4718612_4719052	Homo_sapiens_OR51C4P_pseudogene|NC_000011.10|4718612|4719559	3	7	yes	yes	yes	no	pseudogene	pseudogene	441	948	no	no	no
+>NC_000011.10_OR51D1_functional_fwd_4639791_4640765	Homo_sapiens_OR51D1_functional|NC_000011.10|4639791|4640765	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000011.10_OR51E1_functional_fwd_4652527_4653483	Homo_sapiens_OR51E1_functional|NC_000011.10|4652527|4653483	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000011.10_OR51E2_functional_rev_4681749_4682711	Homo_sapiens_OR51E2_functional|NC_000011.10|4681749|4682711	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000011.10_OR51F1_functional_rev_4768979_4769938	Homo_sapiens_OR51F1_functional|NC_000011.10|4768979|4769938	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000011.10_OR51F2_functional_fwd_4821422_4822414	Homo_sapiens_OR51F2_functional|NC_000011.10|4821422|4822414	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_000011.10_OR51F5P_functional_fwd_4709569_4710468	Homo_sapiens_OR51F5P_pseudogene|NC_000011.10|4709569|4710510	7	7	yes	yes	yes	no	functional	pseudogene	900	942	no	yes	yes
+>NC_000011.10_OR51G1_functional_rev_4923374_4924339	Homo_sapiens_OR51G1_functional|NC_000011.10|4923374|4924339	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000011.10_OR51G2_functional_rev_4914719_4915663	Homo_sapiens_OR51G2_functional|NC_000011.10|4914719|4915663	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR51I1_functional_rev_5440570_5441514	Homo_sapiens_OR51I1_functional|NC_000011.10|5440570|5441514	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR51I2_functional_fwd_5453489_5454427	Homo_sapiens_OR51I2_functional|NC_000011.10|5453489|5454427	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR51K1P_pseudogene_short_rev_5431249_5431602	Homo_sapiens_OR51K1P_pseudogene|NC_000011.10|5430656|5431602	2	4	yes	yes	yes	no	pseudogene	pseudogene	354	947	no	no	no
+>NC_000011.10_OR51L1_functional_fwd_4998983_4999930	Homo_sapiens_OR51L1_functional|NC_000011.10|4998983|4999930	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR51M1_functional_fwd_5389399_5390379	Homo_sapiens_OR51M1_functional|NC_000011.10|5389399|5390379	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_000011.10_OR51N1P_functional_fwd_4786754_4787638	Homo_sapiens_OR51N1P_pseudogene|NC_000011.10|4786754|4787702	6	6	yes	yes	yes	no	functional	pseudogene	885	949	no	yes	yes
+>NC_000011.10_OR51P1P_pseudogene_short_fwd_5015741_5016079	Homo_sapiens_OR51P1P_nc_pseudogene|NC_000011.10|5015030|5016181	3	7	yes	no	yes	no	pseudogene	pseudogene	339	1152	no	no	no
+>NC_000011.10_OR51Q1_functional_fwd_5422201_5423154	Homo_sapiens_OR51Q1_functional|NC_000011.10|5422201|5423154	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000011.10_OR51R1P_pseudogene_short_fwd_4418060_4418734	Homo_sapiens_OR51R1P_pseudogene|NC_000011.10|4418060|4419008	5	6	yes	yes	yes	no	pseudogene	pseudogene	675	949	no	no	no
+>NC_000011.10_OR51S1_functional_rev_4848237_4849208	Homo_sapiens_OR51S1_functional|NC_000011.10|4848237|4849208	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000011.10_OR51T1_functional_fwd_4881900_4882883	Homo_sapiens_OR51T1_functional|NC_000011.10|4881900|4882883	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_000011.10_OR51V1_functional_rev_5199735_5200682	Homo_sapiens_OR51V1_functional|NC_000011.10|5199735|5200682	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR52A1_functional_rev_5151431_5152369	Homo_sapiens_OR52A1_functional|NC_000011.10|5151431|5152369	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR52A4P_functional_rev_5120664_5121545	Homo_sapiens_OR52A4P_nh_pseudogene|NC_000011.10|5120664|5121578	6	6	yes	yes	yes	yes	functional	pseudogene	882	915	no	yes	no change
+>NC_000011.10_OR52A5_functional_rev_5131692_5132642	Homo_sapiens_OR52A5_functional|NC_000011.10|5131692|5132642	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000011.10_OR52B1P_pseudogene_short_rev_6151776_6152588	Homo_sapiens_OR52B1P_pseudogene|NC_000011.10|6151595|6152549	6	6	yes	yes	yes	no	pseudogene	pseudogene	813	955	no	no	yes
+>NC_000011.10_OR52B2_functional_rev_6169355_6170326	Homo_sapiens_OR52B2_functional|NC_000011.10|6169355|6170326	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000011.10_OR52B3P_pseudogene_short_fwd_4378282_4379121	Homo_sapiens_OR52B3P_pseudogene|NC_000011.10|4378282|4379224	6	6	yes	yes	yes	no	pseudogene	pseudogene	840	943	no	no	yes
+>NC_000011.10_OR52B4_functional_rev_4367351_4368295	Homo_sapiens_OR52B4_functional|NC_000011.10|4367351|4368295	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR52B5P_pseudogene_short_fwd_5560967_5561626	Homo_sapiens_OR52B5P_pseudogene|NC_000011.10|5560967|5561911	5	7	yes	yes	yes	no	pseudogene	pseudogene	660	945	no	no	no
+>NC_000011.10_OR52B6_functional_fwd_5580877_5581884	Homo_sapiens_OR52B6_functional|NC_000011.10|5580877|5581884	7	7	yes	yes	yes	yes	functional	functional	1008	1008	yes	no	no change
+>NC_000011.10_OR52D1_functional_fwd_5488707_5489663	Homo_sapiens_OR52D1_functional|NC_000011.10|5488707|5489663	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000011.10_OR52E1_pseudogene_short_fwd_5069572_5070408	Homo_sapiens_OR52E1_pseudogene|NC_000011.10|5069572|5070497	7	7	yes	yes	yes	yes	pseudogene	pseudogene	837	926	no	no	no change
+>NC_000011.10_OR52E2_functional_rev_5058650_5059627	Homo_sapiens_OR52E2_dv_functional|NC_000011.10|5058650|5059627	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_000011.10_OR52E3P_pseudogene_short_fwd_5092676_5093380	Homo_sapiens_OR52E3P_nf_pseudogene|NC_000011.10|5092676|5093650	5	7	yes	yes	yes	no	pseudogene	pseudogene	705	975	no	no	no
+>NC_000011.10_OR52E4_functional_fwd_5884293_5885231	Homo_sapiens_OR52E4_functional|NC_000011.10|5884293|5885231	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR52E5_functional_fwd_5900765_5901760	Homo_sapiens_OR52E5_functional|NC_000011.10|5900777|5901760	7	7	yes	yes	yes	yes	functional	functional	996	984	no	no	no change
+>NC_000011.10_OR52E6_functional_rev_5840956_5841897	Homo_sapiens_OR52E6_functional|NC_000011.10|5840956|5841897	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR52E8_functional_rev_5856749_5857690	Homo_sapiens_OR52E8_functional|NC_000011.10|5856749|5857690	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR52H1_functional_rev_5544561_5545523	Homo_sapiens_OR52H1_functional|NC_000011.10|5544561|5545505	7	7	yes	yes	yes	yes	functional	functional	963	945	no	no	no change
+>NC_000011.10_OR52H2P_pseudogene_short_rev_5552210_5552596	Homo_sapiens_OR52H2P_pseudogene|NC_000011.10|5551665|5552596	2	4	yes	yes	yes	no	pseudogene	pseudogene	387	932	no	no	no
+>NC_000011.10_OR52I1_functional_fwd_4594039_4595013	Homo_sapiens_OR52I1_functional|NC_000011.10|4594039|4595013	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000011.10_OR52I2_functional_fwd_4586813_4587865	Homo_sapiens_OR52I2_functional|NC_000011.10|4586813|4587865	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_000011.10_OR52J3_functional_fwd_5046526_5047461	Homo_sapiens_OR52J3_du_functional|NC_000011.10|5046526|5047461	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR52K1_functional_fwd_4488901_4489845	Homo_sapiens_OR52K1_at_functional|NC_000011.10|4488901|4489845	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR52K2_functional_fwd_4449340_4450284	Homo_sapiens_OR52K2_functional|NC_000011.10|4449340|4450284	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR52L1_pseudogene_short_rev_5985941_5986702	Homo_sapiens_OR52L1_functional|NC_000011.10|5985941|5986930	6	7	yes	yes	yes	yes	pseudogene	functional	762	990	no	yes	no
+>NC_000011.10_OR52M1_functional_fwd_4545191_4546144	Homo_sapiens_OR52M1_functional|NC_000011.10|4545191|4546144	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000011.10_OR52M2P_pseudogene_short_rev_4515292_4515924	Homo_sapiens_OR52M2P_pseudogene|NC_000011.10|4514945|4515924	4	4	yes	yes	yes	no	pseudogene	pseudogene	633	980	no	no	yes
+>NC_000011.10_OR52N1_functional_rev_5787854_5788816	Homo_sapiens_OR52N1_functional|NC_000011.10|5787854|5788816	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000011.10_OR52N2_functional_fwd_5820336_5821301	Homo_sapiens_OR52N2_functional|NC_000011.10|5820336|5821301	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000011.10_OR52N3P_pseudogene_short_fwd_5800364_5800972	Homo_sapiens_OR52N3P_pseudogene|NC_000011.10|5800364|5801321	4	4	yes	yes	yes	no	pseudogene	pseudogene	609	958	no	no	yes
+>NC_000011.10_OR52N4_functional_fwd_5754741_5755706	Homo_sapiens_OR52N4_functional|NC_000011.10|5754741|5755706	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000011.10_OR52N5_pseudogene_short_rev_5777660_5778511	Homo_sapiens_OR52N5_functional|NC_000011.10|5777660|5778634	7	7	yes	yes	yes	yes	pseudogene	functional	852	975	no	yes	no change
+>NC_000011.10_OR52R1_functional_rev_4803433_4804380	Homo_sapiens_OR52R1_functional|NC_000011.10|4803433|4804380	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR52U1P_pseudogene_short_fwd_5719290_5719955	Homo_sapiens_OR52U1P_pseudogene|NC_000011.10|5719290|5720266	5	6	yes	yes	yes	no	pseudogene	pseudogene	666	977	no	no	no
+>NC_000011.10_OR52W1_functional_fwd_6199224_6200186	Homo_sapiens_OR52W1_functional|NC_000011.10|6199224|6200186	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000011.10_OR52Z1P_functional_rev_5177714_5178610	Homo_sapiens_OR52Z1P_pseudogene|NC_000011.10|5177714|5178664	7	7	yes	no	yes	yes	functional	pseudogene	897	951	no	yes	yes
+>NC_000011.10_OR56A1_functional_rev_6026748_6027704	Homo_sapiens_OR56A1_functional|NC_000011.10|6026748|6027692	7	7	yes	yes	yes	yes	functional	functional	957	945	no	no	no change
+>NC_000011.10_OR56A3_functional_fwd_5947347_5948294	Homo_sapiens_OR56A3_functional|NC_000011.10|5947347|5948294	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR56A4_functional_rev_6002051_6002992	Homo_sapiens_OR56A4_functional|NC_000011.10|6002051|6002992	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR56A5_functional_rev_5967553_5968494	Homo_sapiens_OR56A5_functional|NC_000011.10|5967553|5968494	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR56B1_functional_fwd_5736526_5737491	Homo_sapiens_OR56B1_functional|NC_000011.10|5736517|5737491	7	7	yes	yes	yes	yes	functional	functional	966	975	no	no	no change
+>NC_000011.10_OR56B3P_functional_fwd_6128610_6129476	Homo_sapiens_OR56B3P_pseudogene|NC_000011.10|6128610|6129553	6	7	yes	yes	yes	no	functional	pseudogene	867	944	no	yes	no
+>NC_000011.10_OR56B4_functional_fwd_6107779_6108738	Homo_sapiens_OR56B4_functional|NC_000011.10|6107779|6108738	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000011.10_OR5A1_functional_fwd_59443169_59444116	Homo_sapiens_OR5A1_functional|NC_000011.10|59443169|59444116	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR5A2_functional_rev_59421979_59422953	Homo_sapiens_OR5A2_functional|NC_000011.10|59421979|59422953	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000011.10_OR5AK2_functional_fwd_56988914_56989843	Homo_sapiens_OR5AK2_functional|NC_000011.10|56988914|56989843	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR5AK4P_pseudogene_nonsense_fwd_57037534_57038466	Homo_sapiens_OR5AK4P_pseudogene|NC_000011.10|57037534|57038460	5	5	yes	yes	yes	no	pseudogene	pseudogene	933	927	no	no	yes
+>NC_000011.10_OR5AN1_functional_fwd_59364459_59365394	Homo_sapiens_OR5AN1_functional|NC_000011.10|59364459|59365394	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR5AP1P_pseudogene_short_rev_56633539_56634102	Homo_sapiens_OR5AP1P_pseudogene|NC_000011.10|56633163|56634102	4	5	yes	yes	yes	no	pseudogene	pseudogene	564	940	no	no	no
+>NC_000011.10_OR5AP2_functional_rev_56641489_56642442	Homo_sapiens_OR5AP2_functional|NC_000011.10|56641489|56642439	7	7	yes	yes	yes	yes	functional	functional	954	951	no	no	no change
+>NC_000011.10_OR5AQ1P_pseudogene_short_fwd_56054713_56055303	Homo_sapiens_OR5AQ1P_pseudogene|NC_000011.10|56054365|56055300	4	7	yes	no	yes	no	pseudogene	pseudogene	591	936	no	no	no
+>NC_000011.10_OR5AR1_functional_fwd_56663686_56664618	Homo_sapiens_OR5AR1_functional|NC_000011.10|56663686|56664618	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR5AS1_pseudogene_short_fwd_56030719_56031393	Homo_sapiens_OR5AS1_functional|NC_000011.10|56030419|56031393	5	7	yes	yes	yes	yes	pseudogene	functional	675	975	no	yes	no
+>NC_000011.10_OR5AZ1P_pseudogene_short_rev_57917565_57918239	Homo_sapiens_OR5AZ1P_pseudogene|NC_000011.10|57917302|57918230	4	4	yes	yes	yes	no	pseudogene	pseudogene	675	929	no	no	yes
+>NC_000011.10_OR5B10P_pseudogene_short_rev_58348889_58349482	Homo_sapiens_OR5B10P_pseudogene|NC_000011.10|58348985|58349638	4	5	yes	no	yes	no	pseudogene	pseudogene	594	654	no	no	no
+>NC_000011.10_OR5B12_functional_rev_58439207_58440151	Homo_sapiens_OR5B12_functional|NC_000011.10|58439207|58440151	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR5B15P_pseudogene_short_rev_58388004_58388345	Homo_sapiens_OR5B15P_pseudogene|NC_000011.10|58387571|58388486	1	4	yes	no	yes	no	pseudogene	pseudogene	342	916	no	no	no
+>NC_000011.10_OR5B17_functional_rev_58358125_58359069	Homo_sapiens_OR5B17_functional|NC_000011.10|58358125|58359069	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR5B19P_pseudogene_short_rev_58344233_58344589	Homo_sapiens_OR5B19P_pseudogene|NC_000011.10|58343813|58344670	3	7	yes	yes	yes	no	pseudogene	pseudogene	357	858	no	no	no
+>NC_000011.10_OR5B21_functional_rev_58507176_58508105	Homo_sapiens_OR5B21_functional|NC_000011.10|58507176|58508105	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR5B2_functional_rev_58422332_58423261	Homo_sapiens_OR5B2_functional|NC_000011.10|58422332|58423261	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR5B3_functional_rev_58402465_58403409	Homo_sapiens_OR5B3_functional|NC_000011.10|58402465|58403409	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR5BB1P_pseudogene_short_rev_59391479_59392309	Homo_sapiens_OR5BB1P_pseudogene|NC_000011.10|59391353|59392291	6	7	yes	yes	yes	no	pseudogene	pseudogene	831	939	no	no	no
+>NC_000011.10_OR5BC1P_pseudogene_nonsense_rev_58317637_58318602	Homo_sapiens_OR5BC1P_pseudogene|NC_000011.10|58317640|58318473	5	5	yes	no	yes	no	pseudogene	pseudogene	966	834	no	no	yes
+>NC_000011.10_OR5BE1P_pseudogene_nonsense_fwd_56082801_56083739	Homo_sapiens_OR5BE1P_pseudogene|NC_000011.10|56082801|56083736	7	7	yes	yes	yes	no	pseudogene	pseudogene	939	936	no	no	yes
+>NC_000011.10_OR5BR1P_pseudogene_nonsense_rev_59332898_59333968	Homo_sapiens_OR5BR1P_pseudogene|NC_000011.10|59332756|59334085	0	4	yes	yes	yes	no	pseudogene	pseudogene	1071	1330	no	no	no
+>NC_000011.10_OR5D13_pseudogene_short_fwd_55773795_55774382	Homo_sapiens_OR5D13_functional|NC_000011.10|55773438|55774382	4	7	yes	yes	yes	yes	pseudogene	functional	588	945	no	yes	no
+>NC_000011.10_OR5D14_pseudogene_short_fwd_55795820_55796500	Homo_sapiens_OR5D14_functional|NC_000011.10|55795556|55796500	5	7	yes	yes	yes	yes	pseudogene	functional	681	945	no	yes	no
+>NC_000011.10_OR5D15P_pseudogene_short_fwd_55786965_55787336	Homo_sapiens_OR5D15P_pseudogene|NC_000011.10|55786965|55787906	3	7	yes	yes	yes	no	pseudogene	pseudogene	372	942	no	no	no
+>NC_000011.10_OR5D16_functional_fwd_55838752_55839738	Homo_sapiens_OR5D16_functional|NC_000011.10|55838752|55839738	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_000011.10_OR5D17P_pseudogene_short_fwd_55755346_55755957	Homo_sapiens_OR5D17P_pseudogene|NC_000011.10|55754977|55755954	5	7	yes	no	yes	no	pseudogene	pseudogene	612	978	no	no	no
+>NC_000011.10_OR5D18_functional_fwd_55819630_55820571	Homo_sapiens_OR5D18_functional|NC_000011.10|55819630|55820571	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR5E1P_pseudogene_short_fwd_7849051_7849635	Homo_sapiens_OR5E1P_ex_pseudogene|NC_000011.10|7849051|7849571	4	4	yes	yes	yes	no	pseudogene	pseudogene	585	521	no	no	yes
+>NC_000011.10_OR5F1_pseudogene_short_rev_55993681_55994493	Homo_sapiens_OR5F1_functional|NC_000011.10|55993681|55994625	6	7	yes	yes	yes	yes	pseudogene	functional	813	945	no	yes	no
+>NC_000011.10_OR5G1P_pseudogene_short_rev_56775262_56776071	Homo_sapiens_OR5G1P_pl_pseudogene|NC_000011.10|56775284|56776206	6	7	yes	yes	yes	no	pseudogene	pseudogene	810	923	no	no	no
+>NC_000011.10_OR5G3_pseudogene_short_rev_56819573_56820166	Homo_sapiens_OR5G3_po_pseudogene|NC_000011.10|56819479|56820646	4	5	yes	no	yes	no	pseudogene	pseudogene	594	1168	no	no	no
+>NC_000011.10_OR5G5P_pseudogene_short_rev_56801856_56802332	Homo_sapiens_OR5G5P_pn_pseudogene|NC_000011.10|56801859|56802794	3	7	yes	yes	yes	no	pseudogene	pseudogene	477	936	no	no	no
+>NC_000011.10_OR5I1_functional_rev_55935456_55936400	Homo_sapiens_OR5I1_functional|NC_000011.10|55935456|55936400	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR5J1P_pseudogene_short_fwd_56071030_56071800	Homo_sapiens_OR5J1P_pseudogene|NC_000011.10|56071111|56072046	5	7	yes	yes	yes	no	pseudogene	pseudogene	771	936	no	no	no
+>NC_000011.10_OR5J2_functional_fwd_56176618_56177556	Homo_sapiens_OR5J2_functional|NC_000011.10|56176618|56177556	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR5L1_functional_fwd_55811467_55812402	Homo_sapiens_OR5L1_functional|NC_000011.10|55811467|55812402	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR5L2_functional_fwd_55827219_55828154	Homo_sapiens_OR5L2_functional|NC_000011.10|55827219|55828154	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR5M10_functional_rev_56576774_56577721	Homo_sapiens_OR5M10_functional|NC_000011.10|56576774|56577721	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR5M1_functional_rev_56612555_56613502	Homo_sapiens_OR5M1_functional|NC_000011.10|56612555|56613502	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR5M11_functional_rev_56542340_56543257	Homo_sapiens_OR5M11_functional|NC_000011.10|56542340|56543257	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000011.10_OR5M2P_pseudogene_short_rev_56479488_56480186	Homo_sapiens_OR5M2P_np_pseudogene|NC_000011.10|56479491|56480426	5	7	yes	yes	yes	no	pseudogene	pseudogene	699	936	no	no	no
+>NC_000011.10_OR5M9_functional_rev_56462469_56463401	Homo_sapiens_OR5M9_el_functional|NC_000011.10|56462469|56463401	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR5M3_functional_rev_56469574_56470497	Homo_sapiens_OR5M3_em_functional|NC_000011.10|56469574|56470497	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000011.10_OR5M4P_pseudogene_short_fwd_56448888_56449595	Homo_sapiens_OR5M4P_no_pseudogene|NC_000011.10|56448669|56449593	5	5	yes	no	yes	no	pseudogene	pseudogene	708	925	no	no	yes
+>NC_000011.10_OR5M5P_pseudogene_short_rev_56526891_56527520	Homo_sapiens_OR5M5P_ns_pseudogene|NC_000011.10|56526567|56527502	5	7	yes	yes	yes	no	pseudogene	pseudogene	630	936	no	no	no
+>NC_000011.10_OR5M7P_pseudogene_short_rev_56500908_56501270	Homo_sapiens_OR5M7P_nq_pseudogene|NC_000011.10|56500299|56501270	3	7	yes	yes	yes	no	pseudogene	pseudogene	363	972	no	no	no
+>NC_000011.10_OR5M8_functional_rev_56490435_56491370	Homo_sapiens_OR5M8_en_functional|NC_000011.10|56490435|56491370	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR5P2_functional_rev_7795974_7796942	Homo_sapiens_OR5P2_gg_functional|NC_000011.10|7795974|7796942	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_000011.10_OR5P3_functional_rev_7825037_7825972	Homo_sapiens_OR5P3_gh_functional|NC_000011.10|7825037|7825972	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR5T1_functional_fwd_56275639_56276619	Homo_sapiens_OR5T1_gn_functional|NC_000011.10|56275639|56276619	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_000011.10_OR5T3_functional_fwd_56252254_56253222	Homo_sapiens_OR5T3_gm_functional|NC_000011.10|56252254|56253222	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_000011.10_OR5T2_functional_rev_56232106_56233095	Homo_sapiens_OR5T2_gl_functional|NC_000011.10|56232106|56233062	7	7	yes	yes	yes	yes	functional	functional	990	957	no	no	no change
+>NC_000011.10_OR5W2_functional_rev_55913650_55914582	Homo_sapiens_OR5W2_functional|NC_000011.10|55913650|55914582	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR6A2_functional_rev_6794725_6795708	Homo_sapiens_OR6A2_functional|NC_000011.10|6794725|6795708	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_000011.10_OR6M1_functional_rev_123805408_123806349	Homo_sapiens_OR6M1_functional|NC_000011.10|123805408|123806349	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR6M2P_pseudogene_short_rev_123840955_123841548	Homo_sapiens_OR6M2P_pseudogene|NC_000011.10|123840958|123841903	4	4	yes	no	yes	no	pseudogene	pseudogene	594	946	no	no	yes
+>NC_000011.10_OR6Q1_functional_fwd_58030953_58031906	Homo_sapiens_OR6Q1_functional|NC_000011.10|58030953|58031906	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000011.10_OR6T1_functional_rev_123942867_123943838	Homo_sapiens_OR6T1_functional|NC_000011.10|123942867|123943838	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000011.10_OR6X1_functional_rev_123753580_123754518	Homo_sapiens_OR6X1_functional|NC_000011.10|123753580|123754518	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR7E4P_pseudogene_short_fwd_71620406_71620819	Homo_sapiens_OR7E4P_pseudogene|NC_000011.10|71620100|71621022	2	7	yes	no	yes	no	pseudogene	pseudogene	414	923	no	no	no
+>NC_000011.10_OR7E87P_pseudogene_short_fwd_71593793_71594206	Homo_sapiens_OR7E87P_pseudogene|NC_000011.10|71593658|71594305	2	6	yes	no	yes	no	pseudogene	pseudogene	414	648	no	no	no
+>NC_000011.10_OR7E145P_pseudogene_short_rev_67722672_67723085	Homo_sapiens_OR7E145P_pseudogene|NC_000011.10|67722459|67723484	2	7	yes	no	yes	no	pseudogene	pseudogene	414	1026	no	no	no
+>NC_000011.10_OR7E2P_pseudogene_short_rev_86857598_86857915	Homo_sapiens_OR7E2P_pseudogene|NC_000011.10|86856931|86857954	4	7	yes	no	yes	no	pseudogene	pseudogene	318	1024	no	no	no
+>NC_000011.10_OR8A1_functional_fwd_124570120_124571049	Homo_sapiens_OR8A1_functional|NC_000011.10|124570120|124571049	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR8B10P_pseudogene_short_rev_124516883_124517242	Homo_sapiens_OR8B10P_pseudogene|NC_000011.10|124516310|124517242	3	7	yes	yes	yes	no	pseudogene	pseudogene	360	933	no	no	no
+>NC_000011.10_OR8B10P_pseudogene_short_rev_124481443_124481928	Homo_sapiens_OR8B9P_pseudogene|NC_000011.10|124481078|124481563	4	4	yes	no	yes	no	pseudogene	pseudogene	486	486	no	no	yes
+>NC_000011.10_OR8B12_functional_rev_124542722_124543654	Homo_sapiens_OR8B12_functional|NC_000011.10|124542722|124543654	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR8B2_functional_rev_124382402_124383343	Homo_sapiens_OR8B2_functional|NC_000011.10|124382402|124383343	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR8B3_functional_rev_124396410_124397351	Homo_sapiens_OR8B3_functional|NC_000011.10|124396410|124397351	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000011.10_OR8B4_functional_rev_124423942_124424871	Homo_sapiens_OR8B4_functional|NC_000011.10|124423942|124424871	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000011.10_OR8B5P_pseudogene_short_rev_124357548_124358078	Homo_sapiens_OR8B5P_pseudogene|NC_000011.10|124357609|124358411	4	5	yes	no	yes	no	pseudogene	pseudogene	531	803	no	no	no
+>NC_000011.10_OR8B6P_pseudogene_short_rev_124338939_124339277	Homo_sapiens_OR8B6P_pseudogene|NC_000011.10|124338812|124339712	2	6	yes	no	yes	yes	pseudogene	pseudogene	339	901	no	no	no
+>NC_000011.10_OR8B8_functional_rev_124440150_124441091	Homo_sapiens_OR8B8_functional|NC_000011.10|124440150|124441085	7	7	yes	yes	yes	yes	functional	functional	942	936	no	no	no change
+>NC_000011.10_OR8D1_functional_rev_124309840_124310766	Homo_sapiens_OR8D1_functional|NC_000011.10|124309840|124310766	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000011.10_OR8D2_functional_rev_124319262_124320197	Homo_sapiens_OR8D2_functional|NC_000011.10|124319262|124320197	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR8D4_functional_fwd_123906432_123907376	Homo_sapiens_OR8D4_functional|NC_000011.10|123906432|123907376	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR8G1_functional_fwd_124249676_124250611	Homo_sapiens_OR8G1_functional|NC_000011.10|124249676|124250611	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR8G2P_functional_fwd_124224732_124225607	Homo_sapiens_OR8G2P_pseudogene|NC_000011.10|124224732|124225607	7	7	yes	yes	yes	yes	functional	pseudogene	876	876	yes	yes	no change
+>NC_000011.10_OR8G3P_pseudogene_short_fwd_124214887_124215687	Homo_sapiens_OR8G3P_pseudogene|NC_000011.10|124214755|124215687	6	7	yes	no	yes	yes	pseudogene	pseudogene	801	933	no	no	no
+>NC_000011.10_OR8G5_functional_fwd_124264932_124265867	Homo_sapiens_OR8G5_functional|NC_000011.10|124264932|124265867	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR8H1_functional_rev_56290127_56291062	Homo_sapiens_OR8H1_go_functional|NC_000011.10|56290127|56291062	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000011.10_OR8H3_functional_fwd_56122373_56123311	Homo_sapiens_OR8H3_functional|NC_000011.10|56122373|56123311	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR8H2_functional_fwd_56105043_56105981	Homo_sapiens_OR8H2_functional|NC_000011.10|56105043|56105981	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR8I1P_pseudogene_short_rev_56296727_56297287	Homo_sapiens_OR8I1P_pg_pseudogene|NC_000011.10|56296540|56297470	3	6	yes	no	yes	no	pseudogene	pseudogene	561	931	no	no	no
+>NC_000011.10_OR8I2_functional_fwd_56093308_56094240	Homo_sapiens_OR8I2_functional|NC_000011.10|56093308|56094240	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR8J1_functional_fwd_56360247_56361197	Homo_sapiens_OR8J1_ei_functional|NC_000011.10|56360247|56361197	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000011.10_OR8J3_functional_rev_56136771_56137718	Homo_sapiens_OR8J3_functional|NC_000011.10|56136771|56137718	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000011.10_OR8K1_functional_fwd_56346039_56346998	Homo_sapiens_OR8K1_gq_functional|NC_000011.10|56346039|56346998	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000011.10_OR8K3_functional_fwd_56318307_56319245	Homo_sapiens_OR8K3_gp_functional|NC_000011.10|56318307|56319245	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR8K4P_pseudogene_nonsense_short_rev_56142613_56143323	Homo_sapiens_OR8K4P_pseudogene|NC_000011.10|56142515|56143386	3	4	yes	no	yes	no	pseudogene	pseudogene	711	872	no	no	no
+>NC_000011.10_OR8K5_functional_rev_56159394_56160317	Homo_sapiens_OR8K5_functional|NC_000011.10|56159394|56160317	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000011.10_OR8L1P_pseudogene_nonsense_fwd_56381630_56382598	Homo_sapiens_OR8L1P_pi_pseudogene|NC_000011.10|56381636|56382590	7	7	yes	no	yes	no	pseudogene	pseudogene	969	955	no	no	yes
+>NC_000011.10_OR8U1_functional_fwd_56375609_56376553	Homo_sapiens_OR8U1_ej_functional|NC_000011.10|56375624|56376553	7	7	yes	yes	yes	yes	functional	functional	945	930	no	no	no change
+>NC_000011.10_OR8U3_pseudogene_short_rev_56417258_56418058	Homo_sapiens_OR8U3_ek_functional|NC_000011.10|56417258|56418232	6	7	yes	yes	yes	yes	pseudogene	functional	801	975	no	yes	no
+>NC_000011.10_OR8V1P_pseudogene_nonsense_short_rev_56188328_56189182	Homo_sapiens_OR8V1P_pseudogene|NC_000011.10|56188331|56189251	7	7	yes	no	yes	no	pseudogene	pseudogene	855	921	no	no	yes
+>NC_000011.10_OR9G1_functional_fwd_56700388_56701305	Homo_sapiens_OR9G1_functional|NC_000011.10|56700388|56701305	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000011.10_OR9G4_functional_rev_56742828_56743766	Homo_sapiens_OR9G4_bd_functional|NC_000011.10|56742828|56743766	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000011.10_OR9I1_functional_rev_58118500_58119444	Homo_sapiens_OR9I1_functional|NC_000011.10|58118500|58119444	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR9I3P_pseudogene_short_rev_58108960_58109661	Homo_sapiens_OR9I3P_pseudogene|NC_000011.10|58108720|58109661	5	7	yes	yes	yes	no	pseudogene	pseudogene	702	942	no	no	no
+>NC_000011.10_OR9M1P_pseudogene_short_fwd_55855511_55855951	Homo_sapiens_OR9M1P_pseudogene|NC_000011.10|55855592|55856521	3	7	yes	yes	yes	no	pseudogene	pseudogene	441	930	no	no	no
+>NC_000011.10_OR9Q1_functional_fwd_58179445_58180377	Homo_sapiens_OR9Q1_functional|NC_000011.10|58179445|58180377	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000011.10_OR9Q2_functional_fwd_58190491_58191435	Homo_sapiens_OR9Q2_functional|NC_000011.10|58190491|58191435	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000011.10_OR51C1P_pseudogene_short_rev_4690758_4691522	Homo_sapiens_OR51C1P_pseudogene|NC_000011.10|4690423|4691687	6	7	yes	no	yes	yes	pseudogene	pseudogene	765	1466	no	no	no
+>NC_000011.10_OR51H1_functional_rev_4859656_4860564	Homo_sapiens_OR51H1_pseudogene|NC_000011.10|4859617|4860617	7	7	yes	no	yes	yes	functional	pseudogene	909	1038	no	yes	yes
+>NC_000009.12_OR13C1P_pseudogene_short_rev_104657324_104657716	Homo_sapiens_OR13C1P_pseudogene|NC_000009.12|104656763|104657716	3	7	yes	yes	yes	no	pseudogene	pseudogene	393	954	no	no	no
+>NC_000009.12_OR13C2_functional_rev_104604671_104605627	Homo_sapiens_OR13C2_functional|NC_000009.12|104604671|104605627	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000009.12_OR13C5_functional_rev_104598457_104599413	Homo_sapiens_OR13C5_functional|NC_000009.12|104598457|104599413	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000009.12_OR13C3_functional_rev_104535770_104536723	Homo_sapiens_OR13C3_functional|NC_000009.12|104535770|104536723	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000009.12_OR13C4_functional_rev_104526253_104527209	Homo_sapiens_OR13C4_functional|NC_000009.12|104526253|104527209	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000009.12_OR13C9_functional_rev_104617248_104618204	Homo_sapiens_OR13C9_functional|NC_000009.12|104617248|104618204	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000009.12_OR13C7_pseudogene_short_rev_36003412_36003867	Homo_sapiens_OR13C7_pseudogene|NC_000009.12|36002912|36003867	3	4	yes	yes	yes	no	pseudogene	pseudogene	456	956	no	no	no
+>NC_000009.12_OR13C8_functional_fwd_104569267_104570130	Homo_sapiens_OR13C8_functional|NC_000009.12|104569168|104570130	7	7	yes	yes	yes	yes	functional	functional	864	963	no	no	no change
+>NC_000009.12_OR13D1_functional_fwd_104694518_104695462	Homo_sapiens_OR13D1_functional|NC_000009.12|104694518|104695462	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000009.12_OR13D3P_pseudogene_short_fwd_104722335_104723015	Homo_sapiens_OR13D3P_pseudogene|NC_000009.12|104722336|104723269	5	4	yes	no	yes	no	pseudogene	pseudogene	681	934	no	no	yes
+>NC_000009.12_OR13D2P_pseudogene_short_fwd_104590101_104590538	Homo_sapiens_OR13D2P_pseudogene|NC_000009.12|104590018|104590951	4	4	yes	no	yes	no	pseudogene	pseudogene	438	934	no	no	yes
+>NC_000009.12_OR13F1_functional_fwd_104504263_104505222	Homo_sapiens_OR13F1_functional|NC_000009.12|104504263|104505222	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000009.12_OR13J1_functional_rev_35869463_35870401	Homo_sapiens_OR13J1_functional|NC_000009.12|35869463|35870401	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000009.12_OR1B1_functional_rev_122628579_122629535	Homo_sapiens_OR1B1_functional|NC_000009.12|122628579|122629532	7	7	yes	yes	yes	yes	functional	functional	957	954	no	no	no change
+>NC_000009.12_OR1H1P_pseudogene_nonsense_fwd_122607574_122608800	Homo_sapiens_OR1H1P_pseudogene|NC_000009.12|122607865|122608798	1	7	yes	no	yes	no	pseudogene	pseudogene	1227	934	no	no	no
+>NC_000009.12_OR1J1_functional_rev_122476958_122477926	Homo_sapiens_OR1J1_functional|NC_000009.12|122476958|122477926	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_000009.12_OR1J2_functional_fwd_122510802_122511743	Homo_sapiens_OR1J2_functional|NC_000009.12|122510802|122511743	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000009.12_OR1J4_functional_fwd_122519141_122520082	Homo_sapiens_OR1J4_functional|NC_000009.12|122519141|122520082	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000009.12_OR1K1_functional_fwd_122800123_122801073	Homo_sapiens_OR1K1_functional|NC_000009.12|122800123|122801073	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000009.12_OR1L1_functional_fwd_122661716_122662648	Homo_sapiens_OR1L1_functional|NC_000009.12|122661716|122662648	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000009.12_OR1L3_functional_fwd_122675130_122676104	Homo_sapiens_OR1L3_functional|NC_000009.12|122675130|122676104	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000009.12_OR1L4_functional_fwd_122723990_122724925	Homo_sapiens_OR1L4_functional|NC_000009.12|122723990|122724925	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000009.12_OR1L6_functional_fwd_122749848_122750783	Homo_sapiens_OR1L6_functional|NC_000009.12|122749848|122750783	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000009.12_OR1L8_functional_rev_122567548_122568477	Homo_sapiens_OR1L8_functional|NC_000009.12|122567548|122568477	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000009.12_OR1N1_functional_rev_122526358_122527293	Homo_sapiens_OR1N1_functional|NC_000009.12|122526358|122527293	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000009.12_OR1N2_functional_fwd_122553170_122554162	Homo_sapiens_OR1N2_functional|NC_000009.12|122553212|122554162	7	7	yes	yes	yes	yes	functional	functional	993	951	no	no	no change
+>NC_000009.12_OR1Q1_functional_fwd_122614738_122615682	Homo_sapiens_OR1Q1_functional|NC_000009.12|122614738|122615682	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000009.12_OR2K2_pseudogene_short_rev_111327483_111328334	Homo_sapiens_OR2K2_functional|NC_000009.12|111327483|111328433	7	7	yes	yes	yes	yes	pseudogene	functional	852	951	no	yes	no change
+>NC_000009.12_OR2S2_functional_rev_35957139_35958098	Homo_sapiens_OR2S2_functional|NC_000009.12|35957139|35958098	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000009.12_OR4F8P_pseudogene_short_fwd_138319898_138320296	Homo_sapiens_OR4F8P_pseudogene|NC_000009.12|138319898|138320832	3	5	yes	yes	yes	no	pseudogene	pseudogene	399	935	no	no	no
+>NC_000009.12_OR5C1_functional_fwd_122788933_122789895	Homo_sapiens_OR5C1_functional|NC_000009.12|122788933|122789895	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_000009.12_OR7E108P_pseudogene_nonsense_rev_90751170_90752309	Homo_sapiens_OR7E108P_pseudogene|NC_000009.12|90751218|90752240	7	7	yes	no	yes	no	pseudogene	pseudogene	1140	1023	no	no	yes
+>NC_000009.12_VN1R51P_pseudogene_nonsense_short_rev_97093736_97094554	Homo_sapiens_VN1R51P_pseudogene|NC_000009.12|97093736|97094638	3	7	yes	yes	yes	yes	pseudogene	pseudogene	819	903	no	no	no
+>NW_025791759.1_OR10J1_functional_fwd_191619_192548	Homo_sapiens_OR10J1_functional|NW_025791759.1|191619|192548	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_025791759.1_OR10J2P_pseudogene_nonsense_rev_30867_31991	Homo_sapiens_OR10J2P_pseudogene|NW_025791759.1|30869|31826	5	5	yes	no	yes	no	pseudogene	pseudogene	1125	958	no	no	yes
+>NW_025791759.1_OR10J4_functional_fwd_184030_184965	Homo_sapiens_OR10J4_functional|NW_025791759.1|184030|184965	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_025791759.1_OR10J8P_pseudogene_short_fwd_117987_118424	Homo_sapiens_OR10J8P_pseudogene|NW_025791759.1|117987|118912	3	6	yes	yes	yes	no	pseudogene	pseudogene	438	926	no	no	no
+>NW_025791759.1_OR10J9P_pseudogene_short_rev_157330_157713	Homo_sapiens_OR10J9P_pseudogene|NW_025791759.1|157248|158234	3	4	yes	no	yes	no	pseudogene	pseudogene	384	987	no	no	no
+>NT_187646.1_OR2T1_functional_fwd_56354_57310	Homo_sapiens_OR2T1_functional|NT_187646.1|56354|57310	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NT_187646.1_OR2T7_functional_fwd_91625_92551	Homo_sapiens_OR2T7_functional|NT_187646.1|91625|92551	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NT_187646.1_OR2T5_functional_fwd_139007_139954	Homo_sapiens_OR2T5_functional|NT_187646.1|139007|139954	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_187646.1_OR2T4_functional_fwd_9555_10601	Homo_sapiens_OR2T4_functional|NT_187646.1|9639|10601	7	7	yes	yes	yes	yes	functional	functional	1047	963	no	no	no change
+>NT_187646.1_OR2T2_functional_fwd_103216_104190	Homo_sapiens_OR2T2_functional|NT_187646.1|103216|104190	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NT_187646.1_OR2T3_functional_fwd_123769_124725	Homo_sapiens_OR2T3_functional|NT_187646.1|123769|124725	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NT_187646.1_OR2T6_functional_fwd_35923_36849	Homo_sapiens_OR2T6_functional|NT_187646.1|35923|36849	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NT_187518.1_OR2T1_functional_fwd_60188_61144	Homo_sapiens_OR2T1_cq_functional|NT_187518.1|60188|61144	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NT_187518.1_OR2T7_functional_fwd_95247_96173	Homo_sapiens_OR2T7_cr_functional|NT_187518.1|95247|96173	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NT_187518.1_OR2T5_functional_fwd_142629_143576	Homo_sapiens_OR2T29_cu_functional|NT_187518.1|142629|143576	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_187518.1_OR2T4_functional_fwd_9555_10601	Homo_sapiens_OR2T4_co_functional|NT_187518.1|9639|10601	7	7	yes	yes	yes	yes	functional	functional	1047	963	no	no	no change
+>NT_187518.1_OR2T2_functional_fwd_106838_107812	Homo_sapiens_OR2T2_cs_functional|NT_187518.1|106838|107812	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NT_187518.1_OR2T3_functional_fwd_127391_128347	Homo_sapiens_OR2T3_ct_functional|NT_187518.1|127391|128347	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NT_187518.1_OR2T6_functional_fwd_35924_36850	Homo_sapiens_OR2T6_cp_functional|NT_187518.1|35924|36850	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_025791755.1_OR14I1_functional_rev_323059_323994	Homo_sapiens_OR14I1_dd_functional|NW_025791755.1|323059|323994	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_025791755.1_OR2G6_functional_rev_173440_174390	Homo_sapiens_OR2G6_cv_functional|NW_025791755.1|173440|174390	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_025791755.1_OR2T10_functional_rev_234746_235684	Homo_sapiens_OR2T10_functional|NW_025791755.1|234746|235684	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_025791755.1_OR2T5_functional_fwd_136562_137509	Homo_sapiens_OR2T5_fn_functional|NW_025791755.1|136562|137509	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_025791755.1_OR2T11_functional_rev_268082_269032	Homo_sapiens_OR2T11_cz_functional|NW_025791755.1|268082|269032	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_025791755.1_OR2T1_functional_fwd_54122_55078	Homo_sapiens_OR2T1_fj_functional|NW_025791755.1|54122|55078	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_025791755.1_OR2T27_functional_rev_291542_292495	Homo_sapiens_OR2T27_db_functional|NW_025791755.1|291542|292495	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_025791755.1_OR2T7_functional_fwd_89181_90107	Homo_sapiens_OR2T7_fk_functional|NW_025791755.1|89181|90107	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_025791755.1_OR2T5_functional_rev_200464_201411	Homo_sapiens_OR2T5_cw_functional|NW_025791755.1|200464|201411	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_025791755.1_OR2T4_functional_fwd_9555_10601	Homo_sapiens_OR2T4_fh_functional|NW_025791755.1|9639|10601	7	7	yes	yes	yes	yes	functional	functional	1047	963	no	no	no change
+>NW_025791755.1_OR2T2_functional_fwd_100772_101746	Homo_sapiens_OR2T2_fl_functional|NW_025791755.1|100772|101746	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NW_025791755.1_OR2T2_pseudogene_short_rev_280233_280844	Homo_sapiens_OR2T35_functional|NW_025791755.1|279875|280844	5	7	yes	yes	yes	yes	pseudogene	functional	612	972	no	yes	no
+>NW_025791755.1_OR2T34_functional_rev_215727_216683	Homo_sapiens_OR2T34_cx_functional|NW_025791755.1|215727|216683	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_025791755.1_OR2T3_functional_fwd_121324_122280	Homo_sapiens_OR2T3_fm_functional|NW_025791755.1|121324|122280	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_025791755.1_OR2T6_functional_fwd_35583_36509	Homo_sapiens_OR2T6_fi_functional|NW_025791755.1|35583|36509	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000002.12_OR5S1P_pseudogene_short_fwd_240109153_240109698	Homo_sapiens_OR5S1P_pseudogene|NC_000002.12|240109102|240110049	4	5	yes	yes	yes	no	pseudogene	pseudogene	546	948	no	no	no
+>NC_000002.12_OR6B2_functional_rev_240029491_240030429	Homo_sapiens_OR6B2_functional|NC_000002.12|240029491|240030429	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000002.12_OR6B3_functional_rev_240045077_240046072	Homo_sapiens_OR6B3_functional|NC_000002.12|240045077|240046072	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_000002.12_OR7E62P_pseudogene_short_fwd_71055527_71056018	Homo_sapiens_OR7E62P_pseudogene|NC_000002.12|71055392|71056038	4	4	yes	yes	yes	no	pseudogene	pseudogene	492	647	no	no	yes
+>NC_000003.12_OR5AC2_functional_fwd_98087173_98088102	Homo_sapiens_OR5AC2_functional|NC_000003.12|98087173|98088102	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000003.12_OR5AC4P_pseudogene_short_fwd_98104754_98105221	Homo_sapiens_OR5AC4P_pseudogene|NC_000003.12|98104754|98105669	4	4	yes	yes	yes	no	pseudogene	pseudogene	468	916	no	no	yes
+>NC_000003.12_OR5BM1P_pseudogene_nonsense_fwd_98052746_98053849	Homo_sapiens_OR5BM1P_pseudogene|NC_000003.12|98052893|98053818	6	5	yes	no	yes	no	pseudogene	pseudogene	1104	926	no	no	yes
+>NC_000003.12_OR5H14_functional_fwd_98149386_98150318	Homo_sapiens_OR5H14_functional|NC_000003.12|98149386|98150318	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000003.12_OR5H3P_pseudogene_short_fwd_98207423_98207887	Homo_sapiens_OR5H3P_pseudogene|NC_000003.12|98207423|98208341	3	4	yes	yes	yes	yes	pseudogene	pseudogene	465	919	no	no	no
+>NC_000003.12_OR5H5P_pseudogene_nonsense_fwd_98197149_98198138	Homo_sapiens_OR5H5P_pseudogene|NC_000003.12|98197211|98198138	5	6	yes	yes	yes	yes	pseudogene	pseudogene	990	928	no	no	no
+>NC_000003.12_OR5H7P_pseudogene_short_fwd_98238703_98239281	Homo_sapiens_OR5H7P_pseudogene|NC_000003.12|98238352|98239278	4	7	yes	yes	yes	no	pseudogene	pseudogene	579	927	no	no	no
+>NC_000003.12_OR5H15_functional_fwd_98168700_98169641	Homo_sapiens_OR5H15_functional|NC_000003.12|98168700|98169641	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000003.12_OR5H1_functional_fwd_98132698_98133639	Homo_sapiens_OR5H1_functional|NC_000003.12|98132698|98133639	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000003.12_OR5H8_pseudogene_short_fwd_98311913_98312719	Homo_sapiens_OR5H8_pseudogene|NC_000003.12|98311913|98312840	6	6	yes	yes	yes	no	pseudogene	pseudogene	807	928	no	no	yes
+>NC_000003.12_OR5H6_functional_fwd_98264333_98265262	Homo_sapiens_OR5H6_functional|NC_000003.12|98264333|98265262	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000003.12_OR5H2_functional_fwd_98282888_98283832	Homo_sapiens_OR5H2_functional|NC_000003.12|98282903|98283832	7	7	yes	yes	yes	yes	functional	functional	945	930	no	no	no change
+>NC_000003.12_OR5H4P_pseudogene_nonsense_fwd_98222044_98223033	Homo_sapiens_OR5H4P_pseudogene|NC_000003.12|98222039|98222966	7	5	yes	yes	yes	no	pseudogene	pseudogene	990	928	no	no	yes
+>NC_000003.12_OR5K1_functional_fwd_98469577_98470503	Homo_sapiens_OR5K1_functional|NC_000003.12|98469577|98470503	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000003.12_OR5K2_functional_fwd_98497681_98498631	Homo_sapiens_OR5K2_functional|NC_000003.12|98497681|98498631	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000003.12_OR5K3_functional_fwd_98390666_98391631	Homo_sapiens_OR5K3_functional|NC_000003.12|98390666|98391631	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000003.12_OR5K4_functional_fwd_98353854_98354819	Homo_sapiens_OR5K4_functional|NC_000003.12|98353854|98354819	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_000003.12_OR7E100P_pseudogene_nonsense_rev_112524217_112525266	Homo_sapiens_OR7E100P_pseudogene|NC_000003.12|112524186|112525200	4	4	yes	no	yes	no	pseudogene	pseudogene	1050	1015	no	no	yes
+>NC_000003.12_OR7E22P_pseudogene_short_rev_75356467_75357117	Homo_sapiens_OR7E22P_pseudogene|NC_000003.12|75356485|75357510	4	7	yes	no	yes	no	pseudogene	pseudogene	651	1026	no	no	no
+>NC_000003.12_OR7E122P_pseudogene_short_fwd_8688234_8688674	Homo_sapiens_OR7E122P_pseudogene|NC_000003.12|8688234|8689154	4	7	yes	yes	yes	no	pseudogene	pseudogene	441	921	no	no	no
+>NC_000003.12_OR7E55P_pseudogene_short_rev_75370992_75371444	Homo_sapiens_OR7E55P_mk_pseudogene|NC_000003.12|75370412|75371362	2	4	yes	no	yes	no	pseudogene	pseudogene	453	951	no	no	no
+>NC_000003.12_OR7E97P_pseudogene_short_fwd_125747474_125747887	Homo_sapiens_OR7E97P_ox_pseudogene|NC_000003.12|125747129|125748099	4	7	yes	no	yes	no	pseudogene	pseudogene	414	971	no	no	no
+>NC_000003.12_VN1R20P_pseudogene_short_fwd_13926861_13927310	Homo_sapiens_VN1R20P_pseudogene|NC_000003.12|13926861|13927760	4	7	yes	yes	yes	yes	pseudogene	pseudogene	450	900	no	no	no
+>NC_000003.12_VN1R21P_pseudogene_short_rev_14089397_14089858	Homo_sapiens_VN1R21P_pseudogene|NC_000003.12|14089053|14089858	4	6	yes	yes	yes	yes	pseudogene	pseudogene	462	806	no	no	no
+>NC_000003.12_VN2R1P_pseudogene_short_fwd_156036589_156037686	Homo_sapiens_VN2R1P_pseudogene|NC_000003.12|156019646|156037647	7	7	yes	yes	yes	no	pseudogene	pseudogene	1098	1743	no	no	yes
+>NC_000003.12_RHO_functional_fwd_129528734_129533718	Homo_sapiens_RHO_functional|NC_000003.12|129528734|129533718	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NT_167249.2_OR10C1_functional_fwd_749027_749965	Homo_sapiens_OR10C1_lx_functional|NT_167249.2|749027|749965	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167249.2_OR11A1_functional_rev_735705_736652	Homo_sapiens_OR11A1_lu_functional|NT_167249.2|735705|736652	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167249.2_OR12D2_functional_fwd_705705_706628	Homo_sapiens_OR12D2_lt_functional|NT_167249.2|705705|706628	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_167249.2_OR12D3_functional_rev_683462_684412	Homo_sapiens_OR12D3_hx_functional|NT_167249.2|683462|684412	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167249.2_OR14J1_functional_fwd_616123_617088	Homo_sapiens_OR14J1_ft_functional|NT_167249.2|616123|617088	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167249.2_OR2AD1P_pseudogene_short_rev_336127_336966	Homo_sapiens_OR2AD1P_pseudogene|NT_167249.2|336039|336966	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167249.2_OR2B3_functional_rev_395670_396611	Homo_sapiens_OR2B3_functional|NT_167249.2|395670|396611	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167249.2_OR2H1_functional_fwd_770783_771733	Homo_sapiens_OR2H1_functional|NT_167249.2|770783|771733	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167249.2_OR2J1_pseudogene_short_fwd_410313_410894	Homo_sapiens_OR2J1_fq_pseudogene|NT_167249.2|410313|411251	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	939	no	no	no
+>NT_167249.2_OR2J2_functional_fwd_483004_483942	Homo_sapiens_OR2J2_fs_functional|NT_167249.2|483004|483942	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167249.2_OR2J3_functional_fwd_421255_422190	Homo_sapiens_OR2J3_fr_functional|NT_167249.2|421255|422190	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_167249.2_OR2J4P_pseudogene_short_fwd_490894_491460	Homo_sapiens_OR2J4P_qy_pseudogene|NT_167249.2|490894|491826	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_167249.2_OR2P1P_pseudogene_nonsense_short_rev_381120_381875	Homo_sapiens_OR2P1P_pseudogene|NT_167249.2|381195|381929	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_167249.2_OR2U1P_pseudogene_nonsense_rev_572104_573360	Homo_sapiens_OR2U1P_rb_pseudogene|NT_167249.2|572060|573480	6	7	yes	yes	yes	no	pseudogene	pseudogene	1257	1421	no	no	no
+>NT_167249.2_OR2U2P_pseudogene_short_rev_577863_578213	Homo_sapiens_OR2U2P_pa_pseudogene|NT_167249.2|577866|578822	3	7	yes	yes	yes	no	pseudogene	pseudogene	351	957	no	no	no
+>NT_167249.2_OR2W1_functional_rev_353570_354532	Homo_sapiens_OR2W1_functional|NT_167249.2|353570|354532	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_167249.2_OR5V1_functional_rev_664681_665646	Homo_sapiens_OR5V1_lr_functional|NT_167249.2|664681|665646	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167248.2_OR10C1_functional_fwd_705485_706423	Homo_sapiens_OR10C1_fx_functional|NT_167248.2|705485|706423	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167248.2_OR11A1_functional_rev_692164_693111	Homo_sapiens_OR11A1_functional|NT_167248.2|692164|693111	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167248.2_OR2AD1P_pseudogene_short_rev_292346_293185	Homo_sapiens_OR2AD1P_oy_pseudogene|NT_167248.2|292258|293185	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167248.2_OR2B3_functional_rev_351887_352828	Homo_sapiens_OR2B3_fp_functional|NT_167248.2|351887|352828	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167248.2_OR2H1_functional_fwd_727236_728186	Homo_sapiens_OR2H1_x_functional|NT_167248.2|727236|728186	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167248.2_OR2H2_functional_fwd_853457_854395	Homo_sapiens_OR2H2_functional|NT_167248.2|853457|854395	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167248.2_OR2H5P_pseudogene_short_fwd_839582_840091	Homo_sapiens_OR2H5P_pseudogene|NT_167248.2|839585|840163	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_167248.2_OR2J1_pseudogene_short_fwd_366530_367111	Homo_sapiens_OR2J1_hs_pseudogene|NT_167248.2|366530|367468	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	939	no	no	no
+>NT_167248.2_OR2J2_functional_fwd_439226_440164	Homo_sapiens_OR2J2_ja_functional|NT_167248.2|439226|440164	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167248.2_OR2J3_functional_fwd_377476_378411	Homo_sapiens_OR2J3_ht_functional|NT_167248.2|377476|378411	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_167248.2_OR2J4P_pseudogene_short_fwd_447108_447674	Homo_sapiens_OR2J4P_ri_pseudogene|NT_167248.2|447108|448040	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_167248.2_OR2P1P_pseudogene_nonsense_short_rev_337337_338092	Homo_sapiens_OR2P1P_qw_pseudogene|NT_167248.2|337412|338146	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_167248.2_OR2W1_functional_rev_309791_310753	Homo_sapiens_OR2W1_fo_functional|NT_167248.2|309791|310753	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_167247.2_OR10C1_functional_fwd_705385_706323	Homo_sapiens_OR10C1_functional|NT_167247.2|705385|706323	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167247.2_OR11A1_functional_rev_692062_693009	Homo_sapiens_OR11A1_v_functional|NT_167247.2|692062|693009	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167247.2_OR12D2_functional_fwd_662074_662997	Homo_sapiens_OR12D2_hy_functional|NT_167247.2|662074|662997	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_167247.2_OR12D3_functional_rev_639850_640800	Homo_sapiens_OR12D3_km_functional|NT_167247.2|639850|640800	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167247.2_OR14J1_functional_fwd_572513_573478	Homo_sapiens_OR14J1_functional|NT_167247.2|572513|573478	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167247.2_OR2AD1P_pseudogene_short_rev_292515_293354	Homo_sapiens_OR2AD1P_rp_pseudogene|NT_167247.2|292427|293354	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167247.2_OR2B3_functional_rev_352037_352978	Homo_sapiens_OR2B3_hr_functional|NT_167247.2|352037|352978	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167247.2_OR2H1_functional_fwd_727144_728094	Homo_sapiens_OR2H1_y_functional|NT_167247.2|727144|728094	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167247.2_OR2H2_functional_fwd_853340_854278	Homo_sapiens_OR2H2_gc_functional|NT_167247.2|853340|854278	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167247.2_OR2H5P_pseudogene_short_fwd_839463_839972	Homo_sapiens_OR2H5P_pc_pseudogene|NT_167247.2|839466|840044	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_167247.2_OR2J1_functional_fwd_366680_367618	Homo_sapiens_OR2J1_kh_functional|NT_167247.2|366680|367618	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167247.2_OR2J2_functional_fwd_439373_440311	Homo_sapiens_OR2J2_hu_functional|NT_167247.2|439373|440311	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167247.2_OR2J4P_pseudogene_short_fwd_447251_447817	Homo_sapiens_OR2J4P_qh_pseudogene|NT_167247.2|447251|448183	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_167247.2_OR2J3_pseudogene_short_truncated_fwd_377630_378399	Homo_sapiens_OR2J3_ki_pseudogene|NT_167247.2|377630|378403	6	6	yes	yes	no	no	pseudogene	pseudogene	770	774	no	no	no change
+>NT_167247.2_OR2P1P_pseudogene_nonsense_short_rev_337499_338254	Homo_sapiens_OR2P1P_rq_pseudogene|NT_167247.2|337574|338308	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_167247.2_OR2W1_functional_rev_309955_310917	Homo_sapiens_OR2W1_hq_functional|NT_167247.2|309955|310917	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_167247.2_OR5V1_functional_rev_621056_622021	Homo_sapiens_OR5V1_kl_functional|NT_167247.2|621056|622021	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167246.2_OR10C1_functional_fwd_705151_706089	Homo_sapiens_OR10C1_ic_functional|NT_167246.2|705151|706089	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167246.2_OR11A1_functional_rev_691830_692777	Homo_sapiens_OR11A1_w_functional|NT_167246.2|691830|692777	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167246.2_OR12D2_functional_fwd_661845_662768	Homo_sapiens_OR12D2_jv_functional|NT_167246.2|661845|662768	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_167246.2_OR12D3_functional_rev_639627_640577	Homo_sapiens_OR12D3_jc_functional|NT_167246.2|639627|640577	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167246.2_OR14J1_functional_fwd_572292_573257	Homo_sapiens_OR14J1_jb_functional|NT_167246.2|572292|573257	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167246.2_OR2AD1P_pseudogene_short_rev_292326_293165	Homo_sapiens_OR2AD1P_qe_pseudogene|NT_167246.2|292238|293165	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167246.2_OR2B3_functional_rev_351865_352806	Homo_sapiens_OR2B3_ix_functional|NT_167246.2|351865|352806	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167246.2_OR2H1_functional_fwd_726895_727845	Homo_sapiens_OR2H1_z_functional|NT_167246.2|726895|727845	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167246.2_OR2H2_functional_fwd_853129_854067	Homo_sapiens_OR2H2_ke_functional|NT_167246.2|853129|854067	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167246.2_OR2H5P_pseudogene_short_fwd_839253_839762	Homo_sapiens_OR2H5P_ro_pseudogene|NT_167246.2|839256|839834	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_167246.2_OR2J1_pseudogene_short_fwd_366508_367089	Homo_sapiens_OR2J1_iy_pseudogene|NT_167246.2|366508|367446	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	939	no	no	no
+>NT_167246.2_OR2J2_functional_fwd_439199_440137	Homo_sapiens_OR2J2_jr_functional|NT_167246.2|439199|440137	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167246.2_OR2J3_functional_fwd_377450_378385	Homo_sapiens_OR2J3_iz_functional|NT_167246.2|377450|378385	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_167246.2_OR2J4P_pseudogene_short_fwd_447085_447651	Homo_sapiens_OR2J4P_rz_pseudogene|NT_167246.2|447085|448017	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_167246.2_OR2P1P_pseudogene_nonsense_short_rev_337314_338069	Homo_sapiens_OR2P1P_rg_pseudogene|NT_167246.2|337389|338123	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_167246.2_OR2U1P_pseudogene_nonsense_rev_528277_529533	Homo_sapiens_OR2U1P_rl_pseudogene|NT_167246.2|528233|529653	6	7	yes	yes	yes	no	pseudogene	pseudogene	1257	1421	no	no	no
+>NT_167246.2_OR2U2P_pseudogene_short_rev_534036_534386	Homo_sapiens_OR2U2P_rc_pseudogene|NT_167246.2|534039|534995	3	7	yes	yes	yes	no	pseudogene	pseudogene	351	957	no	no	no
+>NT_167246.2_OR2W1_functional_rev_309771_310733	Homo_sapiens_OR2W1_iw_functional|NT_167246.2|309771|310733	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_167246.2_OR5V1_functional_rev_620834_621799	Homo_sapiens_OR5V1_jt_functional|NT_167246.2|620834|621799	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167245.2_OR10C1_functional_fwd_705538_706476	Homo_sapiens_OR10C1_jh_functional|NT_167245.2|705538|706476	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167245.2_OR11A1_functional_rev_692222_693169	Homo_sapiens_OR11A1_fu_functional|NT_167245.2|692222|693169	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167245.2_OR12D1_functional_fwd_682794_683756	Homo_sapiens_OR12D1_functional|NT_167245.2|682794|683756	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_167245.2_OR12D2_functional_fwd_662209_663132	Homo_sapiens_OR12D2_jd_functional|NT_167245.2|662209|663132	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_167245.2_OR12D3_functional_rev_639985_640935	Homo_sapiens_OR12D3_ju_functional|NT_167245.2|639985|640935	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167245.2_OR14J1_functional_fwd_572333_573298	Homo_sapiens_OR14J1_js_functional|NT_167245.2|572333|573298	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167245.2_OR2AD1P_pseudogene_short_rev_292371_293210	Homo_sapiens_OR2AD1P_qv_pseudogene|NT_167245.2|292283|293210	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167245.2_OR2B3_functional_rev_351908_352849	Homo_sapiens_OR2B3_jo_functional|NT_167245.2|351908|352849	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167245.2_OR2H1_functional_fwd_727293_728243	Homo_sapiens_OR2H1_aa_functional|NT_167245.2|727293|728243	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167245.2_OR2H2_functional_fwd_853494_854432	Homo_sapiens_OR2H2_jm_functional|NT_167245.2|853494|854432	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167245.2_OR2H5P_pseudogene_short_fwd_839619_840128	Homo_sapiens_OR2H5P_qn_pseudogene|NT_167245.2|839622|840200	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_167245.2_OR2J1_pseudogene_short_fwd_366551_367132	Homo_sapiens_OR2J1_jp_pseudogene|NT_167245.2|366551|367489	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	939	no	no	no
+>NT_167245.2_OR2J2_functional_fwd_439243_440181	Homo_sapiens_OR2J2_lb_functional|NT_167245.2|439243|440181	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167245.2_OR2J3_functional_fwd_377493_378428	Homo_sapiens_OR2J3_jq_functional|NT_167245.2|377493|378428	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_167245.2_OR2J4P_pseudogene_short_fwd_447125_447691	Homo_sapiens_OR2J4P_sg_pseudogene|NT_167245.2|447125|448057	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_167245.2_OR2P1P_pseudogene_nonsense_short_rev_337358_338113	Homo_sapiens_OR2P1P_rx_pseudogene|NT_167245.2|337433|338167	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_167245.2_OR2U1P_pseudogene_nonsense_rev_528315_529571	Homo_sapiens_OR2U1P_sj_pseudogene|NT_167245.2|528271|529691	6	7	yes	yes	yes	no	pseudogene	pseudogene	1257	1421	no	no	no
+>NT_167245.2_OR2U2P_pseudogene_short_rev_534074_534424	Homo_sapiens_OR2U2P_rm_pseudogene|NT_167245.2|534077|535033	3	7	yes	yes	yes	no	pseudogene	pseudogene	351	957	no	no	no
+>NT_167245.2_OR2W1_functional_rev_309816_310778	Homo_sapiens_OR2W1_jn_functional|NT_167245.2|309816|310778	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_113891.3_OR10C1_functional_fwd_926465_927403	Homo_sapiens_OR10C1_jz_functional|NT_113891.3|926465|927403	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_113891.3_OR11A1_functional_rev_913143_914090	Homo_sapiens_OR11A1_fv_functional|NT_113891.3|913143|914090	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_113891.3_OR12D2_functional_fwd_883161_884084	Homo_sapiens_OR12D2_kn_functional|NT_113891.3|883161|884084	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_113891.3_OR12D3_functional_rev_860942_861892	Homo_sapiens_OR12D3_ls_functional|NT_113891.3|860942|861892	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_113891.3_OR14J1_functional_fwd_793280_794245	Homo_sapiens_OR14J1_hv_functional|NT_113891.3|793280|794245	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_113891.3_OR2AD1P_pseudogene_short_rev_513255_514094	Homo_sapiens_OR2AD1P_rf_pseudogene|NT_113891.3|513167|514094	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_113891.3_OR2B3_functional_rev_572851_573792	Homo_sapiens_OR2B3_kg_functional|NT_113891.3|572851|573792	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_113891.3_OR2H1_functional_fwd_948222_949172	Homo_sapiens_OR2H1_ab_functional|NT_113891.3|948222|949172	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_113891.3_OR2H2_functional_fwd_1074425_1075363	Homo_sapiens_OR2H2_ih_functional|NT_113891.3|1074425|1075363	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_113891.3_OR2H5P_pseudogene_short_fwd_1060550_1061059	Homo_sapiens_OR2H5P_re_pseudogene|NT_113891.3|1060553|1061131	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_113891.3_OR2J1_pseudogene_short_fwd_587435_588070	Homo_sapiens_OR2J1_kz_pseudogene|NT_113891.3|587489|588427	4	7	yes	yes	yes	yes	pseudogene	pseudogene	636	939	no	no	no
+>NT_113891.3_OR2J2_functional_fwd_660179_661117	Homo_sapiens_OR2J2_kj_functional|NT_113891.3|660179|661117	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_113891.3_OR2J3_functional_fwd_598439_599374	Homo_sapiens_OR2J3_la_functional|NT_113891.3|598439|599374	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_113891.3_OR2J4P_pseudogene_short_fwd_668072_668638	Homo_sapiens_OR2J4P_rs_pseudogene|NT_113891.3|668072|669004	4	7	yes	yes	yes	no	pseudogene	pseudogene	567	933	no	no	no
+>NT_113891.3_OR2P1P_pseudogene_nonsense_short_rev_558243_558998	Homo_sapiens_OR2P1P_qf_pseudogene|NT_113891.3|558318|559052	5	5	yes	no	yes	no	pseudogene	pseudogene	756	735	no	no	yes
+>NT_113891.3_OR2U1P_pseudogene_nonsense_rev_749271_750527	Homo_sapiens_OR2U1P_qk_pseudogene|NT_113891.3|749227|750647	6	7	yes	yes	yes	no	pseudogene	pseudogene	1257	1421	no	no	no
+>NT_113891.3_OR2U2P_pseudogene_short_rev_755030_755401	Homo_sapiens_OR2U2P_pseudogene|NT_113891.3|755033|755989	3	7	yes	yes	yes	no	pseudogene	pseudogene	372	957	no	no	no
+>NT_113891.3_OR2W1_functional_rev_530701_531663	Homo_sapiens_OR2W1_kf_functional|NT_113891.3|530701|531663	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NT_113891.3_OR5V1_functional_rev_841820_842785	Homo_sapiens_OR5V1_hw_functional|NT_113891.3|841820|842785	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167244.2_OR10C1_functional_fwd_705680_706618	Homo_sapiens_OR10C1_lf_functional|NT_167244.2|705680|706618	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167244.2_OR11A1_functional_rev_692359_693306	Homo_sapiens_OR11A1_fw_functional|NT_167244.2|692359|693306	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_167244.2_OR14J1_functional_fwd_572356_573321	Homo_sapiens_OR14J1_lq_functional|NT_167244.2|572356|573321	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NT_167244.2_OR2AD1P_pseudogene_short_rev_292393_293232	Homo_sapiens_OR2AD1P_rw_pseudogene|NT_167244.2|292305|293232	6	6	yes	yes	yes	yes	pseudogene	pseudogene	840	928	no	no	no change
+>NT_167244.2_OR2B3_functional_rev_351930_352871	Homo_sapiens_OR2B3_ky_functional|NT_167244.2|351930|352871	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_167244.2_OR2H1_functional_fwd_727431_728381	Homo_sapiens_OR2H1_ac_functional|NT_167244.2|727431|728381	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_167244.2_OR2H2_functional_fwd_853638_854576	Homo_sapiens_OR2H2_kw_functional|NT_167244.2|853638|854576	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167244.2_OR2H5P_pseudogene_short_fwd_839764_840273	Homo_sapiens_OR2H5P_rv_pseudogene|NT_167244.2|839767|840345	4	4	yes	no	yes	no	pseudogene	pseudogene	510	579	no	no	yes
+>NT_167244.2_OR2J1_pseudogene_short_fwd_366573_367154	Homo_sapiens_OR2J1_ln_pseudogene|NT_167244.2|366573|367511	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	939	no	no	no
+>NT_167244.2_OR2J2_functional_fwd_439262_440200	Homo_sapiens_OR2J2_lp_functional|NT_167244.2|439262|440200	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_167244.2_OR2J3_functional_fwd_377511_378446	Homo_sapiens_OR2J3_lo_functional|NT_167244.2|377511|378446	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_167244.2_OR2U2P_pseudogene_short_rev_534096_534467	Homo_sapiens_OR2U2P_sk_pseudogene|NT_167244.2|534099|535055	3	7	yes	yes	yes	no	pseudogene	pseudogene	372	957	no	no	no
+>NT_167244.2_OR2W1_functional_rev_309838_310800	Homo_sapiens_OR2W1_kx_functional|NT_167244.2|309838|310800	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_018654715.1_OR2A1_functional_fwd_369356_370288	Homo_sapiens_OR2A1/2A42_functional|NW_018654715.1|369356|370288	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A1_functional_fwd_272736_273668	Homo_sapiens_OR2A1_dr_functional|NW_018654715.1|272736|273668	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A42_functional_rev_186505_187437	Homo_sapiens_OR2A42_functional|NW_018654715.1|186505|187437	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A20P_pseudogene_nonsense_rev_205265_206128	Homo_sapiens_OR2A20P_pseudogene|NW_018654715.1|205268|206197	7	7	yes	yes	yes	no	pseudogene	pseudogene	864	930	no	no	yes
+>NW_018654715.1_OR2A20P_pseudogene_nonsense_fwd_350597_351529	Homo_sapiens_OR2A20P_en_pseudogene|NW_018654715.1|350597|351526	7	7	yes	yes	yes	no	pseudogene	pseudogene	933	930	no	no	yes
+>NW_018654715.1_OR2A12_functional_fwd_49674_50606	Homo_sapiens_OR2A12_functional|NW_018654715.1|49674|50606	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A14_functional_fwd_83671_84600	Homo_sapiens_OR2A14_do_functional|NW_018654715.1|83671|84600	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_018654715.1_OR2A15P_pseudogene_nonsense_short_rev_73011_73847	Homo_sapiens_OR2A15P_mq_pseudogene|NW_018654715.1|73014|73910	3	5	yes	yes	yes	no	pseudogene	pseudogene	837	897	no	no	no
+>NW_018654715.1_OR2A5_functional_fwd_4976_5911	Homo_sapiens_OR2A5_functional|NW_018654715.1|4976|5911	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_018654715.1_OR2A2_functional_fwd_64143_65099	Homo_sapiens_OR2A2_dn_functional|NW_018654715.1|64143|65099	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_018654715.1_OR2A25_functional_fwd_28797_29729	Homo_sapiens_OR2A25_dk_functional|NW_018654715.1|28797|29729	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A7_functional_rev_213290_214222	Homo_sapiens_OR2A7_functional|NW_018654715.1|213290|214222	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654715.1_OR2A7_functional_fwd_342566_343498	Homo_sapiens_OR2A7_dq_functional|NW_018654715.1|342566|343498	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A1_functional_fwd_144318125_144319057	Homo_sapiens_OR2A1_functional|NC_000007.14|144318125|144319057	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A42_functional_rev_144231911_144232843	Homo_sapiens_OR2A42_dp_functional|NC_000007.14|144231911|144232843	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A12_functional_fwd_144095108_144096040	Homo_sapiens_OR2A12_dm_functional|NC_000007.14|144095108|144096040	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A14_functional_fwd_144129113_144130045	Homo_sapiens_OR2A14_functional|NC_000007.14|144129113|144130045	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A15P_pseudogene_short_rev_144118461_144118787	Homo_sapiens_OR2A15P_pseudogene|NC_000007.14|144118464|144119360	3	5	yes	yes	yes	no	pseudogene	pseudogene	327	897	no	no	no
+>NC_000007.14_OR2A5_functional_fwd_144050402_144051337	Homo_sapiens_OR2A5_dj_functional|NC_000007.14|144050402|144051337	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000007.14_OR2A2_functional_fwd_144109583_144110539	Homo_sapiens_OR2A2_functional|NC_000007.14|144109583|144110539	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000007.14_OR2A25_functional_fwd_144074220_144075152	Homo_sapiens_OR2A25_functional|NC_000007.14|144074220|144075152	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A7_functional_rev_144258696_144259628	Homo_sapiens_OR2A7_ds_functional|NC_000007.14|144258696|144259628	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR2A3P_pseudogene_short_fwd_144157226_144157585	Homo_sapiens_OR2A3P_pseudogene|NC_000007.14|144157026|144158359	2	6	yes	no	yes	no	pseudogene	pseudogene	360	1334	no	no	no
+>NC_000007.14_OR2AE1_functional_rev_99876062_99877033	Homo_sapiens_OR2AE1_functional|NC_000007.14|99876062|99877033	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000007.14_OR2F1_functional_fwd_143959971_143960924	Homo_sapiens_OR2F1_dh_functional|NC_000007.14|143959971|143960924	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000007.14_OR2F2_functional_fwd_143935233_143936186	Homo_sapiens_OR2F2_dg_functional|NC_000007.14|143935233|143936186	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000007.14_OR2R1P_pseudogene_short_rev_143489004_143489411	Homo_sapiens_OR2R1P_mn_pseudogene|NC_000007.14|143488462|143489409	2	5	yes	no	yes	yes	pseudogene	pseudogene	408	948	no	no	no
+>NC_000007.14_OR6B1_functional_fwd_144003997_144004932	Homo_sapiens_OR6B1_di_functional|NC_000007.14|144003997|144004932	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000007.14_OR6V1_functional_fwd_143052341_143053282	Homo_sapiens_OR6V1_ge_functional|NC_000007.14|143052341|143053282	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000007.14_OR6W1P_pseudogene_short_rev_143062484_143063326	Homo_sapiens_OR6W1P_hq_pseudogene|NC_000007.14|143062284|143063785	7	7	yes	no	yes	no	pseudogene	pseudogene	843	1502	no	no	yes
+>NC_000007.14_OR7E39P_pseudogene_nonsense_rev_6834820_6836031	Homo_sapiens_OR7E39P_pseudogene|NC_000007.14|6834823|6835794	7	7	yes	no	yes	no	pseudogene	pseudogene	1212	972	no	no	yes
+>NC_000007.14_OR9A1P_pseudogene_short_fwd_141887148_141887939	Homo_sapiens_OR9A1P_pseudogene|NC_000007.14|141887148|141887936	6	6	yes	yes	yes	no	pseudogene	pseudogene	792	789	no	no	yes
+>NC_000007.14_OR9A3P_pseudogene_nonsense_fwd_141862795_141863667	Homo_sapiens_OR9A3P_pseudogene|NC_000007.14|141862859|141863818	3	5	yes	no	yes	no	pseudogene	pseudogene	873	960	no	no	no
+>NC_000007.14_OR9A2_functional_rev_143026200_143027132	Homo_sapiens_OR9A2_gd_functional|NC_000007.14|143026200|143027132	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000007.14_OR9A4_functional_fwd_141918876_141919820	Homo_sapiens_OR9A4_functional|NC_000007.14|141918876|141919820	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000007.14_TAS2R16_pseudogene_short_rev_122994759_122995604	Homo_sapiens_TAS2R16_functional|NC_000007.14|122994759|122995634	7	7	yes	yes	yes	yes	pseudogene	functional	846	876	no	yes	no change
+>NC_000007.14_TAS2R2P_pseudogene_nonsense_fwd_12491095_12492039	Homo_sapiens_TAS2R2P_pseudogene|NC_000007.14|12491095|12492004	4	4	yes	yes	yes	yes	pseudogene	pseudogene	945	910	no	no	no change
+>NC_000007.14_TAS2R38_functional_rev_141972688_141973689	Homo_sapiens_TAS2R38_functional|NC_000007.14|141972688|141973689	7	7	yes	yes	yes	yes	functional	functional	1002	1002	yes	no	no change
+>NC_000007.14_TAS2R39_functional_fwd_143183470_143184435	Homo_sapiens_TAS2R39_functional|NC_000007.14|143183419|143184435	7	7	yes	yes	yes	yes	functional	functional	966	1017	no	no	no change
+>NC_000007.14_TAS2R3_functional_fwd_141764159_141765109	Homo_sapiens_TAS2R3_functional|NC_000007.14|141764159|141765109	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000007.14_TAS2R40_functional_fwd_143222079_143223050	Homo_sapiens_TAS2R40_functional|NC_000007.14|143222079|143223050	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000007.14_TAS2R41_functional_fwd_143477873_143478796	Homo_sapiens_TAS2R41_df_functional|NC_000007.14|143477873|143478796	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000007.14_TAS2R4_functional_fwd_141778489_141779388	Homo_sapiens_TAS2R4_functional|NC_000007.14|141778489|141779388	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_000007.14_TAS2R5_functional_fwd_141790362_141791261	Homo_sapiens_TAS2R5_functional|NC_000007.14|141790362|141791261	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_000007.14_TAS2R60_functional_fwd_143443453_143444409	Homo_sapiens_TAS2R60_de_functional|NC_000007.14|143443453|143444409	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_000007.14_TAS2R62P_pseudogene_nonsense_fwd_143437035_143437973	Homo_sapiens_TAS2R62P_mm_pseudogene|NC_000007.14|143437035|143437973	7	7	yes	yes	yes	yes	pseudogene	pseudogene	939	939	yes	no	no change
+>NC_000007.14_VN1R28P_pseudogene_nonsense_short_rev_57422861_57423619	Homo_sapiens_VN1R28P_pseudogene|NC_000007.14|57422785|57423703	5	6	yes	yes	yes	yes	pseudogene	pseudogene	759	919	no	no	no
+>NC_000007.14_VN1R34P_pseudogene_short_rev_63935017_63935331	Homo_sapiens_VN1R34P_pseudogene|NC_000007.14|63934464|63935331	2	7	yes	yes	yes	yes	pseudogene	pseudogene	315	868	no	no	no
+>NC_000007.14_OPN1SW_functional_rev_128772540_128775790	Homo_sapiens_OPN1SW_functional|NC_000007.14|128775781|128772540	7	7	yes	yes	yes	yes	functional	functional	1047	1038	no	no	no change
+>NT_187562.1_OR6V1_functional_fwd_1075408_1076349	Homo_sapiens_OR6V1_functional|NT_187562.1|1075408|1076349	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_187562.1_OR6W1P_pseudogene_short_rev_1085551_1086393	Homo_sapiens_OR6W1P_pseudogene|NT_187562.1|1085351|1086852	7	7	yes	no	yes	no	pseudogene	pseudogene	843	1502	no	no	yes
+>NT_187562.1_OR9A2_functional_rev_1049267_1050199	Homo_sapiens_OR9A2_functional|NT_187562.1|1049267|1050199	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_018654714.1_OR2F1_functional_fwd_504201_505154	Homo_sapiens_OR2F1_functional|NW_018654714.1|504201|505154	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_018654714.1_OR2F2_functional_fwd_479462_480415	Homo_sapiens_OR2F2_functional|NW_018654714.1|479462|480415	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_018654714.1_OR2R1P_pseudogene_short_rev_108368_108775	Homo_sapiens_OR2R1P_pseudogene|NW_018654714.1|107826|108773	2	5	yes	no	yes	yes	pseudogene	pseudogene	408	948	no	no	no
+>NW_018654714.1_OR6B1_functional_fwd_548227_549162	Homo_sapiens_OR6B1_functional|NW_018654714.1|548227|549162	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_018654714.1_TAS2R41_functional_fwd_97237_98160	Homo_sapiens_TAS2R41_functional|NW_018654714.1|97237|98160	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_018654714.1_TAS2R60_functional_fwd_62817_63773	Homo_sapiens_TAS2R60_functional|NW_018654714.1|62817|63773	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_018654714.1_TAS2R62P_pseudogene_nonsense_fwd_56399_57337	Homo_sapiens_TAS2R62P_pseudogene|NW_018654714.1|56399|57337	7	7	yes	yes	yes	yes	pseudogene	pseudogene	939	939	yes	no	no change
+>NC_000012.12_OR10A7_functional_fwd_55221025_55221975	Homo_sapiens_OR10A7_functional|NC_000012.12|55221025|55221975	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_000012.12_OR10AD1_functional_rev_48202339_48203292	Homo_sapiens_OR10AD1_functional|NC_000012.12|48202339|48203292	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000012.12_OR10P1_functional_fwd_55636892_55637833	Homo_sapiens_OR10P1_functional|NC_000012.12|55636892|55637833	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000012.12_OR2AP1_functional_fwd_55574415_55575344	Homo_sapiens_OR2AP1_functional|NC_000012.12|55574415|55575344	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_OR6C4_functional_fwd_55551227_55552156	Homo_sapiens_OR6C4_functional|NC_000012.12|55551227|55552156	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_OR5BK1P_pseudogene_nonsense_short_rev_48355742_48356446	Homo_sapiens_OR5BK1P_pseudogene|NC_000012.12|48355659|48356545	5	5	yes	yes	yes	no	pseudogene	pseudogene	705	887	no	no	yes
+>NC_000012.12_OR5BT1P_pseudogene_nonsense_short_rev_48385360_48386193	Homo_sapiens_OR5BT1P_pseudogene|NC_000012.12|48385350|48386304	4	5	yes	no	yes	no	pseudogene	pseudogene	834	955	no	no	no
+>NC_000012.12_OR6C1_functional_fwd_55320600_55321538	Homo_sapiens_OR6C1_functional|NC_000012.12|55320600|55321538	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C2_functional_fwd_55452214_55453152	Homo_sapiens_OR6C2_functional|NC_000012.12|55452214|55453152	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C3_functional_fwd_55331701_55332636	Homo_sapiens_OR6C3_functional|NC_000012.12|55331701|55332636	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000012.12_OR6C5P_pseudogene_short_fwd_55311835_55312353	Homo_sapiens_OR6C5P_pseudogene|NC_000012.12|55311835|55312757	4	4	yes	yes	yes	no	pseudogene	pseudogene	519	923	no	no	yes
+>NC_000012.12_OR6C64P_pseudogene_short_fwd_55522839_55523471	Homo_sapiens_OR6C64P_pseudogene|NC_000012.12|55522593|55523471	5	7	yes	yes	yes	yes	pseudogene	pseudogene	633	879	no	no	no
+>NC_000012.12_OR6C65_functional_fwd_55400529_55401467	Homo_sapiens_OR6C65_functional|NC_000012.12|55400529|55401467	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C66P_functional_fwd_55388445_55389326	Homo_sapiens_OR6C66P_pseudogene|NC_000012.12|55388445|55389377	7	7	yes	yes	yes	no	functional	pseudogene	882	933	no	yes	yes
+>NC_000012.12_OR6C68_functional_fwd_55492378_55493316	Homo_sapiens_OR6C68_functional|NC_000012.12|55492378|55493316	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C69P_pseudogene_short_fwd_55262539_55263018	Homo_sapiens_OR6C69P_pseudogene|NC_000012.12|55262539|55263434	4	4	yes	yes	yes	no	pseudogene	pseudogene	480	896	no	no	yes
+>NC_000012.12_OR6C6_functional_rev_55294288_55295232	Homo_sapiens_OR6C6_functional|NC_000012.12|55294288|55295232	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000012.12_OR6C70_functional_rev_55469200_55470138	Homo_sapiens_OR6C70_functional|NC_000012.12|55469200|55470138	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C72P_pseudogene_short_fwd_55283750_55284328	Homo_sapiens_OR6C72P_pseudogene|NC_000012.12|55283750|55284683	4	4	yes	yes	yes	no	pseudogene	pseudogene	579	934	no	no	yes
+>NC_000012.12_OR6C74_functional_fwd_55247288_55248226	Homo_sapiens_OR6C74_functional|NC_000012.12|55247288|55248226	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C75_functional_fwd_55365111_55366049	Homo_sapiens_OR6C75_functional|NC_000012.12|55365111|55366049	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C76_functional_fwd_55426254_55427192	Homo_sapiens_OR6C76_functional|NC_000012.12|55426254|55427192	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR6C7P_pseudogene_short_fwd_55342838_55343293	Homo_sapiens_OR6C7P_pseudogene|NC_000012.12|55342838|55343776	4	7	yes	yes	yes	no	pseudogene	pseudogene	456	939	no	no	no
+>NC_000012.12_OR7A19P_pseudogene_nonsense_fwd_46592406_46593368	Homo_sapiens_OR7A19P_pseudogene|NC_000012.12|46592574|46593306	3	4	yes	no	yes	no	pseudogene	pseudogene	963	733	no	no	no
+>NC_000012.12_OR7E47P_pseudogene_nonsense_fwd_52107355_52108335	Homo_sapiens_OR7E47P_pseudogene|NC_000012.12|52107378|52108319	5	5	yes	no	yes	no	pseudogene	pseudogene	981	1025	no	no	yes
+>NC_000012.12_OR8S1_functional_fwd_48525632_48526570	Homo_sapiens_OR8S1_functional|NC_000012.12|48525632|48526570	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR9K2_functional_fwd_55129835_55130776	Homo_sapiens_OR9K2_functional|NC_000012.12|55129835|55130776	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000012.12_OR9R1P_pseudogene_nonsense_fwd_55158716_55159801	Homo_sapiens_OR9R1P_pseudogene|NC_000012.12|55158848|55159801	5	5	yes	no	yes	yes	pseudogene	pseudogene	1086	954	no	no	yes
+>NC_000012.12_TAS2R10_functional_rev_10825346_10826269	Homo_sapiens_TAS2R10_il_functional|NC_000012.12|10825346|10826269	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000012.12_TAS2R12P_pseudogene_nonsense_rev_10894934_10895827	Homo_sapiens_TAS2R12P_qo_pseudogene|NC_000012.12|10894934|10895881	7	7	yes	yes	yes	yes	pseudogene	pseudogene	894	948	no	no	no change
+>NC_000012.12_TAS2R13_functional_rev_10908387_10909298	Homo_sapiens_TAS2R13_im_functional|NC_000012.12|10908387|10909298	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_000012.12_TAS2R14_functional_rev_10938254_10939207	Homo_sapiens_TAS2R14_in_functional|NC_000012.12|10938254|10939207	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_000012.12_TAS2R18P_pseudogene_nonsense_short_rev_11158813_11159634	Homo_sapiens_TAS2R18P_pt_pseudogene|NC_000012.12|11158776|11159694	5	5	yes	yes	yes	yes	pseudogene	pseudogene	822	919	no	no	no change
+>NC_000012.12_TAS2R19_functional_rev_11021672_11022571	Homo_sapiens_TAS2R19_hd_functional|NC_000012.12|11021672|11022571	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_000012.12_TAS2R30_functional_rev_11133285_11134244	Homo_sapiens_TAS2R30_hh_functional|NC_000012.12|11133285|11134244	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_000012.12_TAS2R20_functional_rev_10996946_10997875	Homo_sapiens_TAS2R20_hc_functional|NC_000012.12|10996946|10997875	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_TAS2R46_functional_rev_11061365_11062294	Homo_sapiens_TAS2R46_hf_functional|NC_000012.12|11061365|11062294	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_TAS2R31_functional_rev_11030406_11031335	Homo_sapiens_TAS2R31_he_functional|NC_000012.12|11030406|11031335	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_TAS2R43_functional_rev_11091300_11092229	Homo_sapiens_TAS2R43_functional|NC_000012.12|11091300|11092229	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_TAS2R50_functional_rev_10985961_10986860	Homo_sapiens_TAS2R50_io_functional|NC_000012.12|10985961|10986860	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_000012.12_TAS2R42_functional_rev_11185993_11186877	Homo_sapiens_TAS2R42_iv_functional|NC_000012.12|11185993|11186937	7	7	yes	yes	yes	yes	functional	functional	885	945	no	no	no change
+>NC_000012.12_TAS2R67P_pseudogene_nonsense_rev_11179524_11180402	Homo_sapiens_TAS2R67P_qt_pseudogene|NC_000012.12|11179541|11180462	6	7	yes	yes	yes	yes	pseudogene	pseudogene	879	922	no	no	no
+>NC_000012.12_TAS2R7_functional_rev_10801614_10802474	Homo_sapiens_TAS2R7_ii_functional|NC_000012.12|10801614|10802570	6	7	yes	yes	yes	yes	functional	functional	861	957	no	no	no
+>NC_000012.12_TAS2R8_functional_rev_10806051_10806980	Homo_sapiens_TAS2R8_ij_functional|NC_000012.12|10806051|10806980	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000012.12_TAS2R9_functional_rev_10809137_10810075	Homo_sapiens_TAS2R9_ik_functional|NC_000012.12|10809137|10810075	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000012.12_OR5BS1P_pseudogene_short_fwd_48559882_48560676	Homo_sapiens_OR5BS1P_pseudogene|NC_000012.12|48559882|48560658	6	7	yes	yes	yes	yes	pseudogene	pseudogene	795	936	no	no	no
+>NW_021159989.1_OR7E55P_pseudogene_short_rev_7354_7806	Homo_sapiens_OR7E55P_pseudogene|NW_021159989.1|6774|7724	2	4	yes	no	yes	no	pseudogene	pseudogene	453	951	no	no	no
+>NC_000004.12_OR7E111FP_pseudogene_nonsense_fwd_8981394_8982437	Homo_sapiens_OR7E111FP_pseudogene|NC_000004.12|8981409|8982415	7	7	yes	no	yes	no	pseudogene	pseudogene	1044	1007	no	no	yes
+>NC_000004.12_OR7E43P_pseudogene_short_rev_4174443_4174913	Homo_sapiens_OR7E43P_pseudogene|NC_000004.12|4174399|4175051	4	4	yes	no	yes	no	pseudogene	pseudogene	471	653	no	no	yes
+>NC_000004.12_OR7E162P_pseudogene_short_rev_3902169_3902615	Homo_sapiens_OR7E162P_pseudogene|NC_000004.12|3901506|3902540	2	7	yes	no	yes	no	pseudogene	pseudogene	447	1035	no	no	no
+>NC_000004.12_OR7E85BP_pseudogene_nonsense_fwd_8949439_8950638	Homo_sapiens_OR7E85BP_pseudogene|NC_000004.12|8949604|8950620	7	7	yes	no	yes	no	pseudogene	pseudogene	1200	1017	no	no	yes
+>NW_018654717.1_OR7E8P_pseudogene_short_rev_5879628_5880125	Homo_sapiens_OR7E8P_pseudogene|NW_018654717.1|5879499|5880524	4	7	yes	no	yes	no	pseudogene	pseudogene	498	1026	no	no	no
+>NW_018654717.1_OR7E10P_pseudogene_short_rev_5898613_5899035	Homo_sapiens_OR7E10P_pseudogene|NW_018654717.1|5898400|5899386	2	5	yes	no	yes	no	pseudogene	pseudogene	423	987	no	no	no
+>NW_018654717.1_OR7E161P_pseudogene_nonsense_fwd_1418601_1419488	Homo_sapiens_OR7E161P_mx_pseudogene|NW_018654717.1|1418469|1419464	7	7	yes	no	yes	no	pseudogene	pseudogene	888	996	no	no	yes
+>NC_000014.9_OR10G2_functional_rev_21633910_21634842	Homo_sapiens_OR10G2_functional|NC_000014.9|21633910|21634842	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000014.9_OR10G3_pseudogene_short_rev_21569803_21570567	Homo_sapiens_OR10G3_functional|NC_000014.9|21569803|21570744	6	7	yes	yes	yes	yes	pseudogene	functional	765	942	no	yes	no
+>NC_000014.9_OR11G1P_pseudogene_nonsense_fwd_20179118_20180146	Homo_sapiens_OR11G1P_nz_pseudogene|NC_000014.9|20179127|20180135	4	4	yes	no	yes	no	pseudogene	pseudogene	1029	1009	no	no	yes
+>NC_000014.9_OR11G2_functional_fwd_20197438_20198373	Homo_sapiens_OR11G2_bm_functional|NC_000014.9|20197438|20198373	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000014.9_OR11H12_functional_fwd_18601150_18602097	Homo_sapiens_OR11H12_functional|NC_000014.9|18601117|18602097	7	7	yes	yes	yes	yes	functional	functional	948	981	no	no	no change
+>NC_000014.9_OR11H2_functional_rev_19712936_19713883	Homo_sapiens_OR11H2_functional|NC_000014.9|19712936|19713883	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000014.9_OR11H4_functional_fwd_20242822_20243766	Homo_sapiens_OR11H4_fc_functional|NC_000014.9|20242822|20243766	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000014.9_OR11H6_functional_fwd_20223779_20224702	Homo_sapiens_OR11H6_fb_functional|NC_000014.9|20223710|20224702	7	7	yes	yes	yes	yes	functional	functional	924	993	no	no	no change
+>NC_000014.9_OR4E1_functional_rev_21669988_21670935	Homo_sapiens_OR4E1_functional|NC_000014.9|21669988|21670935	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000014.9_OR4E2_functional_fwd_21665083_21666024	Homo_sapiens_OR4E2_functional|NC_000014.9|21665083|21666024	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000014.9_OR4H12P_functional_fwd_19759910_19760788	Homo_sapiens_OR4H12P_pseudogene|NC_000014.9|19759910|19760788	7	7	yes	yes	yes	yes	functional	pseudogene	879	879	yes	yes	no change
+>NC_000014.9_OR4K15_functional_fwd_19975591_19976565	Homo_sapiens_OR4K15_es_functional|NC_000014.9|19975591|19976565	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_000014.9_OR4K13_functional_rev_20033844_20034758	Homo_sapiens_OR4K13_bl_functional|NC_000014.9|20033844|20034758	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NC_000014.9_OR4K14_pseudogene_short_rev_20014261_20015016	Homo_sapiens_OR4K14_et_functional|NC_000014.9|20014261|20015193	6	7	yes	yes	yes	yes	pseudogene	functional	756	933	no	yes	no
+>NC_000014.9_OR4K5_functional_fwd_19920607_19921578	Homo_sapiens_OR4K5_eq_functional|NC_000014.9|19920607|19921578	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000014.9_OR4K17_functional_fwd_20117500_20118438	Homo_sapiens_OR4K17_ex_functional|NC_000014.9|20117500|20118438	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000014.9_OR4K1_pseudogene_short_fwd_19935907_19936602	Homo_sapiens_OR4K1_bk_functional|NC_000014.9|19935667|19936602	5	7	yes	yes	yes	yes	pseudogene	functional	696	936	no	yes	no
+>NC_000014.9_OR4K2_functional_fwd_19876268_19877212	Homo_sapiens_OR4K2_ep_functional|NC_000014.9|19876268|19877212	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_000014.9_OR4K3_pseudogene_short_rev_19868499_19869173	Homo_sapiens_OR4K3_fs_pseudogene|NC_000014.9|19868197|19869173	5	4	yes	yes	yes	yes	pseudogene	pseudogene	675	977	no	no	yes
+>NC_000014.9_OR4L1_functional_fwd_20060045_20060983	Homo_sapiens_OR4L1_ew_functional|NC_000014.9|20060045|20060983	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000014.9_OR4M1_pseudogene_short_fwd_19780563_19781264	Homo_sapiens_OR4M1_functional|NC_000014.9|19780323|19781264	5	7	yes	yes	yes	yes	pseudogene	functional	702	942	no	yes	no
+>NC_000014.9_OR4N1P_pseudogene_nonsense_fwd_19796194_19797477	Homo_sapiens_OR4N1P_pseudogene|NC_000014.9|19796254|19797418	4	4	yes	no	yes	yes	pseudogene	pseudogene	1284	1165	no	no	yes
+>NC_000014.9_OR4N2_functional_fwd_19827449_19828372	Homo_sapiens_OR4N2_eo_functional|NC_000014.9|19827449|19828372	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000014.9_OR4N5_functional_fwd_20143736_20144662	Homo_sapiens_OR4N5_ey_functional|NC_000014.9|20143736|20144662	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000014.9_OR4Q3_functional_fwd_19747428_19748369	Homo_sapiens_OR4Q3_bj_functional|NC_000014.9|19747428|19748369	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000014.9_OR5AU1_functional_rev_21154937_21155872	Homo_sapiens_OR5AU1_functional|NC_000014.9|21154937|21155872	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_000014.9_OR6J1_functional_rev_22633768_22634811	Homo_sapiens_OR6J1_functional|NC_000014.9|22633768|22634811	7	7	yes	yes	yes	yes	functional	functional	1044	1044	yes	no	no change
+>NC_000014.9_OR6S1_functional_rev_20640696_20641691	Homo_sapiens_OR6S1_functional|NC_000014.9|20640696|20641691	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_000014.9_OR7E106P_pseudogene_nonsense_rev_51763091_51764098	Homo_sapiens_OR7E106P_pseudogene|NC_000014.9|51763048|51764074	7	7	yes	no	yes	no	pseudogene	pseudogene	1008	1027	no	no	yes
+>NC_000014.9_OR7K1P_pseudogene_nonsense_fwd_25357819_25358865	Homo_sapiens_OR7K1P_pseudogene|NC_000014.9|25357765|25358768	6	6	yes	no	yes	no	pseudogene	pseudogene	1047	1004	no	no	yes
+>NC_000017.11_OR1A1_functional_fwd_3215621_3216550	Homo_sapiens_OR1A1_functional|NC_000017.11|3215621|3216550	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000017.11_OR1A2_functional_fwd_3197519_3198448	Homo_sapiens_OR1A2_functional|NC_000017.11|3197519|3198448	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_000017.11_OR1D2_functional_rev_3092058_3092996	Homo_sapiens_OR1D2_functional|NC_000017.11|3092058|3092996	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000017.11_OR1D4_pseudogene_short_fwd_3240676_3241191	Homo_sapiens_OR1D4_pseudogene|NC_000017.11|3240676|3241614	4	7	yes	yes	yes	yes	pseudogene	pseudogene	516	939	no	no	no
+>NC_000017.11_OR1D5_functional_rev_3062669_3063607	Homo_sapiens_OR1D5_functional|NC_000017.11|3062669|3063607	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000017.11_OR1E1_functional_rev_3397466_3398407	Homo_sapiens_OR1E1_functional|NC_000017.11|3397466|3398410	7	7	yes	yes	yes	yes	functional	functional	942	945	no	no	no change
+>NC_000017.11_OR1E2_functional_rev_3432870_3433841	Homo_sapiens_OR1E2_functional|NC_000017.11|3432870|3433841	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_000017.11_OR1E3_pseudogene_short_fwd_3116657_3117457	Homo_sapiens_OR1E3_pseudogene|NC_000017.11|3116327|3117474	5	7	yes	no	yes	no	pseudogene	pseudogene	801	1148	no	no	no
+>NC_000017.11_OR1G1_functional_rev_3126610_3127551	Homo_sapiens_OR1G1_functional|NC_000017.11|3126610|3127551	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000017.11_OR1P1_pseudogene_short_rev_3154328_3154882	Homo_sapiens_OR1P1_pseudogene|NC_000017.11|3153890|3154882	4	7	yes	yes	yes	yes	pseudogene	pseudogene	555	993	no	no	no
+>NC_000017.11_OR1R1P_functional_fwd_3385930_3386874	Homo_sapiens_OR1R1P_pseudogene|NC_000017.11|3385930|3386874	7	7	yes	yes	yes	yes	functional	pseudogene	945	945	yes	yes	no change
+>NC_000017.11_OR3A1_functional_rev_3291635_3292582	Homo_sapiens_OR3A1_functional|NC_000017.11|3291635|3292582	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_000017.11_OR3A2_functional_rev_3277970_3278935	Homo_sapiens_OR3A2_bv_functional|NC_000017.11|3277970|3278917	7	7	yes	yes	yes	yes	functional	functional	966	948	no	no	no change
+>NC_000017.11_OR3A3_functional_fwd_3420568_3421533	Homo_sapiens_OR3A3_functional|NC_000017.11|3420586|3421533	7	7	yes	yes	yes	yes	functional	functional	966	948	no	no	no change
+>NC_000017.11_OR3A3_functional_fwd_3310311_3311357	Homo_sapiens_OR3A5P_pseudogene|NC_000017.11|3311200|3311892	7	5	yes	no	yes	no	functional	pseudogene	1047	693	no	yes	yes
+>NC_000017.11_OR4D1_functional_fwd_58155154_58156086	Homo_sapiens_OR4D1_functional|NC_000017.11|58155154|58156086	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_000017.11_OR4D2_functional_fwd_58169656_58170579	Homo_sapiens_OR4D2_functional|NC_000017.11|58169656|58170579	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_000017.11_VN1R71P_pseudogene_nonsense_fwd_27057077_27058345	Homo_sapiens_VN1R71P_pseudogene|NC_000017.11|27057398|27058345	6	7	yes	no	yes	yes	pseudogene	pseudogene	1269	948	no	no	no
+>NC_000016.10_OR1F1_functional_fwd_3204247_3205185	Homo_sapiens_OR1F1_bp_functional|NC_000016.10|3204247|3205185	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000016.10_OR2C1_functional_fwd_3355941_3356879	Homo_sapiens_OR2C1_functional|NC_000016.10|3355941|3356879	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000016.10_VN1R3_pseudogene_short_rev_31807926_31808588	Homo_sapiens_VN1R3_pseudogene|NC_000016.10|31807585|31808853	5	5	yes	no	yes	no	pseudogene	pseudogene	663	1269	no	no	yes
+>NC_000016.10_VN1R64P_pseudogene_short_fwd_31547001_31547603	Homo_sapiens_VN1R64P_pseudogene|NC_000016.10|31546805|31547737	4	5	yes	yes	yes	yes	pseudogene	pseudogene	603	933	no	no	no
+>NC_000016.10_VN1R66P_pseudogene_short_fwd_31648318_31648842	Homo_sapiens_VN1R66P_pseudogene|NC_000016.10|31648318|31649231	4	5	yes	yes	yes	yes	pseudogene	pseudogene	525	914	no	no	no
+>NC_000016.10_VN1R68P_pseudogene_short_rev_35118501_35118836	Homo_sapiens_VN1R68P_pseudogene|NC_000016.10|35118172|35118992	3	6	yes	no	yes	yes	pseudogene	pseudogene	336	821	no	no	no
+>NC_000016.10_VN1R70P_pseudogene_short_fwd_35836852_35837151	Homo_sapiens_VN1R70P_pseudogene|NC_000016.10|35836852|35837791	3	7	yes	yes	yes	yes	pseudogene	pseudogene	300	940	no	no	no
+>NW_003315935.1_OR13A1_functional_rev_128204_129133	Homo_sapiens_OR13A1_functional|NW_003315935.1|128204|129190	7	7	yes	yes	yes	yes	functional	functional	930	987	no	no	no change
+>NC_000010.11_OR13A1_functional_rev_45303436_45304365	Homo_sapiens_OR13A1_ap_functional|NC_000010.11|45303436|45304422	7	7	yes	yes	yes	yes	functional	functional	930	987	no	no	no change
+>NC_000010.11_OR6L1P_pseudogene_nonsense_rev_133575086_133576204	Homo_sapiens_OR6L1P_pseudogene|NC_000010.11|133575056|133576135	5	5	yes	no	yes	no	pseudogene	pseudogene	1119	1080	no	no	yes
+>NC_000010.11_OR7E106P_pseudogene_short_rev_14999688_15000122	Homo_sapiens_OR7E26P_pseudogene|NC_000010.11|14999199|14999852	2	5	yes	no	yes	no	pseudogene	pseudogene	435	654	no	no	no
+>NC_000010.11_OR7E115P_pseudogene_nonsense_rev_15007788_15008726	Homo_sapiens_OR7E115P_pseudogene|NC_000010.11|15007788|15008726	7	7	yes	yes	yes	yes	pseudogene	pseudogene	939	939	yes	no	no change
+>NW_025791794.1_OR51P1P_pseudogene_short_fwd_12061_12399	Homo_sapiens_OR51P1P_pseudogene|NW_025791794.1|11350|12501	3	7	yes	no	yes	no	pseudogene	pseudogene	339	1152	no	no	no
+>NW_025791794.1_OR52A4P_functional_rev_116985_117866	Homo_sapiens_OR52A4P_pseudogene|NW_025791794.1|116985|117899	6	6	yes	yes	yes	yes	functional	pseudogene	882	915	no	yes	no change
+>NW_025791794.1_OR52E1_functional_fwd_65892_66818	Homo_sapiens_OR52E1_functional|NW_025791794.1|65892|66818	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_025791794.1_OR52E2_functional_rev_54970_55947	Homo_sapiens_OR52E2_functional|NW_025791794.1|54970|55947	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NW_025791794.1_OR52E3P_pseudogene_short_fwd_88997_89701	Homo_sapiens_OR52E3P_pseudogene|NW_025791794.1|88997|89971	5	7	yes	yes	yes	no	pseudogene	pseudogene	705	975	no	no	no
+>NW_025791794.1_OR52J3_functional_fwd_42846_43781	Homo_sapiens_OR52J3_functional|NW_025791794.1|42846|43781	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NT_187583.1_OR10A3_functional_rev_170077_171021	Homo_sapiens_OR10A3_functional|NT_187583.1|170077|171021	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NT_187583.1_OR10A6_functional_rev_159219_160163	Homo_sapiens_OR10A6_functional|NT_187583.1|159219|160163	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NT_187583.1_OR5E1P_pseudogene_short_fwd_80570_81154	Homo_sapiens_OR5E1P_hu_pseudogene|NT_187583.1|80570|81090	4	4	yes	yes	yes	no	pseudogene	pseudogene	585	521	no	no	yes
+>NT_187583.1_OR5P2_functional_rev_16842_17810	Homo_sapiens_OR5P2_functional|NT_187583.1|16842|17810	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NT_187583.1_OR5P3_functional_rev_45905_46840	Homo_sapiens_OR5P3_functional|NT_187583.1|45905|46840	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_011332695.1_OR10A3_functional_rev_169570_170514	Homo_sapiens_OR10A3_ea_functional|NW_011332695.1|169570|170514	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_011332695.1_OR10A6_functional_rev_158712_159656	Homo_sapiens_OR10A6_bb_functional|NW_011332695.1|158712|159656	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_011332695.1_OR5E1P_pseudogene_short_fwd_80045_80629	Homo_sapiens_OR5E1P_pseudogene|NW_011332695.1|80045|80565	4	4	yes	yes	yes	no	pseudogene	pseudogene	585	521	no	no	yes
+>NW_011332695.1_OR5P2_functional_rev_16842_17810	Homo_sapiens_OR5P2_dw_functional|NW_011332695.1|16842|17810	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_011332695.1_OR5P3_functional_rev_56027_56962	Homo_sapiens_OR5P3_dx_functional|NW_011332695.1|56027|56962	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_017363816.1_OR4C12_functional_rev_23200_24129	Homo_sapiens_OR4C12_functional|NW_017363816.1|23200|24129	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_017363816.1_OR4C45_functional_fwd_74500_75420	Homo_sapiens_OR4C45_functional|NW_017363816.1|74500|75420	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NW_003871073.1_OR5T1_functional_fwd_86388_87368	Homo_sapiens_OR5T1_functional|NW_003871073.1|86388|87368	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NW_003871073.1_OR5T3_functional_fwd_63003_63971	Homo_sapiens_OR5T3_functional|NW_003871073.1|63003|63971	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_003871073.1_OR5T2_functional_rev_42855_43844	Homo_sapiens_OR5T2_functional|NW_003871073.1|42855|43811	7	7	yes	yes	yes	yes	functional	functional	990	957	no	no	no change
+>NW_003871073.1_OR8H1_functional_rev_100876_101811	Homo_sapiens_OR8H1_functional|NW_003871073.1|100876|101811	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_003871073.1_OR8I1P_pseudogene_short_rev_107476_108036	Homo_sapiens_OR8I1P_pseudogene|NW_003871073.1|107289|108219	3	6	yes	no	yes	no	pseudogene	pseudogene	561	931	no	no	no
+>NW_003871073.1_OR8J1_functional_fwd_170996_171946	Homo_sapiens_OR8J1_gr_functional|NW_003871073.1|170996|171946	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_003871073.1_OR8K1_functional_fwd_156788_157747	Homo_sapiens_OR8K1_functional|NW_003871073.1|156788|157747	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003871073.1_OR8K3_functional_fwd_129056_129994	Homo_sapiens_OR8K3_functional|NW_003871073.1|129056|129994	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003871073.1_OR8L1P_pseudogene_nonsense_fwd_199985_200953	Homo_sapiens_OR8L1P_pseudogene|NW_003871073.1|199991|200945	7	7	yes	no	yes	no	pseudogene	pseudogene	969	955	no	no	yes
+>NW_003871073.1_OR8U8_functional_fwd_186359_187333	Homo_sapiens_OR8U8_functional|NW_003871073.1|186374|187333	7	7	yes	yes	yes	yes	functional	functional	975	960	no	no	no change
+>NW_003871073.1_OR8U9_functional_fwd_193979_194908	Homo_sapiens_OR8U9_functional|NW_003871073.1|193979|194908	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_025791793.1_OR5AL1_functional_fwd_223445_224434	Homo_sapiens_OR5AL1_functional|NW_025791793.1|223445|224434	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_025791793.1_OR5M2P_pseudogene_short_rev_290239_290937	Homo_sapiens_OR5M2P_pseudogene|NW_025791793.1|290242|291177	5	7	yes	yes	yes	no	pseudogene	pseudogene	699	936	no	no	no
+>NW_025791793.1_OR5M9_functional_rev_273220_274152	Homo_sapiens_OR5M9_functional|NW_025791793.1|273220|274152	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_025791793.1_OR5M3_functional_rev_280325_281248	Homo_sapiens_OR5M3_functional|NW_025791793.1|280325|281248	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_025791793.1_OR5M4P_pseudogene_short_fwd_259639_260346	Homo_sapiens_OR5M4P_pseudogene|NW_025791793.1|259420|260344	5	5	yes	no	yes	no	pseudogene	pseudogene	708	925	no	no	yes
+>NW_025791793.1_OR5M5P_pseudogene_short_rev_337642_338271	Homo_sapiens_OR5M5P_pseudogene|NW_025791793.1|337318|338253	5	7	yes	yes	yes	no	pseudogene	pseudogene	630	936	no	no	no
+>NW_025791793.1_OR5M7P_pseudogene_short_rev_311659_312021	Homo_sapiens_OR5M7P_pseudogene|NW_025791793.1|311050|312021	3	7	yes	yes	yes	no	pseudogene	pseudogene	363	972	no	no	no
+>NW_025791793.1_OR5M8_functional_rev_301186_302121	Homo_sapiens_OR5M8_functional|NW_025791793.1|301186|302121	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_025791793.1_OR5T1_functional_fwd_86388_87368	Homo_sapiens_OR5T1_ee_functional|NW_025791793.1|86388|87368	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NW_025791793.1_OR5T3_functional_fwd_63003_63971	Homo_sapiens_OR5T3_ed_functional|NW_025791793.1|63003|63971	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_025791793.1_OR5T2_functional_rev_42855_43844	Homo_sapiens_OR5T2_ec_functional|NW_025791793.1|42855|43811	7	7	yes	yes	yes	yes	functional	functional	990	957	no	no	no change
+>NW_025791793.1_OR8H1_functional_rev_100876_101811	Homo_sapiens_OR8H1_ef_functional|NW_025791793.1|100876|101811	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_025791793.1_OR8I1P_pseudogene_short_rev_107476_108036	Homo_sapiens_OR8I1P_nk_pseudogene|NW_025791793.1|107289|108219	3	6	yes	no	yes	no	pseudogene	pseudogene	561	931	no	no	no
+>NW_025791793.1_OR8J1_functional_fwd_170996_171946	Homo_sapiens_OR8J1_functional|NW_025791793.1|170996|171946	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_025791793.1_OR8K1_functional_fwd_156788_157747	Homo_sapiens_OR8K1_eh_functional|NW_025791793.1|156788|157747	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_025791793.1_OR8K3_functional_fwd_129056_129994	Homo_sapiens_OR8K3_eg_functional|NW_025791793.1|129056|129994	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_025791793.1_OR8L1P_pseudogene_nonsense_fwd_192379_193347	Homo_sapiens_OR8L1P_nm_pseudogene|NW_025791793.1|192385|193339	7	7	yes	no	yes	no	pseudogene	pseudogene	969	955	no	no	yes
+>NW_025791793.1_OR8U1_functional_fwd_186358_187302	Homo_sapiens_OR8U1_functional|NW_025791793.1|186373|187302	7	7	yes	yes	yes	yes	functional	functional	945	930	no	no	no change
+>NW_025791793.1_OR8U3_pseudogene_short_rev_228009_228809	Homo_sapiens_OR8U3_functional|NW_025791793.1|228009|228983	6	7	yes	yes	yes	yes	pseudogene	functional	801	975	no	yes	no
+>NW_003871074.1_OR5G1P_pseudogene_short_rev_93104_93913	Homo_sapiens_OR5G1P_pseudogene|NW_003871074.1|93126|94048	6	7	yes	yes	yes	no	pseudogene	pseudogene	810	923	no	no	no
+>NW_003871074.1_OR5G3_pseudogene_short_rev_137415_138008	Homo_sapiens_OR5G3_pseudogene|NW_003871074.1|137321|138488	4	5	yes	no	yes	no	pseudogene	pseudogene	594	1168	no	no	no
+>NW_003871074.1_OR5G5P_pseudogene_short_rev_119698_120174	Homo_sapiens_OR5G5P_pseudogene|NW_003871074.1|119701|120636	3	7	yes	yes	yes	no	pseudogene	pseudogene	477	936	no	no	no
+>NW_003871074.1_OR9G1_functional_fwd_7154_8071	Homo_sapiens_OR9G1_gs_functional|NW_003871074.1|7154|8071	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NW_003871074.1_OR9G9_functional_fwd_18234_19151	Homo_sapiens_OR9G9_functional|NW_003871074.1|18234|19151	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NW_003871074.1_OR9G4_functional_rev_60670_61608	Homo_sapiens_OR9G4_functional|NW_003871074.1|60670|61608	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NT_187658.1_TAS2R10_functional_rev_24052_24975	Homo_sapiens_TAS2R10_functional|NT_187658.1|24052|24975	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NT_187658.1_TAS2R12P_pseudogene_nonsense_rev_93640_94533	Homo_sapiens_TAS2R12P_pseudogene|NT_187658.1|93640|94587	7	7	yes	yes	yes	yes	pseudogene	pseudogene	894	948	no	no	no change
+>NT_187658.1_TAS2R13_functional_rev_107093_108004	Homo_sapiens_TAS2R13_functional|NT_187658.1|107093|108004	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NT_187658.1_TAS2R14_functional_rev_136960_137913	Homo_sapiens_TAS2R14_functional|NT_187658.1|136960|137913	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NT_187658.1_TAS2R19_functional_rev_220366_221265	Homo_sapiens_TAS2R19_iq_functional|NT_187658.1|220366|221265	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NT_187658.1_TAS2R68P_pseudogene_short_rev_278456_278824	Homo_sapiens_TAS2R68P_qr_pseudogene|NT_187658.1|278418|279362	3	4	yes	yes	yes	no	pseudogene	pseudogene	369	945	no	no	no
+>NT_187658.1_TAS2R30_functional_rev_328319_329278	Homo_sapiens_TAS2R30_iu_functional|NT_187658.1|328319|329278	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NT_187658.1_TAS2R20_functional_rev_195641_196570	Homo_sapiens_TAS2R20_ip_functional|NT_187658.1|195641|196570	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NT_187658.1_TAS2R46_pseudogene_short_rev_262409_263158	Homo_sapiens_TAS2R46_is_pseudogene|NT_187658.1|262229|263158	6	7	yes	yes	yes	yes	pseudogene	pseudogene	750	930	no	no	no
+>NT_187658.1_TAS2R45_functional_rev_291887_292786	Homo_sapiens_TAS2R45_functional|NT_187658.1|291887|292786	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NT_187658.1_TAS2R31_functional_rev_229411_230340	Homo_sapiens_TAS2R31_ir_functional|NT_187658.1|229411|230340	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NT_187658.1_TAS2R50_functional_rev_184654_185553	Homo_sapiens_TAS2R50_functional|NT_187658.1|184654|185553	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NT_187658.1_TAS2R42_functional_rev_380956_381840	Homo_sapiens_TAS2R42_functional|NT_187658.1|380956|381900	7	7	yes	yes	yes	yes	functional	functional	885	945	no	no	no change
+>NT_187658.1_TAS2R67P_pseudogene_nonsense_rev_374487_375365	Homo_sapiens_TAS2R67P_pseudogene|NT_187658.1|374504|375425	6	7	yes	yes	yes	yes	pseudogene	pseudogene	879	922	no	no	no
+>NT_187658.1_TAS2R7_functional_rev_320_1180	Homo_sapiens_TAS2R7_functional|NT_187658.1|320|1276	6	7	yes	yes	yes	yes	functional	functional	861	957	no	no	no
+>NT_187658.1_TAS2R8_functional_rev_4757_5686	Homo_sapiens_TAS2R8_functional|NT_187658.1|4757|5686	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NT_187658.1_TAS2R9_functional_rev_7843_8781	Homo_sapiens_TAS2R9_functional|NT_187658.1|7843|8781	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003571050.1_TAS2R10_functional_rev_24052_24975	Homo_sapiens_TAS2R10_gy_functional|NW_003571050.1|24052|24975	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_003571050.1_TAS2R12P_pseudogene_nonsense_rev_93640_94533	Homo_sapiens_TAS2R12P_pp_pseudogene|NW_003571050.1|93640|94587	7	7	yes	yes	yes	yes	pseudogene	pseudogene	894	948	no	no	no change
+>NW_003571050.1_TAS2R13_functional_rev_107093_108004	Homo_sapiens_TAS2R13_gz_functional|NW_003571050.1|107093|108004	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NW_003571050.1_TAS2R14_functional_rev_136960_137913	Homo_sapiens_TAS2R14_ha_functional|NW_003571050.1|136960|137913	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003571050.1_TAS2R18P_pseudogene_nonsense_short_rev_389467_390288	Homo_sapiens_TAS2R18P_pseudogene|NW_003571050.1|389430|390348	5	5	yes	yes	yes	yes	pseudogene	pseudogene	822	919	no	no	no change
+>NW_003571050.1_TAS2R19_functional_rev_220378_221277	Homo_sapiens_TAS2R19_functional|NW_003571050.1|220378|221277	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NW_003571050.1_TAS2R68P_pseudogene_short_rev_314081_314449	Homo_sapiens_TAS2R68P_pseudogene|NW_003571050.1|314043|314987	3	4	yes	yes	yes	no	pseudogene	pseudogene	369	945	no	no	no
+>NW_003571050.1_TAS2R30_functional_rev_363939_364898	Homo_sapiens_TAS2R30_functional|NW_003571050.1|363939|364898	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003571050.1_TAS2R20_functional_rev_195652_196581	Homo_sapiens_TAS2R20_functional|NW_003571050.1|195652|196581	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003571050.1_TAS2R46_functional_rev_260071_261000	Homo_sapiens_TAS2R46_functional|NW_003571050.1|260071|261000	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003571050.1_TAS2R45_functional_rev_327525_328424	Homo_sapiens_TAS2R45_it_functional|NW_003571050.1|327525|328424	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NW_003571050.1_TAS2R31_functional_rev_229112_230041	Homo_sapiens_TAS2R31_functional|NW_003571050.1|229112|230041	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003571050.1_TAS2R43_functional_rev_290027_290956	Homo_sapiens_TAS2R43_hg_functional|NW_003571050.1|290027|290956	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003571050.1_TAS2R50_functional_rev_184667_185566	Homo_sapiens_TAS2R50_hb_functional|NW_003571050.1|184667|185566	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NW_003571050.1_TAS2R7_functional_rev_320_1180	Homo_sapiens_TAS2R7_gv_functional|NW_003571050.1|320|1276	6	7	yes	yes	yes	yes	functional	functional	861	957	no	no	no
+>NW_003571050.1_TAS2R8_functional_rev_4757_5686	Homo_sapiens_TAS2R8_gw_functional|NW_003571050.1|4757|5686	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003571050.1_TAS2R9_functional_rev_7843_8781	Homo_sapiens_TAS2R9_gx_functional|NW_003571050.1|7843|8781	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_000022.11_OR11H1_functional_fwd_15528192_15529139	Homo_sapiens_OR11H1_functional|NC_000022.11|15528192|15529139	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NT_187602.1_OR11J2P_pseudogene_nonsense_fwd_291915_293213	Homo_sapiens_OR11J7P_pseudogene|NT_187602.1|292289|293195	5	4	yes	no	yes	no	pseudogene	pseudogene	1299	907	no	no	yes
+>NT_187602.1_OR11J5P_pseudogene_short_rev_300834_301547	Homo_sapiens_OR11J6P_pseudogene|NT_187602.1|300870|301766	5	5	yes	no	yes	no	pseudogene	pseudogene	714	897	no	no	yes
+>NT_187602.1_OR4H6BP_pseudogene_short_fwd_379183_379950	Homo_sapiens_OR4H6BP_px_pseudogene|NT_187602.1|379192|380129	5	6	yes	yes	yes	yes	pseudogene	pseudogene	768	938	no	no	no
+>NT_187602.1_OR4M2B_functional_fwd_403171_404112	Homo_sapiens_OR4M2B_hi_functional|NT_187602.1|403171|404112	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NT_187602.1_OR4N4_functional_fwd_417029_417979	Homo_sapiens_OR4N4_bn_functional|NT_187602.1|417029|417979	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NT_187382.1_OR11J2P_pseudogene_nonsense_fwd_261164_262462	Homo_sapiens_OR11J2P_pv_pseudogene|NT_187382.1|261515|262460	5	4	yes	no	yes	no	pseudogene	pseudogene	1299	946	no	no	yes
+>NT_187382.1_OR4N4_functional_fwd_386278_387228	Homo_sapiens_OR4N4_functional|NT_187382.1|386278|387228	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_021160017.1_OR11J2P_pseudogene_nonsense_rev_2928670_2929578	Homo_sapiens_OR11J2P_ol_pseudogene|NW_021160017.1|2928672|2929617	4	4	yes	no	yes	no	pseudogene	pseudogene	909	946	no	no	yes
+>NW_021160017.1_OR11J5P_pseudogene_short_rev_2132156_2132869	Homo_sapiens_OR11J5P_oe_pseudogene|NW_021160017.1|2132165|2133124	5	7	yes	yes	yes	no	pseudogene	pseudogene	714	960	no	no	no
+>NW_021160017.1_OR11J5P_pseudogene_short_fwd_2920322_2921035	Homo_sapiens_OR11J6P_ok_pseudogene|NW_021160017.1|2920103|2920999	5	7	yes	no	yes	no	pseudogene	pseudogene	714	897	no	no	no
+>NW_021160017.1_OR4H6BP_pseudogene_short_fwd_1285252_1286019	Homo_sapiens_OR4H6BP_pseudogene|NW_021160017.1|1285261|1286198	5	6	yes	yes	yes	yes	pseudogene	pseudogene	768	938	no	no	no
+>NW_021160017.1_OR4H6BP_pseudogene_short_fwd_2203209_2203976	Homo_sapiens_OR4H6BP_oj_pseudogene|NW_021160017.1|2203218|2204155	5	6	yes	yes	yes	yes	pseudogene	pseudogene	768	938	no	no	no
+>NW_021160017.1_OR4M2B_functional_fwd_1309218_1310159	Homo_sapiens_OR4M2B_functional|NW_021160017.1|1309218|1310159	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_021160017.1_OR4M2B_functional_fwd_2227170_2228111	Homo_sapiens_OR4M2_fd_functional|NW_021160017.1|2227170|2228111	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_021160017.1_OR4N4C_functional_fwd_1323146_1324096	Homo_sapiens_OR4N4_fe_functional|NW_021160017.1|1323146|1324096	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_021160017.1_OR4N4C_functional_fwd_2241094_2242044	Homo_sapiens_OR4N4C_fg_functional|NW_021160017.1|2241094|2242044	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NW_021160017.1_OR4N3P_pseudogene_short_fwd_1354509_1354814	Homo_sapiens_OR4N3P_gn_pseudogene|NW_021160017.1|1354269|1355205	2	7	yes	yes	yes	no	pseudogene	pseudogene	306	937	no	no	no
+>NW_021160017.1_OR4Q1P_pseudogene_short_fwd_1280786_1281253	Homo_sapiens_OR4Q1P_oh_pseudogene|NW_021160017.1|1280270|1281250	3	6	yes	no	yes	no	pseudogene	pseudogene	468	981	no	no	no
+>NW_025791796.1_OR11G1P_pseudogene_nonsense_fwd_381799_382827	Homo_sapiens_OR11G1P_pseudogene|NW_025791796.1|381808|382816	4	4	yes	no	yes	no	pseudogene	pseudogene	1029	1009	no	no	yes
+>NW_025791796.1_OR11G2_functional_fwd_400119_401054	Homo_sapiens_OR11G2_functional|NW_025791796.1|400119|401054	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_025791796.1_OR11H4_functional_fwd_445503_446447	Homo_sapiens_OR11H4_functional|NW_025791796.1|445503|446447	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_025791796.1_OR11H6_functional_fwd_426460_427383	Homo_sapiens_OR11H6_functional|NW_025791796.1|426391|427383	7	7	yes	yes	yes	yes	functional	functional	924	993	no	no	no change
+>NW_025791796.1_OR11H7_functional_fwd_432083_433027	Homo_sapiens_OR11H7_functional|NW_025791796.1|432083|433027	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_025791796.1_OR4K15_functional_fwd_178273_179247	Homo_sapiens_OR4K15_functional|NW_025791796.1|178273|179247	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NW_025791796.1_OR4K13_functional_rev_236525_237439	Homo_sapiens_OR4K13_functional|NW_025791796.1|236525|237439	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NW_025791796.1_OR4K14_pseudogene_short_rev_216942_217697	Homo_sapiens_OR4K14_functional|NW_025791796.1|216942|217874	6	7	yes	yes	yes	yes	pseudogene	functional	756	933	no	yes	no
+>NW_025791796.1_OR4K5_functional_fwd_123289_124260	Homo_sapiens_OR4K5_functional|NW_025791796.1|123289|124260	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NW_025791796.1_OR4K17_functional_fwd_320181_321119	Homo_sapiens_OR4K17_functional|NW_025791796.1|320181|321119	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_025791796.1_OR4K1_pseudogene_short_fwd_138589_139284	Homo_sapiens_OR4K1_functional|NW_025791796.1|138349|139284	5	7	yes	yes	yes	yes	pseudogene	functional	696	936	no	yes	no
+>NW_025791796.1_OR4K2_functional_fwd_78950_79894	Homo_sapiens_OR4K2_functional|NW_025791796.1|78950|79894	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NW_025791796.1_OR4K3_pseudogene_short_rev_71181_71855	Homo_sapiens_OR4K3_pseudogene|NW_025791796.1|70879|71855	5	4	yes	yes	yes	yes	pseudogene	pseudogene	675	977	no	no	yes
+>NW_025791796.1_OR4L1_functional_fwd_262726_263664	Homo_sapiens_OR4L1_functional|NW_025791796.1|262726|263664	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_025791796.1_OR4N2_functional_fwd_30131_31054	Homo_sapiens_OR4N2_functional|NW_025791796.1|30131|31054	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_025791796.1_OR4N5_functional_fwd_346417_347343	Homo_sapiens_OR4N5_functional|NW_025791796.1|346417|347343	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_025791796.1_OR4Q2_functional_fwd_204845_205786	Homo_sapiens_OR4Q2_functional|NW_025791796.1|204845|205786	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_000021.9_OR4K11P_pseudogene_short_rev_13544646_13545185	Homo_sapiens_OR4K11P_pseudogene|NC_000021.9|13544231|13545185	4	4	yes	yes	yes	no	pseudogene	pseudogene	540	955	no	no	yes
+>NC_000021.9_OR4K12P_pseudogene_nonsense_short_rev_13581060_13581890	Homo_sapiens_OR4K12P_pseudogene|NC_000021.9|13581072|13582004	4	5	yes	yes	yes	no	pseudogene	pseudogene	831	933	no	no	no
+>NC_000018.10_OR4K8P_pseudogene_short_fwd_14613210_14613731	Homo_sapiens_OR4K8P_pseudogene|NC_000018.10|14613210|14614181	4	7	yes	yes	yes	no	pseudogene	pseudogene	522	972	no	no	no
+>NC_000018.10_VN1R74P_pseudogene_short_rev_14680807_14681382	Homo_sapiens_VN1R74P_pseudogene|NC_000018.10|14680406|14681322	4	5	yes	no	yes	yes	pseudogene	pseudogene	576	917	no	no	no
+>NW_021160015.1_OR4F4_functional_rev_28279_29196	Homo_sapiens_OR4F4_functional|NW_021160015.1|28279|29196	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_000013.11_OR7E111P_pseudogene_short_fwd_67902355_67902738	Homo_sapiens_OR7E111P_pseudogene|NC_000013.11|67902244|67903224	4	7	yes	no	yes	no	pseudogene	pseudogene	384	981	no	no	no
+>NC_000013.11_OR7E101P_pseudogene_nonsense_short_fwd_46460558_46461211	Homo_sapiens_OR7E101P_pseudogene|NC_000013.11|46460579|46461188	3	4	yes	no	yes	no	pseudogene	pseudogene	654	610	no	no	no
+>NC_000013.11_OR7E155P_pseudogene_short_rev_41439813_41440463	Homo_sapiens_OR7E155P_pseudogene|NC_000013.11|41439837|41440862	4	7	yes	no	yes	no	pseudogene	pseudogene	651	1026	no	no	no
+>NT_187570.1_OR7E157P_pseudogene_short_fwd_275433_275951	Homo_sapiens_OR7E157P_pseudogene|NT_187570.1|275091|276059	5	7	yes	no	yes	no	pseudogene	pseudogene	519	969	no	no	no
+>NT_187537.1_OR7E97P_pseudogene_short_fwd_81920_82369	Homo_sapiens_OR7E97P_pseudogene|NT_187537.1|81611|82581	4	7	yes	no	yes	no	pseudogene	pseudogene	450	971	no	no	no
+>NC_000023.11_OR11Q1P_pseudogene_nonsense_fwd_131204027_131205049	Homo_sapiens_OR11Q1P_pseudogene|NC_000023.11|131204096|131205044	2	4	yes	no	yes	no	pseudogene	pseudogene	1023	949	no	no	no
+>NC_000023.11_OR13H1_functional_fwd_131544074_131545000	Homo_sapiens_OR13H1_functional|NC_000023.11|131544074|131545000	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_000023.11_OR5AW1P_pseudogene_nonsense_short_rev_131341577_131342338	Homo_sapiens_OR5AW1P_pseudogene|NC_000023.11|131341529|131342452	3	4	yes	yes	yes	no	pseudogene	pseudogene	762	924	no	no	no
+>NC_000023.11_OR5BH1P_pseudogene_nonsense_rev_131398070_131398930	Homo_sapiens_OR5BH1P_pseudogene|NC_000023.11|131398049|131398957	5	5	yes	yes	yes	no	pseudogene	pseudogene	861	909	no	no	yes
+>NC_000023.11_OPN1LW_functional_fwd_154144239_154158926	Homo_sapiens_OPN1LW_functional|NC_000023.11|154144243|154159032	7	7	yes	yes	yes	yes	functional	functional	1140	1095	no	no	no change
+>NC_000023.11_OPN1MW_functional_fwd_154182678_154196040	Homo_sapiens_OPN1MW_functional|NC_000023.11|154182596|154196861	7	7	yes	yes	yes	yes	functional	functional	1095	1095	yes	no	no change
+>NC_000023.11_OPN1MW3_functional_fwd_154219816_154233180	Homo_sapiens_OPN1MW2_functional|NC_000023.11|154219756|154233286	7	7	yes	yes	yes	yes	functional	functional	1095	1095	yes	no	no change
+>NC_000023.11_OPN1MW3_functional_fwd_154257620_154270984	Homo_sapiens_OPN1MW3_functional|NC_000023.11|154257582|154271090	7	7	yes	yes	yes	yes	functional	functional	1095	1095	yes	no	no change
+>NT_187693.1_VN1R104P_pseudogene_short_rev_303175_303543	Homo_sapiens_VN1R104P_qb_pseudogene|NT_187693.1|302620|303537	3	7	yes	yes	yes	yes	pseudogene	pseudogene	369	918	no	no	no
+>NW_003571061.2_VN1R104P_pseudogene_short_rev_302289_302657	Homo_sapiens_VN1R104P_pseudogene|NW_003571061.2|301734|302651	3	7	yes	yes	yes	yes	pseudogene	pseudogene	369	918	no	no	no
+>NW_003571055.2_VN1R104P_pseudogene_short_rev_302135_302503	Homo_sapiens_VN1R104P_qu_pseudogene|NW_003571055.2|301580|302497	3	7	yes	yes	yes	yes	pseudogene	pseudogene	369	918	no	no	no
+>NW_003571054.1_VN1R104P_pseudogene_short_rev_302206_302574	Homo_sapiens_VN1R104P_sp_pseudogene|NW_003571054.1|301651|302568	3	7	yes	yes	yes	yes	pseudogene	pseudogene	369	918	no	no	no

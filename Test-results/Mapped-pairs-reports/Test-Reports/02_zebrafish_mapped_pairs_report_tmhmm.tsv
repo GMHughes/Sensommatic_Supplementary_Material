@@ -1,0 +1,224 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_007129.7_VN2R1_functional_fwd_33341286_33344315	Danio_rerio_v2rh14_functional|NC_007129.7|33340868|33344315	7	7	yes	yes	yes	yes	functional	functional	2232	2463	no	no	no change
+>NC_007129.7_VN2R1_functional_fwd_33272499_33275912	Danio_rerio_v2ra20_functional|NC_007129.7|33274959|33275912	7	7	yes	no	yes	yes	functional	functional	2322	954	no	no	yes
+>NC_007129.7_VN2R1_pseudogene_short_fwd_33265190_33268451	Danio_rerio_v2rx4_pseudogene|NC_007129.7|33265145|33267440	7	1	yes	yes	yes	yes	pseudogene	pseudogene	1617	1686	no	no	yes
+>NC_007129.7_VN2R1_functional_fwd_33276443_33281264	Danio_rerio_v2rx3_functional|NC_007129.7|33276266|33281264	7	7	yes	yes	yes	yes	functional	functional	2178	2580	no	no	no change
+>NC_007129.7_VN2R1_functional_fwd_34225520_34242558	Danio_rerio_v2rl1_functional|NC_007129.7|34225520|34242558	7	7	yes	yes	yes	yes	functional	functional	2790	2790	yes	no	no change
+>NC_007129.7_VN2R1_pseudogene_short_fwd_33285089_33294088	Danio_rerio_v2ra17_functional|NC_007129.7|33284116|33294088	7	7	yes	yes	yes	yes	pseudogene	functional	1941	2613	no	yes	no change
+>NC_007129.7_VN2R1_functional_fwd_33311122_33331641	Danio_rerio_v2ra16_functional|NC_007129.7|33310786|33314799	1	7	yes	yes	yes	yes	functional	functional	4737	2571	no	no	no
+>NC_007129.7_VN2R1_functional_fwd_33353345_33356964	Danio_rerio_v2rh13_functional|NC_007129.7|33353303|33356964	7	7	yes	yes	yes	yes	functional	functional	2565	2607	no	no	no change
+>NC_007129.7_VN2R1_pseudogene_short_fwd_32780908_32784267	Danio_rerio_v2ra1_functional|NC_007129.7|32783131|32784267	7	7	yes	yes	yes	yes	pseudogene	functional	1419	1044	no	yes	no change
+>NW_018395034.1_VN2R1_functional_fwd_173165_176194	Danio_rerio_v2rh14_functional|NW_018395034.1|172751|176194	7	7	yes	yes	yes	yes	functional	functional	2319	2463	no	no	no change
+>NW_018395034.1_VN2R1_functional_fwd_185465_189046	Danio_rerio_v2rh13_functional|NW_018395034.1|185423|189046	7	7	yes	yes	yes	yes	functional	functional	2568	2610	no	no	no change
+>NW_018395034.1_VN2R1_pseudogene_short_fwd_155229_163731	Danio_rerio_v2ra18_functional|NW_018395034.1|154233|163731	7	7	yes	yes	yes	yes	pseudogene	functional	1941	2571	no	yes	no change
+>NW_018395034.1_VN2R1_pseudogene_short_fwd_132901_133848	Danio_rerio_v2ra17_functional|NW_018395034.1|100077|133848	7	7	yes	yes	yes	yes	pseudogene	functional	948	2598	no	yes	no change
+>NW_018395034.1_VN2R1_functional_fwd_144486_154868	Danio_rerio_v2ra16_functional|NW_018395034.1|144456|148510	8	7	yes	yes	yes	yes	functional	functional	2967	2571	no	no	yes
+>NW_018395034.1_VN2R1_functional_fwd_206376_210422	Danio_rerio_v2rh32_functional|NW_018395034.1|206277|210422_h	7	7	yes	yes	yes	yes	functional	functional	2469	2568	no	no	no change
+>NC_007115.7_opn1sw1_functional_rev_13578354_13580271	Danio_rerio_opn1sw1_functional|NC_007115.7|13580271|13578354	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007119.7_rho_functional_rev_54076591_54077655	Danio_rerio_rho_functional|NC_007119.7|54076591|54077655	7	7	yes	yes	yes	yes	functional	functional	1065	1065	no	no	no change
+>NC_007119.7_TAS2R40_functional_fwd_30781040_30782002	Danio_rerio_tas2r200.2_ay_functional|NC_007119.7|30781040|30782002	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_007119.7_TAS2R30_functional_fwd_30784020_30784982	Danio_rerio_tas2r200.1_az_functional|NC_007119.7|30784020|30784982	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_007134.7_OR2AG1_functional_rev_20373314_20374396	Danio_rerio_OR2G3_cx_functional|NC_007134.7|20373314|20374396	7	7	yes	yes	yes	yes	functional	functional	1083	1083	yes	no	no change
+>NC_007134.7_TAS1R1_functional_fwd_21403639_21440054	Danio_rerio_tas1r1_functional|NC_007134.7|21424747|21440054	8	7	yes	yes	yes	yes	functional	functional	2925	2466	no	no	yes
+>NC_007122.7_rho_functional_rev_19096660_19097904	Danio_rerio_rhol_functional|NC_007122.7|19097727|19096660	7	7	yes	yes	yes	yes	functional	functional	1245	1068	no	no	no change
+>NC_007122.7_opn1lw1_functional_fwd_25472890_25479510	Danio_rerio_opn1lw1_functional|NC_007122.7|25477741|25479510	1	7	yes	yes	yes	yes	functional	functional	1662	1074	no	no	no
+>NW_018394822.1_opn1lw1_functional_fwd_103623_105394	Danio_rerio_opn1lw1_functional|NW_018394822.1|103623|105394	7	7	yes	yes	yes	yes	functional	functional	1074	1074	yes	no	no change
+>NW_018394822.1_opn1sw2_functional_fwd_98803_101074	Danio_rerio_opn1sw2_functional|NW_018394822.1|98803|101074_e	7	7	yes	yes	yes	yes	functional	functional	1065	1065	yes	no	no change
+>NC_007117.7_OR4F6_functional_fwd_52927860_52928783	Danio_rerio_or136-2p_functional|NC_007117.7|52927860|52928783	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_007117.7_OR4F6_functional_fwd_52931976_52932905	Danio_rerio_OR4K2_functional|NC_007117.7|52931976|52932905	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_007117.7_OR4F6_functional_fwd_52938541_52939464	Danio_rerio_OR2M2_functional|NC_007117.7|52938541|52939464	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_007117.7_OR4K1_functional_fwd_52895250_52896179	Danio_rerio_OR4K15_functional|NC_007117.7|52895250|52896179	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_007117.7_OR4K1_functional_fwd_52903501_52904424	Danio_rerio_or137-6p_functional|NC_007117.7|52903591|52904424	7	7	yes	no	yes	yes	functional	functional	924	834	no	no	yes
+>NC_007117.7_OR4K1_functional_fwd_52911519_52912445	Danio_rerio_OR2A25_functional|NC_007117.7|52911519|52912445	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_007117.7_OR4K1_functional_fwd_52892141_52893073	Danio_rerio_OR4K1_functional|NC_007117.7|52892141|52893073	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_007117.7_OR4K1_functional_fwd_52877406_52878338	Danio_rerio_OR6C74_functional|NC_007117.7|52877406|52878338	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_007117.7_OR8J3_functional_fwd_52853404_52854369	Danio_rerio_or138-1p_functional|NC_007117.7|52853461|52854369	7	7	yes	no	yes	yes	functional	functional	966	909	no	no	yes
+>NC_007117.7_OR51L1_pseudogene_short_fwd_52866831_52867499	Danio_rerio_or139-1p_pseudogene|NC_007117.7|52866585|52867499	5	7	yes	no	yes	yes	pseudogene	pseudogene	669	915	no	no	no
+>NC_007121.7_TAAR13c_functional_rev_40498159_40499148	Danio_rerio_TAAR13c_bq_functional|NC_007121.7|40498159|40499148	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40396302_40397363	Danio_rerio_taar20u_functional|NC_007121.7|40396302|40397363	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40453657_40454709	Danio_rerio_taar20o_functional|NC_007121.7|40453657|40454709	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40762230_40763234	Danio_rerio_taar19g_functional|NC_007121.7|40762230|40763234	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40737516_40738577	Danio_rerio_TAAR13c_y_functional|NC_007121.7|40737570|40738577	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40629592_40630653	Danio_rerio_TAAR13c_l_functional|NC_007121.7|40629592|40630653	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40442694_40443746	Danio_rerio_taar20q_functional|NC_007121.7|40442694|40443746	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40781052_40782113	Danio_rerio_taar19c_functional|NC_007121.7|40781052|40782113	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40401858_40402904	Danio_rerio_taar20t_functional|NC_007121.7|40401858|40402904	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40420052_40421050	Danio_rerio_taar20w_functional|NC_007121.7|40420052|40421050	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40387210_40388265	Danio_rerio_taar20c1_functional|NC_007121.7|40387210|40388265	7	7	yes	yes	yes	yes	functional	functional	1056	1056	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40633990_40635051	Danio_rerio_TAAR13c_m_functional|NC_007121.7|40634044|40635051	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40513609_40514613	Danio_rerio_taar19k_bs_functional|NC_007121.7|40513609|40514613	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40379084_40380136	Danio_rerio_taar20c_functional|NC_007121.7|40379084|40380136	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40726375_40727436	Danio_rerio_TAAR13c_w_functional|NC_007121.7|40726375|40727436	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40677452_40678522	Danio_rerio_taar19o_functional|NC_007121.7|40677452|40678522	7	7	yes	yes	yes	yes	functional	functional	1071	1071	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40742685_40743746	Danio_rerio_taar19e_functional|NC_007121.7|40742685|40743746	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40428695_40429747	Danio_rerio_taar20r_functional|NC_007121.7|40428695|40429747	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40642517_40643602	Danio_rerio_TAAR13c_n_functional|NC_007121.7|40642595|40643602	7	7	yes	yes	yes	yes	functional	functional	1086	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40711262_40712323	Danio_rerio_TAAR13c_u_functional|NC_007121.7|40711316|40712323	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40665158_40666207	Danio_rerio_TAAR13c_q_functional|NC_007121.7|40665212|40666207	7	7	yes	yes	yes	yes	functional	functional	1050	996	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40670823_40671884	Danio_rerio_taar19p_functional|NC_007121.7|40670877|40671884	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40700416_40701465	Danio_rerio_TAAR13c_s_functional|NC_007121.7|40700470|40701465	7	7	yes	yes	yes	yes	functional	functional	1050	996	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40774245_40775249	Danio_rerio_taar19b_functional|NC_007121.7|40774245|40775249	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40706076_40707137	Danio_rerio_TAAR13c_t_functional|NC_007121.7|40706130|40707137	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40684734_40685795	Danio_rerio_TAAR13c_r_functional|NC_007121.7|40684788|40685795	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40690387_40691436	Danio_rerio_taar19m_functional|NC_007121.7|40690441|40691436	7	7	yes	yes	yes	yes	functional	functional	1050	996	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40646764_40647825	Danio_rerio_TAAR13c_o_functional|NC_007121.7|40646818|40647825	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40338250_40339308	Danio_rerio_taar20b_functional|NC_007121.7|40338250|40339254	7	7	yes	yes	yes	yes	functional	functional	1059	1005	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40731834_40732895	Danio_rerio_TAAR13c_x_functional|NC_007121.7|40731888|40732895	7	7	yes	yes	yes	yes	functional	functional	1062	1008	no	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40722232_40723293	Danio_rerio_TAAR13c_v_functional|NC_007121.7|40722232|40723293	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40359577_40360635	Danio_rerio_TAAR13_functional|NC_007121.7|40359577|40360635	7	7	yes	yes	yes	yes	functional	functional	1059	1059	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40652435_40653442	Danio_rerio_TAAR13c_p_functional|NC_007121.7|40652435|40653442	7	7	yes	yes	yes	yes	functional	functional	1008	1008	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40657985_40658992	Danio_rerio_taar19r_functional|NC_007121.7|40657985|40658992	7	7	yes	yes	yes	yes	functional	functional	1008	1008	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40489637_40490632	Danio_rerio_taar20x_bp_functional|NC_007121.7|40489637|40490632	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40351198_40352250	Danio_rerio_TAAR13c_functional|NC_007121.7|40351198|40352250	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40405283_40406278	Danio_rerio_taar20l_functional|NC_007121.7|40405283|40406278	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40768203_40769264	Danio_rerio_taar19d_functional|NC_007121.7|40768203|40769264	7	7	yes	yes	yes	yes	functional	functional	1062	1062	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40568711_40569778	Danio_rerio_TAAR13c_h_functional|NC_007121.7|40568711|40569778	7	7	yes	yes	yes	yes	functional	functional	1068	1068	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40542904_40543896	Danio_rerio_TAAR13c_g_functional|NC_007121.7|40542904|40543896	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_007121.7_TAAR13c_functional_fwd_40598767_40599804	Danio_rerio_TAAR13c_j_functional|NC_007121.7|40598767|40599804	7	7	yes	yes	yes	yes	functional	functional	1038	1038	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40588802_40589794	Danio_rerio_TAAR6_functional|NC_007121.7|40588802|40589794	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40616572_40617567	Danio_rerio_TAAR13c_k_functional|NC_007121.7|40616572|40617567	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40593443_40594417	Danio_rerio_TAAR6_i_functional|NC_007121.7|40593443|40594417	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_007121.7_TAAR13c_functional_rev_40611799_40612794	Danio_rerio_taar16f_functional|NC_007121.7|40611799|40612794	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_213331_214383	Danio_rerio_taar20r_bm_functional|NW_018394797.1|213331|214383	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_229887_230939	Danio_rerio_taar20o_bn_functional|NW_018394797.1|229887|230939	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_275954_276943	Danio_rerio_TAAR13c_d_functional|NW_018394797.1|275954|276943	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_247459_248451	Danio_rerio_TAAR13c_bo_functional|NW_018394797.1|247459|248451	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_186628_187686	Danio_rerio_taar20v_functional|NW_018394797.1|186628|187686	7	7	yes	yes	yes	yes	functional	functional	1059	1059	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_177085_178131	Danio_rerio_taar20t_bj_functional|NW_018394797.1|177085|178131	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_155445_156500	Danio_rerio_taar20c1_bg_functional|NW_018394797.1|155445|156500	7	7	yes	yes	yes	yes	functional	functional	1056	1056	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_291404_292408	Danio_rerio_taar19k_functional|NW_018394797.1|291404|292408	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_280165_281160	Danio_rerio_TAAR13_br_functional|NW_018394797.1|280165|281160	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_112867_113865	Danio_rerio_taar20h_functional|NW_018394797.1|112867|113865	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_143494_144546	Danio_rerio_TAAR13c_be_functional|NW_018394797.1|143494|144492	7	7	yes	yes	yes	yes	functional	functional	1053	999	no	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_267432_268427	Danio_rerio_taar20x_functional|NW_018394797.1|267432|268427	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_148050_149102	Danio_rerio_taar20c_bf_functional|NW_018394797.1|148050|149102	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NW_018394797.1_TAAR13c_functional_rev_117170_118222	Danio_rerio_TAAR13c_bc_functional|NW_018394797.1|117170|118222	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40303151_40304089	Danio_rerio_OR146_at_functional|NC_007132.7|40303151|40304089	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40276859_40277800	Danio_rerio_OR146_ar_functional|NC_007132.7|40276859|40277800	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_007132.7_OR52N5_functional_rev_40249084_40250025	Danio_rerio_OR52N5_functional|NC_007132.7|40249084|40250025	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40296774_40297700	Danio_rerio_OR146_as_functional|NC_007132.7|40296774|40297700	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_007132.7_OR2M3_functional_fwd_25375380_25376348	Danio_rerio_OR2M5_aq_functional|NC_007132.7|25375380|25376348	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_007132.7_OR8K5_functional_rev_21540089_21541039	Danio_rerio_OR2T6_functional|NC_007132.7|21540089|21541039	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40293515_40294468	Danio_rerio_or115-4p_functional|NC_007132.7|40293515|40294468	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40261217_40262146	Danio_rerio_OR146_functional|NC_007132.7|40261217|40262146	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_007132.7_OR146_functional_fwd_40307677_40308621	Danio_rerio_or115-3p_functional|NC_007132.7|40307677|40308605	7	7	yes	yes	yes	no	functional	functional	945	929	no	no	yes
+>NC_007132.7_ORPROTEINOLF4_functional_fwd_21738372_21739313	Danio_rerio_OR142_functional|NC_007132.7|21738372|21739313	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_007132.7_ORPROTEINOLF4_pseudogene_short_fwd_21736707_21737240	Danio_rerio_or124-5p_pseudogene|NC_007132.7|21736539|21737571	5	6	yes	no	yes	no	pseudogene	pseudogene	534	1033	no	no	no
+>NC_007132.7_OR2M3_functional_fwd_25344498_25345466	Danio_rerio_OR2M5_functional|NC_007132.7|25344498|25345466	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_007132.7_OR4C15_functional_rev_21599602_21600564	Danio_rerio_OR2A1/2A42_ap_functional|NC_007132.7|21599602|21600564	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_007132.7_OR8K5_pseudogene_short_rev_21553990_21554835	Danio_rerio_OR8K5_ao_functional|NC_007132.7|21553990|21554955	6	7	yes	yes	yes	yes	pseudogene	functional	846	966	no	yes	no
+>NC_007132.7_OR4E2_functional_rev_40315495_40316445	Danio_rerio_OR6C75_au_functional|NC_007132.7|40315495|40316445	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_007132.7_OR4C15_pseudogene_short_rev_21563199_21563729	Danio_rerio_OR10AC1_pseudogene|NC_007132.7|21563199|21563954	4	5	yes	yes	yes	yes	pseudogene	pseudogene	531	756	no	no	no
+>NC_007132.7_OR4C15_functional_rev_21548924_21549832	Danio_rerio_OR8K5_functional|NC_007132.7|21548924|21549877	7	7	yes	yes	yes	yes	functional	functional	909	954	no	no	no change
+>NC_007132.7_OR8K5_functional_rev_21529779_21530666	Danio_rerio_OR2A1/2A42_functional|NC_007132.7|21529779|21530735	7	7	yes	yes	yes	yes	functional	functional	888	957	no	no	no change
+>NC_007126.7_OR52D1_functional_fwd_5277988_5278926	Danio_rerio_or121-2p_functional|NC_007126.7|5277988|5278878	7	7	yes	yes	yes	no	functional	functional	939	891	no	no	yes
+>NC_007126.7_OR52D1_functional_fwd_5293949_5294887	Danio_rerio_OR11A1_z_functional|NC_007126.7|5293949|5294887	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_007126.7_OR6N1_functional_rev_5251153_5252082	Danio_rerio_OR6N1_functional|NC_007126.7|5251153|5252082	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_007126.7_TAAR4_functional_rev_2051126_2052151	Danio_rerio_taar12m_functional|NC_007126.7|2051126|2052175	7	7	yes	yes	yes	yes	functional	functional	1026	1050	no	no	no change
+>NC_007126.7_OR52N2_functional_fwd_5343584_5344504	Danio_rerio_OR52K1_aa_functional|NC_007126.7|5343584|5344504	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NC_007126.7_OR52K2_functional_fwd_5339347_5340267	Danio_rerio_OR52K1_functional|NC_007126.7|5339347|5340267	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NC_007126.7_OR52A5_functional_fwd_5368550_5369503	Danio_rerio_OR52A5_functional|NC_007126.7|5368550|5369503	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_007126.7_OR6B1_functional_rev_18231721_18232587	Danio_rerio_OR4F6_functional|NC_007126.7|18231721|18232701	6	7	yes	yes	yes	yes	functional	functional	867	981	no	no	no
+>NC_007133.7_ORclassAprotein1_functional_rev_208692_209642	Danio_rerio_ORclassArelated1_functional|NC_007133.7|208692|209642	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_007133.7_ORclassAprotein1_pseudogene_short_truncated_rev_210697_211362	Danio_rerio_VN1R1_pseudogene|NC_007133.7|210604|211362	5	6	yes	yes	no	no	pseudogene	pseudogene	666	759	no	no	no
+>NC_007133.7_ORclassAprotein1_functional_fwd_213563_214561	Danio_rerio_ORclassArelated2_functional|NC_007133.7|213650|214561	7	7	no	yes	yes	yes	functional	functional	999	912	no	no	no
+>NW_018395345.1_TAAR13c_functional_fwd_160736_161761	Danio_rerio_taar64_functional|NW_018395345.1|160736|161761	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_167674_168699	Danio_rerio_taar13b_functional|NW_018395345.1|167674|168699	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_186345_187370	Danio_rerio_taar13c_functional|NW_018395345.1|186345|187370	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395345.1_TAAR1_functional_rev_129887_130897	Danio_rerio_taar10d_ai_functional|NW_018395345.1|129887|130897	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395345.1_TAAR1_functional_rev_138311_139321	Danio_rerio_taar10c_functional|NW_018395345.1|138311|139321	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395345.1_taar10a_functional_rev_142145_143155	Danio_rerio_taar10a_ak_functional|NW_018395345.1|142145|143155	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_224882_225868	Danio_rerio_TAAR13c_an_functional|NW_018395345.1|224882|225868	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_191287_192273	Danio_rerio_taar15_functional|NW_018395345.1|191287|192273	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_36854_38047	Danio_rerio_taar12h_functional|NW_018395345.1|36854|37888	7	7	yes	yes	yes	yes	functional	functional	1194	1035	no	no	no change
+>NW_018395345.1_TAAR1_functional_rev_121269_122279	Danio_rerio_taar10b_ah_functional|NW_018395345.1|121269|122279	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_175785_176810	Danio_rerio_taar13d_functional|NW_018395345.1|175785|176810	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_156818_157843	Danio_rerio_taar13e_functional|NW_018395345.1|156818|157843	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_235325_236317	Danio_rerio_taar14h_functional|NW_018395345.1|235355|236317	7	7	yes	yes	yes	yes	functional	functional	993	963	no	no	no change
+>NW_018395345.1_TAAR4_functional_rev_97614_98636	Danio_rerio_taar12i_functional|NW_018395345.1|97614|98636	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NW_018395345.1_taar11_functional_fwd_116068_117051	Danio_rerio_taar11_functional|NW_018395345.1|116068|117051	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NW_018395345.1_TAAR1_functional_rev_148562_149590	Danio_rerio_taar10_am_functional|NW_018395345.1|148562|149590	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_229658_230644	Danio_rerio_taar14l_functional|NW_018395345.1|229688|230644	7	7	yes	yes	yes	yes	functional	functional	987	957	no	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_239264_240253	Danio_rerio_taar14i_functional|NW_018395345.1|239294|240253	7	7	yes	yes	yes	yes	functional	functional	990	960	no	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_244817_245890	Danio_rerio_taar14j_functional|NW_018395345.1|244928|245890	7	7	yes	yes	yes	yes	functional	functional	1074	963	no	no	no change
+>NW_018395345.1_TAAR13c_functional_fwd_221208_222200	Danio_rerio_taar14a_functional|NW_018395345.1|221238|222200	7	7	yes	yes	yes	yes	functional	functional	993	963	no	no	no change
+>NW_018395345.1_TAAR4_functional_rev_44804_45817	Danio_rerio_taar12e_functional|NW_018395345.1|44804|45817	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_57849_58862	Danio_rerio_taar12f_functional|NW_018395345.1|57849|58862	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_88271_89287	Danio_rerio_taar12c_functional|NW_018395345.1|88271|89287	7	7	yes	yes	yes	yes	functional	functional	1017	1017	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_52767_53777	Danio_rerio_taar12g_functional|NW_018395345.1|52767|53777	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395345.1_taar1b_functional_rev_111760_112770	Danio_rerio_taar1b_functional|NW_018395345.1|111760|112758	7	7	yes	yes	yes	yes	functional	functional	1011	999	no	no	no change
+>NW_018395345.1_TAAR4_functional_rev_29904_30926	Danio_rerio_taar12j_functional|NW_018395345.1|29904|30926	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_84803_85816	Danio_rerio_taar12b_functional|NW_018395345.1|84803|85816	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395345.1_TAAR4_functional_rev_68977_70008	Danio_rerio_taar12a_functional|NW_018395345.1|68977|70008	7	7	yes	yes	yes	yes	functional	functional	1032	1032	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_303755_304780	Danio_rerio_taar64_cm_functional|NW_018395076.1|303755|304780	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_310693_311718	Danio_rerio_taar13b_cn_functional|NW_018395076.1|310693|311718	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_329378_330403	Danio_rerio_taar13c_cp_functional|NW_018395076.1|329378|330403	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395076.1_TAAR1_functional_rev_272906_273916	Danio_rerio_taar10d_aj_functional|NW_018395076.1|272906|273916	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395076.1_TAAR1_functional_rev_281330_282340	Danio_rerio_taar10c_ci_functional|NW_018395076.1|281330|282340	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395076.1_taar10a_functional_rev_285164_286174	Danio_rerio_taar10a_cj_functional|NW_018395076.1|285164|286174	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_334186_335172	Danio_rerio_taar15_cq_functional|NW_018395076.1|334186|335172	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_179873_181066	Danio_rerio_taar12h_bv_functional|NW_018395076.1|179873|180907	7	7	yes	yes	yes	yes	functional	functional	1194	1035	no	no	no change
+>NW_018395076.1_TAAR1_functional_rev_264288_265298	Danio_rerio_taar10b_cg_functional|NW_018395076.1|264288|265298	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_318818_319843	Danio_rerio_taar13d_co_functional|NW_018395076.1|318818|319843	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395076.1_TAAR13c_functional_fwd_299837_300862	Danio_rerio_taar13e_cl_functional|NW_018395076.1|299837|300862	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_240633_241655	Danio_rerio_taar12i_cd_functional|NW_018395076.1|240633|241655	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NW_018395076.1_taar11_functional_fwd_259087_260070	Danio_rerio_taar11_ag_functional|NW_018395076.1|259087|260070	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NW_018395076.1_TAAR1_functional_rev_291581_292609	Danio_rerio_taar10_ck_functional|NW_018395076.1|291581|292609	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_187823_188836	Danio_rerio_taar12e_bw_functional|NW_018395076.1|187823|188836	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_200868_201881	Danio_rerio_taar12f_af_functional|NW_018395076.1|200868|201881	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_231290_232306	Danio_rerio_taar12c_cc_functional|NW_018395076.1|231290|232306	7	7	yes	yes	yes	yes	functional	functional	1017	1017	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_195786_196796	Danio_rerio_taar12g_bx_functional|NW_018395076.1|195786|196796	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NW_018395076.1_taar1b_functional_rev_254779_255789	Danio_rerio_taar1b_ce_functional|NW_018395076.1|254779|255777	7	7	yes	yes	yes	yes	functional	functional	1011	999	no	no	no change
+>NW_018395076.1_TAAR4_functional_rev_172923_173945	Danio_rerio_taar12j_bu_functional|NW_018395076.1|172923|173945	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_227822_228835	Danio_rerio_taar12b_cb_functional|NW_018395076.1|227822|228835	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NW_018395076.1_TAAR4_functional_rev_211996_213027	Danio_rerio_taar12a_ca_functional|NW_018395076.1|211996|213027	7	7	yes	yes	yes	yes	functional	functional	1032	1032	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46176567_46177592	Danio_rerio_taar64_dt_functional|NC_007131.7|46176567|46177592	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46183505_46184530	Danio_rerio_taar13b_du_functional|NC_007131.7|46183505|46184530	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46202190_46203215	Danio_rerio_taar13c_dw_functional|NC_007131.7|46202190|46203215	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_007131.7_TAAR1_functional_rev_46145718_46146728	Danio_rerio_taar10d_ch_functional|NC_007131.7|46145718|46146728	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007131.7_TAAR1_functional_rev_46154142_46155152	Danio_rerio_taar10c_dp_functional|NC_007131.7|46154142|46155152	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007131.7_taar10a_functional_rev_46157976_46158986	Danio_rerio_taar10a_dq_functional|NC_007131.7|46157976|46158986	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46240645_46241631	Danio_rerio_TAAR13c_dz_functional|NC_007131.7|46240645|46241631	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46245421_46246407	Danio_rerio_taar14l_ea_functional|NC_007131.7|46245451|46246407	7	7	yes	yes	yes	yes	functional	functional	987	957	no	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46269056_46270042	Danio_rerio_taar14e_cr_functional|NC_007131.7|46269056|46270042	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46206998_46207984	Danio_rerio_taar15_dx_functional|NC_007131.7|46206998|46207984	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46052685_46053878	Danio_rerio_taar12h_dc_functional|NC_007131.7|46052685|46053719	7	7	yes	yes	yes	yes	functional	functional	1194	1035	no	no	no change
+>NC_007131.7_TAAR1_functional_rev_46137100_46138110	Danio_rerio_taar10b_dn_functional|NC_007131.7|46137100|46138110	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46191630_46192655	Danio_rerio_taar13d_dv_functional|NC_007131.7|46191630|46192655	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46172649_46173674	Danio_rerio_taar13e_ds_functional|NC_007131.7|46172649|46173674	7	7	yes	yes	yes	yes	functional	functional	1026	1026	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46286217_46287203	Danio_rerio_taar14f_ct_functional|NC_007131.7|46286217|46287203	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46251088_46252080	Danio_rerio_taar14h_eb_functional|NC_007131.7|46251118|46252080	7	7	yes	yes	yes	yes	functional	functional	993	963	no	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46255027_46256016	Danio_rerio_taar14i_ec_functional|NC_007131.7|46255057|46256016	7	7	yes	yes	yes	yes	functional	functional	990	960	no	no	no change
+>NC_007131.7_TAAR4_functional_rev_46113445_46114467	Danio_rerio_taar12i_dk_functional|NC_007131.7|46113445|46114467	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NC_007131.7_taar11_functional_fwd_46131899_46132882	Danio_rerio_taar11_cf_functional|NC_007131.7|46131899|46132882	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_007131.7_TAAR1_functional_rev_46164393_46165421	Danio_rerio_taar10_dr_functional|NC_007131.7|46164393|46165421	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46291285_46292271	Danio_rerio_taar14d_functional|NC_007131.7|46291285|46292271	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46260580_46261653	Danio_rerio_taar14j_ed_functional|NC_007131.7|46260691|46261653	7	7	yes	yes	yes	yes	functional	functional	1074	963	no	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46304072_46305058	Danio_rerio_taar14b_functional|NC_007131.7|46304072|46305058	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_007131.7_TAAR13c_functional_fwd_46236971_46237963	Danio_rerio_taar14a_dy_functional|NC_007131.7|46237001|46237963	7	7	yes	yes	yes	yes	functional	functional	993	963	no	no	no change
+>NC_007131.7_TAAR4_functional_rev_46060635_46061648	Danio_rerio_taar12e_dd_functional|NC_007131.7|46060635|46061648	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46073680_46074693	Danio_rerio_taar12f_by_functional|NC_007131.7|46073680|46074693	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46104102_46105118	Danio_rerio_taar12c_dj_functional|NC_007131.7|46104102|46105118	7	7	yes	yes	yes	yes	functional	functional	1017	1017	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46068598_46069608	Danio_rerio_taar12g_de_functional|NC_007131.7|46068598|46069608	7	7	yes	yes	yes	yes	functional	functional	1011	1011	yes	no	no change
+>NC_007131.7_taar1b_functional_rev_46127591_46128601	Danio_rerio_taar1b_dl_functional|NC_007131.7|46127591|46128589	7	7	yes	yes	yes	yes	functional	functional	1011	999	no	no	no change
+>NC_007131.7_TAAR4_functional_rev_46045735_46046757	Danio_rerio_taar12j_db_functional|NC_007131.7|46045735|46046757	7	7	yes	yes	yes	yes	functional	functional	1023	1023	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46100634_46101647	Danio_rerio_taar12b_di_functional|NC_007131.7|46100634|46101647	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_007131.7_TAAR4_functional_rev_46084808_46085839	Danio_rerio_taar12a_dh_functional|NC_007131.7|46084808|46085839	7	7	yes	yes	yes	yes	functional	functional	1032	1032	yes	no	no change
+>NW_018395292.1_OR1M1_functional_rev_100075_101190	Danio_rerio_OR146_cz_functional|NW_018395292.1|100075|101115	7	7	yes	yes	yes	yes	functional	functional	1116	1041	no	no	no change
+>NW_018395292.1_OR51E2_functional_rev_83000_83977	Danio_rerio_ORproteinDTMT_functional|NW_018395292.1|83000|83977	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NW_018395292.1_OR6N1_functional_rev_79969_80955	Danio_rerio_OROLFR180_functional|NW_018395292.1|79969|80955	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395292.1_OR51E2_pseudogene_short_rev_91864_92703	Danio_rerio_OR1M1_functional|NW_018395292.1|91864|92877	6	7	yes	no	yes	yes	pseudogene	functional	840	1014	no	yes	no
+>NW_018395292.1_OR51E2_pseudogene_short_rev_66296_67135	Danio_rerio_OR1468_cy_functional|NW_018395292.1|66296|67309	6	7	yes	no	yes	yes	pseudogene	functional	840	1014	no	yes	no
+>NW_018394732.1_TAS2R40_functional_fwd_27806_28768	Danio_rerio_tas2r200.2_functional|NW_018394732.1|27806|28768	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_018394732.1_TAS2R30_functional_fwd_30786_31748	Danio_rerio_tas2r200.1_functional|NW_018394732.1|30786|31748	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_018395077.1_TAAR13c_functional_fwd_2820_3806	Danio_rerio_taar14e_functional|NW_018395077.1|2820|3806	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395077.1_TAAR13c_functional_fwd_19981_20967	Danio_rerio_taar14f_functional|NW_018395077.1|19981|20967	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395077.1_TAAR13c_functional_fwd_35790_36776	Danio_rerio_taar14b_cw_functional|NW_018395077.1|35790|36775	7	7	yes	yes	yes	no	functional	functional	987	986	no	no	yes
+>NW_018395077.1_TAAR13c_functional_fwd_25045_26031	Danio_rerio_taar14d_cu_functional|NW_018395077.1|25045|26030	7	7	yes	yes	yes	no	functional	functional	987	986	no	no	yes
+>NW_018395077.1_TAAR13c_pseudogene_short_fwd_27376_27942	Danio_rerio_TAAR13c_cv_pseudogene|NW_018395077.1|27208|27942	4	4	no	yes	yes	yes	pseudogene	pseudogene	567	735	no	no	no
+>NW_003336289.1_TAAR13c_functional_rev_4587_5573	Danio_rerio_TAAR13c_av_functional|NW_003336289.1|4587|5573	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_003336289.1_TAAR13c_functional_rev_10804_11790	Danio_rerio_TAAR13c_aw_functional|NW_003336289.1|10804|11790	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NW_018395143.1_OR2AG1_functional_rev_95992_97074	Danio_rerio_OR2G3_functional|NW_018395143.1|95992|97074	7	7	yes	yes	yes	yes	functional	functional	1083	1083	yes	no	no change
+>NC_007118.7_OR50_functional_rev_20337103_20338017	Danio_rerio_OR11A1_a_functional|NC_007118.7|20337103|20338017	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NW_018394752.1_TAS2R8_functional_fwd_362017_362934	Danio_rerio_tas2r203_functional|NW_018394752.1|362017|362934	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_007120.7_TAS2R8_functional_fwd_23632873_23633790	Danio_rerio_tas2r203_ba_functional|NC_007120.7|23632873|23633790	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change

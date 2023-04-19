@@ -1,0 +1,4 @@
+Prediction	Length	#TM domains
+NC_036879.1_VN1R5_pseudogene_nonsense_rev_222425302_222426345|sensommatic_hmm_remove	1044	0
+NC_036886.1_OR7E24_pseudogene_short_rev_7062295_7062603|augustus_hmm_remove	309	0
+NC_036882.1_OR7E24_pseudogene_short_rev_75574240_75574686|augustus_hmm_remove	447	2

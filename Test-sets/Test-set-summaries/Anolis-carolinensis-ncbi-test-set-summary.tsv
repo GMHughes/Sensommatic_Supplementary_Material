@@ -1,0 +1,228 @@
+Gene	Length	Type	Isoform keep	Number of  domains	Tool	Original Status	New status	Status change	Reason
+Anolis_carolinensis_OR10W1_functional|NC_014776.1|91326205|91327128	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11L1_functional|NC_014776.1|91344019|91344990	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR998_functional|NC_014776.1|92320553|92321614	1062	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5AR1_functional|NC_014776.1|92343511|92344455	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1019_functional|NC_014776.1|92394368|92395408	1041	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1102_functional|NC_014776.1|92404033|92404992	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5F1_functional|NC_014776.1|92415357|92416331	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5F1_a_functional|NC_014776.1|92431748|92432701	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_functional|NC_014776.1|92481557|92482492	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_b_functional|NC_014776.1|92493133|92494068	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_c_functional|NC_014776.1|92504610|92505542	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_d_functional|NC_014776.1|92511951|92512883	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1020_functional|NC_014776.1|92554387|92555361	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4S2_functional|NC_014776.1|92606144|92607100	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R9_functional|NC_014777.1|147312068|147312976	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R143_functional|NC_014777.1|149645374|149646306	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R8_functional|NC_014777.1|149660566|149661498	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R143_f_functional|NC_014777.1|149695847|149696740	894	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_TAS2R43_pseudogene|NC_014777.1|149716271|149716666	396	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_TAS2R40_functional|NC_014777.1|149730820|149731722	903	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R9_g_functional|NC_014777.1|152414291|152415190	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_OR2W1_pseudogene|NC_014778.1|22341177|22341938	762	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_TAS2R9_h_functional|NC_014778.1|202846349|202847317	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAAR13c_functional|NC_014779.1|138293009|138294088	1080	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R140_functional|NC_014780.1|150626856|150627713	858	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_OR5V1_j_functional|NC_014781.1|78757250|78758095	846	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_taar1_functional|NW_003338747.1|4463430|4464437	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_taar2_functional|NW_003338747.1|4474033|4475097	1065	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_taar5_functional|NW_003338747.1|4484212|4485264	1053	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4N2_functional|NW_003338767.1|922414|923343	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4K3_functional|NW_003338767.1|927905|929008	1104	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4M1_functional|NW_003338767.1|935728|936729	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4Q3_functional|NW_003338767.1|946883|947821	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4Q3_l_functional|NW_003338767.1|953788|954831	1044	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11H6_m_functional|NW_003338767.1|961626|962585	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11H6_n_functional|NW_003338767.1|968292|969239	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11H6_o_functional|NW_003338767.1|976456|977427	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11G2_functional|NW_003338767.1|982867|983808	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11H6_p_pseudogene|NW_003338767.1|999007|999396	390	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_OR13G1_functional|NW_003338767.1|1599379|1600443	1065	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10C1_functional|NW_003338767.1|1604675|1605616	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_q_functional|NW_003338767.1|1618823|1619749	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10AG1_functional|NW_003338767.1|1627614|1628585	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1J1_functional|NW_003338799.1|174687|175625	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1L4_functional|NW_003338799.1|191481|192470	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1361_functional|NW_003338799.1|201873|202913	1041	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1361_r_functional|NW_003338799.1|213819|214766	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1361_s_functional|NW_003338799.1|223169|224095	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR2AP1_functional|NW_003338800.1|344362|345318	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR2AP1_t_functional|NW_003338800.1|349729|350706	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A7_functional|NW_003338800.1|363462|364400	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_functional|NW_003338800.1|468881|469801	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR2AP1_w_functional|NW_003338800.1|517018|517986	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6B1_functional|NW_003338800.1|551097|552035	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR2AP1_x_functional|NW_003338800.1|558522|559517	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A7_y_functional|NW_003338800.1|565120|566058	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10AG1_z_functional|NW_003338800.1|575932|576867	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A7_aa_functional|NW_003338800.1|585994|587079	1086	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_ab_functional|NW_003338800.1|623777|624724	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_ac_functional|NW_003338800.1|632468|633400	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A4_functional|NW_003338800.1|636431|637369	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5B21_functional|NW_003338800.1|647667|648608	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6B1_ad_functional|NW_003338800.1|663301|664272	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6B1_ae_functional|NW_003338800.1|671241|672161	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A2_functional|NW_003338800.1|693264|694202	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6Y1_functional|NW_003338800.1|700359|701294	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6_ag_functional|NW_003338800.1|706673|707725	1053	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR12_functional|NW_003338800.1|718685|719623	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR12_ah_functional|NW_003338800.1|726051|726983	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR12_ai_functional|NW_003338800.1|734241|735179	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6F1_functional|NW_003338800.1|748616|749584	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6B1_aj_functional|NW_003338800.1|754180|755163	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_ak_pseudogene|NW_003338800.1|761573|762316	744	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_OR2AP1_am_functional|NW_003338800.1|785998|787068	1071	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6F1_an_functional|NW_003338800.1|792258|793211	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6F1_ao_functional|NW_003338800.1|807494|808453	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5F1_ap_functional|NW_003338800.1|821724|822659	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR13G1_aq_functional|NW_003338800.1|830370|831293	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10A7_ar_functional|NW_003338800.1|837587|838612	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR8B3_functional|NW_003338800.1|843601|844542	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR8S1_functional|NW_003338800.1|852082|853035	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_as_functional|NW_003338800.1|859405|860331	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5A2_at_functional|NW_003338800.1|865690|866637	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1019_au_functional|NW_003338800.1|878213|879133	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR6N2_functional|NW_003338800.1|885393|886334	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_av_functional|NW_003338800.1|891863|892789	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11L1_aw_functional|NW_003338800.1|900328|901266	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4D1_functional|NW_003338800.1|906794|907735	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_ax_functional|NW_003338800.1|923652|924590	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_functional|NW_003338800.1|937990|938952	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_ay_functional|NW_003338800.1|946033|946986	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_az_functional|NW_003338800.1|954351|955340	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_ba_functional|NW_003338800.1|961342|962295	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_bb_functional|NW_003338800.1|967592|968605	1014	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_bc_functional|NW_003338800.1|976473|977432	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14I1_pseudogene|NW_003338800.1|989114|989887	774	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_OR14C36_bd_functional|NW_003338800.1|997762|998703	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_be_functional|NW_003338800.1|1016951|1018156	1206	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_bf_functional|NW_003338800.1|1027485|1028483	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_bg_functional|NW_003338800.1|1038376|1039308	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_bj_functional|NW_003338800.1|1048479|1049426	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_bk_functional|NW_003338800.1|1057405|1058352	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_bl_functional|NW_003338800.1|1064350|1065216	867	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_OR14C36_bm_functional|NW_003338800.1|1069845|1070768	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14A16_bn_functional|NW_003338800.1|1075542|1076504	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1020_bo_functional|NW_003338800.1|1104117|1105037	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1020_bp_functional|NW_003338800.1|1113154|1114194	1041	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5F1_bq_functional|NW_003338800.1|1121919|1122866	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5F1_br_functional|NW_003338800.1|1127469|1128410	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R104_functional|NW_003338848.1|1554824|1555786	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5B21_bv_functional|NW_003338873.1|614889|615917	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R10_pseudogene|NW_003338928.1|216866|217663	798	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_TAS2R41_bx_functional|NW_003338928.1|253683|254636	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R125_functional|NW_003338928.1|272859|273767	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R8_bz_functional|NW_003338928.1|286453|287364	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R42_pseudogene|NW_003338928.1|297019|297702	684	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_TAS2R8_cb_functional|NW_003338928.1|309288|310199	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R114_functional|NW_003338928.1|357830|358759	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R106_pseudogene|NW_003338928.1|395755|396498	744	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_OR13_functional|NW_003338928.1|438684|439643	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR10AC1_functional|NW_003338938.1|459735|460727	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS2R104_cc_functional|NW_003338954.1|904875|905840	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR4E1_functional|NW_003339013.1|534853|535878	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR49_functional|NW_003339038.1|1824|2765	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_cd_functional|NW_003339312.1|7127|8074	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR51E2_functional|NW_003339567.1|10407|11384	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR5V1_ce_functional|NW_003340625.1|6321|7358	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR1086_functional|NW_003341163.1|1993|2997	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR11H6_cf_functional|NW_003341235.1|9636|10643	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_cg_functional|NW_003342673.1|1655|2578	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_OR14C36_ch_pseudogene|NW_003342673.1|6663|7442	780	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_OR14A16_ci_pseudogene|NW_003343103.1|6907|7686	780	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_VN2R1_functional|NC_014778.1|15744717|15721863	2781	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|158106|149926	1896	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|213111|212182	900	multi-exon	remove	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338767.1|261751|260774	978	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|292577|300334	1272	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|361302|366106	1110	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|380692|393749	1398	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|386218|393749	2052	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R116_pseudogene|NW_003338767.1|402769|401882	888	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|412556|411615	942	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|422936|422001	936	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|497775|509229	2628	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338767.1|1582067|1576055	1110	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|1593815|1587052	1206	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338800.1|615810|616640	831	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|616737|619146	1191	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|926160|935480	2547	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1090670|1099848	2292	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338800.1|1132175|1132984	810	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1135234|1138464	1014	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1475929|1476840	912	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1491329|1495115	1290	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1912888|1899874	1473	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1918412|1917522	891	multi-exon	remove	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1955207|1931434	1512	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1987533|1975045	1116	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1990066|1989116	951	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_rho_functional|NW_003338820.1|649511|641352	1059	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338834.1|1748154|1753809	2787	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338985.1|212867|219153	1617	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|153747|154643	897	multi-exon	remove	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|159703|166793	1374	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|177159|172831	1548	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|215756|214857	900	multi-exon	remove	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003339061.1|275120|275587	468	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003339061.1|304687|305592	906	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|404580|399816	993	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|448886|434982	1308	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|444871|434982	1761	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS1R3_pseudogene|NW_003339307.1|76154|74059	1263	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_TAS1R3_functional|NW_003339307.1|98511|84568	2505	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_opn1sw_functional|NW_003339375.1|107040|120175	939	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS1R1_functional|NW_003339517.1|7023|22812	2763	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_tas1r1_pseudogene|NW_003339736.1|10510|12975	1176	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003339769.1|47644|30171	1902	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_tas1r2_functional|NW_003340263.1|20352|14975	2298	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003342007.1|60|779	720	multi-exon	remove	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anolis_carolinensis_VN2R1_functional|NC_014778.1|15744717|15721863_a	2781	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_rh2_functional|NC_014779.1|122826851|122808417	1068	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|158106|149926_b	1896	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|213111|212182_c	900	multi-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338767.1|261751|260774_d	978	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|292577|300334_e	1272	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|361302|366106_f	1110	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|380692|393749_g	1398	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|386218|393749_h	2052	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R116_pseudogene|NW_003338767.1|402769|401882_i	888	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|412556|411615_j	942	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|422936|422001_k	936	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|497775|509229_l	2628	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338767.1|1582067|1576055_m	1110	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338767.1|1593815|1587052_n	1206	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338800.1|615810|616640_o	831	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|616737|619146_p	1191	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|926160|935480_q	2547	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1090670|1099848_r	2292	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003338800.1|1132175|1132984_s	810	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1135234|1138464_t	1014	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1475929|1476840_u	912	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1491329|1495115_v	1290	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1912888|1899874_w	1473	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1918412|1917522_x	891	multi-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1955207|1931434_y	1512	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1987533|1975045_z	1116	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1990066|1989116_aa	951	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_rho_functional|NW_003338820.1|649511|641352_ab	1059	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338834.1|1748154|1753809_ac	2787	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003338985.1|212867|219153_ad	1617	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|153747|154643_ae	897	multi-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|159703|166793_af	1374	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|177159|172831_ag	1548	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339038.1|215756|214857_ah	900	multi-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003339061.1|275120|275587_ai	468	multi-exon		0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003339061.1|304687|305592_aj	906	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|404580|399816_ak	993	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|448886|434982_al	1308	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_functional|NW_003339067.1|444871|434982_am	1761	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS1R3_pseudogene|NW_003339307.1|76154|74059_an	1263	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_TAS1R3_functional|NW_003339307.1|98511|84568_ao	2505	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_opn1sw_functional|NW_003339375.1|107040|120175_ap	939	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_TAS1R1_functional|NW_003339517.1|7023|22812_aq	2763	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_tas1r1_pseudogene|NW_003339736.1|10510|12975_ar	1176	multi-exon		0	DeepTMHMM	functional	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anolis_carolinensis_VN2R26_functional|NW_003339769.1|47644|30171_as	1902	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_tas1r2_functional|NW_003340263.1|20352|14975_at	2298	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anolis_carolinensis_VN2R26_pseudogene|NW_003342007.1|60|779_au	720	multi-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change

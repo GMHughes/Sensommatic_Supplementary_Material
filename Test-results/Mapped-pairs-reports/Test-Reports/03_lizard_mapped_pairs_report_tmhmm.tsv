@@ -1,0 +1,155 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_014776.1_OR1019_functional_fwd_92394368_92395408	Anolis_carolinensis_OR1019_functional|NC_014776.1|92394368|92395408	7	7	yes	yes	yes	yes	functional	functional	1041	1041	yes	no	no change
+>NC_014776.1_OR1020_functional_fwd_92554387_92555361	Anolis_carolinensis_OR1020_functional|NC_014776.1|92554387|92555361	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_014776.1_OR10W1_functional_fwd_91326205_91327128	Anolis_carolinensis_OR10W1_functional|NC_014776.1|91326205|91327128	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_014776.1_OR1102_functional_fwd_92404033_92404992	Anolis_carolinensis_OR1102_functional|NC_014776.1|92404033|92404992	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_014776.1_OR11L1_functional_rev_91344019_91344990	Anolis_carolinensis_OR11L1_functional|NC_014776.1|91344019|91344990	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_014776.1_OR4S2_functional_rev_92606144_92607100	Anolis_carolinensis_OR4S2_functional|NC_014776.1|92606144|92607100	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_014776.1_OR5AR1_functional_rev_92343511_92344455	Anolis_carolinensis_OR5AR1_functional|NC_014776.1|92343511|92344455	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_014776.1_OR5F1_functional_fwd_92431748_92432701	Anolis_carolinensis_OR5F1_a_functional|NC_014776.1|92431748|92432701	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_014776.1_OR5F1_functional_fwd_92415357_92416331	Anolis_carolinensis_OR5F1_functional|NC_014776.1|92415357|92416331	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_014776.1_OR5V1_functional_rev_92493133_92494068	Anolis_carolinensis_OR5V1_b_functional|NC_014776.1|92493133|92494068	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_014776.1_OR5V1_functional_fwd_92504610_92505542	Anolis_carolinensis_OR5V1_c_functional|NC_014776.1|92504610|92505542	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_014776.1_OR5V1_functional_rev_92511951_92512883	Anolis_carolinensis_OR5V1_d_functional|NC_014776.1|92511951|92512883	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_014776.1_OR5V1_functional_rev_92481557_92482492	Anolis_carolinensis_OR5V1_functional|NC_014776.1|92481557|92482492	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_014776.1_OR998_pseudogene_short_rev_92320553_92321353	Anolis_carolinensis_OR998_functional|NC_014776.1|92320553|92321614	6	7	yes	no	yes	yes	pseudogene	functional	801	1062	no	yes	no
+>NC_014777.1_TAS2R143_functional_rev_149695847_149696740	Anolis_carolinensis_TAS2R143_f_functional|NC_014777.1|149695847|149696740	7	7	yes	yes	yes	yes	functional	functional	894	894	yes	no	no change
+>NC_014777.1_TAS2R143_functional_rev_149645374_149646306	Anolis_carolinensis_TAS2R143_functional|NC_014777.1|149645374|149646306	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_014777.1_TAS2R40_functional_rev_149730820_149731722	Anolis_carolinensis_TAS2R40_functional|NC_014777.1|149730820|149731722	7	7	yes	yes	yes	yes	functional	functional	903	903	yes	no	no change
+>NC_014777.1_TAS2R8_functional_rev_149660566_149661498	Anolis_carolinensis_TAS2R8_functional|NC_014777.1|149660566|149661498	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_014777.1_TAS2R9_functional_fwd_152414291_152415190	Anolis_carolinensis_TAS2R9_g_functional|NC_014777.1|152414291|152415190	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_014777.1_TAS2R9_functional_rev_147312068_147312976	Anolis_carolinensis_TAS2R9_functional|NC_014777.1|147312068|147312976	7	7	yes	yes	yes	yes	functional	functional	909	909	yes	no	no change
+>NC_014778.1_OR2W1_pseudogene_short_rev_22341177_22341938	Anolis_carolinensis_OR2W1_pseudogene|NC_014778.1|22341177|22341938	5	5	yes	yes	yes	yes	pseudogene	pseudogene	762	762	yes	no	no change
+>NC_014778.1_TAS2R9_functional_fwd_202846349_202847317	Anolis_carolinensis_TAS2R9_h_functional|NC_014778.1|202846349|202847317	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_014778.1_VN2R1_functional_rev_15721863_15744717	Anolis_carolinensis_VN2R1_functional|NC_014778.1|15744717|15721863_a	7	7	yes	yes	yes	yes	functional	functional	2781	2781	yes	no	no change
+>NC_014779.1_TAAR13c_functional_fwd_138293009_138294088	Anolis_carolinensis_TAAR13c_functional|NC_014779.1|138293009|138294088	7	7	yes	yes	yes	yes	functional	functional	1080	1080	yes	no	no change
+>NC_014779.1_rh2_functional_rev_122808417_122826851	Anolis_carolinensis_rh2_functional|NC_014779.1|122826851|122808417	7	7	yes	yes	yes	yes	functional	functional	1068	1068	yes	no	no change
+>NC_014780.1_TAS2R140_functional_rev_150626856_150627758	Anolis_carolinensis_TAS2R140_functional|NC_014780.1|150626856|150627713	7	7	yes	no	yes	yes	functional	functional	903	858	no	no	yes
+>NW_003338954.1_TAS2R104_functional_fwd_904875_905840	Anolis_carolinensis_TAS2R104_cc_functional|NW_003338954.1|904875|905840	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_014781.1_OR5V1_pseudogene_short_rev_78757250_78758095	Anolis_carolinensis_OR5V1_j_functional|NC_014781.1|78757250|78758095	7	7	yes	yes	yes	yes	pseudogene	functional	846	846	yes	yes	no change
+>NW_003338747.1_taar1_functional_fwd_4463430_4464437	Anolis_carolinensis_taar1_functional|NW_003338747.1|4463430|4464437	7	7	yes	yes	yes	yes	functional	functional	1008	1008	yes	no	no change
+>NW_003338747.1_taar2_functional_fwd_4474033_4475097	Anolis_carolinensis_taar2_functional|NW_003338747.1|4474033|4475097	7	7	yes	yes	yes	yes	functional	functional	1065	1065	yes	no	no change
+>NW_003338747.1_taar5_functional_fwd_4484212_4485264	Anolis_carolinensis_taar5_functional|NW_003338747.1|4484212|4485264	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NW_003338767.1_OR10AG1_functional_rev_1627614_1628510	Anolis_carolinensis_OR10AG1_functional|NW_003338767.1|1627614|1628585	7	7	yes	yes	yes	yes	functional	functional	897	972	no	no	no change
+>NW_003338767.1_OR10C1_functional_fwd_1604675_1605616	Anolis_carolinensis_OR10C1_functional|NW_003338767.1|1604675|1605616	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338767.1_OR11G2_functional_rev_982867_983808	Anolis_carolinensis_OR11G2_functional|NW_003338767.1|982867|983808	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338767.1_OR11H6_functional_rev_961626_962585	Anolis_carolinensis_OR11H6_m_functional|NW_003338767.1|961626|962585	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003338767.1_OR11H6_functional_rev_968292_969239	Anolis_carolinensis_OR11H6_n_functional|NW_003338767.1|968292|969239	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003338767.1_OR11H6_functional_rev_976456_977427	Anolis_carolinensis_OR11H6_o_functional|NW_003338767.1|976456|977427	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NW_003338767.1_OR13G1_functional_fwd_1599568_1600443	Anolis_carolinensis_OR13G1_functional|NW_003338767.1|1599379|1600443	7	7	yes	yes	yes	yes	functional	functional	876	1065	no	no	no change
+>NW_003338767.1_OR4K3_functional_rev_927905_929008	Anolis_carolinensis_OR4K3_functional|NW_003338767.1|927905|929008	7	7	yes	yes	yes	yes	functional	functional	1104	1104	yes	no	no change
+>NW_003338767.1_OR4M1_functional_rev_935728_936729	Anolis_carolinensis_OR4M1_functional|NW_003338767.1|935728|936729	7	7	yes	yes	yes	yes	functional	functional	1002	1002	yes	no	no change
+>NW_003338767.1_OR4N2_functional_rev_922414_923343	Anolis_carolinensis_OR4N2_functional|NW_003338767.1|922414|923343	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003338767.1_OR4Q3_functional_rev_953788_954831	Anolis_carolinensis_OR4Q3_l_functional|NW_003338767.1|953788|954831	7	7	yes	yes	yes	yes	functional	functional	1044	1044	yes	no	no change
+>NW_003338767.1_OR4Q3_functional_fwd_946883_947821	Anolis_carolinensis_OR4Q3_functional|NW_003338767.1|946883|947821	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338767.1_OR5V1_functional_rev_1618823_1619749	Anolis_carolinensis_OR5V1_q_functional|NW_003338767.1|1618823|1619749	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_003338767.1_VN2R26_functional_rev_390535_440784	Anolis_carolinensis_VN2R26_functional|NW_003338767.1|386218|393749_h	5	7	yes	yes	yes	yes	functional	functional	5727	2052	no	no	no
+>NW_003338767.1_VN2R26_functional_fwd_304999_371639	Anolis_carolinensis_VN2R26_functional|NW_003338767.1|361302|366106_f	8	7	yes	yes	yes	yes	functional	functional	5457	1110	no	no	yes
+>NW_003338767.1_VN2R26_pseudogene_short_rev_1587052_1593815	Anolis_carolinensis_VN2R26_functional|NW_003338767.1|1593815|1587052_n	7	7	yes	yes	yes	yes	pseudogene	functional	1206	1206	yes	yes	no change
+>NW_003338767.1_VN2R26_pseudogene_short_rev_212182_219655	Anolis_carolinensis_VN2R26_functional|NW_003338767.1|213111|212182_c	7	7	yes	yes	yes	yes	pseudogene	functional	1980	900	no	yes	no change
+>NW_003338767.1_VN2R26_functional_fwd_497775_509229	Anolis_carolinensis_VN2R26_functional|NW_003338767.1|497775|509229_l	7	7	yes	yes	yes	yes	functional	functional	2535	2628	no	no	no change
+>NW_003341235.1_OR11H6_functional_fwd_9648_10643	Anolis_carolinensis_OR11H6_cf_functional|NW_003341235.1|9636|10643	7	7	yes	yes	yes	yes	functional	functional	996	1008	no	no	no change
+>NW_003338799.1_OR1361_functional_fwd_213819_214766	Anolis_carolinensis_OR1361_r_functional|NW_003338799.1|213819|214766	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003338799.1_OR1361_functional_fwd_201909_202913	Anolis_carolinensis_OR1361_functional|NW_003338799.1|201873|202913	7	7	yes	yes	yes	yes	functional	functional	1005	1041	no	no	no change
+>NW_003338799.1_OR1361_functional_fwd_223169_224095	Anolis_carolinensis_OR1361_s_functional|NW_003338799.1|223169|224095	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_003338799.1_OR1J1_functional_rev_174687_175625	Anolis_carolinensis_OR1J1_functional|NW_003338799.1|174687|175625	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338799.1_OR1L4_functional_fwd_191481_192470	Anolis_carolinensis_OR1L4_functional|NW_003338799.1|191481|192470	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_003338800.1_OR1019_functional_fwd_878213_879133	Anolis_carolinensis_OR1019_au_functional|NW_003338800.1|878213|879133	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NW_003338800.1_OR1020_functional_fwd_1104099_1105037	Anolis_carolinensis_OR1020_bo_functional|NW_003338800.1|1104117|1105037	7	7	yes	yes	yes	yes	functional	functional	939	921	no	no	no change
+>NW_003338800.1_OR1020_functional_fwd_1113274_1114194	Anolis_carolinensis_OR1020_bp_functional|NW_003338800.1|1113154|1114194	7	7	yes	yes	yes	yes	functional	functional	921	1041	no	no	no change
+>NW_003338800.1_OR10A2_functional_fwd_693264_694202	Anolis_carolinensis_OR10A2_functional|NW_003338800.1|693264|694202	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR10A4_pseudogene_short_rev_636431_637264	Anolis_carolinensis_OR10A4_functional|NW_003338800.1|636431|637369	7	7	yes	yes	yes	yes	pseudogene	functional	834	939	no	yes	no change
+>NW_003338800.1_OR10A7_functional_rev_585994_586950	Anolis_carolinensis_OR10A7_aa_functional|NW_003338800.1|585994|587079	7	7	yes	yes	yes	yes	functional	functional	957	1086	no	no	no change
+>NW_003338800.1_OR10A7_functional_rev_837587_838492	Anolis_carolinensis_OR10A7_ar_functional|NW_003338800.1|837587|838612	7	7	yes	yes	yes	yes	functional	functional	906	1026	no	no	no change
+>NW_003338800.1_OR10A7_functional_fwd_565120_566058	Anolis_carolinensis_OR10A7_y_functional|NW_003338800.1|565120|566058	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR10A7_functional_fwd_363462_364400	Anolis_carolinensis_OR10A7_functional|NW_003338800.1|363462|364400	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR10AG1_functional_fwd_575932_576867	Anolis_carolinensis_OR10AG1_z_functional|NW_003338800.1|575932|576867	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_003338800.1_OR11L1_functional_fwd_900328_901266	Anolis_carolinensis_OR11L1_aw_functional|NW_003338800.1|900328|901266	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR12_functional_fwd_726051_726983	Anolis_carolinensis_OR12_ah_functional|NW_003338800.1|726051|726983	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_003338800.1_OR12_functional_fwd_734241_735179	Anolis_carolinensis_OR12_ai_functional|NW_003338800.1|734241|735179	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR12_functional_fwd_718685_719623	Anolis_carolinensis_OR12_functional|NW_003338800.1|718685|719623	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NW_003338800.1_OR13G1_functional_rev_830370_831293	Anolis_carolinensis_OR13G1_aq_functional|NW_003338800.1|830370|831293	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_003338800.1_OR14A16_functional_fwd_923691_924590	Anolis_carolinensis_OR14A16_ax_functional|NW_003338800.1|923652|924590	7	7	yes	yes	yes	yes	functional	functional	900	939	no	no	no change
+>NW_003338800.1_OR14A16_functional_rev_946033_946986	Anolis_carolinensis_OR14A16_ay_functional|NW_003338800.1|946033|946986	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_954351_955340	Anolis_carolinensis_OR14A16_az_functional|NW_003338800.1|954351|955340	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_961342_962295	Anolis_carolinensis_OR14A16_ba_functional|NW_003338800.1|961342|962295	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_967592_968545	Anolis_carolinensis_OR14A16_bb_functional|NW_003338800.1|967592|968605	7	7	yes	yes	yes	yes	functional	functional	954	1014	no	no	no change
+>NW_003338800.1_OR14A16_functional_rev_1027485_1028483	Anolis_carolinensis_OR14A16_bf_functional|NW_003338800.1|1027485|1028483	7	7	yes	yes	yes	yes	functional	functional	999	999	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_1038376_1039308	Anolis_carolinensis_OR14A16_bg_functional|NW_003338800.1|1038376|1039308	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_1064350_1065216	Anolis_carolinensis_OR14A16_bl_functional|NW_003338800.1|1064350|1065216	7	7	yes	yes	yes	yes	functional	functional	867	867	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_1075542_1076504	Anolis_carolinensis_OR14A16_bn_functional|NW_003338800.1|1075542|1076504	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_003338800.1_OR14A16_functional_rev_468881_469801	Anolis_carolinensis_OR14A16_functional|NW_003338800.1|468881|469801	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_976473_977432	Anolis_carolinensis_OR14C36_bc_functional|NW_003338800.1|976473|977432	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_997762_998703	Anolis_carolinensis_OR14C36_bd_functional|NW_003338800.1|997762|998703	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_1016951_1017958	Anolis_carolinensis_OR14C36_be_functional|NW_003338800.1|1016951|1018156	7	7	yes	yes	yes	yes	functional	functional	1008	1206	no	no	no change
+>NW_003338800.1_OR14C36_functional_rev_1048479_1049426	Anolis_carolinensis_OR14C36_bj_functional|NW_003338800.1|1048479|1049426	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_1057405_1058352	Anolis_carolinensis_OR14C36_bk_functional|NW_003338800.1|1057405|1058352	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_1069845_1070768	Anolis_carolinensis_OR14C36_bm_functional|NW_003338800.1|1069845|1070768	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_003338800.1_OR14C36_functional_rev_937990_938952	Anolis_carolinensis_OR14C36_functional|NW_003338800.1|937990|938952	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_003338800.1_OR14I1_functional_rev_989114_990076	Anolis_carolinensis_OR14I1_pseudogene|NW_003338800.1|989114|989887	7	6	yes	yes	yes	yes	functional	pseudogene	963	774	no	yes	yes
+>NW_003338800.1_OR2AP1_functional_rev_785998_787068	Anolis_carolinensis_OR2AP1_am_functional|NW_003338800.1|785998|787068	7	7	yes	yes	yes	yes	functional	functional	1071	1071	yes	no	no change
+>NW_003338800.1_OR2AP1_functional_fwd_349729_350706	Anolis_carolinensis_OR2AP1_t_functional|NW_003338800.1|349729|350706	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NW_003338800.1_OR2AP1_functional_fwd_517018_517986	Anolis_carolinensis_OR2AP1_w_functional|NW_003338800.1|517018|517986	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_003338800.1_OR2AP1_functional_fwd_558522_559517	Anolis_carolinensis_OR2AP1_x_functional|NW_003338800.1|558522|559517	7	7	yes	yes	yes	yes	functional	functional	996	996	yes	no	no change
+>NW_003338800.1_OR2AP1_functional_fwd_344362_345318	Anolis_carolinensis_OR2AP1_functional|NW_003338800.1|344362|345318	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NW_003338800.1_OR4D1_functional_fwd_906794_907735	Anolis_carolinensis_OR4D1_functional|NW_003338800.1|906794|907735	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338800.1_OR5A2_functional_rev_865690_866583	Anolis_carolinensis_OR5A2_at_functional|NW_003338800.1|865690|866637	7	7	yes	yes	yes	yes	functional	functional	894	948	no	no	no change
+>NW_003338800.1_OR5B21_functional_fwd_647667_648608	Anolis_carolinensis_OR5B21_functional|NW_003338800.1|647667|648608	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338800.1_OR5F1_functional_rev_821724_822659	Anolis_carolinensis_OR5F1_ap_functional|NW_003338800.1|821724|822659	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_003338800.1_OR5F1_functional_fwd_1121919_1122866	Anolis_carolinensis_OR5F1_bq_functional|NW_003338800.1|1121919|1122866	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003338800.1_OR5F1_functional_fwd_1127469_1128410	Anolis_carolinensis_OR5F1_br_functional|NW_003338800.1|1127469|1128410	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338800.1_OR5V1_functional_rev_623777_624712	Anolis_carolinensis_OR5V1_ab_functional|NW_003338800.1|623777|624724	7	7	yes	yes	yes	yes	functional	functional	936	948	no	no	no change
+>NW_003338800.1_OR5V1_functional_fwd_632468_633400	Anolis_carolinensis_OR5V1_ac_functional|NW_003338800.1|632468|633400	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NW_003338800.1_OR5V1_pseudogene_short_fwd_761573_762316	Anolis_carolinensis_OR5V1_ak_pseudogene|NW_003338800.1|761573|762316	5	6	yes	yes	yes	yes	pseudogene	pseudogene	744	744	yes	no	no change
+>NW_003338800.1_OR5V1_pseudogene_short_rev_859405_860262	Anolis_carolinensis_OR5V1_as_functional|NW_003338800.1|859405|860331	7	7	yes	yes	yes	yes	pseudogene	functional	858	927	no	yes	no change
+>NW_003338800.1_OR5V1_functional_rev_891863_892789	Anolis_carolinensis_OR5V1_av_functional|NW_003338800.1|891863|892789	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NW_003338800.1_OR6B1_functional_rev_663301_664272	Anolis_carolinensis_OR6B1_ad_functional|NW_003338800.1|663301|664272	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NW_003338800.1_OR6B1_functional_rev_671241_672161	Anolis_carolinensis_OR6B1_ae_functional|NW_003338800.1|671241|672161	7	7	yes	yes	yes	yes	functional	functional	921	921	yes	no	no change
+>NW_003338800.1_OR6B1_pseudogene_short_fwd_754399_755163	Anolis_carolinensis_OR6B1_aj_functional|NW_003338800.1|754180|755163	6	7	yes	yes	yes	yes	pseudogene	functional	765	984	no	yes	no
+>NW_003338800.1_OR6B1_functional_rev_551097_552029	Anolis_carolinensis_OR6B1_functional|NW_003338800.1|551097|552035	7	7	yes	yes	yes	yes	functional	functional	933	939	no	no	no change
+>NW_003338800.1_OR6F1_functional_fwd_792258_793211	Anolis_carolinensis_OR6F1_an_functional|NW_003338800.1|792258|793211	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003338800.1_OR6F1_functional_fwd_807494_808453	Anolis_carolinensis_OR6F1_ao_functional|NW_003338800.1|807494|808453	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003338800.1_OR6F1_functional_fwd_748616_749584	Anolis_carolinensis_OR6F1_functional|NW_003338800.1|748616|749584	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NW_003338800.1_OR6N2_functional_fwd_885393_886334	Anolis_carolinensis_OR6N2_functional|NW_003338800.1|885393|886334	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_003338800.1_OR6Y1_functional_fwd_700359_701294	Anolis_carolinensis_OR6Y1_functional|NW_003338800.1|700359|701294	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NW_003338800.1_OR6_functional_fwd_706673_707725	Anolis_carolinensis_OR6_ag_functional|NW_003338800.1|706673|707725	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NW_003338800.1_OR8B3_functional_rev_843601_844506	Anolis_carolinensis_OR8B3_functional|NW_003338800.1|843601|844542	7	7	yes	yes	yes	yes	functional	functional	906	942	no	no	no change
+>NW_003338800.1_OR8S1_functional_fwd_852082_853035	Anolis_carolinensis_OR8S1_functional|NW_003338800.1|852082|853035	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003338800.1_VN2R26_pseudogene_short_fwd_1475929_1476840	Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1475929|1476840_u	7	7	yes	yes	yes	yes	pseudogene	functional	912	912	yes	yes	no change
+>NW_003338800.1_VN2R26_functional_fwd_1486059_1495115	Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1491329|1495115_v	7	7	yes	yes	yes	yes	functional	functional	2352	1290	no	no	no change
+>NW_003338800.1_VN2R26_functional_fwd_1132184_1138464	Anolis_carolinensis_VN2R26_functional|NW_003338800.1|1135234|1138464_t	7	7	yes	yes	yes	yes	functional	functional	2025	1014	no	no	no change
+>NW_003338800.1_VN2R26_functional_fwd_615810_619146	Anolis_carolinensis_VN2R26_functional|NW_003338800.1|616737|619146_p	7	7	yes	yes	yes	yes	functional	functional	2037	1191	no	no	no change
+>NW_003343103.1_OR14A16_pseudogene_short_truncated_fwd_6907_7686	Anolis_carolinensis_OR14A16_ci_pseudogene|NW_003343103.1|6907|7686	6	6	yes	yes	no	no	pseudogene	pseudogene	780	780	yes	no	no change
+>NW_003342673.1_OR14C36_functional_fwd_6546_7442	Anolis_carolinensis_OR14C36_ch_pseudogene|NW_003342673.1|6663|7442	7	6	yes	yes	yes	yes	functional	pseudogene	897	780	no	yes	yes
+>NW_003342673.1_OR14C36_functional_fwd_1655_2578	Anolis_carolinensis_OR14C36_cg_functional|NW_003342673.1|1655|2578	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NW_003338848.1_TAS2R104_functional_fwd_1554824_1555786	Anolis_carolinensis_TAS2R104_functional|NW_003338848.1|1554824|1555786	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NW_003338873.1_OR5B21_functional_fwd_614943_615917	Anolis_carolinensis_OR5B21_bv_functional|NW_003338873.1|614889|615917	7	7	yes	yes	yes	yes	functional	functional	975	1029	no	no	no change
+>NW_003338928.1_OR13_functional_rev_438684_439643	Anolis_carolinensis_OR13_functional|NW_003338928.1|438684|439643	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NW_003338928.1_TAS2R106_functional_rev_395755_396678	Anolis_carolinensis_TAS2R106_pseudogene|NW_003338928.1|395755|396498	7	5	yes	yes	yes	yes	functional	pseudogene	924	744	no	yes	yes
+>NW_003338928.1_TAS2R114_functional_rev_357830_358759	Anolis_carolinensis_TAS2R114_functional|NW_003338928.1|357830|358759	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NW_003338928.1_TAS2R10_functional_rev_216866_217795	Anolis_carolinensis_TAS2R10_pseudogene|NW_003338928.1|216866|217663	7	6	yes	yes	yes	yes	functional	pseudogene	930	798	no	yes	yes
+>NW_003338928.1_TAS2R125_functional_rev_272859_273767	Anolis_carolinensis_TAS2R125_functional|NW_003338928.1|272859|273767	7	7	yes	yes	yes	yes	functional	functional	909	909	yes	no	no change
+>NW_003338928.1_TAS2R8_functional_rev_286453_287364	Anolis_carolinensis_TAS2R8_bz_functional|NW_003338928.1|286453|287364	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NW_003338928.1_TAS2R41_functional_rev_253683_254636	Anolis_carolinensis_TAS2R41_bx_functional|NW_003338928.1|253683|254636	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NW_003338928.1_TAS2R42_functional_rev_297019_297975	Anolis_carolinensis_TAS2R42_pseudogene|NW_003338928.1|297019|297702	7	5	yes	yes	yes	yes	functional	pseudogene	957	684	no	yes	yes
+>NW_003338928.1_TAS2R8_functional_rev_309288_310199	Anolis_carolinensis_TAS2R8_cb_functional|NW_003338928.1|309288|310199	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NW_003338938.1_OR10AC1_pseudogene_short_fwd_459915_460727	Anolis_carolinensis_OR10AC1_functional|NW_003338938.1|459735|460727	6	7	yes	yes	yes	yes	pseudogene	functional	813	993	no	yes	no
+>NW_003339013.1_OR4E1_functional_rev_534853_535794	Anolis_carolinensis_OR4E1_functional|NW_003339013.1|534853|535878	7	7	yes	yes	yes	yes	functional	functional	942	1026	no	no	no change
+>NW_003339038.1_OR49_pseudogene_short_rev_1824_2657	Anolis_carolinensis_OR49_functional|NW_003339038.1|1824|2765	7	7	yes	yes	yes	yes	pseudogene	functional	834	942	no	yes	no change
+>NW_003339038.1_VN2R26_pseudogene_short_fwd_151057_154643	Anolis_carolinensis_VN2R26_functional|NW_003339038.1|153747|154643_ae	7	7	yes	yes	yes	yes	pseudogene	functional	1185	897	no	yes	no change
+>NW_003339038.1_VN2R26_functional_fwd_159703_166793	Anolis_carolinensis_VN2R26_functional|NW_003339038.1|159703|166793_af	7	7	yes	yes	yes	yes	functional	functional	2325	1374	no	no	no change
+>NW_003339038.1_VN2R26_functional_rev_172831_177159	Anolis_carolinensis_VN2R26_functional|NW_003339038.1|177159|172831_ag	7	7	yes	yes	yes	yes	functional	functional	2409	1548	no	no	no change
+>NW_003339312.1_OR5V1_functional_rev_7127_8074	Anolis_carolinensis_OR5V1_cd_functional|NW_003339312.1|7127|8074	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NW_003340625.1_OR5V1_functional_fwd_6417_7358	Anolis_carolinensis_OR5V1_ce_functional|NW_003340625.1|6321|7358	7	7	yes	yes	yes	yes	functional	functional	942	1038	no	no	no change
+>NW_003341163.1_OR1086_functional_fwd_1993_2997	Anolis_carolinensis_OR1086_functional|NW_003341163.1|1993|2997	7	7	yes	yes	yes	yes	functional	functional	1005	1005	yes	no	no change
+>NW_003339567.1_OR51E2_functional_fwd_10407_11384	Anolis_carolinensis_OR51E2_functional|NW_003339567.1|10407|11384	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NW_003339061.1_VN2R26_functional_fwd_281255_305592	Anolis_carolinensis_VN2R26_functional|NW_003339061.1|304687|305592_aj	1	7	yes	yes	yes	yes	functional	functional	3972	906	no	no	no
+>NW_003338820.1_rho_functional_rev_641352_649511	Anolis_carolinensis_rho_functional|NW_003338820.1|649511|641352_ab	7	7	yes	yes	yes	yes	functional	functional	1059	1059	yes	no	no change
+>NW_003338834.1_VN2R26_functional_fwd_1748154_1753809	Anolis_carolinensis_VN2R26_functional|NW_003338834.1|1748154|1753809_ac	7	7	yes	yes	yes	yes	functional	functional	2787	2787	yes	no	no change
+>NW_003338985.1_VN2R26_pseudogene_short_fwd_212867_219153	Anolis_carolinensis_VN2R26_functional|NW_003338985.1|212867|219153_ad	7	7	yes	yes	yes	yes	pseudogene	functional	1617	1617	yes	yes	no change
+>NW_003339067.1_VN2R26_pseudogene_short_rev_399816_404553	Anolis_carolinensis_VN2R26_functional|NW_003339067.1|404580|399816_ak	7	7	yes	yes	yes	yes	pseudogene	functional	966	993	no	yes	no change
+>NW_003339067.1_VN2R26_pseudogene_short_rev_434982_438325	Anolis_carolinensis_VN2R26_functional|NW_003339067.1|444871|434982_am	8	7	yes	yes	yes	yes	pseudogene	functional	1305	1761	no	yes	yes
+>NW_003339307.1_TAS1R3_functional_rev_84568_98511	Anolis_carolinensis_TAS1R3_functional|NW_003339307.1|98511|84568_ao	7	7	yes	yes	yes	yes	functional	functional	2505	2505	yes	no	no change
+>NW_003339375.1_opn1sw_pseudogene_short_fwd_107040_120175	Anolis_carolinensis_opn1sw_functional|NW_003339375.1|107040|120175_ap	7	7	yes	yes	yes	yes	pseudogene	functional	939	939	yes	yes	no change
+>NW_003339517.1_TAS1R1_pseudogene_short_fwd_22195_22812	Anolis_carolinensis_TAS1R1_functional|NW_003339517.1|7023|22812_aq	5	7	yes	yes	yes	yes	pseudogene	functional	618	2763	no	yes	no
+>NW_003342007.1_VN2R26_pseudogene_short_fwd_60_779	Anolis_carolinensis_VN2R26_pseudogene|NW_003342007.1|60|779_au	6	6	yes	yes	yes	yes	pseudogene	pseudogene	720	720	yes	no	no change

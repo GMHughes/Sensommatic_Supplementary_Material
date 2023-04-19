@@ -1,0 +1,510 @@
+Gene	Length	type	isoform keep	Number of  domains	Tool	Original Status	New status	Status change	Reason
+Ornithorhynchus_anatinus_VN1R1_functional|NC_041729.1|63110637|63111566	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAAR1_functional|NC_041729.1|92811743|92812759	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAAR2_functional|NC_041729.1|92832792|92833712	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAAR3_functional|NC_041729.1|92885753|92886784	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAAR4_functional|NC_041729.1|92899859|92900887	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52L1_functional|NC_041729.1|138375798|138376742	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56A4_functional|NC_041729.1|138409898|138410845	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56A3_functional|NC_041729.1|138425817|138426761	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52E5_functional|NC_041729.1|138442077|138443021	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_functional|NC_041729.1|138490871|138491818	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_pseudogene|NC_041729.1|138516686|138517531	846	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR52P1_a_functional|NC_041729.1|138530598|138531545	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_b_functional|NC_041729.1|138545043|138546008	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR688_functional|NC_041729.1|138569089|138570063	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56B2_d_functional|NC_041729.1|138591144|138592103	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52N2_functional|NC_041729.1|138608027|138609007	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52N4_functional|NC_041729.1|138631641|138632591	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52K1_e_functional|NC_041729.1|138651751|138652743	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52E4_functional|NC_041729.1|138675731|138676702	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52E5_f_functional|NC_041729.1|138700679|138701623	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52L1_g_functional|NC_041729.1|138719101|138720045	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52A1_functional|NC_041729.1|138733539|138734498	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52J3_functional|NC_041729.1|138759103|138760050	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56A4_h_functional|NC_041729.1|138769872|138770846	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56A3_i_functional|NC_041729.1|138798887|138799831	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52E8_functional|NC_041729.1|138839511|138840470	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52E8_k_functional|NC_041729.1|138857223|138858047	825	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR52N2_l_functional|NC_041729.1|138868268|138869230	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56B2_m_functional|NC_041729.1|138907980|138909056	1077	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR688_n_functional|NC_041729.1|138915218|138916192	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56B2_o_functional|NC_041729.1|138932058|138933014	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56B1_functional|NC_041729.1|138955463|138956341	879	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR52K1_p_functional|NC_041729.1|138969838|138970794	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52K1_q_functional|NC_041729.1|138977021|138977977	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_r_functional|NC_041729.1|139000960|139001871	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_t_functional|NC_041729.1|139017968|139018909	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_u_functional|NC_041729.1|139042715|139043656	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_v_functional|NC_041729.1|139062664|139063605	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_w_functional|NC_041729.1|139083405|139084346	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_y_functional|NC_041729.1|139210650|139211597	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_z_functional|NC_041729.1|139220595|139221590	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52D1_aa_functional|NC_041729.1|139320405|139321355	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR51I2_ac_functional|NC_041729.1|139381132|139382085	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR51V1_functional|NC_041729.1|139435854|139436798	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_ad_functional|NC_041729.1|139448248|139449198	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52K2_functional|NC_041729.1|139498022|139498966	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52K2_ae_functional|NC_041729.1|139537265|139538200	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR51E1_functional|NC_041729.1|139575694|139576647	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52P1_af_functional|NC_041729.1|139588283|139589287	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR52M1_functional|NC_041729.1|139616035|139616970	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10V1_functional|NC_041730.1|18519366|18520313	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10V1_ah_functional|NC_041730.1|18536180|18537127	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D9_functional|NC_041730.1|18665061|18665996	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D9_ai_functional|NC_041730.1|18671447|18672382	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D9_aj_functional|NC_041730.1|18677993|18678928	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D6_functional|NC_041730.1|18687755|18688765	1011	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5A1_functional|NC_041730.1|18703612|18704559	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5A1_ak_functional|NC_041730.1|18714841|18715800	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5A2_functional|NC_041730.1|18733087|18734046	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10Q1_functional|NC_041730.1|19001928|19002890	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR9I1_functional|NC_041730.1|19003693|19004667	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR9I1_an_functional|NC_041730.1|19030863|19031804	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1020_functional|NC_041730.1|19053097|19054035	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1009_functional|NC_041730.1|19672320|19673288	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_functional|NC_041730.1|19830148|19831089	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5M10_functional|NC_041730.1|19836984|19837949	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1030_functional|NC_041730.1|19843522|19844460	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5M11_functional|NC_041730.1|19853701|19854654	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1030_ap_functional|NC_041730.1|19860089|19861045	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1038_aq_functional|NC_041730.1|19876857|19877810	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR8J3_functional|NC_041730.1|19894410|19895369	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1102_functional|NC_041730.1|19899742|19900689	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1102_ar_functional|NC_041730.1|19906542|19907483	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1019_functional|NC_041730.1|19914286|19915227	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5F1_functional|NC_041730.1|19924039|19924983	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5AS1_functional|NC_041730.1|19930332|19931270	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1052_functional|NC_041730.1|19938810|19939748	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1052_as_functional|NC_041730.1|19948726|19949646	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1052_at_functional|NC_041730.1|19961307|19962230	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1020_au_functional|NC_041730.1|19971701|19972630	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1019_av_functional|NC_041730.1|19986925|19987863	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_functional|NC_041730.1|20004125|20005078	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_aw_functional|NC_041730.1|20012536|20013504	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR482_functional|NC_041730.1|20018663|20019619	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR508_functional|NC_041730.1|20025732|20026736	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_ax_functional|NC_041730.1|20035970|20036929	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_ay_functional|NC_041730.1|20045297|20046232	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_az_functional|NC_041730.1|20053594|20054529	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_bb_functional|NC_041730.1|20076556|20077488	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR502_bc_pseudogene|NC_041730.1|20083704|20084441	738	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR491_functional|NC_041730.1|20099936|20100871	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR491_bd_functional|NC_041730.1|20106349|20107284	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR478_functional|NC_041730.1|20114989|20115918	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR478_bf_functional|NC_041730.1|20128684|20129622	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR478_bg_functional|NC_041730.1|20143096|20144034	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1020_bi_functional|NC_041730.1|20161950|20162888	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR8G2_bj_pseudogene|NC_041730.1|20169931|20170644	714	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR8H1_functional|NC_041730.1|20209716|20210927	1212	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5L2_functional|NC_041730.1|20257029|20257964	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A3_functional|NC_041730.1|20289824|20290765	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5L2_bl_functional|NC_041730.1|20305194|20306129	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A3_bm_functional|NC_041730.1|20312416|20313375	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10AG1_functional|NC_041730.1|20331693|20332625	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_bn_functional|NC_041730.1|20339766|20340791	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_bq_functional|NC_041730.1|20386332|20387276	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_br_functional|NC_041730.1|20397577|20398521	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_bs_functional|NC_041730.1|20407556|20408500	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_bu_functional|NC_041730.1|20430948|20431889	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1052_bv_functional|NC_041730.1|20448440|20449414	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_functional|NC_041730.1|20459521|20460456	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_bw_functional|NC_041730.1|20472567|20473505	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_bx_functional|NC_041730.1|20479783|20480721	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_bz_functional|NC_041730.1|20495134|20496075	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_ca_functional|NC_041730.1|20501744|20502676	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_cb_functional|NC_041730.1|20508812|20509741	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4P4_cc_functional|NC_041730.1|20519025|20519954	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4S2_functional|NC_041730.1|20527875|20528801	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C11_functional|NC_041730.1|20539820|20540803	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C11_cd_functional|NC_041730.1|20550053|20551000	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C11_ce_functional|NC_041730.1|20559042|20559971	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C15_functional|NC_041730.1|20567004|20567951	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR140_functional|NC_041730.1|20577516|20578454	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C12_functional|NC_041730.1|20586609|20587532	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C12_cf_functional|NC_041730.1|20604030|20604959	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR140_cg_functional|NC_041730.1|20611595|20612530	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4A15_functional|NC_041730.1|20620687|20621610	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4A15_ci_functional|NC_041730.1|20627786|20628715	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C46_functional|NC_041730.1|20643282|20644211	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4C12_cj_functional|NC_041730.1|20658528|20659469	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4S2_ck_functional|NC_041730.1|20670631|20671536	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4X2_functional|NC_041730.1|20678167|20679129	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4S2_cl_functional|NC_041730.1|20704281|20705204	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR13A1_functional|NC_041730.1|131457257|131458189	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14L1_functional|NC_041730.1|131877459|131878382	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_functional|NC_041730.1|131890663|131891607	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR226_functional|NC_041730.1|131906112|131907068	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cm_functional|NC_041731.1|19410003|19410911	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A7_cn_functional|NC_041732.1|3777664|3778608	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2T2_functional|NC_041732.1|79888302|79889240	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2A12_functional|NC_041732.1|79906712|79907659	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6B2_functional|NC_041733.1|5454|6410	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1N1_functional|NC_041733.1|93039|93983	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_functional|NC_041733.1|102350|103357	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1K1_functional|NC_041733.1|109039|110289	1251	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1019_cp_functional|NC_041733.1|18663438|18664367	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR13H1_functional|NC_041733.1|18679705|18680670	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR13H1_cq_pseudogene|NC_041733.1|18709799|18710758	960	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_OR10Q1_cr_functional|NC_041733.1|18757024|18757974	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10V1_cs_functional|NC_041733.1|18765859|18766869	1011	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cu_functional|NC_041733.1|45023965|45024891	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cv_functional|NC_041734.1|22251946|22252875	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cw_functional|NC_041735.1|31255056|31256012	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cx_functional|NC_041735.1|31304643|31305605	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_cy_pseudogene|NC_041735.1|31427948|31428781	834	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_da_functional|NC_041735.1|31932449|31933378	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dc_functional|NC_041735.1|32403518|32404477	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R42_functional|NC_041735.1|32526932|32527837	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_de_functional|NC_041735.1|32709442|32710383	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_df_functional|NC_041735.1|32798028|32798936	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dg_functional|NC_041735.1|32874792|32875733	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dh_functional|NC_041735.1|32921487|32922428	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_di_functional|NC_041735.1|33255634|33256575	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dj_functional|NC_041735.1|33430148|33431089	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dk_functional|NC_041735.1|33456769|33457713	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R100_dl_functional|NC_041735.1|33552348|33553289	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R100_dm_functional|NC_041735.1|33566603|33567544	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dn_functional|NC_041735.1|33631847|33632692	846	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_do_functional|NC_041735.1|33714335|33715276	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dp_functional|NC_041735.1|33939940|33940881	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dq_functional|NC_041735.1|34004114|34005055	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dr_functional|NC_041735.1|34191544|34192485	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ds_functional|NC_041735.1|34221475|34222416	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_dt_functional|NC_041735.1|34261251|34262192	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_du_functional|NC_041735.1|34336964|34337905	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C74_functional|NC_041737.1|32715227|32716207	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR9K2_functional|NC_041737.1|58331610|58332551	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C4_functional|NC_041737.1|58335099|58336040	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C76_functional|NC_041737.1|58348087|58349025	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C75_functional|NC_041737.1|58355310|58356263	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C75_dv_functional|NC_041737.1|58361185|58362123	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C75_dw_functional|NC_041737.1|58366598|58367536	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C75_dy_functional|NC_041737.1|58375319|58376257	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C74_dz_functional|NC_041737.1|58382373|58383311	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C74_ea_functional|NC_041737.1|58389966|58390895	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C74_eb_functional|NC_041737.1|58397168|58398106	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C3_functional|NC_041737.1|58402926|58403864	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C4_ec_functional|NC_041737.1|58411710|58412648	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10P1_functional|NC_041737.1|58417102|58418082	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10G6_functional|NC_041738.1|3146285|3147220	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10D3_functional|NC_041738.1|3173593|3174510	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A4_functional|NC_041738.1|3203274|3204236	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR151_functional|NC_041738.1|3209313|3210263	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7A10_pseudogene|NC_041738.1|50773486|50774028	543	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_ed_functional|NC_041739.1|43190411|43191319	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ee_pseudogene|NC_041739.1|43610371|43611321	951	single-exon	keep	6	DeepTMHMM	functional	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_TAS2R39_pseudogene|NC_041740.1|37538141|37538908	768	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_TAS2R134_ef_functional|NC_041740.1|37661984|37662910	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS2R41_functional|NC_041740.1|37663987|37664898	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS2R143_functional|NC_041740.1|37666009|37666935	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS2R41_eg_functional|NC_041740.1|37668077|37669000	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS2R41_eh_functional|NC_041740.1|37671841|37672710	870	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR10AC1_functional|NC_041740.1|37678276|37679232	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORPROTEINOLF3_functional|NC_041740.1|37722659|37723621	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6B1_functional|NC_041740.1|37789085|37790005	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR13_functional|NC_041740.1|37799660|37800592	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5A2_ei_functional|NC_041740.1|37806000|37806935	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10G3_functional|NC_041740.1|38048401|38049342	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1509_functional|NC_041740.1|38058966|38059904	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_ej_functional|NC_041740.1|38074473|38075411	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4F6_functional|NC_041740.1|41979185|41980141	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4K15_functional|NC_041740.1|41997195|41998166	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4K5_pseudogene|NC_041740.1|42003355|42004323	969	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_OR11H6_functional|NC_041740.1|42026180|42027181	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_em_functional|NC_041742.1|11376624|11377601	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_en_functional|NC_041742.1|11383293|11384237	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_eo_functional|NC_041742.1|11468006|11468935	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ep_functional|NC_041742.1|11476424|11477350	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_eq_functional|NC_041742.1|11489785|11490714	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_er_functional|NC_041742.1|11497826|11498713	888	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_es_functional|NC_041742.1|11519870|11520802	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_et_functional|NC_041742.1|11550362|11551291	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_eu_functional|NC_041742.1|11571330|11572286	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ev_functional|NC_041742.1|11592200|11593117	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ew_functional|NC_041742.1|11599410|11600357	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ex_functional|NC_041742.1|11618161|11619126	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ey_functional|NC_041742.1|11625091|11626047	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ez_functional|NC_041742.1|11764853|11765782	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fa_functional|NC_041742.1|11788940|11789896	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fb_functional|NC_041742.1|11796185|11797150	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fc_functional|NC_041742.1|11818694|11819644	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fd_functional|NC_041742.1|11869704|11870633	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fe_functional|NC_041742.1|11903277|11904209	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ff_functional|NC_041742.1|11958575|11959504	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fg_functional|NC_041742.1|11980809|11981717	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fh_functional|NC_041742.1|11987749|11988714	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fi_functional|NC_041742.1|12022524|12023408	885	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R3_pseudogene|NC_041742.1|12032494|12033180	687	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_fj_functional|NC_041742.1|12044216|12045130	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fl_functional|NC_041742.1|12312276|12313184	909	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fm_functional|NC_041742.1|12319753|12320718	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fn_functional|NC_041742.1|12343130|12344080	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fo_functional|NC_041742.1|12389055|12389945	891	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR4D1_functional|NC_041744.1|11049731|11050657	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D1_ft_functional|NC_041744.1|11088729|11089655	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR4D1_fu_functional|NC_041744.1|11095100|11096035	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fv_functional|NC_041746.1|20228898|20229827	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fw_functional|NC_041746.1|20319765|20320676	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_fx_functional|NC_041746.1|20492660|20493649	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_gc_functional|NC_041746.1|20510498|20511382	885	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR2W6_functional|NC_041746.1|20582194|20582940	747	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR2G3_gd_functional|NC_041746.1|20666862|20667809	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2G3_ge_functional|NC_041746.1|20691476|20692408	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_gg_functional|NC_041746.1|20945811|20946740	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR24_gh_functional|NC_041749.1|105124552|105125490	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1G1_gi_functional|NC_041749.1|105177360|105178307	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7C2_functional|NC_041749.1|105190913|105191875	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7A10_gj_functional|NC_041749.1|105197431|105198378	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7D4_functional|NC_041749.1|105208130|105209068	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7A10_gk_functional|NC_041749.1|105216279|105217217	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1G1_gl_functional|NC_041749.1|105237118|105238056	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7G3_functional|NC_041749.1|105283077|105284024	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7G3_gn_functional|NC_041749.1|105320838|105321803	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10H1_functional|NC_041749.1|111212890|111213837	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1F1_gp_functional|NC_041749.1|111267723|111268676	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1F1_gq_functional|NC_041749.1|111345933|111346868	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR7G3_gr_functional|NC_041749.1|111373789|111374736	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR24_gs_functional|NC_041749.1|111384309|111385235	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1G1_gt_functional|NC_041749.1|111395223|111396158	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2T4_functional|NC_041751.1|32166170|32167108	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56_functional|NC_041751.1|32182270|32183259	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2L2_functional|NC_041751.1|32189025|32190017	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2L5_functional|NC_041751.1|32202930|32203868	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2AG2_functional|NC_041751.1|32209404|32210408	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2AG2_gu_functional|NC_041751.1|32228613|32229575	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R3_gv_functional|NC_041751.1|32372653|32373552	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_gw_functional|NC_041751.1|32393805|32394776	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_gy_functional|NC_041751.1|32414430|32415428	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_gz_functional|NC_041751.1|32422397|32423338	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ha_functional|NC_041751.1|32435364|32436329	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_functional|NC_041751.1|32504181|32505107	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hb_functional|NC_041751.1|32509537|32510463	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hc_functional|NC_041751.1|32543312|32544241	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R3_hd_functional|NC_041751.1|32552263|32553192	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_he_functional|NC_041751.1|32567484|32568422	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hf_functional|NC_041751.1|32597804|32598784	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_hg_functional|NC_041751.1|32617666|32618595	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hh_functional|NC_041751.1|32623215|32624144	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hi_functional|NC_041751.1|32630319|32631248	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hj_functional|NC_041751.1|32636611|32637537	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hk_functional|NC_041751.1|32647899|32648885	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hn_functional|NC_041751.1|32680335|32681264	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ho_functional|NC_041751.1|32685724|32686653	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hq_functional|NC_041751.1|32699961|32700890	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hs_functional|NC_041751.1|32707403|32708374	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ht_functional|NC_041751.1|32711601|32712506	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hu_functional|NC_041751.1|32757169|32758086	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_hv_functional|NC_041751.1|32778169|32779113	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_hw_functional|NC_041751.1|32948560|32949450	891	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR14J1_hy_pseudogene|NC_041751.1|32977075|32977986	912	single-exon	keep	6	DeepTMHMM	functional	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR14A2_hz_functional|NC_041751.1|33024886|33025842	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ib_functional|NC_041751.1|33030524|33031492	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_ic_functional|NC_041751.1|33041456|33042409	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_id_functional|NC_041751.1|33048531|33049469	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_ie_functional|NC_041751.1|33052823|33053785	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ig_functional|NC_041751.1|33058517|33059482	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_ih_functional|NC_041751.1|33063687|33064655	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_ii_functional|NC_041751.1|33068280|33069263	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ik_functional|NC_041751.1|33072051|33072980	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_il_functional|NC_041751.1|33078824|33079846	1023	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2H1_pseudogene|NC_041751.1|33081918|33082322	405	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR14J1_in_functional|NC_041751.1|33103315|33104241	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_io_functional|NC_041751.1|33109463|33110425	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ir_functional|NC_041751.1|33126482|33127432	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_it_functional|NC_041751.1|33196857|33197906	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_iu_functional|NC_041751.1|33216160|33217089	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_iv_functional|NC_041751.1|33220460|33221389	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_iw_functional|NC_041751.1|33229026|33229955	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ix_functional|NC_041751.1|33235727|33236674	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_iy_functional|NC_041751.1|33239918|33240847	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_iz_functional|NC_041751.1|33258456|33259382	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ja_functional|NC_041751.1|33267340|33268266	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_jb_functional|NC_041751.1|33272836|33273762	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jc_functional|NC_041751.1|33283753|33284679	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jd_functional|NC_041751.1|33298316|33299242	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_je_functional|NC_041751.1|33303565|33304491	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jf_functional|NC_041751.1|33317243|33318169	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_jg_functional|NC_041751.1|33324105|33325031	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jh_functional|NC_041751.1|33338671|33339600	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ji_functional|NC_041751.1|33342900|33343826	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jj_functional|NC_041751.1|33354653|33355573	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jl_functional|NC_041751.1|33372589|33373482	894	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR1D2_functional|NC_041752.1|5412406|5413344	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_jm_functional|NC_041752.1|5428677|5429621	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_jo_functional|NC_041752.1|5445209|5446150	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_jp_functional|NC_041752.1|5451968|5452909	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_jq_functional|NC_041752.1|5459030|5459995	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR1361_js_functional|NC_041752.1|5524765|5525703	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jt_functional|NC_041752.1|6428814|6429743	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ju_functional|NC_041752.1|7012269|7013198	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jv_functional|NC_041752.1|7212632|7213561	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R3_jw_functional|NC_041752.1|7566594|7567523	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10K1_functional|NC_041753.1|2723113|2724057	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jy_functional|NC_041753.1|9223594|9224541	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_jz_functional|NC_041753.1|9258532|9259464	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R4_ka_functional|NC_041753.1|9634825|9635820	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kb_functional|NC_041753.1|9658133|9659131	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kd_functional|NC_041753.1|9703484|9704473	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ke_functional|NC_041753.1|9924327|9925325	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kg_functional|NC_041753.1|10008742|10009674	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kh_pseudogene|NC_041753.1|10210214|10211041	828	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR13D1_functional|NC_041753.1|22346056|22347024	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2K2_functional|NC_041753.1|22359195|22360139	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56_ki_functional|NC_041753.1|23108614|23109585	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR56_kj_functional|NC_041753.1|23116864|23117841	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kk_functional|NC_041753.1|23312187|23313188	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kl_pseudogene|NC_041753.1|23319857|23320837	981	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_VN1R1_km_functional|NC_041753.1|23342827|23343780	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kn_functional|NC_041753.1|23363386|23364348	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ko_functional|NC_041753.1|23386294|23387301	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kp_functional|NC_041753.1|23392962|23393864	903	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kq_functional|NC_041753.1|23404191|23405162	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kr_functional|NC_041753.1|23412732|23413760	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R4_ks_functional|NC_041753.1|23420754|23421680	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kt_functional|NC_041753.1|23428424|23429407	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R4_ku_functional|NC_041753.1|23441382|23442479	1098	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kv_functional|NC_041753.1|23445931|23446860	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kw_functional|NC_041753.1|23456668|23457597	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kx_functional|NC_041753.1|23496536|23497465	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ky_functional|NC_041753.1|23506569|23507495	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_kz_functional|NC_041753.1|23522294|23523211	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_la_functional|NC_041753.1|23575903|23576898	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R4_lb_functional|NC_041753.1|23596717|23597775	1059	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lc_functional|NC_041753.1|23617220|23618218	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ld_functional|NC_041753.1|23625235|23626206	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_le_functional|NC_041753.1|23637919|23638890	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lf_functional|NC_041753.1|23646397|23647341	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lg_functional|NC_041753.1|23661612|23662532	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_lh_functional|NC_041753.1|23668903|23669898	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_li_functional|NC_041753.1|23679089|23680054	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_lk_functional|NC_041753.1|23691605|23692651	1047	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ll_functional|NC_041753.1|23697661|23698629	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ln_functional|NC_041753.1|23707058|23708023	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_lo_functional|NC_041753.1|23718905|23719861	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A2_lp_functional|NC_041753.1|23728175|23729110	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lq_functional|NC_041753.1|23735461|23736357	897	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R4_lr_functional|NC_041753.1|23741005|23741883	879	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR14A16_ls_functional|NC_041753.1|23749654|23750568	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_lt_functional|NC_041753.1|23762018|23762968	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14L1_lu_functional|NC_041753.1|23768281|23769210	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lv_functional|NC_041753.1|23774838|23775767	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lw_functional|NC_041753.1|23784486|23785415	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lx_functional|NC_041753.1|23794675|23795604	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ly_functional|NC_041753.1|23803048|23804049	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_lz_functional|NC_041753.1|23811004|23811972	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R4_ma_functional|NC_041753.1|23825843|23826874	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2W3_mb_functional|NC_041753.1|23833449|23834378	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mc_functional|NC_041753.1|23848419|23849384	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_md_functional|NC_041753.1|23860443|23861384	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_me_functional|NC_041753.1|23878735|23879679	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mf_functional|NC_041753.1|23897477|23898430	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mg_functional|NC_041753.1|23917278|23918246	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_mh_functional|NC_041753.1|23925586|23926503	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2W6_mi_functional|NC_041753.1|23932472|23933416	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR15_functional|NC_041753.1|23942561|23943517	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2B2_functional|NC_041753.1|23952163|23953122	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2G3_mk_functional|NC_041753.1|23964981|23965910	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2B11_functional|NC_041753.1|23976017|23976964	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2G3_ml_functional|NC_041753.1|23984429|23985406	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_mm_functional|NC_041753.1|24066169|24067098	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR5V1_functional|NC_041753.1|24075334|24076284	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR12D3_functional|NC_041753.1|24085767|24086708	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mp_pseudogene|NW_024396675.1|39889|40803	915	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_OR14J1_ms_functional|NW_024396703.1|90469|91392	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mu_functional|NW_024396709.1|11907|12824	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR10A4_mw_functional|NW_024396716.1|11641|12585	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_mx_functional|NW_024396724.1|28073|29209	1137	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_my_pseudogene|NW_024396724.1|54701|55579	879	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_ORclassAprotein1_mz_functional|NW_024396724.1|224400|225314	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_na_functional|NW_024396724.1|240872|241828	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nc_functional|NW_024396724.1|691965|692864	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_nd_functional|NW_024396724.1|904647|905570	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ne_functional|NW_024396724.1|920648|921547	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_nf_functional|NW_024396724.1|1019656|1020591	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ng_functional|NW_024396724.1|1035636|1036601	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_ORclassAprotein1_nk_functional|NW_024396724.1|1395254|1396183	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nl_pseudogene|NW_024396725.1|32371|33225	855	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_nm_functional|NW_024396725.1|36717|37613	897	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_ORclassAprotein1_nn_pseudogene|NW_024396725.1|536078|536890	813	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_no_functional|NW_024396725.1|596593|597498	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_np_functional|NW_024396725.1|661636|662565	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nq_functional|NW_024396725.1|867436|868365	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nr_pseudogene|NW_024396729.1|57785|58615	831	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R4_ns_functional|NW_024396730.1|7876|8838	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nt_functional|NW_024396730.1|111810|112703	894	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_nu_functional|NW_024396730.1|122066|122992	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_nv_functional|NW_024396730.1|175350|176279	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C4_nw_functional|NW_024396730.1|214200|215129	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_nx_functional|NW_024396730.1|236438|237367	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_ny_functional|NW_024396730.1|244628|245557	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2T33_functional|NW_024396779.1|167908|168870	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2V2_functional|NW_024396779.1|184174|185106	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR11L1_functional|NW_024396779.1|212313|213239	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_oc_functional|NW_024396779.1|238119|239081	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6M1_functional|NW_024396779.1|246685|247629	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6J1_od_functional|NW_024396779.1|262897|263784	888	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR11L1_oe_functional|NW_024396779.1|267241|268176	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2T33_of_functional|NW_024396779.1|319771|320733	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_og_functional|NW_024396779.1|364777|365739	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_oh_functional|NW_024396779.1|389850|390788	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_oi_pseudogene|NW_024396779.1|452128|453054	927	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_VN1R1_ok_functional|NW_024396779.1|514949|515866	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ol_functional|NW_024396779.1|566380|567306	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_om_functional|NW_024396779.1|660502|661419	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_oo_functional|NW_024396779.1|685197|686126	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_op_pseudogene|NW_024396779.1|694899|695669	771	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR14A2_oq_functional|NW_024396779.1|704686|705606	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_or_functional|NW_024396783.1|14038|14961	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14J1_os_functional|NW_024396783.1|33741|34718	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR6C4_ot_functional|NW_024396794.1|47330|48259	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ou_functional|NW_024396813.1|14798|15754	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ov_functional|NW_024396819.1|31430|32329	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_ow_functional|NW_024396824.1|26916|27812	897	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_ox_functional|NW_024396824.1|121734|122660	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_oy_functional|NW_024396824.1|312552|313466	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_oz_functional|NW_024396824.1|434091|434981	891	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_pa_pseudogene|NW_024396854.1|24552|25481	930	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_VN1R100_pb_functional|NW_024396865.1|128565|129470	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_pc_functional|NW_024396870.1|25214|26143	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_pd_pseudogene|NW_024396870.1|40414|41283	870	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN1R1_pe_functional|NW_024396870.1|61009|61914	906	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_pg_functional|NW_024396876.1|22207|23271	1065	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ph_functional|NW_024396894.1|30893|31822	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_pj_functional|NW_024396934.1|387689|388627	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_pl_functional|NW_024396934.1|406826|407743	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_pm_functional|NW_024396934.1|444744|445682	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_po_functional|NW_024396934.1|462611|463528	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_pq_functional|NW_024396934.1|487922|488842	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_ps_pseudogene|NW_024396934.1|508547|509242	696	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR12_pseudogene|NW_024396934.1|519574|520500	927	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_OR14J1_pt_functional|NW_024396934.1|537704|538627	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_pu_functional|NW_024396934.1|557043|558017	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_pw_pseudogene|NW_024396934.1|676099|677037	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Ornithorhynchus_anatinus_OR14A16_pz_functional|NW_024396934.1|776419|777357	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_qa_functional|NW_024396934.1|819698|820624	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_qc_functional|NW_024396934.1|846336|847298	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR14A16_qd_functional|NW_024396934.1|853649|854575	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qf_functional|NW_024396936.1|424227|425159	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R40_functional|NW_024396936.1|478550|479560	1011	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qh_functional|NW_024396936.1|632668|633597	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2G3_qi_functional|NW_024396936.1|700508|701440	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qj_functional|NW_024396936.1|812103|813092	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qk_functional|NW_024396936.1|933600|934529	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_ql_functional|NW_024396936.1|964119|965168	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2W6_qo_functional|NW_024396936.1|1091413|1092171	759	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_OR2G3_qq_functional|NW_024396936.1|1188959|1189891	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qs_functional|NW_024396936.1|1272690|1273637	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qu_functional|NW_024396936.1|1304168|1305097	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qv_functional|NW_024396936.1|1336228|1337154	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OR2G3_qw_functional|NW_024396941.1|392888|393850	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN1R1_qx_functional|NW_024396941.1|413993|414937	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS1R3_functional|NC_041732.1|56640602|56645941	2742	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS1R2_functional|NC_041732.1|60142834|60162975	2514	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_TAS1R1_functional|NC_041732.1|72051285|72040930	2517	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OPN1MW3_functional|NC_041733.1|19375264|19364382	1095	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_OPN1SW2_functional|NC_041733.1|19399831|19394649	1092	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_RHO_functional|NC_041749.1|54673248|54677163	1062	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN2R26_functional|NC_041752.1|3337392|3347810	2589	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Ornithorhynchus_anatinus_VN2R26_functional|NW_024396779.1|690196|689369	828	multi-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Ornithorhynchus_anatinus_VN2R26_pseudogene|NW_024396941.1|344712|345608	897	multi-exon	keep	0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.

@@ -1,0 +1,43 @@
+Species	Test name	# Missed	# Functional	# Pseudogene	Functional (%)	Pseudogene (%)
+Pan troglodytes	01_chimp	7	0	7	0	100
+Pan troglodytes	02_chimp	8	0	8	0	100
+Pan troglodytes	03_chimp	3	0	3	0	100
+Bos taurus	01_cow	1	0	1	0	100
+Bos taurus	02_cow	1	0	1	0	100
+Bos taurus	03_cow	1	0	1	0	100
+Canis lupus familiaris	01_dog	6	0	6	0	100
+Canis lupus familiaris	02_dog	7	0	7	0	100
+Canis lupus familiaris	03_dog	1	0	1	0	100
+Anas platyrhynchos	01_duck	8	5	3	62.5	37.5
+Anas platyrhynchos	02_duck	8	5	3	62.5	37.5
+Anas platyrhynchos	03_duck	2	0	2	0	100
+Xenopus laevis	01_frog	2	2	0	100	0
+Xenopus laevis	02_frog	108	103	5	95.37	4.63
+Xenopus laevis	03_frog	22	20	2	90.91	9.09
+Equus caballus	01_horse	2	1	1	50	50
+Equus caballus	02_horse	3	1	2	33.33	66.67
+Equus caballus	03_horse	1	0	1	0	100
+Homo sapiens	01_human	74	1	73	1.35	98.65
+Homo sapiens	02_human	83	1	82	1.2	98.8
+Homo sapiens	03_human	31	1	30	3.23	96.77
+Anolis carolinensis	01_lizard	9	8	1	88.89	11.11
+Anolis carolinensis	02_lizard	26	22	4	84.62	15.38
+Anolis carolinensis	03_lizard	14	14	0	100	0
+Mus musculus	01_mouse	159	10	149	6.29	93.71
+Mus musculus	02_mouse	191	30	161	15.71	84.29
+Mus musculus	03_mouse	44	1	43	2.27	97.73
+Monodelphis domestica	01_opossum	38	15	23	39.47	60.53
+Monodelphis domestica	02_opossum	129	96	33	74.42	25.58
+Monodelphis domestica	03_opossum	10	1	9	10	90
+Pongo abelii	01_orangutan	0	0	0	0	0
+Pongo abelii	02_orangutan	1	1	0	100	0
+Pongo abelii	03_orangutan	2	0	2	0	100
+Ornithorhynchus anatinus	01_platypus	4	2	2	50	50
+Ornithorhynchus anatinus	02_platypus	73	64	9	87.67	12.33
+Ornithorhynchus anatinus	03_platypus	1	0	1	0	100
+Rattus norvegicus	01_rat	138	10	128	7.25	92.75
+Rattus norvegicus	02_rat	151	17	134	11.26	88.74
+Rattus norvegicus	03_rat	57	2	55	3.51	96.49
+Danio rerio	01_zebrafish	4	4	0	100	0
+Danio rerio	02_zebrafish	15	15	0	100	0
+Danio rerio	03_zebrafish	8	8	0	100	0

@@ -1,0 +1,378 @@
+Prediction	Maped receptor	#TM domains sensommatic prediction	#TM domains ncbi prediction	Pred start codon	Mapped start codon	Pred stop codon	Mapped stop codon	Prediction status	Mapped status	Prediction length	Mapped length	Identical	Status change	Improvment status
+>NC_036912.1_OR13C7_functional_fwd_4511282_4512265	Pongo_abelii_OR13C7_an_functional|NC_036912.1|4511282|4512265	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_036912.1_OR13C2_functional_rev_78330685_78331641	Pongo_abelii_OR13C2_functional|NC_036912.1|78330685|78331641	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036912.1_OR13C3_pseudogene_nonsense_short_rev_78266674_78267528	Pongo_abelii_OR13C3_pseudogene|NC_036912.1|78266674|78267717	7	7	yes	yes	yes	yes	pseudogene	pseudogene	855	1044	no	no	no change
+>NC_036912.1_OR13C9_functional_rev_78343728_78344684	Pongo_abelii_OR13C9_functional|NC_036912.1|78343728|78344684	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036912.1_OR13J1_functional_fwd_4500824_4501762	Pongo_abelii_OR13J1_functional|NC_036912.1|4500824|4501762	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036912.1_OR1B1_functional_rev_96522675_96523631	Pongo_abelii_OR1B1_functional|NC_036912.1|96522675|96523631	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036912.1_OR1H1P_pseudogene_short_fwd_96500730_96501307	Pongo_abelii_OR1361_pseudogene|NC_036912.1|96500729|96501661	4	7	yes	yes	yes	yes	pseudogene	pseudogene	579	933	no	no	no
+>NC_036912.1_OR1J4_functional_fwd_96381850_96382791	Pongo_abelii_OR1J4_functional|NC_036912.1|96381850|96382791	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036912.1_OR1L4_functional_fwd_96608048_96608983	Pongo_abelii_OR1L4_functional|NC_036912.1|96608048|96608983	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036912.1_OR1L6_functional_fwd_96634809_96635744	Pongo_abelii_OR1L6_functional|NC_036912.1|96634701|96635744	7	7	yes	yes	yes	yes	functional	functional	936	1044	no	no	no change
+>NC_036912.1_OR1L8_pseudogene_short_rev_96439800_96440462	Pongo_abelii_OR1L8_pseudogene|NC_036912.1|96439533|96440462	5	7	yes	yes	yes	yes	pseudogene	pseudogene	663	930	no	no	no
+>NC_036912.1_OR2S2_functional_fwd_4415367_4416326	Pongo_abelii_OR2S2_functional|NC_036912.1|4415367|4416326	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036912.1_OR5C1_functional_fwd_96668940_96669899	Pongo_abelii_OR5C1_functional|NC_036912.1|96668940|96669899	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036912.1_OR1L1_pseudogene_nonsense_fwd_96553095_96554177	Pongo_abelii_OR1L1_pseudogene|NC_036912.1|96553095|96554177	7	7	yes	yes	yes	yes	pseudogene	pseudogene	1083	1083	yes	no	no change
+>NC_036912.1_OR1K1_pseudogene_short_fwd_96680102_96680899	Pongo_abelii_OR1K1_pseudogene|NC_036912.1|96680102|96681052	6	7	yes	yes	yes	yes	pseudogene	pseudogene	798	951	no	no	no
+>NC_036912.1_OR13C7_functional_fwd_4369814_4370770	Pongo_abelii_OR13C7_al_functional|NC_036912.1|4369814|4370770	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036912.1_OR13C7_functional_fwd_4381237_4382196	Pongo_abelii_OR13C7_am_functional|NC_036912.1|4381237|4382196	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036912.1_OR13C7_functional_rev_4359574_4360542	Pongo_abelii_OR13C7_functional|NC_036912.1|4359574|4360542	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036912.1_OR1N2_functional_fwd_96415839_96416801	Pongo_abelii_OR1N2_pseudogene|NC_036912.1|96415797|96416801	7	7	yes	yes	yes	yes	functional	pseudogene	963	1005	no	yes	no change
+>NC_036912.1_OR1Q1_functional_fwd_96507609_96508553	Pongo_abelii_OR1Q1_functional|NC_036912.1|96507609|96508553	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036912.1_OR1J4_functional_fwd_96372480_96373421	Pongo_abelii_OR1J2_functional|NC_036912.1|96372480|96373421	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036912.1_OR13C7_functional_fwd_78316026_78316961	Pongo_abelii_OR13D1_functional|NC_036912.1|78316026|78316961	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036912.1_OR1G1_functional_fwd_96464651_96465598	Pongo_abelii_OR1G1_functional|NC_036912.1|96464651|96465598	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036915.1_OR6C2_functional_fwd_53209056_53209994	Pongo_abelii_OR6C2_db_functional|NC_036915.1|53209056|53209994	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR10A7_functional_fwd_52858089_52859039	Pongo_abelii_OR10A7_functional|NC_036915.1|52858089|52859039	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036915.1_OR10P1_functional_fwd_53394753_53395694	Pongo_abelii_OR10P1_functional|NC_036915.1|53394753|53395694	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036915.1_OR6C4_functional_fwd_53319998_53320927	Pongo_abelii_OR6C4_functional|NC_036915.1|53319998|53320927	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_OR6C1_pseudogene_short_fwd_52978605_52979258	Pongo_abelii_OR6C1_pseudogene|NC_036915.1|52978605|52979543	5	7	yes	yes	yes	yes	pseudogene	pseudogene	654	939	no	no	no
+>NC_036915.1_OR6C2_functional_fwd_53113140_53114078	Pongo_abelii_OR6C2_functional|NC_036915.1|53113140|53114078	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR6C3_functional_fwd_52995769_52996704	Pongo_abelii_OR6C3_functional|NC_036915.1|52995769|52996704	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036915.1_OR6C66P_functional_fwd_53042594_53043523	Pongo_abelii_OR6C76_functional|NC_036915.1|53042594|53043523	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_OR6C6_functional_rev_52947117_52948061	Pongo_abelii_OR6C6_functional|NC_036915.1|52947117|52948061	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036915.1_OR6C70_functional_rev_53136796_53137734	Pongo_abelii_OR6C70_functional|NC_036915.1|53136796|53137734	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR6C74_functional_fwd_52891903_52892841	Pongo_abelii_OR6C74_functional|NC_036915.1|52891903|52892841	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR6C75_functional_fwd_53022116_53023054	Pongo_abelii_OR6C75_cz_functional|NC_036915.1|53022116|53023054	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR6C7P_functional_fwd_53005902_53006840	Pongo_abelii_OR6C3_cy_functional|NC_036915.1|53005902|53006840	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR9K2_functional_fwd_52759655_52760596	Pongo_abelii_OR9K2_cw_functional|NC_036915.1|52759655|52760596	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036915.1_TAS2R10_functional_rev_11044667_11045635	Pongo_abelii_TAS2R10_functional|NC_036915.1|11044667|11045635	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036915.1_TAS2R13_functional_rev_11131505_11132416	Pongo_abelii_TAS2R13_functional|NC_036915.1|11131505|11132416	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_036915.1_TAS2R14_functional_rev_11190776_11191732	Pongo_abelii_TAS2R14_functional|NC_036915.1|11190776|11191732	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036915.1_TAS2R19_functional_rev_11311949_11312905	Pongo_abelii_TAS2R19_functional|NC_036915.1|11311949|11312905	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036915.1_TAS2R19_pseudogene_short_rev_11351893_11352378	Pongo_abelii_TAS2R64_pseudogene|NC_036915.1|11351893|11352822	3	7	yes	yes	yes	yes	pseudogene	pseudogene	486	930	no	no	no
+>NC_036915.1_TAS2R20_functional_rev_11277569_11278498	Pongo_abelii_TAS2R20_functional|NC_036915.1|11277569|11278498	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_TAS2R31_functional_rev_11329295_11330224	Pongo_abelii_TAS2R31_functional|NC_036915.1|11329295|11330224	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_TAS2R45_functional_rev_11409091_11410020	Pongo_abelii_TAS2R45_cr_functional|NC_036915.1|11409091|11410020	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_TAS2R50_functional_rev_11266601_11267500	Pongo_abelii_TAS2R50_cq_functional|NC_036915.1|11266601|11267500	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_036915.1_TAS2R42_functional_rev_11498467_11499411	Pongo_abelii_TAS2R42_functional|NC_036915.1|11498467|11499411	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036915.1_TAS2R7_functional_rev_11020531_11021487	Pongo_abelii_TAS2R7_cp_functional|NC_036915.1|11020531|11021487	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036915.1_TAS2R8_functional_rev_11025446_11026375	Pongo_abelii_TAS2R8_functional|NC_036915.1|11025446|11026375	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036915.1_TAS2R9_functional_rev_11028531_11029469	Pongo_abelii_TAS2R9_functional|NC_036915.1|11028531|11029469	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR6C76_pseudogene_nonsense_fwd_53089781_53090725	Pongo_abelii_OR6C76_da_pseudogene|NC_036915.1|53089781|53090725	7	7	yes	yes	yes	yes	pseudogene	pseudogene	945	945	yes	no	no change
+>NC_036915.1_OR6C2_functional_fwd_53249300_53250238	Pongo_abelii_OR6C2_dc_functional|NC_036915.1|53249300|53250238	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036915.1_OR8S1_functional_rev_45941286_45942203	Pongo_abelii_OR8S1_functional|NC_036915.1|45941286|45942203	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_036915.1_OR9K2_functional_fwd_52700776_52701717	Pongo_abelii_OR9K2_functional|NC_036915.1|52700776|52701717	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036915.1_OR6C65_pseudogene_short_fwd_53057438_53058208	Pongo_abelii_OR6C65_pseudogene|NC_036915.1|53057606|53058208	6	5	yes	yes	yes	yes	pseudogene	pseudogene	771	603	no	no	yes
+>NC_036915.1_OR9K2_functional_fwd_52734454_52735395	Pongo_abelii_OR9K2_cv_functional|NC_036915.1|52734454|52735395	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036915.1_OR6C64P_functional_fwd_53279668_53280648	Pongo_abelii_OR6C2_dd_functional|NC_036915.1|53279668|53280648	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_036914.1_OR51L1_functional_rev_62352302_62353249	Pongo_abelii_OR51L1_bt_functional|NC_036914.1|62352302|62353249	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036914.1_OR56A4_functional_fwd_61199091_61200032	Pongo_abelii_OR56A4_functional|NC_036914.1|61199091|61200032	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR51T1_functional_rev_62459922_62460905	Pongo_abelii_OR51T1_functional|NC_036914.1|62459922|62460986	7	7	yes	yes	yes	yes	functional	functional	984	1065	no	no	no change
+>NC_036914.1_OR10G8_functional_fwd_116893227_116894162	Pongo_abelii_OR10G9_cm_functional|NC_036914.1|116893227|116894162	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR2AG2_functional_fwd_60417265_60418314	Pongo_abelii_OR2AG2_functional|NC_036914.1|60417364|60418314	7	7	yes	yes	yes	yes	functional	functional	1050	951	no	no	no change
+>NC_036914.1_OR4D10_pseudogene_short_rev_15259743_15260108	Pongo_abelii_OR4D10_pseudogene|NC_036914.1|15259173|15260108	3	7	yes	yes	yes	yes	pseudogene	pseudogene	366	936	no	no	no
+>NC_036914.1_OR4D10_functional_rev_15274972_15275949	Pongo_abelii_OR4D10_au_functional|NC_036914.1|15274972|15275949	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_036914.1_OR4D11_functional_rev_15248030_15248965	Pongo_abelii_OR4D11_functional|NC_036914.1|15248030|15248965	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR6X1_functional_rev_116614818_116615756	Pongo_abelii_OR6X1_functional|NC_036914.1|116614818|116615756	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR51A3P_functional_fwd_62405095_62406036	Pongo_abelii_OR51A4_bu_pseudogene|NC_036914.1|62405275|62406036	7	6	yes	yes	yes	yes	functional	pseudogene	942	762	no	yes	yes
+>NC_036914.1_OR10G7_functional_rev_116901627_116902562	Pongo_abelii_OR10G7_functional|NC_036914.1|116901627|116902562	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR10W1_functional_fwd_16660411_16661355	Pongo_abelii_OR10W1_functional|NC_036914.1|16660411|16661355	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR143_functional_rev_117229699_117230601	Pongo_abelii_OR143_functional|NC_036914.1|117229699|117230601	7	7	yes	yes	yes	yes	functional	functional	903	903	yes	no	no change
+>NC_036914.1_OR51F5P_functional_rev_62633547_62634491	Pongo_abelii_OR51F2_cb_functional|NC_036914.1|62633547|62634491	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR51B2_functional_fwd_61813584_61814522	Pongo_abelii_OR51B2_functional|NC_036914.1|61813584|61814522	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR52N1_functional_fwd_61258959_61259921	Pongo_abelii_OR52N1_functional|NC_036914.1|61258959|61259921	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036914.1_OR51A5P_functional_fwd_62378029_62379003	Pongo_abelii_OR51A7_functional|NC_036914.1|62378062|62379003	7	7	yes	yes	yes	yes	functional	functional	975	942	no	no	no change
+>NC_036914.1_OR10A2_functional_rev_60308414_60309367	Pongo_abelii_OR10A2_functional|NC_036914.1|60308414|60309367	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR10A5_functional_rev_60334822_60335787	Pongo_abelii_OR10A5_functional|NC_036914.1|60334822|60335787	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_036914.1_OR10A3_functional_fwd_59174453_59175397	Pongo_abelii_OR10A3_functional|NC_036914.1|59174453|59175397	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR10A3_functional_fwd_59185446_59186390	Pongo_abelii_OR10A3_bb_functional|NC_036914.1|59185446|59186390	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR10A6_functional_fwd_59208034_59208996	Pongo_abelii_OR10A6_functional|NC_036914.1|59208052|59208996	7	7	yes	yes	yes	yes	functional	functional	963	945	no	no	no change
+>NC_036914.1_OR10D3_pseudogene_short_fwd_117054492_117054995	Pongo_abelii_OR10D3_pseudogene|NC_036914.1|117054492|117055430	4	7	yes	yes	yes	yes	pseudogene	pseudogene	504	939	no	no	no
+>NC_036914.1_OR10G4_functional_fwd_116879240_116880175	Pongo_abelii_OR10G4_functional|NC_036914.1|116879240|116880175	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR10G9_functional_fwd_116886622_116887608	Pongo_abelii_OR10G9_functional|NC_036914.1|116886622|116887608	7	7	yes	yes	yes	yes	functional	functional	987	987	yes	no	no change
+>NC_036914.1_OR10N1P_functional_rev_116973231_116974169	Pongo_abelii_OR148_functional|NC_036914.1|116973231|116974163	7	7	yes	yes	yes	yes	functional	functional	939	933	no	no	no change
+>NC_036914.1_OR10Q1_functional_fwd_16698753_16699712	Pongo_abelii_OR10Q1_functional|NC_036914.1|16698753|16699712	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036914.1_OR10V1_functional_fwd_15043139_15044068	Pongo_abelii_OR10V1_functional|NC_036914.1|15043139|15044068	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR1S1_functional_rev_16711953_16712891	Pongo_abelii_OR1S1_functional|NC_036914.1|16711953|16712891	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR1S2_functional_fwd_16723564_16724502	Pongo_abelii_OR1S2_functional|NC_036914.1|16723525|16724502	7	7	yes	yes	yes	yes	functional	functional	939	978	no	no	no change
+>NC_036914.1_OR2AG1_functional_rev_60400253_60401203	Pongo_abelii_OR2AG1_functional|NC_036914.1|60400253|60401203	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036914.1_OR2AT4_functional_rev_67065858_67066820	Pongo_abelii_OR2AT4_cj_functional|NC_036914.1|67065858|67066820	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036914.1_OR4C3_functional_rev_18333744_18334652	Pongo_abelii_OR4C3_functional|NC_036914.1|18333744|18334733	7	7	yes	yes	yes	yes	functional	functional	909	990	no	no	no change
+>NC_036914.1_OR4D5_functional_fwd_116803259_116804215	Pongo_abelii_OR4D5_functional|NC_036914.1|116803259|116804215	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036914.1_OR4D6_functional_rev_15296062_15297006	Pongo_abelii_OR4D6_functional|NC_036914.1|15296062|15297006	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR4X1_pseudogene_short_rev_18407498_18407908	Pongo_abelii_OR4X1_pseudogene|NC_036914.1|18406991|18407908	3	7	yes	yes	yes	yes	pseudogene	pseudogene	411	918	no	no	no
+>NC_036914.1_OR4X2_functional_rev_18436030_18436941	Pongo_abelii_OR4X2_functional|NC_036914.1|18436030|18436941	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_036914.1_OR51A4_functional_fwd_62396298_62397239	Pongo_abelii_OR51A4_functional|NC_036914.1|62396298|62397239	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR51A7_functional_rev_62432496_62433434	Pongo_abelii_OR51A7_bw_functional|NC_036914.1|62432496|62433434	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR51B4_pseudogene_short_fwd_61835922_61836332	Pongo_abelii_OR51B4_pseudogene|NC_036914.1|61835922|61836854	3	7	yes	yes	yes	yes	pseudogene	pseudogene	411	933	no	no	no
+>NC_036914.1_OR51B6_functional_rev_61775861_61776799	Pongo_abelii_OR51B6_bk_functional|NC_036914.1|61775861|61776799	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR51D1_functional_rev_62723504_62724478	Pongo_abelii_OR51D1_functional|NC_036914.1|62723504|62724520	7	7	yes	yes	yes	yes	functional	functional	975	1017	no	no	no change
+>NC_036914.1_OR51E1_functional_rev_62710788_62711744	Pongo_abelii_OR51E1_functional|NC_036914.1|62710788|62711744	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036914.1_OR51E2_functional_fwd_62661666_62662628	Pongo_abelii_OR51E2_cc_functional|NC_036914.1|62661666|62662628	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036914.1_OR51F2_functional_rev_62520563_62521591	Pongo_abelii_OR51F2_bz_functional|NC_036914.1|62520563|62521591	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NC_036914.1_OR51G1_pseudogene_short_fwd_62416048_62416755	Pongo_abelii_OR51G1_pseudogene|NC_036914.1|62416048|62417013	5	7	yes	yes	yes	yes	pseudogene	pseudogene	708	966	no	no	no
+>NC_036914.1_OR51G2_functional_fwd_62424739_62425683	Pongo_abelii_OR51G2_bv_functional|NC_036914.1|62424739|62425683	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR51I1_functional_fwd_61687473_61688417	Pongo_abelii_OR51I1_functional|NC_036914.1|61687473|61688417	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR51P1P_functional_rev_62336138_62337079	Pongo_abelii_OR51G2_functional|NC_036914.1|62336138|62337079	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR51Q1_pseudogene_short_rev_61706795_61707502	Pongo_abelii_OR51Q1_pseudogene|NC_036914.1|61706549|61707502	5	7	yes	yes	yes	yes	pseudogene	pseudogene	708	954	no	no	no
+>NC_036914.1_OR51S1_functional_fwd_62493815_62494786	Pongo_abelii_OR51S1_functional|NC_036914.1|62493815|62494786	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_036914.1_OR51V1_functional_fwd_61936720_61937679	Pongo_abelii_OR51V1_functional|NC_036914.1|61936720|61937679	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036914.1_OR52A5_functional_fwd_62004085_62005035	Pongo_abelii_OR52A5_functional|NC_036914.1|62004085|62005035	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036914.1_OR52E3P_functional_rev_62283658_62284593	Pongo_abelii_OR52E2_functional|NC_036914.1|62283658|62284593	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR52H1_functional_fwd_61578659_61579624	Pongo_abelii_OR52H1_bg_functional|NC_036914.1|61578659|61579624	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_036914.1_OR52I2_functional_rev_62770876_62771928	Pongo_abelii_OR52I2_ce_functional|NC_036914.1|62770876|62771928	7	7	yes	yes	yes	yes	functional	functional	1053	1053	yes	no	no change
+>NC_036914.1_OR52I2_functional_rev_62763768_62764742	Pongo_abelii_OR52I2_functional|NC_036914.1|62763768|62764742	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_036914.1_OR52I2_functional_rev_62758443_62759492	Pongo_abelii_OR52I1_functional|NC_036914.1|62758443|62759447	7	7	yes	yes	yes	yes	functional	functional	1050	1005	no	no	no change
+>NC_036914.1_OR52K1_functional_rev_62872690_62873634	Pongo_abelii_OR52K1_cf_functional|NC_036914.1|62872690|62873634	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR52K2_functional_rev_62917340_62918257	Pongo_abelii_OR52K2_functional|NC_036914.1|62917340|62918257	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_036914.1_OR52L1_functional_fwd_61210933_61211922	Pongo_abelii_OR52L1_functional|NC_036914.1|61210933|61211922	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_036914.1_OR52L1_functional_fwd_61138147_61139136	Pongo_abelii_OR52L2_functional|NC_036914.1|61138147|61139136	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_036914.1_OR52N4_functional_rev_61305247_61306212	Pongo_abelii_OR52N4_functional|NC_036914.1|61305247|61306212	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_036914.1_OR52N5_pseudogene_short_fwd_61269244_61270050	Pongo_abelii_OR52N5_functional|NC_036914.1|61269139|61270050	7	7	yes	yes	yes	yes	pseudogene	functional	807	912	no	yes	no change
+>NC_036914.1_OR52R1_pseudogene_short_fwd_62538697_62539515	Pongo_abelii_OR52R1_pseudogene|NC_036914.1|62538697|62539644	6	7	yes	yes	yes	yes	pseudogene	pseudogene	819	948	no	no	no
+>NC_036914.1_OR52W1_pseudogene_short_rev_60996914_60997648	Pongo_abelii_OR52W1_pseudogene|NC_036914.1|60996875|60997837	6	7	yes	yes	yes	yes	pseudogene	pseudogene	735	963	no	no	no
+>NC_036914.1_OR56A1_functional_fwd_61174390_61175334	Pongo_abelii_OR56A1_functional|NC_036914.1|61174390|61175334	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR56B4_functional_rev_61092174_61093127	Pongo_abelii_OR56B4_functional|NC_036914.1|61092174|61093127	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR5AK2_functional_rev_18013948_18014877	Pongo_abelii_OR5AK2_ba_functional|NC_036914.1|18013948|18014877	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR5AN1_functional_rev_15391858_15392793	Pongo_abelii_OR5AN1_functional|NC_036914.1|15391858|15392793	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR5B2_functional_fwd_16479572_16480501	Pongo_abelii_OR5B2_functional|NC_036914.1|16479572|16480501	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR5B17_pseudogene_short_fwd_16554949_16555725	Pongo_abelii_OR5B17_pseudogene|NC_036914.1|16554949|16555893	6	7	yes	yes	yes	yes	pseudogene	pseudogene	777	945	no	no	no
+>NC_036914.1_OR5B21_functional_fwd_16392794_16393663	Pongo_abelii_OR5B21_pseudogene|NC_036914.1|16392794|16393663	6	6	yes	yes	yes	yes	functional	pseudogene	870	870	yes	yes	no change
+>NC_036914.1_OR5B3_functional_fwd_16506948_16507850	Pongo_abelii_OR5B3_functional|NC_036914.1|16506948|16507850	7	7	yes	yes	yes	yes	functional	functional	903	903	yes	no	no change
+>NC_036914.1_OR5G1P_functional_fwd_18234842_18235783	Pongo_abelii_ORproteinHbA1_functional|NC_036914.1|18234842|18235783	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR5P3_functional_fwd_59318463_59319398	Pongo_abelii_OR5P3_functional|NC_036914.1|59318463|59319398	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR502_functional_fwd_59438185_59439186	Pongo_abelii_OR502_functional|NC_036914.1|59438248|59439186	7	7	yes	yes	yes	yes	functional	functional	1002	939	no	no	no change
+>NC_036914.1_OR6A2_functional_fwd_60390539_60391522	Pongo_abelii_OR6A2_functional|NC_036914.1|60390539|60391522	7	7	yes	yes	yes	yes	functional	functional	984	984	yes	no	no change
+>NC_036914.1_OR6M1_functional_rev_116665232_116666173	Pongo_abelii_OR6M1_functional|NC_036914.1|116665232|116666173	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR6Q1_functional_rev_16899460_16900413	Pongo_abelii_OR6Q1_functional|NC_036914.1|16899460|16900413	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR6T1_pseudogene_short_rev_116806512_116807309	Pongo_abelii_OR6T1_pseudogene|NC_036914.1|116806512|116807483	6	7	yes	yes	yes	yes	pseudogene	pseudogene	798	972	no	no	no
+>NC_036914.1_OR8B12_functional_rev_117380696_117381625	Pongo_abelii_OR8B12_functional|NC_036914.1|117380696|117381625	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR8B8_functional_rev_117281805_117282746	Pongo_abelii_OR8B8_functional|NC_036914.1|117281805|117282746	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR8B4_functional_rev_117265258_117266187	Pongo_abelii_OR8B4_functional|NC_036914.1|117265258|117266187	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR8D1_functional_rev_117135869_117136795	Pongo_abelii_OR8D1_functional|NC_036914.1|117135869|117136795	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_036914.1_OR8D2_functional_rev_117146579_117147514	Pongo_abelii_OR8D2_functional|NC_036914.1|117146579|117147514	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR8D4_functional_fwd_116769804_116770745	Pongo_abelii_OR8D4_functional|NC_036914.1|116769804|116770745	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR8G2P_functional_fwd_117095064_117095999	Pongo_abelii_OR8G2_functional|NC_036914.1|117095025|117095999	7	7	yes	yes	yes	yes	functional	functional	936	975	no	no	no change
+>NC_036914.1_OR9Q1_functional_rev_16746873_16747805	Pongo_abelii_OR9Q1_functional|NC_036914.1|16746873|16747805	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036914.1_OR9Q2_functional_rev_16735841_16736785	Pongo_abelii_OR9Q2_functional|NC_036914.1|16735841|16736785	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR52P1_functional_fwd_62142458_62143402	Pongo_abelii_OR52P1_bo_functional|NC_036914.1|62142458|62143402	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR5AK3_functional_rev_18031753_18032682	Pongo_abelii_OR5AK3_functional|NC_036914.1|18031753|18032682	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036914.1_OR5AK2_pseudogene_short_rev_17977260_17978015	Pongo_abelii_OR5AK2_pseudogene|NC_036914.1|17977260|17978189	6	7	yes	yes	yes	yes	pseudogene	pseudogene	756	930	no	no	no
+>NC_036914.1_OR51A7_functional_rev_62509891_62510832	Pongo_abelii_OR51A7_by_functional|NC_036914.1|62509891|62510832	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR51H1_functional_fwd_62482654_62483559	Pongo_abelii_OR51H1_bx_functional|NC_036914.1|62482654|62483559	7	7	yes	yes	yes	yes	functional	functional	906	906	yes	no	no change
+>NC_036914.1_OR52D1_functional_fwd_62179174_62180196	Pongo_abelii_OR52K1_functional|NC_036914.1|62179243|62180196	7	7	yes	yes	yes	yes	functional	functional	1023	954	no	no	no change
+>NC_036914.1_OR481_functional_rev_59405314_59406252	Pongo_abelii_OR481_functional|NC_036914.1|59405314|59406252	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036914.1_OR5AN1_functional_fwd_15451703_15452656	Pongo_abelii_OR1440_functional|NC_036914.1|15451703|15452656	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR8B3_functional_rev_117204502_117205434	Pongo_abelii_OR8B3_functional|NC_036914.1|117204502|117205434	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036914.1_OR10S1_functional_rev_116841993_116842988	Pongo_abelii_OR10S1_functional|NC_036914.1|116841993|116843051	7	7	yes	yes	yes	yes	functional	functional	996	1059	no	no	no change
+>NC_036914.1_OR2D2_functional_fwd_60282198_60283145	Pongo_abelii_OR2D2_bc_functional|NC_036914.1|60282198|60283145	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036914.1_OR4C13_pseudogene_nonsense_fwd_18295562_18296521	Pongo_abelii_OR4C13_functional|NC_036914.1|18295694|18296521	7	7	yes	yes	yes	yes	pseudogene	functional	960	828	no	yes	no change
+>NC_036914.1_OR52A1_functional_fwd_61984472_61985404	Pongo_abelii_OR52A1_functional|NC_036914.1|61984472|61985404	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036914.1_OR52B2_functional_fwd_61020414_61021382	Pongo_abelii_OR52B2_functional|NC_036914.1|61020414|61021382	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036914.1_OR52J3_functional_rev_62314262_62315185	Pongo_abelii_OR52J3_bs_functional|NC_036914.1|62314262|62315173	7	7	yes	yes	yes	yes	functional	functional	924	912	no	no	no change
+>NC_036914.1_OR52Z1P_functional_fwd_61958353_61959327	Pongo_abelii_OR52Z1_functional|NC_036914.1|61958353|61959327	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_036914.1_OR8B3_functional_rev_117235195_117236136	Pongo_abelii_OR8B2_functional|NC_036914.1|117235195|117236136	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR8G3P_functional_fwd_117084125_117085057	Pongo_abelii_OR8G3P_pseudogene|NC_036914.1|117084125|117085057	7	7	yes	yes	yes	yes	functional	pseudogene	933	933	yes	yes	no change
+>NC_036914.1_OR9I1_functional_rev_16781503_16782444	Pongo_abelii_OR9I1_functional|NC_036914.1|16781503|16782444	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR491_pseudogene_short_fwd_59369422_59370105	Pongo_abelii_OR491_pseudogene|NC_036914.1|59369185|59370105	5	7	yes	yes	yes	yes	pseudogene	pseudogene	684	921	no	no	no
+>NC_036914.1_OR52P1_functional_rev_61336484_61337473	Pongo_abelii_OR52P1_functional|NC_036914.1|61336484|61337473	7	7	yes	yes	yes	yes	functional	functional	990	990	yes	no	no change
+>NC_036914.1_OR52P1_functional_fwd_62935261_62936160	Pongo_abelii_OR52P1_cg_functional|NC_036914.1|62935213|62936160	7	7	yes	yes	yes	yes	functional	functional	900	948	no	no	no change
+>NC_036914.1_OR51H1_functional_rev_62465314_62466267	Pongo_abelii_OR51H1_functional|NC_036914.1|62465314|62466267	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR52J3_functional_rev_62269780_62270715	Pongo_abelii_OR52J3_functional|NC_036914.1|62269780|62270715	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR52B4_functional_rev_62988363_62989307	Pongo_abelii_OR52B4_functional|NC_036914.1|62988363|62989307	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR51V1_functional_fwd_62067731_62068675	Pongo_abelii_OR51V1_bn_functional|NC_036914.1|62067845|62068675	7	7	yes	yes	yes	yes	functional	functional	945	831	no	no	no change
+>NC_036914.1_OR52K1_functional_fwd_62189551_62190495	Pongo_abelii_OR52K1_bp_functional|NC_036914.1|62189551|62190495	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036914.1_OR52A1_functional_rev_62202167_62203036	Pongo_abelii_OR52A1_bq_functional|NC_036914.1|62202167|62203051	7	7	yes	yes	yes	yes	functional	functional	870	885	no	no	no change
+>NC_036914.1_OR5G3_functional_fwd_18193502_18194455	Pongo_abelii_OR5G3_functional|NC_036914.1|18193511|18194455	7	7	yes	yes	yes	yes	functional	functional	954	945	no	no	no change
+>NC_036914.1_OR52E4_functional_rev_61345938_61346918	Pongo_abelii_OR52P1_bf_functional|NC_036914.1|61345938|61346918	7	7	yes	yes	yes	yes	functional	functional	981	981	yes	no	no change
+>NC_036914.1_OR149_functional_fwd_117127592_117128524	Pongo_abelii_OR149_cn_functional|NC_036914.1|117127592|117128524	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036914.1_OR1052_functional_fwd_17115862_17116821	Pongo_abelii_OR1020_az_functional|NC_036914.1|17115862|17116821	7	7	yes	yes	yes	yes	functional	functional	960	960	yes	no	no change
+>NC_036914.1_OR52H1_functional_rev_61391796_61392737	Pongo_abelii_OR52H1_functional|NC_036914.1|61391796|61392737	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036914.1_OR51I2_functional_fwd_62689073_62690035	Pongo_abelii_OR51G2_cd_functional|NC_036914.1|62689073|62690035	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036914.1_OR51F1_functional_fwd_62607087_62608037	Pongo_abelii_OR51F2_ca_functional|NC_036914.1|62607087|62608037	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036914.1_OR149_functional_fwd_117026412_117027347	Pongo_abelii_OR149_functional|NC_036914.1|117026412|117027347	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036914.1_OR51I1_functional_fwd_61965696_61966568	Pongo_abelii_OR51I1_bl_functional|NC_036914.1|61965696|61966568	7	7	yes	yes	yes	yes	functional	functional	873	873	yes	no	no change
+>NC_036914.1_OR10D4_pseudogene_short_rev_116958145_116958726	Pongo_abelii_OR10D4_pseudogene|NC_036914.1|116957791|116958726	4	7	yes	yes	yes	yes	pseudogene	pseudogene	582	936	no	no	no
+>NC_036914.1_OR5B2_functional_fwd_16602316_16603269	Pongo_abelii_OR5B12_aw_functional|NC_036914.1|16602316|16603269	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036914.1_OR51A4_functional_fwd_61697212_61698162	Pongo_abelii_OR51L1_functional|NC_036914.1|61697212|61698162	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036903.1_OR2C3_functional_fwd_1425095_1426057	Pongo_abelii_OR2C3_functional|NC_036903.1|1425095|1426057	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036903.1_OR10J5_functional_fwd_91030749_91031678	Pongo_abelii_OR10J5_functional|NC_036903.1|91030749|91031678	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036903.1_OR2T27_functional_fwd_264155_265108	Pongo_abelii_OR2T27_functional|NC_036903.1|264155|265108	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036903.1_OR2T10_functional_fwd_322672_323595	Pongo_abelii_OR2T10_functional|NC_036903.1|322672|323595	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_036903.1_OR10K2_functional_fwd_92263237_92264175	Pongo_abelii_OR10K2_functional|NC_036903.1|92263237|92264175	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR14A2_functional_fwd_1238568_1239512	Pongo_abelii_OR14A2_functional|NC_036903.1|1238568|1239512	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036903.1_OR6K3_functional_fwd_91956134_91957081	Pongo_abelii_OR6K3_l_functional|NC_036903.1|91956083|91957081	7	7	yes	yes	yes	yes	functional	functional	948	999	no	no	no change
+>NC_036903.1_OR10J1_pseudogene_short_rev_91124966_91125718	Pongo_abelii_OR10J1_pseudogene|NC_036903.1|91124966|91125718	6	6	yes	yes	yes	yes	pseudogene	pseudogene	753	753	yes	no	no change
+>NC_036903.1_OR10J8P_functional_rev_91211060_91211977	Pongo_abelii_OR10J1_j_functional|NC_036903.1|91211060|91211977	7	7	yes	yes	yes	yes	functional	functional	918	918	yes	no	no change
+>NC_036903.1_OR10J1_functional_fwd_91302986_91303918	Pongo_abelii_OR10J1_k_functional|NC_036903.1|91302986|91303918	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036903.1_OR10R2_functional_rev_92201752_92202759	Pongo_abelii_OR10R2_functional|NC_036903.1|92201752|92202759	7	7	yes	yes	yes	yes	functional	functional	1008	1008	yes	no	no change
+>NC_036903.1_OR10T1P_functional_fwd_92238056_92239000	Pongo_abelii_OR10T2_functional|NC_036903.1|92238056|92239000	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036903.1_OR14A16_functional_fwd_1146664_1147596	Pongo_abelii_OR14A16_functional|NC_036903.1|1146664|1147596	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036903.1_OR14C36_functional_rev_608542_609480	Pongo_abelii_OR14C36_functional|NC_036903.1|608542|609480	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR14I1_pseudogene_short_fwd_234632_235153	Pongo_abelii_OR14I1_pseudogene|NC_036903.1|234632|235567	4	7	yes	yes	yes	yes	pseudogene	pseudogene	522	936	no	no	no
+>NC_036903.1_OR14K1_pseudogene_short_rev_1226286_1226885	Pongo_abelii_OR14K1_pseudogene|NC_036903.1|1226286|1227230	4	7	yes	yes	yes	yes	pseudogene	pseudogene	600	945	no	no	no
+>NC_036903.1_OR1C1_functional_fwd_1198920_1199861	Pongo_abelii_OR1C1_functional|NC_036903.1|1198698|1199861	7	7	yes	yes	yes	yes	functional	functional	942	1164	no	no	no change
+>NC_036903.1_OR2AJ1_functional_rev_1040629_1041573	Pongo_abelii_OR2AJ1_functional|NC_036903.1|1040629|1041573	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036903.1_OR2G6_functional_fwd_383762_384712	Pongo_abelii_OR2G6_functional|NC_036903.1|383762|384712	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036903.1_OR2L13_functional_rev_811394_812332	Pongo_abelii_OR2L13_functional|NC_036903.1|811394|812332	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L13_functional_fwd_987983_988921	Pongo_abelii_OR2L13_i_functional|NC_036903.1|987983|988921	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L2_functional_rev_867556_868494	Pongo_abelii_OR2L2_functional|NC_036903.1|867556|868494	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L5_functional_rev_882606_883544	Pongo_abelii_OR2L5_functional|NC_036903.1|882606|883544	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L5_functional_rev_937129_938067	Pongo_abelii_OR2L5_h_functional|NC_036903.1|937129|938067	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L8_functional_rev_1015033_1015971	Pongo_abelii_OR2L8_functional|NC_036903.1|1015033|1015971	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L6P_functional_rev_912698_913636	Pongo_abelii_OR2L3_g_functional|NC_036903.1|912698|913636	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2L6P_functional_rev_842000_842938	Pongo_abelii_OR2L3_functional|NC_036903.1|842000|842938	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2M5_pseudogene_short_rev_766621_767016	Pongo_abelii_OR2M5_pseudogene|NC_036903.1|766078|767016	3	7	yes	yes	yes	yes	pseudogene	pseudogene	396	939	no	no	no
+>NC_036903.1_OR2M3_functional_rev_584891_585829	Pongo_abelii_OR2M3_functional|NC_036903.1|584891|585829	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2T29_functional_fwd_355872_356819	Pongo_abelii_OR2T29_functional|NC_036903.1|355872|356819	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036903.1_OR2T11_functional_fwd_287433_288383	Pongo_abelii_OR2T11_functional|NC_036903.1|287433|288383	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036903.1_OR2T12_functional_fwd_827177_828139	Pongo_abelii_OR2T12_f_functional|NC_036903.1|827177|828139	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036903.1_OR2T12_functional_fwd_694731_695693	Pongo_abelii_OR2T12_functional|NC_036903.1|694731|695693	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036903.1_OR2T4_functional_rev_543654_544616	Pongo_abelii_OR2T4_d_functional|NC_036903.1|543654|544616	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036903.1_OR2T4_functional_rev_439695_440630	Pongo_abelii_OR2T4_functional|NC_036903.1|439695|440630	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036903.1_OR2T2_functional_rev_452333_453307	Pongo_abelii_OR2T2_b_functional|NC_036903.1|452333|453307	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_036903.1_OR2T8_functional_rev_1053981_1054841	Pongo_abelii_OR2T8_pseudogene|NC_036903.1|1053981|1054919	7	7	yes	yes	yes	yes	functional	pseudogene	861	939	no	yes	no change
+>NC_036903.1_OR2T3_functional_fwd_339997_340953	Pongo_abelii_OR2T3_functional|NC_036903.1|339997|340953	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036903.1_OR2T6_functional_rev_517438_518322	Pongo_abelii_OR2T6_functional|NC_036903.1|517438|518364	7	7	yes	yes	yes	yes	functional	functional	885	927	no	no	no change
+>NC_036903.1_OR2W3_functional_rev_1072044_1072988	Pongo_abelii_OR2W3_functional|NC_036903.1|1072044|1072988	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036903.1_OR6F1_functional_fwd_1251209_1252135	Pongo_abelii_OR6F1_functional|NC_036903.1|1251209|1252135	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_036903.1_OR6K2_functional_fwd_91971954_91972931	Pongo_abelii_OR6K2_functional|NC_036903.1|91971954|91972931	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_036903.1_OR6K6_functional_rev_91912984_91913943	Pongo_abelii_OR6K6_functional|NC_036903.1|91912984|91914015	7	7	yes	yes	yes	yes	functional	functional	960	1032	no	no	no change
+>NC_036903.1_OR6N1_functional_fwd_91902434_91903372	Pongo_abelii_OR6N1_functional|NC_036903.1|91902434|91903372	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR6N2_functional_fwd_91891492_91892445	Pongo_abelii_OR6N2_functional|NC_036903.1|91891492|91892445	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036903.1_OR6P1_functional_fwd_92116493_92117446	Pongo_abelii_OR6P1_functional|NC_036903.1|92116493|92117446	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036903.1_OR6Y1_functional_fwd_92133255_92134232	Pongo_abelii_OR6Y1_functional|NC_036903.1|92133255|92134232	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_036903.1_OR10Z1_functional_rev_92074517_92075491	Pongo_abelii_OR10Z1_functional|NC_036903.1|92074517|92075491	7	7	yes	yes	yes	yes	functional	functional	975	975	yes	no	no change
+>NC_036903.1_OR13G1_functional_fwd_1283944_1284870	Pongo_abelii_OR13G1_functional|NC_036903.1|1283944|1284870	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_036903.1_OR2AK2_functional_rev_972852_973949	Pongo_abelii_OR2AK2_functional|NC_036903.1|972852|973862	7	7	yes	yes	yes	yes	functional	functional	1098	1011	no	no	no change
+>NC_036903.1_OR1020_functional_rev_1181395_1182423	Pongo_abelii_OR1020_functional|NC_036903.1|1181395|1182423	7	7	yes	yes	yes	yes	functional	functional	1029	1029	yes	no	no change
+>NC_036903.1_OR10J3_functional_fwd_91266786_91267742	Pongo_abelii_OR10J3_functional|NC_036903.1|91266786|91267742	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036903.1_OR10C1_functional_fwd_91860191_91861138	Pongo_abelii_OR10C1_functional|NC_036903.1|91860191|91861138	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036903.1_OR2D2_functional_rev_184586031_184586969	Pongo_abelii_OR2D2_functional|NC_036903.1|184586031|184586969	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036903.1_OR2A12_functional_fwd_184629778_184630866	Pongo_abelii_OR2A12_o_functional|NC_036903.1|184629931|184630866	7	7	yes	yes	yes	yes	functional	functional	1089	936	no	no	no change
+>NC_036903.1_TAS1R1_functional_rev_222080708_222104726	Pongo_abelii_TAS1R1_functional|NC_036903.1|222104726|222080708_a	7	7	yes	yes	yes	yes	functional	functional	2526	2526	yes	no	no change
+>NC_036903.1_TAS1R2_functional_fwd_209201909_209221925	Pongo_abelii_TAS1R2_functional|NC_036903.1|209201909|209221925	7	7	yes	yes	yes	yes	functional	functional	2520	2520	yes	no	no change
+>NC_036903.1_TAS1R3_functional_rev_227278032_227281150	Pongo_abelii_TAS1R3_functional|NC_036903.1|227281150|227278032	7	7	yes	yes	yes	yes	functional	functional	2559	2559	yes	no	no change
+>NC_036917.1_OR11G2_functional_fwd_807756_808691	Pongo_abelii_OR11G2_de_functional|NC_036917.1|807654|808691	7	7	yes	yes	yes	yes	functional	functional	936	1038	no	no	no change
+>NC_036917.1_OR10G2_functional_rev_2253317_2254273	Pongo_abelii_OR10G2_dh_functional|NC_036917.1|2253317|2254273	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036917.1_OR10G2_pseudogene_nonsense_rev_2221781_2222737	Pongo_abelii_OR10G2_pseudogene|NC_036917.1|2221781|2222737	7	7	yes	yes	yes	yes	pseudogene	pseudogene	957	957	yes	no	no change
+>NC_036917.1_OR10G3_functional_rev_2190164_2191105	Pongo_abelii_OR10G3_functional|NC_036917.1|2190164|2191105	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036917.1_OR11H4_functional_fwd_862926_863870	Pongo_abelii_OR11H4_dg_functional|NC_036917.1|862896|863870	7	7	yes	yes	yes	yes	functional	functional	945	975	no	no	no change
+>NC_036917.1_OR4E1_functional_rev_2289506_2290453	Pongo_abelii_OR4E1_functional|NC_036917.1|2289506|2290453	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036917.1_OR4E2_functional_fwd_2284429_2285370	Pongo_abelii_OR4E2_functional|NC_036917.1|2284429|2285370	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036917.1_OR4K13_functional_rev_558866_559798	Pongo_abelii_OR4K13_functional|NC_036917.1|558866|559798	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036917.1_OR4K14_functional_rev_533021_533953	Pongo_abelii_OR4K14_functional|NC_036917.1|533021|533953	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036917.1_OR4K15_functional_fwd_494634_495608	Pongo_abelii_OR4K15_functional|NC_036917.1|494562|495608	7	7	yes	yes	yes	yes	functional	functional	975	1047	no	no	no change
+>NC_036917.1_OR4K17_functional_fwd_674333_675283	Pongo_abelii_OR4K17_functional|NC_036917.1|674252|675283	7	7	yes	yes	yes	yes	functional	functional	951	1032	no	no	no change
+>NC_036917.1_OR4K1_functional_fwd_451709_452644	Pongo_abelii_OR4K1_functional|NC_036917.1|451709|452644	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036917.1_OR4K2_functional_fwd_389393_390337	Pongo_abelii_OR4K2_functional|NC_036917.1|389393|390337	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036917.1_OR4K5_functional_fwd_436872_437840	Pongo_abelii_OR4K5_functional|NC_036917.1|436872|437840	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036917.1_OR4N5_pseudogene_short_fwd_717409_717858	Pongo_abelii_OR4N5_pseudogene|NC_036917.1|717412|718338	4	7	yes	yes	yes	yes	pseudogene	pseudogene	450	927	no	no	no
+>NC_036917.1_OR5AU1_functional_rev_1780185_1781120	Pongo_abelii_OR5AU1_functional|NC_036917.1|1780185|1781273	7	7	yes	yes	yes	yes	functional	functional	936	1089	no	no	no change
+>NC_036917.1_OR6J1_functional_rev_3348509_3349552	Pongo_abelii_OR6J1_functional|NC_036917.1|3348509|3349552	7	7	yes	yes	yes	yes	functional	functional	1044	1044	yes	no	no change
+>NC_036917.1_OR4K3_functional_rev_381793_382731	Pongo_abelii_OR4K3_functional|NC_036917.1|381793|382761	7	7	yes	yes	yes	yes	functional	functional	939	969	no	no	no change
+>NC_036917.1_OR11H4_pseudogene_nonsense_rev_189144_190085	Pongo_abelii_OR11H4_pseudogene|NC_036917.1|189144|190085	7	7	yes	yes	yes	yes	pseudogene	pseudogene	942	942	yes	no	no change
+>NC_036909.1_OR14J1_functional_fwd_29191601_29192566	Pongo_abelii_OR14J1_functional|NC_036909.1|29191601|29192566	7	7	yes	yes	yes	yes	functional	functional	966	966	yes	no	no change
+>NC_036909.1_OR10C1_functional_fwd_29333315_29334253	Pongo_abelii_OR10C1_v_functional|NC_036909.1|29333315|29334253	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036909.1_OR11A1_functional_rev_29320004_29320951	Pongo_abelii_OR11A1_functional|NC_036909.1|29320004|29320951	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036909.1_OR2B6_functional_fwd_27775419_27776360	Pongo_abelii_OR2B6_functional|NC_036909.1|27775419|27776360	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036909.1_OR2B8P_pseudogene_short_rev_27873211_27873510	Pongo_abelii_OR2B8_pseudogene|NC_036909.1|27872572|27873510	2	7	yes	yes	yes	yes	pseudogene	pseudogene	300	939	no	no	no
+>NC_036909.1_OR2H1_pseudogene_short_fwd_29354507_29355058	Pongo_abelii_OR2H1_pseudogene|NC_036909.1|29354507|29355457	4	7	yes	yes	yes	yes	pseudogene	pseudogene	552	951	no	no	no
+>NC_036909.1_OR2H2_pseudogene_short_fwd_29484923_29485693	Pongo_abelii_OR2H2_w_pseudogene|NC_036909.1|29484923|29485693	6	6	yes	yes	yes	yes	pseudogene	pseudogene	771	771	yes	no	no change
+>NC_036909.1_OR2J1_functional_fwd_28976603_28977541	Pongo_abelii_OR2J1_functional|NC_036909.1|28976603|28977541	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036909.1_OR2J2_functional_fwd_29053177_29054115	Pongo_abelii_OR2J2_functional|NC_036909.1|29053177|29054115	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036909.1_OR2J3_functional_fwd_28988477_28989406	Pongo_abelii_OR2J3_functional|NC_036909.1|28988477|28989406	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036909.1_OR2W1_pseudogene_short_rev_28898171_28898875	Pongo_abelii_OR2W1_pseudogene|NC_036909.1|28897913|28898875	5	7	yes	yes	yes	yes	pseudogene	pseudogene	705	963	no	no	no
+>NC_036909.1_OR5V1_functional_rev_29240875_29241837	Pongo_abelii_OR5V1_functional|NC_036909.1|29240875|29241837	7	7	yes	yes	yes	yes	functional	functional	963	963	yes	no	no change
+>NC_036909.1_TAAR1_functional_rev_131124217_131125236	Pongo_abelii_TAAR1_functional|NC_036909.1|131124217|131125236	7	7	yes	yes	yes	yes	functional	functional	1020	1020	yes	no	no change
+>NC_036909.1_TAAR5_functional_rev_131060028_131061041	Pongo_abelii_TAAR5_functional|NC_036909.1|131060028|131061041	7	7	yes	yes	yes	yes	functional	functional	1014	1014	yes	no	no change
+>NC_036909.1_TAAR6_pseudogene_short_fwd_131041793_131042122	Pongo_abelii_TAAR6_pseudogene|NC_036909.1|131041693|131042928	2	5	yes	no	yes	no	pseudogene	pseudogene	330	1236	no	no	no
+>NC_036909.1_TAAR9_functional_fwd_131014424_131015467	Pongo_abelii_TAAR9_functional|NC_036909.1|131014424|131015467	7	7	yes	yes	yes	yes	functional	functional	1044	1044	yes	no	no change
+>NC_036909.1_TAAR4_functional_rev_131065744_131066790	Pongo_abelii_TAAR4_functional|NC_036909.1|131065744|131066790	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_036909.1_OR2B3_functional_rev_28944002_28944871	Pongo_abelii_OR2B3_functional|NC_036909.1|28944002|28944871	7	7	yes	yes	yes	yes	functional	functional	870	870	yes	no	no change
+>NC_036909.1_OR2H2_functional_fwd_29096343_29097287	Pongo_abelii_OR2H2_functional|NC_036909.1|29096343|29097287	7	7	yes	yes	yes	yes	functional	functional	945	945	yes	no	no change
+>NC_036909.1_OR2W3_functional_fwd_27844501_27845442	Pongo_abelii_OR2W3_s_functional|NC_036909.1|27844501|27845442	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_019940239.1_OR11H12_functional_fwd_25002_25949	Pongo_abelii_OR11H12_functional|NW_019940239.1|24969|25949	7	7	yes	yes	yes	yes	functional	functional	948	981	no	no	no change
+>NW_019940239.1_OR11H6_functional_fwd_9008_9961	Pongo_abelii_OR11G2_eq_functional|NW_019940239.1|9059|9961	7	7	yes	yes	yes	yes	functional	functional	954	903	no	no	no change
+>NW_019937286.1_OR11H12_functional_fwd_14791_15738	Pongo_abelii_OR11H12_dk_functional|NW_019937286.1|14758|15738	7	7	yes	yes	yes	yes	functional	functional	948	981	no	no	no change
+>NW_019937284.1_OR11H12_functional_fwd_114386_115333	Pongo_abelii_OR11H12_er_functional|NW_019937284.1|114353|115333	7	7	yes	yes	yes	yes	functional	functional	948	981	no	no	no change
+>NW_019937284.1_OR4H6BP_functional_rev_72488_73501	Pongo_abelii_OR4S2_functional|NW_019937284.1|72488|73492	7	7	yes	yes	yes	yes	functional	functional	1014	1005	no	no	no change
+>NW_019937284.1_OR4Q3_pseudogene_short_rev_85612_85983	Pongo_abelii_OR4Q3_pseudogene|NW_019937284.1|85042|85983	3	7	yes	yes	yes	yes	pseudogene	pseudogene	372	942	no	no	no
+>NW_019937284.1_OR11H6_functional_fwd_98472_99425	Pongo_abelii_OR11G2_di_functional|NW_019937284.1|98457|99425	7	7	yes	yes	yes	yes	functional	functional	954	969	no	no	no change
+>NW_019937287.1_OR11H6_functional_fwd_16307_17260	Pongo_abelii_OR11G2_dl_functional|NW_019937287.1|16358|17260	7	7	yes	yes	yes	yes	functional	functional	954	903	no	no	no change
+>NC_036922.1_OR10H4_functional_fwd_16110250_16111200	Pongo_abelii_OR10H4_functional|NC_036922.1|16110250|16111200	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036922.1_OR10H2_functional_fwd_15956331_15957278	Pongo_abelii_OR10H2_functional|NC_036922.1|15956331|15957278	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036922.1_OR1I1_functional_fwd_15259758_15260891	Pongo_abelii_OR1I1_functional|NC_036922.1|15259758|15260891	7	7	yes	yes	yes	yes	functional	functional	1134	1134	yes	no	no change
+>NC_036922.1_OR7A10_functional_rev_14865039_14865968	Pongo_abelii_OR7A10_functional|NC_036922.1|14865039|14865968	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036922.1_OR7A17_functional_rev_14908501_14909430	Pongo_abelii_OR7A17_functional|NC_036922.1|14908501|14909430	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036922.1_OR7A17_functional_fwd_15007338_15008267	Pongo_abelii_OR7A17_ec_functional|NC_036922.1|15007338|15008267	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036922.1_OR7A17_functional_rev_14934087_14935055	Pongo_abelii_OR7A17_dz_functional|NC_036922.1|14934087|14935055	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036922.1_OR7A5_functional_rev_14850129_14851085	Pongo_abelii_OR7A5_functional|NC_036922.1|14850129|14851085	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036922.1_OR7D2_functional_fwd_9173428_9174366	Pongo_abelii_OR7D2_functional|NC_036922.1|9173428|9174366	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036922.1_OR7D4_functional_rev_9201790_9202728	Pongo_abelii_OR7D4_functional|NC_036922.1|9201790|9202728	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036922.1_OR7G2_functional_rev_9096272_9097303	Pongo_abelii_OR7G2_functional|NC_036922.1|9096272|9097309	7	7	yes	yes	yes	yes	functional	functional	1032	1038	no	no	no change
+>NC_036922.1_VN1R4_pseudogene_short_fwd_51783747_51784268	Pongo_abelii_VN1R1_eh_pseudogene|NC_036922.1|51783747|51784676	4	7	yes	yes	yes	yes	pseudogene	pseudogene	522	930	no	no	no
+>NC_036922.1_VN1R4_functional_rev_51728965_51729870	Pongo_abelii_VN1R1_eg_functional|NC_036922.1|51728965|51729870	7	7	yes	yes	yes	yes	functional	functional	906	906	yes	no	no change
+>NC_036922.1_VN2R116_pseudogene_short_rev_56990333_56990905	Pongo_abelii_VN2R116_pseudogene|NC_036922.1|57005992|56988099	4	7	yes	yes	yes	yes	pseudogene	pseudogene	573	2481	no	no	no
+>NC_036922.1_OR7D4_functional_fwd_9222643_9223635	Pongo_abelii_OR7D4_dt_functional|NC_036922.1|9222643|9223635	7	7	yes	yes	yes	yes	functional	functional	993	993	yes	no	no change
+>NC_036922.1_OR7A10_functional_rev_14952392_14953321	Pongo_abelii_OR7A10_ea_functional|NC_036922.1|14952392|14953321	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036922.1_OR1M1_functional_fwd_9086040_9086981	Pongo_abelii_OR1M1_functional|NC_036922.1|9086040|9086981	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036922.1_OR7A10_functional_fwd_15032038_15033006	Pongo_abelii_OR7A10_ed_functional|NC_036922.1|15032038|15033006	7	7	yes	yes	yes	yes	functional	functional	969	969	yes	no	no change
+>NC_036922.1_OR7A17_functional_rev_14963851_14964780	Pongo_abelii_OR7A17_eb_functional|NC_036922.1|14963851|14964780	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036922.1_OR7D4_functional_rev_9263619_9264557	Pongo_abelii_OR7D4_dw_functional|NC_036922.1|9263619|9264557	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036922.1_VN1R2_pseudogene_short_fwd_51720953_51721780	Pongo_abelii_VN1R1_ef_pseudogene|NC_036922.1|51720953|51721780	6	6	yes	yes	yes	yes	pseudogene	pseudogene	828	828	yes	no	no change
+>NC_036919.1_OR1F1_functional_fwd_3516577_3517515	Pongo_abelii_OR1F1_functional|NC_036919.1|3516577|3517515	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036919.1_OR2C1_functional_fwd_3676595_3677533	Pongo_abelii_OR2C1_functional|NC_036919.1|3676595|3677533	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036919.1_OR1F1_pseudogene_short_fwd_3539989_3540435	Pongo_abelii_OR1F2_do_pseudogene|NC_036919.1|3539989|3540930	3	7	yes	yes	yes	yes	pseudogene	pseudogene	447	942	no	no	no
+>NC_036919.1_VN1R31P_functional_fwd_21415777_21416691	Pongo_abelii_VN1R1_functional|NC_036919.1|21415777|21416691	7	7	yes	yes	yes	yes	functional	functional	915	915	yes	no	no change
+>NC_036910.1_TAS2R60_functional_fwd_129626357_129627313	Pongo_abelii_TAS2R60_functional|NC_036910.1|129626357|129627313	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036910.1_TAS2R4_functional_fwd_127769474_127770373	Pongo_abelii_TAS2R4_functional|NC_036910.1|127769474|127770373	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NC_036910.1_OR2A1_functional_fwd_130337239_130338171	Pongo_abelii_OR2A1/2A42_af_functional|NC_036910.1|130337239|130338171	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036910.1_OR2A14_functional_fwd_130252565_130253512	Pongo_abelii_OR2A14_functional|NC_036910.1|130252565|130253512	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036910.1_OR2A20P_functional_fwd_130318439_130319371	Pongo_abelii_OR2A1/2A42_functional|NC_036910.1|130318439|130319371	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036910.1_OR2A25_functional_fwd_130187626_130188558	Pongo_abelii_OR2A25_functional|NC_036910.1|130187626|130188558	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036910.1_OR2A2_functional_fwd_130225201_130226157	Pongo_abelii_OR2A2_functional|NC_036910.1|130225201|130226157	7	7	yes	yes	yes	yes	functional	functional	957	957	yes	no	no change
+>NC_036910.1_OR2F1_functional_fwd_130016650_130017603	Pongo_abelii_OR2F1_y_functional|NC_036910.1|130016650|130017603	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036910.1_OR2F1_functional_fwd_130041944_130042897	Pongo_abelii_OR2F1_z_functional|NC_036910.1|130041944|130042897	7	7	yes	yes	yes	yes	functional	functional	954	954	yes	no	no change
+>NC_036910.1_OR2F2_pseudogene_short_fwd_129988401_129989003	Pongo_abelii_OR2F2_pseudogene|NC_036910.1|129988050|129989003	4	7	yes	yes	yes	yes	pseudogene	pseudogene	603	954	no	no	no
+>NC_036910.1_OR6V1_pseudogene_short_fwd_129235408_129235848	Pongo_abelii_OR6V1_pseudogene|NC_036910.1|129235408|129236349	4	7	yes	yes	yes	yes	pseudogene	pseudogene	441	942	no	no	no
+>NC_036910.1_OR9A1P_pseudogene_short_fwd_127852573_127852893	Pongo_abelii_OR9A1_pseudogene|NC_036910.1|127852573|127853502	3	7	yes	yes	yes	yes	pseudogene	pseudogene	321	930	no	no	no
+>NC_036910.1_OR9A4_pseudogene_short_fwd_127907778_127908260	Pongo_abelii_OR9A4_pseudogene|NC_036910.1|127907778|127908722	4	7	yes	yes	yes	yes	pseudogene	pseudogene	483	945	no	no	no
+>NC_036910.1_TAS2R16_functional_rev_108905026_108905988	Pongo_abelii_TAS2R16_functional|NC_036910.1|108905026|108905901	7	7	yes	yes	yes	yes	functional	functional	963	876	no	no	no change
+>NC_036910.1_TAS2R38_functional_rev_127956624_127957565	Pongo_abelii_TAS2R38_functional|NC_036910.1|127956624|127957565	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036910.1_TAS2R3_functional_fwd_127755119_127756066	Pongo_abelii_TAS2R3_functional|NC_036910.1|127755116|127756066	7	7	yes	yes	yes	yes	functional	functional	948	951	no	no	no change
+>NC_036910.1_TAS2R40_functional_fwd_129397250_129398221	Pongo_abelii_TAS2R40_functional|NC_036910.1|129397250|129398221	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_036910.1_TAS2R41_functional_fwd_129666841_129667764	Pongo_abelii_TAS2R41_functional|NC_036910.1|129666841|129667764	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_036910.1_TAS2R5_functional_fwd_127781100_127782260	Pongo_abelii_TAS2R5_functional|NC_036910.1|127781361|127782260	7	7	yes	yes	yes	yes	functional	functional	1161	900	no	no	no change
+>NC_036910.1_TAS2R62P_functional_fwd_129619960_129620898	Pongo_abelii_TAS2R62_functional|NC_036910.1|129619960|129620898	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036910.1_TAS2R9_functional_rev_61144067_61144978	Pongo_abelii_TAS2R7_functional|NC_036910.1|61144067|61144978	7	7	yes	yes	yes	yes	functional	functional	912	912	yes	no	no change
+>NC_036910.1_ORPROTEINOLF3_functional_fwd_130071367_130072302	Pongo_abelii_ORPROTEINOLF3_functional|NC_036910.1|130071367|130072302	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036910.1_OR10AC1_functional_rev_129721023_129722000	Pongo_abelii_OR10AC1_functional|NC_036910.1|129721023|129722000	7	7	yes	yes	yes	yes	functional	functional	978	978	yes	no	no change
+>NC_036910.1_OR6W1P_functional_rev_129245683_129246651	Pongo_abelii_OR6V1_x_functional|NC_036910.1|129245683|129246630	7	7	yes	yes	yes	yes	functional	functional	969	948	no	no	no change
+>NC_036910.1_ORPROTEINOLF3_functional_fwd_130088162_130089094	Pongo_abelii_ORPROTEINOLF3_aa_functional|NC_036910.1|130088162|130089094	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036910.1_OPN1SW_functional_rev_114674606_114677864	Pongo_abelii_OPN1SW_functional|NC_036910.1|114677864|114674606	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NC_036906.1_VN2R1_pseudogene_short_fwd_153412807_153413868	Pongo_abelii_VN2R1_pseudogene|NC_036906.1|153391564|153413868	7	7	yes	yes	yes	yes	pseudogene	pseudogene	1062	1935	no	no	no change
+>NC_036906.1_OR5H1_functional_rev_736513_737442	Pongo_abelii_OR5H8_functional|NC_036906.1|736513|737442	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036906.1_OR5K1_functional_rev_556274_557200	Pongo_abelii_OR5K1_p_functional|NC_036906.1|556274|557200	7	7	yes	yes	yes	yes	functional	functional	927	927	yes	no	no change
+>NC_036906.1_OR5K2_functional_rev_523737_524687	Pongo_abelii_OR5K1_functional|NC_036906.1|523737|524687	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036906.1_OR5K4_functional_rev_691601_692551	Pongo_abelii_OR5K4_functional|NC_036906.1|691601|692551	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036906.1_OR5K3_pseudogene_short_rev_653324_654103	Pongo_abelii_OR5K3_pseudogene|NC_036906.1|653129|654103	6	7	yes	yes	yes	yes	pseudogene	pseudogene	780	975	no	no	no
+>NC_036906.1_OR5AC1_functional_rev_802343_803266	Pongo_abelii_OR5AC1_q_functional|NC_036906.1|802343|803266	7	7	yes	yes	yes	yes	functional	functional	924	924	yes	no	no change
+>NC_036906.1_RHO_functional_rev_8252839_8257781	Pongo_abelii_RHO_functional|NC_036906.1|8257781|8252839	7	7	yes	yes	yes	yes	functional	functional	1047	1047	yes	no	no change
+>NW_019939158.1_OR7E39P_pseudogene_short_fwd_16730_17269	Pongo_abelii_OR7E24_ep_pseudogene|NW_019939158.1|16898|17269	4	4	yes	yes	yes	yes	pseudogene	pseudogene	540	372	no	no	no change
+>NC_036918.1_OR4K3_functional_rev_82404275_82405213	Pongo_abelii_OR4K15_dn_functional|NC_036918.1|82404275|82405213	7	7	yes	yes	yes	yes	functional	functional	939	939	yes	no	no change
+>NC_036920.1_OR1E2_functional_rev_3210201_3211142	Pongo_abelii_OR1E2_functional|NC_036920.1|3210201|3211142	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036920.1_OR1A1_functional_fwd_3020963_3021892	Pongo_abelii_OR1A1_functional|NC_036920.1|3020963|3021892	7	7	yes	yes	yes	yes	functional	functional	930	930	yes	no	no change
+>NC_036920.1_OR1D2_functional_rev_2900333_2901271	Pongo_abelii_OR1D2_functional|NC_036920.1|2900333|2901292	7	7	yes	yes	yes	yes	functional	functional	939	960	no	no	no change
+>NC_036920.1_OR1D4_functional_rev_2871463_2872401	Pongo_abelii_OR1D5_functional|NC_036920.1|2871463|2872455	7	7	yes	yes	yes	yes	functional	functional	939	993	no	no	no change
+>NC_036920.1_OR1D4_functional_fwd_3060669_3061631	Pongo_abelii_OR1D2_dr_functional|NC_036920.1|3060690|3061631	7	7	yes	yes	yes	yes	functional	functional	963	942	no	no	no change
+>NC_036920.1_OR1E1_functional_rev_3168327_3169268	Pongo_abelii_OR1E1_functional|NC_036920.1|3168327|3169268	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036920.1_OR1G1_functional_rev_2931860_2932801	Pongo_abelii_OR1G1_dq_functional|NC_036920.1|2931860|2932915	7	7	yes	yes	yes	yes	functional	functional	942	1056	no	no	no change
+>NC_036920.1_OR3A3_functional_fwd_3192766_3193713	Pongo_abelii_OR3A2_ds_pseudogene|NC_036920.1|3192748|3193713	7	7	yes	yes	yes	yes	functional	pseudogene	948	966	no	yes	no change
+>NC_036920.1_OR3A5P_pseudogene_short_fwd_3122521_3123285	Pongo_abelii_OR139_pseudogene|NC_036920.1|3122338|3123285	6	7	yes	yes	yes	yes	pseudogene	pseudogene	765	948	no	no	no
+>NC_036920.1_OR4D1_functional_rev_34862548_34863480	Pongo_abelii_OR4D1_functional|NC_036920.1|34862548|34863480	7	7	yes	yes	yes	yes	functional	functional	933	933	yes	no	no change
+>NC_036920.1_OR4D2_pseudogene_short_rev_34848409_34849038	Pongo_abelii_OR4D2_pseudogene|NC_036920.1|34848115|34849038	5	7	yes	yes	yes	yes	pseudogene	pseudogene	630	924	no	no	no
+>NC_036920.1_OR3A4_pseudogene_short_fwd_3105136_3105825	Pongo_abelii_OR3A4_pseudogene|NC_036920.1|3105136|3106083	5	7	yes	yes	yes	yes	pseudogene	pseudogene	690	948	no	no	no
+>NW_019937285.1_OR4M1_functional_fwd_36175_37116	Pongo_abelii_OR4M1_dj_functional|NW_019937285.1|36175|37116	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NC_036924.1_OR4K1_functional_fwd_589072_590007	Pongo_abelii_OR4K1_ek_functional|NC_036924.1|589072|590007	7	7	yes	yes	yes	yes	functional	functional	936	936	yes	no	no change
+>NC_036924.1_OR4K5_functional_fwd_574046_575017	Pongo_abelii_OR4K5_ej_functional|NC_036924.1|574046|575017	7	7	yes	yes	yes	yes	functional	functional	972	972	yes	no	no change
+>NC_036926.1_OR51A4_functional_fwd_23331867_23332808	Pongo_abelii_OR51A4_el_functional|NC_036926.1|23331867|23332808	7	7	yes	yes	yes	yes	functional	functional	942	942	yes	no	no change
+>NW_019941536.1_OR14I1_pseudogene_short_rev_17985_18506	Pongo_abelii_OR14I1_et_pseudogene|NW_019941536.1|17571|18506	4	7	yes	yes	yes	yes	pseudogene	pseudogene	522	936	no	no	no
+>NW_019937314.1_VN1R90_pseudogene_short_rev_165488_166249	Pongo_abelii_VN1R1_em_pseudogene|NW_019937314.1|165488|166249	6	6	yes	yes	yes	yes	pseudogene	pseudogene	762	762	yes	no	no change
+>NC_036908.1_OR2V1_functional_fwd_178766361_178767308	Pongo_abelii_OR2V1_functional|NC_036908.1|178766361|178767308	7	7	yes	yes	yes	yes	functional	functional	948	948	yes	no	no change
+>NC_036908.1_OR2V1_functional_rev_178825247_178826197	Pongo_abelii_OR2V1_r_functional|NC_036908.1|178825247|178826197	7	7	yes	yes	yes	yes	functional	functional	951	951	yes	no	no change
+>NC_036908.1_OR2V2_pseudogene_short_fwd_178855116_178856063	Pongo_abelii_OR2V2_functional|NC_036908.1|178855116|178856063	7	7	yes	yes	yes	yes	pseudogene	functional	948	948	yes	yes	no change
+>NC_036908.1_OR2Y1_pseudogene_short_rev_178346861_178347283	Pongo_abelii_OR2Y1_pseudogene|NC_036908.1|178346348|178347283	3	7	yes	yes	yes	yes	pseudogene	pseudogene	423	936	no	no	no
+>NC_036908.1_TAS2R1_functional_rev_9731074_9731973	Pongo_abelii_TAS2R1_functional|NC_036908.1|9731074|9731973	7	7	yes	yes	yes	yes	functional	functional	900	900	yes	no	no change
+>NW_019942281.1_OR11H6_functional_rev_1616_2494	Pongo_abelii_OR11G2_eu_functional|NW_019942281.1|1616|2515	7	7	yes	yes	yes	yes	functional	functional	879	900	no	no	no change

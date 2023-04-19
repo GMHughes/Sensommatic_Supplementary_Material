@@ -1,0 +1,43 @@
+Species	Test	# Sensommatic predictions	# NCBI predictions	# Recovered	# Missed	# Unmapped	# Identical predictions	# Missed start position	# Over extend start position	# Over contract start position	# Missed start position where NCBI prediction lacked start codon	# Missed stop position	# Over extend end position	# Over contract end position	# Missed stop position where NCBI prediction lacked stop codon	# Missed start and end positions	# Missed start or stop, where NCBI prediction not divisibly by 3	# Correct functional classification	# Missanotated pseudogene as functional	# Missannotated functional as pseusogene
+Pan troglodytes	01_chimp	830	472	465	7	365	362	64	58	6	3	46	13	33	4	3	2	448	8	9
+Pan troglodytes	02_chimp	828	472	464	8	364	361	64	58	6	2	45	12	33	3	2	1	446	8	10
+Pan troglodytes	03_chimp	657	461	458	3	199	362	52	48	4	0	48	5	43	1	0	1	423	8	27
+Bos taurus	01_cow	2066	1030	1029	1	1037	896	70	31	39	1	64	37	27	1	0	0	1008	15	6
+Bos taurus	02_cow	2063	1030	1029	1	1034	896	70	31	39	1	64	37	27	1	0	0	1008	15	6
+Bos taurus	03_cow	1810	1027	1026	1	784	901	60	28	32	1	66	34	32	1	0	0	990	15	21
+Canis lupus familiaris	01_dog	965	806	800	6	165	586	143	104	39	37	128	48	80	39	18	37	777	15	8
+Canis lupus familiaris	02_dog	963	806	799	7	164	585	144	105	39	37	127	47	80	38	18	36	776	15	8
+Canis lupus familiaris	03_dog	879	761	760	1	119	598	89	73	16	21	108	32	76	27	10	24	713	15	32
+Anas platyrhynchos	01_duck	1157	323	315	8	842	213	64	6	58	25	48	40	8	12	5	0	249	64	2
+Anas platyrhynchos	02_duck	1151	323	315	8	836	208	68	10	58	25	49	40	9	12	5	0	249	64	2
+Anas platyrhynchos	03_duck	1145	315	313	2	832	219	57	5	52	24	45	39	6	9	4	0	253	57	3
+Xenopus laevis	01_frog	1506	651	649	2	857	461	77	29	48	4	123	83	40	5	1	0	569	20	60
+Xenopus laevis	02_frog	1293	651	543	108	750	335	89	43	46	4	133	76	57	4	1	0	448	17	78
+Xenopus laevis	03_frog	1236	647	625	22	611	449	58	20	38	4	126	69	57	5	1	0	551	15	59
+Equus caballus	01_horse	2553	1149	1147	2	1406	948	104	53	51	3	100	46	54	5	0	1	1126	15	6
+Equus caballus	02_horse	2547	1149	1146	3	1401	946	103	54	49	3	103	47	56	5	0	1	1124	15	7
+Equus caballus	03_horse	2296	1148	1147	1	1149	951	98	53	45	3	103	33	70	4	0	0	1099	16	32
+Homo sapiens	01_human	1320	1163	1089	74	230	579	413	260	153	221	420	131	289	322	205	177	1065	23	1
+Homo sapiens	02_human	1314	1163	1080	83	233	567	415	262	153	220	424	121	303	321	202	177	1048	23	9
+Homo sapiens	03_human	1165	983	952	31	213	570	275	170	105	132	310	95	215	216	118	106	911	18	23
+Anolis carolinensis	01_lizard	261	170	161	9	98	113	23	11	12	0	28	14	14	1	0	0	148	6	7
+Anolis carolinensis	02_lizard	225	170	144	26	80	89	28	15	13	0	29	11	18	0	0	0	131	5	8
+Anolis carolinensis	03_lizard	207	168	154	14	53	113	19	11	8	0	24	8	16	0	0	0	133	5	16
+Mus musculus	01_mouse	1927	1772	1613	159	313	1235	243	171	72	73	257	88	169	104	53	61	1558	33	22
+Mus musculus	02_mouse	1842	1772	1581	191	260	1213	234	164	70	70	251	82	169	101	53	60	1519	29	33
+Mus musculus	03_mouse	1869	1612	1568	44	301	1272	175	118	57	56	196	77	119	74	40	41	1499	27	42
+Monodelphis domestica	01_opossum	1675	1277	1239	38	434	1002	146	77	69	28	129	78	51	36	27	18	1196	16	27
+Monodelphis domestica	02_opossum	1533	1277	1148	129	382	933	129	72	57	21	116	57	59	28	19	14	1092	14	42
+Monodelphis domestica	03_opossum	1622	1240	1230	10	390	1038	98	46	52	10	107	59	48	11	9	3	1182	12	36
+Pongo abelii	01_orangutan	741	378	378	0	363	280	56	39	17	1	47	7	40	1	1	0	368	6	4
+Pongo abelii	02_orangutan	739	378	377	1	362	279	56	39	17	1	47	7	40	1	1	0	368	6	3
+Pongo abelii	03_orangutan	541	378	376	2	165	268	52	43	9	0	57	5	52	0	0	0	348	5	23
+Ornithorhynchus anatinus	01_platypus	1150	508	504	4	646	409	47	17	30	0	51	36	15	0	0	0	494	6	4
+Ornithorhynchus anatinus	02_platypus	958	508	435	73	522	342	52	24	28	0	43	29	14	0	0	0	424	3	8
+Ornithorhynchus anatinus	03_platypus	1069	507	506	1	563	420	42	11	31	0	46	30	16	0	0	0	491	6	9
+Rattus norvegicus	01_rat	2025	1897	1759	138	266	1252	332	203	129	66	307	105	202	50	20	46	1701	40	18
+Rattus norvegicus	02_rat	2011	1897	1746	151	265	1243	334	204	130	66	307	108	199	49	20	45	1687	37	22
+Rattus norvegicus	03_rat	2047	1761	1704	57	343	1255	275	160	115	52	252	86	166	29	11	34	1615	35	54
+Danio rerio	01_zebrafish	532	238	234	4	298	173	42	13	29	5	22	16	6	5	1	4	228	0	6
+Danio rerio	02_zebrafish	519	238	223	15	296	156	45	16	29	5	26	17	9	5	1	4	216	0	7
+Danio rerio	03_zebrafish	370	237	229	8	141	167	42	13	29	4	22	14	8	5	1	4	222	0	7

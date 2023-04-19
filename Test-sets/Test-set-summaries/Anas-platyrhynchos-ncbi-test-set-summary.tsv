@@ -1,0 +1,325 @@
+Gene	Length	Type	Isoform keep	Number of  domains	Tool	Original Status	New status	Status change	Reason
+Anas_platyrhynchos_OR1020_functional|NC_051772.1|167746|168735	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR2A2_functional|NC_051772.1|79359463|79360401	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R40_functional|NC_051772.1|81564217|81565152	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10AC1_functional|NC_051772.1|81857226|81858227	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R40_a_functional|NC_051772.1|201997073|201998008	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52K2_functional|NC_051772.1|206737686|206738792	1107	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52I2_functional|NC_051772.1|206747070|206748017	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52K2_b_functional|NC_051772.1|206754657|206755607	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR51H1_functional|NC_051772.1|206775336|206776292	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR51G2_functional|NC_051772.1|206789827|206790801	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR51E2_functional|NC_051772.1|206797424|206798380	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52R1_functional|NC_051772.1|206804228|206805175	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR51G2_d_functional|NC_051772.1|206811209|206812183	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR51L1_functional|NC_051772.1|206847393|206848385	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52B2_functional|NC_051772.1|206854643|206855593	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR52B2_h_functional|NC_051772.1|206954845|206955825	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_functional|NC_051773.1|5794798|5795730	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_pseudogene|NC_051773.1|5814204|5814755	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_i_pseudogene|NC_051773.1|5842903|5843490	588	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_j_functional|NC_051773.1|5864303|5865232	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_l_pseudogene|NC_051773.1|5942749|5943252	504	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_m_functional|NC_051773.1|5999202|6000161	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_n_functional|NC_051773.1|6010174|6011106	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14I1_pseudogene|NC_051773.1|6050740|6051135	396	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14I1_o_pseudogene|NC_051773.1|6060018|6060413	396	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_p_pseudogene|NC_051773.1|6075447|6076181	735	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_pseudogene|NC_051773.1|6120000|6120533	534	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_q_functional|NC_051773.1|6138296|6139231	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_r_functional|NC_051773.1|6216754|6217683	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_s_functional|NC_051773.1|6238722|6239657	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_t_pseudogene|NC_051773.1|6275277|6275795	519	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_u_functional|NC_051773.1|6298344|6299285	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_v_functional|NC_051773.1|6335604|6336533	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_x_pseudogene|NC_051773.1|6356243|6356794	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_aa_pseudogene|NC_051773.1|6412215|6412769	555	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ab_pseudogene|NC_051773.1|6456550|6457248	699	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_ac_functional|NC_051773.1|6464548|6465477	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_ae_pseudogene|NC_051773.1|6487612|6488202	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_af_functional|NC_051773.1|6498946|6499881	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ah_functional|NC_051773.1|6540482|6541405	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ai_pseudogene|NC_051773.1|6548883|6549437	555	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_ak_functional|NC_051773.1|6623361|6624302	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_al_functional|NC_051773.1|6635465|6636400	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_am_functional|NC_051773.1|6644863|6645798	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_ap_pseudogene|NC_051773.1|6696743|6697261	519	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_aq_pseudogene|NC_051773.1|6711884|6712468	585	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ar_pseudogene|NC_051773.1|6722314|6722901	588	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_as_functional|NC_051773.1|6753170|6754105	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_at_pseudogene|NC_051773.1|6779897|6780430	534	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_au_functional|NC_051773.1|6786801|6787760	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_av_functional|NC_051773.1|6834673|6835602	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_ax_functional|NC_051773.1|6857852|6858766	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ay_functional|NC_051773.1|6868891|6869826	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_az_pseudogene|NC_051773.1|6878688|6879245	558	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ba_pseudogene|NC_051773.1|6907464|6908009	546	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_bb_functional|NC_051773.1|6933886|6934845	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_bc_functional|NC_051773.1|6963555|6964490	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_bd_functional|NC_051773.1|6970322|6971257	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_be_pseudogene|NC_051773.1|7349748|7350299	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_bf_functional|NC_051773.1|7356729|7357688	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_bh_pseudogene|NC_051773.1|7448611|7449162	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_bi_functional|NC_051773.1|7456534|7457475	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bl_functional|NC_051773.1|7621913|7622854	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_bm_functional|NC_051773.1|7653795|7654736	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bn_functional|NC_051773.1|7660722|7661657	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_bo_functional|NC_051773.1|7675523|7676464	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_bp_functional|NC_051773.1|7690987|7691922	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_bq_functional|NC_051773.1|7701866|7702804	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_br_functional|NC_051773.1|7709885|7710814	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_bs_pseudogene|NC_051773.1|7765422|7765976	555	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_bt_functional|NC_051773.1|7767805|7768731	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bu_functional|NC_051773.1|58958935|58959894	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bv_functional|NC_051773.1|58979928|58980956	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bw_functional|NC_051773.1|58992473|58993435	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_bx_functional|NC_051773.1|59002452|59003417	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR150_functional|NC_051773.1|59012599|59013555	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_by_functional|NC_051773.1|59024385|59025320	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_bz_pseudogene|NC_051773.1|59035785|59036372	588	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_cb_functional|NC_051773.1|59102006|59102938	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_cc_functional|NC_051773.1|59113899|59114834	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR11A1_pseudogene|NC_051773.1|59124124|59125044	921	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Anas_platyrhynchos_OR14A16_cd_functional|NC_051773.1|59133221|59134186	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ce_functional|NC_051773.1|59143194|59144150	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_cf_functional|NC_051773.1|59150222|59151205	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_cg_functional|NC_051773.1|59238663|59239619	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ci_functional|NC_051773.1|59319585|59320520	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_cj_pseudogene|NC_051773.1|59392847|59393434	588	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_ck_pseudogene|NC_051773.1|59420897|59421673	777	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_cl_functional|NC_051773.1|59430829|59431788	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_cm_functional|NC_051773.1|59466997|59467956	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAAR1_functional|NC_051774.1|60790461|60791459	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAAR2_functional|NC_051774.1|60801049|60802209	1161	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAAR5_functional|NC_051774.1|60814310|60815338	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R116_functional|NC_051774.1|114480032|114480985	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R9_functional|NC_051774.1|114485144|114486295	1152	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R9_co_functional|NC_051774.1|114490196|114491227	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS2R9_cp_functional|NC_051774.1|114495263|114496216	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR5F1_functional|NC_051776.1|30437308|30438252	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1509_functional|NC_051776.1|30449667|30450593	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4S2_functional|NC_051776.1|30455270|30456199	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1052_cq_functional|NC_051776.1|30933599|30934567	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR5F1_cs_functional|NC_051776.1|30937208|30938152	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1020_ct_functional|NC_051776.1|30941575|30942573	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1020_cu_functional|NC_051776.1|30957706|30958635	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1102_functional|NC_051776.1|30992023|30992952	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR8U9_functional|NC_051776.1|31005340|31006269	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1020_cv_functional|NC_051776.1|31013797|31014744	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1019_functional|NC_051776.1|31017803|31018906	1104	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1052_cw_functional|NC_051776.1|31025120|31026115	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_ORPROTEINCOR4_functional|NC_051776.1|31029516|31030457	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1052_cy_functional|NC_051776.1|32095369|32096298	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1052_cz_functional|NC_051776.1|32101699|32102652	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR5AS1_functional|NC_051776.1|32138293|32139240	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10H1_functional|NC_051781.1|3077481|3078470	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10H1_da_functional|NC_051781.1|3133239|3134228	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10H1_db_functional|NC_051781.1|3161442|3162431	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_dd_functional|NC_051782.1|716636|717571	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_de_functional|NC_051782.1|724004|724939	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_df_pseudogene|NC_051782.1|729732|730292	561	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_dg_functional|NC_051782.1|755852|756841	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_di_pseudogene|NC_051782.1|769297|770088	792	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_dj_pseudogene|NC_051782.1|790385|790930	546	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_dl_functional|NC_051782.1|853738|854673	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_dm_pseudogene|NC_051782.1|864916|865470	555	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_dn_pseudogene|NC_051782.1|888559|889104	546	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_do_functional|NC_051782.1|907366|908304	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_dp_functional|NC_051782.1|926596|927531	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_dq_functional|NC_051782.1|943487|944419	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_dr_pseudogene|NC_051782.1|953747|954298	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ds_functional|NC_051782.1|960438|961364	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_dt_functional|NC_051782.1|969042|969983	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10A7_functional|NC_051782.1|11647763|11648725	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR12D2_du_functional|NC_051782.1|11665808|11666776	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR5V1_functional|NC_051782.1|11738492|11739430	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR11L1_functional|NC_051782.1|11751340|11752278	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR5V1_dy_functional|NC_051782.1|11840435|11841373	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10K2_functional|NC_051784.1|8794711|8795676	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_dz_functional|NC_051792.1|2666786|2667721	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ea_functional|NC_051799.1|3971715|3972680	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4S2_eb_functional|NC_051799.1|3989044|3989979	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR1020_ec_functional|NC_051799.1|3998105|3999040	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR6B1_ed_functional|NC_051799.1|4004820|4005764	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR6A2_functional|NC_051799.1|4013564|4014529	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4N2_functional|NC_051799.1|4028482|4029420	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4D1_functional|NC_051799.1|4039516|4040475	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4D1_ee_functional|NC_051799.1|4063999|4064958	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4N5_functional|NC_051799.1|4075179|4076117	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_functional|NC_051799.1|4084696|4085637	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_ef_functional|NC_051799.1|4217987|4218928	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4N5_eg_functional|NC_051799.1|4225224|4226153	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10A7_eh_functional|NC_051799.1|4242128|4243078	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_ei_functional|NC_051799.1|4278098|4279051	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_ek_functional|NC_051799.1|4669288|4670229	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_el_functional|NC_051799.1|4718545|4719516	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_em_pseudogene|NC_051803.1|12986223|12986843	621	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_en_functional|NC_051803.1|16307032|16307973	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_eo_functional|NW_024009683.1|124855|125883	1029	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14I1_es_pseudogene|NW_024009683.1|369029|369427	399	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR49_ew_functional|NW_024009686.1|213558|214505	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_ex_pseudogene|NW_024009686.1|223373|223912	540	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ey_functional|NW_024009686.1|233771|234709	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ez_functional|NW_024009686.1|332641|333600	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_fb_functional|NW_024009689.1|61780|62739	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_fc_functional|NW_024009689.1|112093|113052	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fd_pseudogene|NW_024009689.1|174743|175357	615	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_fe_functional|NW_024009689.1|188344|189303	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ff_functional|NW_024009689.1|196750|197712	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fg_pseudogene|NW_024009689.1|215846|216547	702	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_fh_pseudogene|NW_024009689.1|245900|246514	615	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_fi_functional|NW_024009689.1|259235|260194	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fj_functional|NW_024009689.1|270514|271458	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fk_functional|NW_024009689.1|337310|338269	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_fl_pseudogene|NW_024009689.1|361472|362062	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_fn_functional|NW_024009690.1|96446|97408	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14I1_fo_pseudogene|NW_024009690.1|105519|105941	423	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_fp_functional|NW_024009690.1|143883|144845	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fr_functional|NW_024009690.1|185809|186753	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fu_functional|NW_024009690.1|247536|248495	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fv_functional|NW_024009690.1|265007|265921	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fw_functional|NW_024009690.1|284717|285661	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_fx_functional|NW_024010151.1|8874|9839	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_fy_functional|NW_024009692.1|163742|164674	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_fz_functional|NW_024009692.1|308868|309815	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ga_functional|NW_024009692.1|352716|353651	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gb_functional|NW_024009696.1|196390|197349	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gc_functional|NW_024009696.1|240961|241905	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gd_functional|NW_024009696.1|277506|278447	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ge_functional|NW_024009696.1|288143|289084	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_gf_functional|NW_024009697.1|20920|21855	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_gg_functional|NW_024009697.1|28783|29742	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gh_pseudogene|NW_024009697.1|36439|37230	792	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_gi_functional|NW_024009697.1|55719|56660	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_gk_functional|NW_024009697.1|108625|109557	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gl_functional|NW_024009705.1|284481|285416	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gn_pseudogene|NW_024009697.1|173483|174076	594	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_gp_pseudogene|NW_024009697.1|297720|298310	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_gq_pseudogene|NW_024009697.1|332281|332871	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_gr_functional|NW_024009698.1|62610|63545	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_gs_functional|NW_024009698.1|105809|106744	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gt_functional|NW_024009698.1|114946|115887	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gu_functional|NW_024009698.1|131822|132757	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_gv_pseudogene|NW_024009698.1|136399|136917	519	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_gw_functional|NW_024009698.1|197904|198818	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_gx_pseudogene|NW_024009698.1|219794|220384	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14I1_gy_pseudogene|NW_024009698.1|230240|230605	366	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_gz_functional|NW_024009698.1|245820|246755	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ha_functional|NW_024009698.1|272582|273517	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hd_functional|NW_024009700.1|6940|7899	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_he_functional|NW_024009700.1|22367|23416	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hf_pseudogene|NW_024009716.1|44324|44923	600	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_hg_functional|NW_024009700.1|36299|37357	1059	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hi_functional|NW_024009700.1|65419|66378	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hk_functional|NW_024009700.1|132001|132960	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hl_functional|NW_024009700.1|137693|138652	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hm_functional|NW_024009700.1|147471|148520	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hn_pseudogene|NW_024009700.1|32301|32900	600	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_hp_pseudogene|NW_024009700.1|174859|175467	609	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_hq_functional|NW_024009700.1|231174|232118	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_hr_pseudogene|NW_024009700.1|300773|301573	801	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_hw_functional|NW_024009701.1|67798|68727	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ia_functional|NW_024009701.1|126841|127776	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ib_functional|NW_024009701.1|137960|138919	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_id_functional|NW_024009701.1|166788|167723	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ie_functional|NW_024009701.1|190454|191446	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_if_pseudogene|NW_024009701.1|201896|202486	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ig_functional|NW_024009701.1|207036|207971	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ih_functional|NW_024009701.1|218187|219122	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ii_pseudogene|NW_024009701.1|244083|244601	519	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ij_pseudogene|NW_024009701.1|253808|254398	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ik_functional|NW_024009701.1|277580|278350	771	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_il_pseudogene|NW_024009701.1|288806|289291	486	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_im_pseudogene|NW_024009701.1|296371|296832	462	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR10AG1_functional|NW_024009702.1|158150|159118	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_io_functional|NW_024010090.1|26124|27119	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_is_functional|NW_024009705.1|119674|120612	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_it_functional|NW_024009705.1|178753|179712	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_iw_functional|NW_024009705.1|277471|278430	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ix_functional|NW_024009697.1|124587|125522	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_iy_functional|NW_024009705.1|295543|296478	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_iz_functional|NW_024009714.1|17127|18071	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ja_functional|NW_024009714.1|29081|30016	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jb_functional|NW_024009714.1|69393|70355	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_jc_functional|NW_024009714.1|117243|118205	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_je_functional|NW_024009716.1|32719|33678	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jf_pseudogene|NW_024009700.1|157403|158002	600	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_jg_functional|NW_024009716.1|48317|49366	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jh_functional|NW_024009725.1|183648|184610	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ji_functional|NW_024009731.1|68361|69296	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_jj_functional|NW_024009731.1|81054|81989	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14I1_jk_pseudogene|NW_024009731.1|89399|89794	396	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_jl_functional|NW_024009731.1|99667|100647	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jm_functional|NW_024009731.1|121103|122038	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jn_functional|NW_024009737.1|58735|59661	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_jo_functional|NW_024009742.1|73323|74282	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ju_pseudogene|NW_024009745.1|12047|12625	579	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_jv_functional|NW_024009745.1|19964|20899	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_jw_functional|NW_024009745.1|28114|29052	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jy_functional|NW_024009745.1|75228|76217	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_jz_functional|NW_024009745.1|82447|83382	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_kb_pseudogene|NW_024009745.1|124354|124866	513	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_kd_functional|NW_024009755.1|8552|9511	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10H1_ke_functional|NW_024009760.1|26211|27200	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR6M1_functional|NW_024009763.1|38533|39483	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_kf_pseudogene|NW_024009765.1|117739|118350	612	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14I1_kh_pseudogene|NW_024009795.1|59572|59970	399	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR49_ki_functional|NW_024009808.1|12770|13903	1134	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_kk_functional|NW_024009818.1|82457|83383	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_kl_functional|NW_024009837.1|36345|37298	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_km_functional|NW_024009841.1|10660|11595	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4D1_ko_functional|NW_024009852.1|13568|14527	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR4N2_kp_functional|NW_024009852.1|46029|46958	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_kq_functional|NW_024009852.1|56361|57302	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_kr_functional|NW_024009862.1|2713|3672	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_kt_functional|NW_024009862.1|14562|15521	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ku_functional|NW_024009862.1|61165|62124	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lb_functional|NW_024009976.1|11168|12100	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_lc_pseudogene|NW_024009992.1|41645|42238	594	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_ld_functional|NW_024010051.1|24603|25562	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_le_functional|NW_024010051.1|41207|42166	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR10H1_lf_pseudogene|NW_024010063.1|38875|39693	819	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_lk_functional|NW_024009702.1|172412|173407	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ll_functional|NW_024009690.1|378503|379468	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lm_functional|NW_024010209.1|11044|11979	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ln_functional|NW_024010219.1|10813|11802	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lp_functional|NW_024010219.1|45857|46798	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lr_pseudogene|NW_024010219.1|127290|127835	546	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ls_functional|NW_024010219.1|154314|155240	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lt_functional|NW_024010219.1|172965|173891	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lu_functional|NW_024010219.1|226080|227039	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lv_functional|NW_024010219.1|247607|248542	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lw_pseudogene|NW_024010219.1|264423|265034	612	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_lx_pseudogene|NW_024010219.1|274360|274929	570	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ly_functional|NW_024010219.1|298658|299650	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_lz_functional|NW_024010219.1|338526|339461	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ma_functional|NW_024010219.1|343674|344609	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_mc_functional|NW_024010219.1|369246|370205	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_md_functional|NW_024010219.1|395177|396142	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_mg_functional|NW_024010219.1|486957|487892	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_mh_pseudogene|NW_024010219.1|507019|507573	555	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_mi_functional|NW_024010219.1|550351|551283	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ml_functional|NW_024010219.1|785960|786916	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_mm_functional|NW_024010219.1|850316|851308	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_mn_pseudogene|NW_024010219.1|865925|866476	552	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_mq_pseudogene|NW_024010219.1|928224|928814	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_mr_functional|NW_024010219.1|963440|964366	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14I1_ms_functional|NW_024010309.1|64605|65528	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_mt_functional|NW_024010309.1|70160|71086	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_mu_functional|NW_024010309.1|186603|187586	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_mw_functional|NW_024010309.1|355165|356112	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_mx_functional|NW_024010309.1|402864|403796	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_mz_functional|NW_024010309.1|468115|469248	1134	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR49_na_functional|NW_024010309.1|523663|524610	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_nb_pseudogene|NW_024010359.1|63|677	615	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14A16_nc_functional|NW_024010378.1|237472|238410	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14J1_nd_pseudogene|NW_024010378.1|366369|366950	582	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14C36_ne_pseudogene|NW_024010378.1|430499|431089	591	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_nf_functional|NW_024010388.1|7836|8777	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14C36_ng_pseudogene|NW_024010388.1|419599|420186	588	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Anas_platyrhynchos_OR14J1_nh_functional|NW_024010388.1|442428|443369	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_OR14A16_ni_functional|NW_024010394.1|10033|10992	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_RHO_functional|NC_051784.1|582378|579578	1056	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS1R1_pseudogene|NC_051793.1|1867231|1867680	450	multi-exon	keep	0	DeepTMHMM	pseudogene_short	pseudogene	yes	Removed from data set. No transmembrane domains.
+Anas_platyrhynchos_TAS1R1_functional|NC_051793.1|1867737|1871789	2139	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Anas_platyrhynchos_TAS1R3_functional|NC_051793.1|3537525|3542262	2610	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change

@@ -1,0 +1,485 @@
+Gene	Length	Type	Isoform keep	Number of  domains	Tool	Original Status	New status	Status change	Reason
+Pan_troglodytes_OR1468_pseudogene|NC_036879.1|109586027|109586620	594	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR10T2_functional|NC_036879.1|133197046|133197993	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10K2_functional|NC_036879.1|133218483|133219421	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10K1_functional|NC_036879.1|133264170|133265111	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10R2_functional|NC_036879.1|133279271|133280278	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10R2_a_pseudogene|NC_036879.1|133290613|133291386	774	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR6Y1_functional|NC_036879.1|133346480|133347457	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6P1_functional|NC_036879.1|133361671|133362624	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10X1_functional|NC_036879.1|133377923|133378903	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10Z1_functional|NC_036879.1|133405453|133406394	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6K2_functional|NC_036879.1|133498191|133499168	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6K3_functional|NC_036879.1|133515961|133516908	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6K6_functional|NC_036879.1|133553364|133554395	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6N1_functional|NC_036879.1|133564349|133565287	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6N2_functional|NC_036879.1|133575308|133576261	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10J1_functional|NC_036879.1|134172876|134173805	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10J4_functional|NC_036879.1|134239738|134240757	1020	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10J1_d_pseudogene|NC_036879.1|134247377|134248339	963	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR10J5_functional|NC_036879.1|134332358|134333287	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10J6_pseudogene|NC_036879.1|134397542|134398372	831	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR2B11_functional|NC_036879.1|222643275|222644228	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2W5_pseudogene|NC_036879.1|222683401|222684285	885	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR2C3_functional|NC_036879.1|222722227|222723249	1023	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2G2_functional|NC_036879.1|222780019|222781023	1005	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2G3_functional|NC_036879.1|222797261|222798190	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13G1_functional|NC_036879.1|222884112|222885035	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6F1_functional|NC_036879.1|222917762|222918688	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR14K1_functional|NC_036879.1|222944503|222945444	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1C1_functional|NC_036879.1|222974681|222975682	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR12_functional|NC_036879.1|222992302|222993333	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR14A16_functional|NC_036879.1|223032235|223033167	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6M1_pseudogene|NC_036879.1|223050532|223051314	783	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR11L1_functional|NC_036879.1|223058840|223059784	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2W3_functional|NC_036879.1|223110515|223111459	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AJ1_functional|NC_036879.1|223148239|223149183	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L8_functional|NC_036879.1|223163020|223163958	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AK2_functional|NC_036879.1|223179484|223180491	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L2_functional|NC_036879.1|223204402|223205340	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L8_f_functional|NC_036879.1|223217270|223218208	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L2_g_functional|NC_036879.1|223252338|223253276	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L3_functional|NC_036879.1|223274406|223275344	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T12_functional|NC_036879.1|223296883|223297845	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2L13_h_functional|NC_036879.1|223312717|223313655	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M3_functional|NC_036879.1|223335530|223336363	834	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR2M5_functional|NC_036879.1|223358664|223359602	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M2_functional|NC_036879.1|223387555|223388493	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M3_l_functional|NC_036879.1|223409465|223410403	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M4_functional|NC_036879.1|223444169|223445104	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T12_m_functional|NC_036879.1|223483347|223484309	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M7_functional|NC_036879.1|223512660|223513598	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR14C36_functional|NC_036879.1|223537834|223538772	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2M3_n_functional|NC_036879.1|223567736|223568674	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T4_functional|NC_036879.1|223614738|223615784	1047	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T6_functional|NC_036879.1|223639773|223640699	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T1_functional|NC_036879.1|223659968|223661077	1110	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T27_functional|NC_036879.1|223699036|223699989	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T2_functional|NC_036879.1|223710646|223711647	1002	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T29_functional|NC_036879.1|223748897|223749844	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T29_o_functional|NC_036879.1|223814103|223815068	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T11_functional|NC_036879.1|223872974|223873924	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2T2_q_functional|NC_036879.1|223884939|223885913	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR14I1_functional|NC_036879.1|223925924|223926859	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7E24_pseudogene|NC_036881.1|45420877|45421293	417	single-exon	keep	3	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR6B2_functional|NC_036881.1|126660062|126661036	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6B3_functional|NC_036881.1|126675540|126676466	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7E24_t_pseudogene|NC_036882.1|75596844|75597296	453	single-exon	keep	2	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR5AC1_functional|NC_036882.1|96225757|96226680	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AC2_functional|NC_036882.1|96248230|96249159	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5H1_pseudogene|NC_036882.1|96293652|96294632	981	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5H14_functional|NC_036882.1|96310389|96311321	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5H15_pseudogene|NC_036882.1|96329679|96330671	993	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5H6_functional|NC_036882.1|96419992|96420921	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5H6_u_functional|NC_036882.1|96446527|96447504	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5H2_pseudogene|NC_036882.1|96465119|96466048	930	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5K4_functional|NC_036882.1|96536052|96537002	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5K3_functional|NC_036882.1|96569694|96570659	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5K1_functional|NC_036882.1|96653766|96654692	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5K2_pseudogene|NC_036882.1|96681867|96682817	951	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR7E24_x_pseudogene|NC_036882.1|123872670|123873149	480	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR4F6_functional|NC_036883.1|188629644|188630582	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4F15_functional|NC_036883.1|188653312|188654247	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K15_functional|NC_036883.1|188689101|188690039	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K3_functional|NC_036883.1|188748005|188748916	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R1_functional|NC_036884.1|9508869|9509768	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR2Y1_functional|NC_036884.1|158702041|158702976	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2V1_functional|NC_036884.1|159069295|159070242	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2V2_functional|NC_036884.1|159098386|159099333	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2B2_functional|NC_036885.1|27482467|27483408	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2W6_pseudogene|NC_036885.1|27511226|27512179	954	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR2B6_functional|NC_036885.1|27530994|27531935	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2W6_z_functional|NC_036885.1|27550875|27551801	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2W1_functional|NC_036885.1|28594423|28595385	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2B3_functional|NC_036885.1|28636112|28637053	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2J1_functional|NC_036885.1|28650742|28651680	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2J3_functional|NC_036885.1|28661711|28662646	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2B11_aa_functional|NC_036885.1|28687667|28688605	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR14J1_functional|NC_036885.1|28850108|28851145	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5V1_functional|NC_036885.1|28898419|28899384	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR12D3_functional|NC_036885.1|28917179|28918129	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR12D2_functional|NC_036885.1|28940828|28941751	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR12D1_functional|NC_036885.1|28961385|28962347	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11A1_functional|NC_036885.1|28970835|28971782	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10C1_functional|NC_036885.1|28984141|28985079	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2H1_functional|NC_036885.1|29006481|29007431	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2H2_functional|NC_036885.1|29121262|29122200	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAAR6_functional|NC_036885.1|129927089|129928126	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAAR5_functional|NC_036885.1|129945421|129946434	1014	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAAR1_functional|NC_036885.1|130002311|130003330	1020	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7E24_ah_pseudogene|NC_036886.1|7030737|7031198	462	single-exon	keep	2	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR7E24_ai_pseudogene|NC_036886.1|7073308|7073754	447	single-exon	keep	2	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR2AE1_functional|NC_036886.1|95995640|95996686	1047	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R16_functional|NC_036886.1|119934859|119935734	876	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_TAS2R3_functional|NC_036886.1|138650857|138651804	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R4_functional|NC_036886.1|138664009|138664908	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_TAS2R5_functional|NC_036886.1|138675813|138676712	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR9A1_pseudogene|NC_036886.1|138770685|138771476	792	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR9A4_functional|NC_036886.1|138802499|138803443	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R38_functional|NC_036886.1|138850286|138851284	999	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6V1_functional|NC_036886.1|140011534|140012727	1194	single-exon	keep	8	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R39_functional|NC_036886.1|140147016|140148032	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R40_functional|NC_036886.1|140185608|140186579	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R60_functional|NC_036886.1|140407131|140408087	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R41_functional|NC_036886.1|140441679|140442602	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10AC1_functional|NC_036886.1|140491370|140492347	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2F2_functional|NC_036886.1|140709111|140710064	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2F1_functional|NC_036886.1|140733904|140734857	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2F1_aj_functional|NC_036886.1|140759992|140760945	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_ORPROTEINOLF3_functional|NC_036886.1|140791170|140792105	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_ORPROTEINOLF3_ak_functional|NC_036886.1|140807720|140808652	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A5_functional|NC_036886.1|140876878|140877813	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A25_functional|NC_036886.1|140900576|140901508	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A12_functional|NC_036886.1|140921898|140922830	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A2_functional|NC_036886.1|140936458|140937414	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A14_functional|NC_036886.1|140955899|140956831	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A2_al_functional|NC_036886.1|140968775|140969707	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2A5_am_pseudogene|NC_036886.1|140983899|140984522	624	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR2A1/2A42_functional|NC_036886.1|141001847|141002779	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7E24_an_pseudogene|NC_036887.1|10913051|10913707	657	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR13J1_functional|NC_036888.1|35818794|35819633	840	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR2S2_functional|NC_036888.1|35905721|35906701	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C7_functional|NC_036888.1|35951539|35952495	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13F1_functional|NC_036888.1|76741536|76742495	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C4_pseudogene|NC_036888.1|76763635|76764591	957	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR13C3_functional|NC_036888.1|76773130|76774173	1044	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C8_functional|NC_036888.1|76806543|76807505	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13D1_functional|NC_036888.1|76827346|76828281	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C5_functional|NC_036888.1|76835790|76836746	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C2_functional|NC_036888.1|76842010|76842966	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13C9_functional|NC_036888.1|76854596|76855453	858	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR13C7_ar_functional|NC_036888.1|76893720|76894682	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR13D1_as_functional|NC_036888.1|76931406|76932443	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2K2_functional|NC_036888.1|83526636|83527673	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1J2_functional|NC_036888.1|94792142|94793083	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1N1_functional|NC_036888.1|94807404|94808339	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1N2_functional|NC_036888.1|94834386|94835378	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1L8_functional|NC_036888.1|94848729|94849658	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1361_functional|NC_036888.1|94889036|94889968	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1Q1_functional|NC_036888.1|94895924|94896868	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1B1_functional|NC_036888.1|94909720|94910676	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1L1_functional|NC_036888.1|94942750|94943832	1083	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1L6_functional|NC_036888.1|95031788|95032804	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5C1_functional|NC_036888.1|95070474|95071499	1026	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1K1_functional|NC_036888.1|95081705|95082655	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C74_functional|NC_036889.1|41563985|41564800	816	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR13A1_functional|NC_036889.1|41607411|41608397	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52B4_functional|NC_036890.1|4291533|4292477	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52B4_az_functional|NC_036890.1|4302466|4303410	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52P1_functional|NC_036890.1|4357346|4358293	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52K2_functional|NC_036890.1|4375299|4376243	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52K1_pseudogene|NC_036890.1|4414742|4415686	945	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR52M1_functional|NC_036890.1|4436142|4437095	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52I2_functional|NC_036890.1|4477540|4478592	1053	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52I1_functional|NC_036890.1|4484770|4485744	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51D1_functional|NC_036890.1|4528852|4529868	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51E1_functional|NC_036890.1|4541613|4542569	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51E2_functional|NC_036890.1|4570912|4571874	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51F2_ba_functional|NC_036890.1|4599163|4600062	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR51F2_bb_functional|NC_036890.1|4625673|4626623	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51F1_functional|NC_036890.1|4658485|4659444	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51F1_bc_pseudogene|NC_036890.1|4675950|4676834	885	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR52R1_functional|NC_036890.1|4692605|4693552	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51F2_bd_functional|NC_036890.1|4710578|4711540	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51A7_functional|NC_036890.1|4721339|4722280	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51S1_functional|NC_036890.1|4737439|4738410	972	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51H1_be_functional|NC_036890.1|4765533|4766528	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51T1_functional|NC_036890.1|4770836|4771900	1065	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51A7_bf_functional|NC_036890.1|4796218|4797156	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51G2_functional|NC_036890.1|4803574|4804518	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51G1_functional|NC_036890.1|4812231|4813196	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51A4_functional|NC_036890.1|4832646|4833587	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51A4_bg_functional|NC_036890.1|4850834|4851775	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51L1_functional|NC_036890.1|4876811|4877758	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51G2_bh_functional|NC_036890.1|4892971|4893906	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52J3_functional|NC_036890.1|4924389|4925324	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E2_functional|NC_036890.1|4936520|4937497	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E1_functional|NC_036890.1|4947456|4948382	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E2_bi_functional|NC_036890.1|4970800|4971735	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52A5_functional|NC_036890.1|5009885|5010835	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52A1_functional|NC_036890.1|5029581|5030519	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51I2_functional|NC_036890.1|5048538|5049410	873	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR51V1_functional|NC_036890.1|5060194|5061159	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51B4_functional|NC_036890.1|5161150|5162082	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51B2_functional|NC_036890.1|5183482|5184420	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51B6_functional|NC_036890.1|5211594|5212532	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51M1_functional|NC_036890.1|5249529|5250506	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51Q1_functional|NC_036890.1|5291878|5292831	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51I1_functional|NC_036890.1|5300320|5301270	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51I1_bj_functional|NC_036890.1|5312765|5313709	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51I2_bk_functional|NC_036890.1|5325666|5326604	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR51I2_bl_functional|NC_036890.1|5340529|5341416	888	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR52D1_functional|NC_036890.1|5366537|5367493	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52H1_functional|NC_036890.1|5422776|5423738	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52B4_bm_pseudogene|NC_036890.1|5439168|5439827	660	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR56B1_functional|NC_036890.1|5613998|5614972	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52N4_functional|NC_036890.1|5632207|5633172	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52N1_functional|NC_036890.1|5665610|5666572	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52N2_functional|NC_036890.1|5698444|5699409	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E6_functional|NC_036890.1|5719030|5719971	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E8_functional|NC_036890.1|5734724|5735677	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52E4_functional|NC_036890.1|5762450|5763388	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR56A3_functional|NC_036890.1|5824123|5825070	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR56A5_functional|NC_036890.1|5843943|5844884	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52L1_functional|NC_036890.1|5862421|5863410	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR56A4_functional|NC_036890.1|5878532|5879629	1098	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR56A1_functional|NC_036890.1|5903174|5904130	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52L2_pseudogene|NC_036890.1|5933657|5934646	990	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR56B4_functional|NC_036890.1|5985550|5986509	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR52W1_functional|NC_036890.1|6076302|6077264	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AG2_functional|NC_036890.1|6647497|6648546	1050	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AG1_functional|NC_036890.1|6664497|6665447	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6A2_functional|NC_036890.1|6674164|6675147	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10A5_functional|NC_036890.1|6725106|6726071	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10A2_functional|NC_036890.1|6749132|6750085	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2D3_functional|NC_036890.1|6766494|6767486	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10T2_bo_functional|NC_036890.1|7571072|7572061	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR481_pseudogene|NC_036890.1|7582755|7583693	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5P2_functional|NC_036890.1|7631800|7632789	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5P3_functional|NC_036890.1|7671030|7671965	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10A6_functional|NC_036890.1|7784223|7785167	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10A3_pseudogene|NC_036890.1|7794862|7795686	825	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR4B1_functional|NC_036890.1|47967796|47968725	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4X2_functional|NC_036890.1|47996006|47996917	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4X1_pseudogene|NC_036890.1|48014861|48015778	918	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4S1_functional|NC_036890.1|48057096|48058025	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C3_functional|NC_036890.1|48075778|48076767	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C5_pseudogene|NC_036890.1|48112683|48113687	1005	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4A47_functional|NC_036890.1|48232587|48233516	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4A8_functional|NC_036890.1|48256465|48257349	885	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR4A5_functional|NC_036890.1|48353842|48354708	867	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR4C13_functional|NC_036890.1|49126893|49127822	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C12_functional|NC_036890.1|49155672|49156601	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C45_functional|NC_036890.1|49206990|49207910	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4A47_br_functional|NC_036890.1|50221048|50221947	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR4A8_bs_pseudogene|NC_036890.1|50244286|50245188	903	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4A5_bt_pseudogene|NC_036890.1|50300819|50301754	936	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4A8_bu_functional|NC_036890.1|50937232|50938143	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4A8_bv_functional|NC_036890.1|51051508|51052347	840	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR4A15_functional|NC_036890.1|51148353|51149387	1035	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4A8_bw_functional|NC_036890.1|51246972|51247919	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4A16_bx_functional|NC_036890.1|51270979|51271965	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR140_functional|NC_036890.1|51309260|51310195	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C15_functional|NC_036890.1|51350748|51351872	1125	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C11_functional|NC_036890.1|51386245|51387159	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C16_functional|NC_036890.1|51421525|51422457	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C16_by_functional|NC_036890.1|51454897|51455829	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4P4_functional|NC_036890.1|51521044|51521973	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4S2_functional|NC_036890.1|51533854|51534789	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C16_ca_functional|NC_036890.1|51547370|51548302	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4C6_functional|NC_036890.1|51576790|51577719	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4P4_cb_pseudogene|NC_036890.1|51595222|51595983	762	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR5D18_functional|NC_036890.1|51658645|51659595	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5D13_cd_functional|NC_036890.1|51677164|51678108	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5D14_functional|NC_036890.1|51699666|51700610	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5L1_functional|NC_036890.1|51715247|51716182	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5D18_ce_functional|NC_036890.1|51723353|51724294	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5L2_functional|NC_036890.1|51730865|51731800	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5D16_pseudogene|NC_036890.1|51742827|51743912	1086	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5W2_functional|NC_036890.1|51769217|51770149	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10AG1_functional|NC_036890.1|51823263|51824153	891	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR7E24_cf_functional|NC_036890.1|51834854|51835687	834	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR5F1_functional|NC_036890.1|51849389|51850336	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5F1_cg_functional|NC_036890.1|51873284|51874228	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AS1_functional|NC_036890.1|51887896|51888870	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1052_functional|NC_036890.1|51935263|51936201	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8I2_functional|NC_036890.1|51957466|51958398	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8H2_functional|NC_036890.1|51969285|51970223	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8H3_functional|NC_036890.1|51986979|51987917	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8J3_functional|NC_036890.1|52001367|52002314	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5J2_functional|NC_036890.1|52038664|52039602	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8K3_functional|NC_036890.1|52050321|52051280	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8J2_functional|NC_036890.1|52072863|52073810	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5T2_functional|NC_036890.1|52094084|52095163	1080	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5T1_functional|NC_036890.1|52136930|52137916	987	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8K3_ch_functional|NC_036890.1|52179687|52180625	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8K1_functional|NC_036890.1|52207435|52208385	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8J1_functional|NC_036890.1|52221581|52222528	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8U8_functional|NC_036890.1|52237016|52237975	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AL1_functional|NC_036890.1|52281498|52282487	990	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5R1_functional|NC_036890.1|52286046|52287020	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M9_functional|NC_036890.1|52329176|52330108	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M3_ci_pseudogene|NC_036890.1|52336447|52337370	924	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR5M8_functional|NC_036890.1|52357323|52358258	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M8_cj_pseudogene|NC_036890.1|52367265|52367996	732	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR5M8_ck_functional|NC_036890.1|52379062|52380000	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M11_functional|NC_036890.1|52409236|52410153	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M10_functional|NC_036890.1|52436584|52437531	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1030_cl_functional|NC_036890.1|52457404|52458342	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5M1_functional|NC_036890.1|52472549|52473496	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AP2_functional|NC_036890.1|52498915|52499865	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AR1_functional|NC_036890.1|52521066|52521998	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9G1_functional|NC_036890.1|52563531|52564448	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9G9_functional|NC_036890.1|52575069|52575986	918	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9G4_functional|NC_036890.1|52617514|52618497	984	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR93CH_functional|NC_036890.1|52650149|52651093	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AK3_functional|NC_036890.1|52844037|52845053	1017	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AK2_functional|NC_036890.1|52862061|52862990	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1020_functional|NC_036890.1|53734980|53735939	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6Q1_functional|NC_036890.1|53900058|53901011	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9I1_pseudogene|NC_036890.1|53973542|53974243	702	single-exon	keep	5	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR9I1_cn_functional|NC_036890.1|53983093|53984037	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9Q1_functional|NC_036890.1|54043998|54044930	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9Q2_functional|NC_036890.1|54055027|54055971	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1S2_pseudogene|NC_036890.1|54067404|54068381	978	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR1S1_functional|NC_036890.1|54078941|54079918	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10Q1_functional|NC_036890.1|54092094|54093053	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5B17_functional|NC_036890.1|54222627|54223571	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5B3_functional|NC_036890.1|54275549|54276493	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1440_functional|NC_036890.1|55147798|55148751	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AN1_functional|NC_036890.1|55202712|55203647	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5A1_pseudogene|NC_036890.1|55230025|55230855	831	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR5A2_functional|NC_036890.1|55262960|55263934	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5A1_cp_functional|NC_036890.1|55284107|55285054	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D6_functional|NC_036890.1|55297898|55298842	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D10_functional|NC_036890.1|55322304|55323239	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D10_cq_functional|NC_036890.1|55336560|55337480	921	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D11_functional|NC_036890.1|55348489|55349424	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D9_functional|NC_036890.1|55358082|55359026	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10V1_functional|NC_036890.1|55546444|55547373	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AT4_functional|NC_036890.1|70851308|70852270	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6X1_functional|NC_036890.1|119522583|119523560	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6M1_cs_functional|NC_036890.1|119574127|119575068	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8D4_functional|NC_036890.1|119673810|119674754	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D5_functional|NC_036890.1|119706846|119707802	957	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10S1_functional|NC_036890.1|119743995|119744960	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G9_functional|NC_036890.1|119790469|119791404	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G8_functional|NC_036890.1|119797071|119798006	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G7_functional|NC_036890.1|119805498|119806433	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10D4_functional|NC_036890.1|119860868|119861803	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR149_functional|NC_036890.1|119927251|119928186	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10D3_functional|NC_036890.1|119954067|119955005	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8G3P_pseudogene|NC_036890.1|119983507|119984382	876	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR8G2_functional|NC_036890.1|119993448|119994422	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8G5_functional|NC_036890.1|120033266|120034306	1041	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR149_ct_pseudogene|NC_036890.1|120068972|120069904	933	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR8D1_functional|NC_036890.1|120082784|120083710	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8D2_functional|NC_036890.1|120093721|120094656	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8B3_pseudogene|NC_036890.1|120139626|120140198	573	single-exon	keep	4	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR8B2_functional|NC_036890.1|120156018|120156959	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8B3_cu_functional|NC_036890.1|120170010|120170951	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR8B8_pseudogene|NC_036890.1|120213492|120214433	942	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR8B12_pseudogene|NC_036890.1|120314530|120315462	933	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR8A1_functional|NC_036890.1|120341871|120342851	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R7_functional|NC_036891.1|11010775|11011752	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R8_functional|NC_036891.1|11015239|11016168	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R9_functional|NC_036891.1|11018321|11019259	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R10_functional|NC_036891.1|11034422|11035345	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R13_functional|NC_036891.1|11119080|11119991	912	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R14_functional|NC_036891.1|11148863|11149831	969	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R50_functional|NC_036891.1|11196465|11197364	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_TAS2R20_functional|NC_036891.1|11207419|11208348	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R19_functional|NC_036891.1|11232214|11233113	900	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_TAS2R31_pseudogene|NC_036891.1|11241092|11241910	819	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_TAS2R46_functional|NC_036891.1|11273798|11274727	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R64_functional|NC_036891.1|11289775|11290704	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R43_functional|NC_036891.1|11303771|11304700	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R45_functional|NC_036891.1|11338760|11339689	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS2R42_functional|NC_036891.1|11428055|11429077	1023	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR2AP1_functional|NC_036891.1|33668491|33669420	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C4_functional|NC_036891.1|33691778|33692707	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C2_functional|NC_036891.1|33732909|33733847	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C68_functional|NC_036891.1|33766399|33767352	954	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C1_functional|NC_036891.1|33774407|33775345	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C6_functional|NC_036891.1|33800611|33801555	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6C74_cw_functional|NC_036891.1|33834665|33835603	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10A7_functional|NC_036891.1|33862326|33863276	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9K2_functional|NC_036891.1|33953901|33954908	1008	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR9K2_cx_functional|NC_036891.1|33991394|33992335	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11H1_functional|NC_036893.1|199913|200893	981	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4N2_functional|NC_036893.1|809968|810891	924	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K2_functional|NC_036893.1|828966|829910	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K3_da_functional|NC_036893.1|849968|850945	978	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K2_db_functional|NC_036893.1|857588|858532	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K1_functional|NC_036893.1|914371|915306	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K15_dc_functional|NC_036893.1|953715|954761	1047	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4Q2_functional|NC_036893.1|980346|981287	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K14_pseudogene|NC_036893.1|992241|993173	933	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4K13_functional|NC_036893.1|1017575|1018489	915	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4K17_functional|NC_036893.1|1100496|1101527	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4N5_functional|NC_036893.1|1138822|1139748	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11G2_functional|NC_036893.1|1164414|1165451	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11H4_functional|NC_036893.1|1176343|1177305	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11H6_functional|NC_036893.1|1189347|1190339	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11H7_functional|NC_036893.1|1195036|1195980	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR11H4_dd_functional|NC_036893.1|1209841|1210815	975	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6S1_functional|NC_036893.1|1609399|1610394	996	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR5AU1_functional|NC_036893.1|2075984|2077072	1089	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G3_functional|NC_036893.1|2493924|2494865	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G2_functional|NC_036893.1|2526167|2527111	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10G2_de_functional|NC_036893.1|2558149|2559093	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4E2_functional|NC_036893.1|2589329|2590270	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4E1_functional|NC_036893.1|2594402|2595349	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR6J1_functional|NC_036893.1|3557667|3558704	1038	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR49_pseudogene|NC_036893.1|3607237|3608379	1143	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR11H12_pseudogene|NC_036894.1|7882014|7882994	981	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR4F6_df_functional|NC_036894.1|80455996|80456934	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4F15_dg_functional|NC_036894.1|80468488|80469426	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4F3/4F16/4F29_functional|NC_036894.1|80479033|80479971	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4F15_dh_pseudogene|NC_036894.1|80498734|80499396	663	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_VN1R4_functional|NW_019932886.1|226934|227866	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1D2_functional|NC_036896.1|2771416|2772354	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1E3_functional|NC_036896.1|2793958|2794989	1032	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1G1_functional|NC_036896.1|2804106|2805047	942	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1A2_functional|NC_036896.1|2880927|2881775	849	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR1A1_functional|NC_036896.1|2899070|2899999	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1D4_functional|NC_036896.1|2925333|2926271	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR3A2_functional|NC_036896.1|2959809|2960774	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR3A1_functional|NC_036896.1|2973485|2974432	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1E2_functional|NC_036896.1|3104120|3105064	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR3A3_functional|NC_036896.1|3127000|3127965	966	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_ORPTOR1E2_functional|NC_036896.1|3139329|3140273	945	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D1_functional|NC_036896.1|51390811|51391743	933	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR4D2_pseudogene|NC_036896.1|51405312|51406235	924	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_OR7G1_functional|NC_036898.1|9693847|9694782	936	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7G3_functional|NC_036898.1|9704995|9705933	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7D2_functional|NC_036898.1|9764170|9765108	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7D4_functional|NC_036898.1|9786860|9787798	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7D1_functional|NC_036898.1|9807748|9808740	993	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7D4_dj_functional|NC_036898.1|9833129|9834067	939	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7C1_functional|NC_036898.1|15378976|15379938	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7A5_functional|NC_036898.1|15402670|15403629	960	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7A10_functional|NC_036898.1|15415428|15416357	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7A17_pseudogene|NC_036898.1|15454963|15455718	756	single-exon	keep	6	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_OR7A17_dk_functional|NC_036898.1|15465034|15465963	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7A10_dl_functional|NC_036898.1|15476476|15477405	930	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR7C2_functional|NC_036898.1|15514905|15515867	963	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR1I1_functional|NC_036898.1|15655164|15656273	1110	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10H2_functional|NC_036898.1|16286176|16287123	948	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10H3_functional|NC_036898.1|16299499|16300449	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR10H4_functional|NC_036898.1|16477410|16478360	951	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OR287_functional|NC_036902.1|126462681|126463481	801	single-exon	keep	7	DeepTMHMM	pseudogene_short	functional	yes	threshold met, status change
+Pan_troglodytes_OR13H1_functional|NC_036902.1|126682119|126683045	927	single-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_VN1R5_pseudogene|NC_036879.1|222444344|222445417	1074	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_TAAR9_pseudogene|NC_036885.1|129895076|129896123	1048	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_TAAR8_pseudogene|NC_036885.1|129909449|129910475	1027	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_TAAR4_pseudogene|NC_036885.1|129951222|129952070	849	single-exon	keep	2	DeepTMHMM	pseudogene_short	pseudogene	yes	threshold met, status change
+Pan_troglodytes_TAAR3_pseudogene|NC_036885.1|129965189|129966218	1030	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_TAAR2P_pseudogene|NC_036885.1|129974149|129975068	920	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_TAS2R62P_pseudogene|NC_036886.1|140400711|140401649	939	single-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_TAS2R18_pseudogene|NC_036891.1|11401007|11401926	920	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN1R2_pseudogene|NC_036898.1|51176148|51177400	1253	single-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN1R1_dp_pseudogene|NC_036898.1|55532787|55533730	944	single-exon	keep	6	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_TAS1R3_functional|NC_036879.1|19013|22131	2685	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS1R3_functional|NC_036879.1|19013|22131_a	2559	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS1R1_functional|NC_036879.1|5261867|5284548	2526	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS1R1_functional|NC_036879.1|5274168|5284548	2412	multi-exon	remove	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_TAS1R2_functional|NC_036879.1|17139816|17119723	2520	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_RHO_functional|NC_036882.1|127638558|127643536	1047	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OPN1SW_functional|NC_036886.1|125665082|125661829	1047	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_OPN1LW_functional|NC_036902.1|149497759|149512277	1140	multi-exon	keep	7	DeepTMHMM	functional	functional	no	no status change
+Pan_troglodytes_VN2R1P_pseudogene|NC_036882.1|154101772|154126786	25015	multi-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R102P_pseudogene|NC_036884.1|156615456|156616140	685	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R105P_pseudogene|NC_036890.1|53916644|53909881	6764	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R106P_pseudogene|NC_036895.1|62859966|62860830	865	multi-exon	keep	4	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R107P_pseudogene|NC_036898.1|43836|44600	765	multi-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R108P_pseudogene|NC_036898.1|12389612|12389377	236	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R109P_pseudogene|NC_036898.1|12425218|12424984	235	multi-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R110P_pseudogene|NC_036898.1|12469227|12468992	236	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R111P_pseudogene|NC_036898.1|12507503|12507221	283	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R112P_pseudogene|NC_036898.1|12535828|12535629	200	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
+Pan_troglodytes_VN2R113P_pseudogene|NC_036898.1|13183276|13182936	341	multi-exon	keep	1	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R114P_pseudogene|NC_036898.1|54403692|54402826	867	multi-exon	keep	3	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R115P_pseudogene|NC_036898.1|54424170|54423482	689	multi-exon	keep	5	DeepTMHMM	pseudogene	pseudogene	no	no status change
+Pan_troglodytes_VN2R116P_pseudogene|NC_036898.1|56093616|56092784	833	multi-exon	keep	7	DeepTMHMM	pseudogene	pseudogene	no	NCBI annotation, or in frame stop codons
+Pan_troglodytes_VN2R117P_pseudogene|NC_036900.1|10702799|10703026	228	multi-exon	keep	0	DeepTMHMM	pseudogene	pseudogene	no	Removed from data set. No transmembrane domains.
